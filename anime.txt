@@ -4,7 +4,7 @@ Astro Boy
 Bleach
 Naruto
 Detective Conan
-Fullmetal Alchemist
+Fullmetal Alchemist: Brotherhood
 Digimon Adventure 1
 Digimon Adventure 2
 Digimon Tamers
@@ -13,3 +13,11 @@ Digimon Data Squad
 Digimon Xros Wars
 Digimon Universe: App Monster
 Digimon Ghost Game
+Arslan Senki
+Arslan Senki: Fuujin Ranbu
+Accel World
+Sword Art Online
+Sword Art Online: Alicization War of Underworld
+Saint Seiya
+Saint Seiya: Meiou Hades Meikai-hen
+Saint Seiya: Hades Elysion
