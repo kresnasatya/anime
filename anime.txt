@@ -3,6 +3,7 @@ Yashahime
 Astro Boy
 Bleach
 Naruto
+Naruto Shippuden
 Detective Conan
 Fullmetal Alchemist: Brotherhood
 Digimon Adventure 1
@@ -13,6 +14,7 @@ Digimon Data Squad
 Digimon Xros Wars
 Digimon Universe: App Monster
 Digimon Ghost Game
+Digimon Adventure Reboot (2020)
 Arslan Senki
 Arslan Senki: Fuujin Ranbu
 Accel World
@@ -21,3 +23,45 @@ Sword Art Online: Alicization War of Underworld
 Saint Seiya
 Saint Seiya: Meiou Hades Meikai-hen
 Saint Seiya: Hades Elysion
+Shangri-La Frontier
+God Eater
+Arslan Senki
+Death Note
+One Punch Man
+Boku No Hero Akademia
+Jujutsu Kaisen
+Spy X Family
+Dr. Stone
+Yu-Gi-Oh!
+Yu-Gi-Oh! GX
+Yu-Gi-Oh! 5Ds
+Yu-Gi-Oh! Zexal
+Yu-Gi-Oh! Arc-V
+Yu-Gi-Oh! VRAINS
+Kiba
+Shaman King (2021)
+Mobile Suit Gundam
+Mobile Suit Gundam SEED
+Mobile Suit Gundam SEED Destiny
+Blue Dragon
+Bakugan Battle Brawlers
+Beyblade
+Metal Fight Beyblade
+Cardcaptor Sakura
+DN Angel
+Kimetsu No Yaiba
+One Piece
+Ranma!
+Dragon Ball
+Dragon Ball-Z
+Detective School-Q
+Crush Gear Turbo
+Crush Gear Nitro
+Idaten Jump
+Hunter X Hunter
+Dennō Bōkenki Webdiver
+Gensomaden Saiyuki
+Gensomaden Saiyuki: Reload
+Gensomaden Saiyuki: Burst
+Gensomaden Saiyuki: Gaiden
+Corrector Yui
