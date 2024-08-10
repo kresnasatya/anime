@@ -92,7 +92,17 @@
   {
     "name": "Bleach: Thousand-Year Blood War - The Separation",
     "released_year": 2023,
-    "slug": "bleach-thousand-year-blood-war---the-separation"
+    "slug": "bleach-thousand-year-blood-war---the-separation",
+    "favorite_ost": [
+        {
+            "youtube_title": "w.o.d. - STARS [OFFICIAL MUSIC VIDEO]",
+            "youtube_id": "oXcnhuNIzF4"
+        },
+        {
+            "youtube_title": "Special Ending | Endroll by Yoh Kamiyama | BLEACH: Thousand-Year Blood War, Part 2 | VIZ",
+            "youtube_id": "h6jzjmUI-3k"
+        }
+    ]
   },
   {
     "name": "Blue Dragon",
@@ -102,7 +112,13 @@
   {
     "name": "Blue Dragon: Trials of the Seven Shadows",
     "released_year": 2008,
-    "slug": "blue-dragon-trials-of-the-seven-shadows"
+    "slug": "blue-dragon-trials-of-the-seven-shadows",
+    "favorite_ost": [
+        {
+            "youtube_title": "Blue Dragon Tenkai no shichi Ryuu Opening #2 second (4)",
+            "youtube_id": "ZxRpLX6tAGw"
+        }
+    ]
   },
   {
     "name": "Boku No Hero Akademia",
@@ -417,7 +433,13 @@
   {
     "name": "Kekkaishi",
     "released_year": 2006,
-    "slug": "kekkaishi"
+    "slug": "kekkaishi",
+    "favorite_ost": [
+        {
+            "youtube_title": "Uura Saeko Sha la la la la ~Ayakashi NIGHT~",
+            "youtube_id": "d3Uhi_YCM90"
+        }
+    ]
   },
   {
     "name": "Kenyuu Densetsu Yaiba",
