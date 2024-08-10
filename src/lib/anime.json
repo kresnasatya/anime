@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Accel World",
+    "released_year": 2012,
+    "slug": "accel-world"
+  },
+  {
+    "name": "Air Gear",
+    "released_year": 2006,
+    "slug": "air-gear"
+  },
+  {
+    "name": "Arslan Senki",
+    "released_year": 2015,
+    "slug": "arslan-senki"
+  },
+  {
+    "name": "Arslan Senki: Fuujin Ranbu",
+    "released_year": 2016,
+    "slug": "arslan-senki-fuujin-ranbu"
+  },
+  {
+    "name": "Astro Boy",
+    "released_year": 2003,
+    "slug": "astro-boy"
+  },
+  {
+    "name": "Bakegyamon",
+    "released_year": 2006,
+    "slug": "bakegyamon"
+  },
+  {
+    "name": "Bakugan Battle Brawlers",
+    "released_year": 2007,
+    "slug": "bakugan-battle-brawlers"
+  },
+  {
+    "name": "Bakugan Battle Brawlers: Gundalian Invaders",
+    "released_year": 2011,
+    "slug": "bakugan-battle-brawlers-gundalian-invaders"
+  },
+  {
+    "name": "Bakugan Battle Brawlers: New Vestroia",
+    "released_year": 2010,
+    "slug": "bakugan-battle-brawlers-new-vestroia"
+  },
+  {
+    "name": "Bakusō Kyōdai Let's & Go!!",
+    "released_year": 1996,
+    "slug": "bakus-kydai-lets-go"
+  },
+  {
+    "name": "Beyblade",
+    "released_year": 2001,
+    "slug": "beyblade"
+  },
+  {
+    "name": "Beyblade Metal Fury",
+    "released_year": 2011,
+    "slug": "beyblade-metal-fury"
+  },
+  {
+    "name": "Beyblade Metal Fusion",
+    "released_year": 2009,
+    "slug": "beyblade-metal-fusion"
+  },
+  {
+    "name": "Beyblade Metal Masters",
+    "released_year": 2010,
+    "slug": "beyblade-metal-masters"
+  },
+  {
+    "name": "Beyblade V-Force",
+    "released_year": 2002,
+    "slug": "beyblade-v-force"
+  },
+  {
+    "name": "Black Clover",
+    "released_year": 2017,
+    "slug": "black-clover"
+  },
+  {
+    "name": "Bleach",
+    "released_year": 2004,
+    "slug": "bleach"
+  },
+  {
+    "name": "Bleach: Thousand-Year Blood War",
+    "released_year": 2022,
+    "slug": "bleach-thousand-year-blood-war"
+  },
+  {
+    "name": "Bleach: Thousand-Year Blood War - The Separation",
+    "released_year": 2023,
+    "slug": "bleach-thousand-year-blood-war---the-separation"
+  },
+  {
+    "name": "Blue Dragon",
+    "released_year": 2007,
+    "slug": "blue-dragon"
+  },
+  {
+    "name": "Blue Dragon: Trials of the Seven Shadows",
+    "released_year": 2008,
+    "slug": "blue-dragon-trials-of-the-seven-shadows"
+  },
+  {
+    "name": "Boku No Hero Akademia",
+    "released_year": 2016,
+    "slug": "boku-no-hero-akademia"
+  },
+  {
+    "name": "Campfire Cooking in Another World with My Absurd Skill",
+    "released_year": 2023,
+    "slug": "campfire-cooking-in-another-world-with-my-absurd-skill"
+  },
+  {
+    "name": "Captain Tsubasa (2018)",
+    "released_year": 2018,
+    "slug": "captain-tsubasa-2018"
+  },
+  {
+    "name": "Cardcaptor Sakura",
+    "released_year": 1998,
+    "slug": "cardcaptor-sakura"
+  },
+  {
+    "name": "Chibi Maruko-chan",
+    "released_year": 1995,
+    "slug": "chibi-maruko-chan"
+  },
+  {
+    "name": "Chouseishin Gransazer",
+    "released_year": 2003,
+    "slug": "chouseishin-gransazer"
+  },
+  {
+    "name": "Corrector Yui",
+    "released_year": 1999,
+    "slug": "corrector-yui"
+  },
+  {
+    "name": "Crayon Shincan",
+    "released_year": 1990,
+    "slug": "crayon-shincan"
+  },
+  {
+    "name": "Crush Gear Nitro",
+    "released_year": 2003,
+    "slug": "crush-gear-nitro"
+  },
+  {
+    "name": "Crush Gear Turbo",
+    "released_year": 2001,
+    "slug": "crush-gear-turbo"
+  },
+  {
+    "name": "Cyborg Kuro-chan",
+    "released_year": 1999,
+    "slug": "cyborg-kuro-chan"
+  },
+  {
+    "name": "Death Note",
+    "released_year": 2006,
+    "slug": "death-note"
+  },
+  {
+    "name": "Dennō Bōkenki Webdiver",
+    "released_year": 2001,
+    "slug": "denn-bkenki-webdiver"
+  },
+  {
+    "name": "Detective Conan",
+    "released_year": 1996,
+    "slug": "detective-conan"
+  },
+  {
+    "name": "Detective School-Q",
+    "released_year": 2003,
+    "slug": "detective-school-q"
+  },
+  {
+    "name": "Digimon Adventure 1",
+    "released_year": 1999,
+    "slug": "digimon-adventure-1"
+  },
+  {
+    "name": "Digimon Adventure 2",
+    "released_year": 2000,
+    "slug": "digimon-adventure-2"
+  },
+  {
+    "name": "Digimon Adventure Reboot",
+    "released_year": 2020,
+    "slug": "digimon-adventure-reboot"
+  },
+  {
+    "name": "Digimon Adventure Tri",
+    "released_year": 2015,
+    "slug": "digimon-adventure-tri"
+  },
+  {
+    "name": "Digimon Data Squad",
+    "released_year": 2006,
+    "slug": "digimon-data-squad"
+  },
+  {
+    "name": "Digimon Frontier",
+    "released_year": 2002,
+    "slug": "digimon-frontier"
+  },
+  {
+    "name": "Digimon Tamers",
+    "released_year": 2001,
+    "slug": "digimon-tamers"
+  },
+  {
+    "name": "Digimon Universe: App Monster",
+    "released_year": 2016,
+    "slug": "digimon-universe-app-monster"
+  },
+  {
+    "name": "Digimon Xros Wars",
+    "released_year": 2010,
+    "slug": "digimon-xros-wars"
+  },
+  {
+    "name": "DN Angel",
+    "released_year": 2003,
+    "slug": "dn-angel"
+  },
+  {
+    "name": "Doraemon",
+    "released_year": 1973,
+    "slug": "doraemon"
+  },
+  {
+    "name": "Dr. Slump",
+    "released_year": 1981,
+    "slug": "dr-slump"
+  },
+  {
+    "name": "Dr. Stone",
+    "released_year": 2019,
+    "slug": "dr-stone"
+  },
+  {
+    "name": "Dragon Ball",
+    "released_year": 1989,
+    "slug": "dragon-ball"
+  },
+  {
+    "name": "Dragon League",
+    "released_year": 1993,
+    "slug": "dragon-league"
+  },
+  {
+    "name": "Duel Master",
+    "released_year": 2002,
+    "slug": "duel-master"
+  },
+  {
+    "name": "Elusive Samurai",
+    "released_year": 2024,
+    "slug": "elusive-samurai"
+  },
+  {
+    "name": "Eureka Seven",
+    "released_year": 2005,
+    "slug": "eureka-seven"
+  },
+  {
+    "name": "Eyshield 21",
+    "released_year": 2005,
+    "slug": "eyshield-21"
+  },
+  {
+    "name": "Frieren: Beyond Journey's End",
+    "released_year": 2023,
+    "slug": "frieren-beyond-journeys-end"
+  },
+  {
+    "name": "Fullmetal Alchemist: Brotherhood",
+    "released_year": 2009,
+    "slug": "fullmetal-alchemist-brotherhood"
+  },
+  {
+    "name": "Future GPX Cyber Formula (Asurada)",
+    "released_year": 1991,
+    "slug": "future-gpx-cyber-formula-asurada"
+  },
+  {
+    "name": "GeGeGe No Kitaro",
+    "released_year": 2018,
+    "slug": "gegege-no-kitaro"
+  },
+  {
+    "name": "Genseishin Justirisers",
+    "released_year": 2004,
+    "slug": "genseishin-justirisers"
+  },
+  {
+    "name": "Gensomaden Saiyuki",
+    "released_year": 2000,
+    "slug": "gensomaden-saiyuki"
+  },
+  {
+    "name": "Gensomaden Saiyuki Reload Blast",
+    "released_year": 2017,
+    "slug": "gensomaden-saiyuki-reload-blast"
+  },
+  {
+    "name": "Gensomaden Saiyuki: Gaiden",
+    "released_year": 2011,
+    "slug": "gensomaden-saiyuki-gaiden"
+  },
+  {
+    "name": "Gensomaden Saiyuki: Reload",
+    "released_year": 2003,
+    "slug": "gensomaden-saiyuki-reload"
+  },
+  {
+    "name": "Gensomaden Saiyuki: Zeroin",
+    "released_year": 2022,
+    "slug": "gensomaden-saiyuki-zeroin"
+  },
+  {
+    "name": "Gintama",
+    "released_year": 2006,
+    "slug": "gintama"
+  },
+  {
+    "name": "God Eater",
+    "released_year": 2015,
+    "slug": "god-eater"
+  },
+  {
+    "name": "Hagemaru",
+    "released_year": 1988,
+    "slug": "hagemaru"
+  },
+  {
+    "name": "Haikyuu! Fly High!! Volleyball!",
+    "released_year": 2014,
+    "slug": "haikyuu-fly-high-volleyball"
+  },
+  {
+    "name": "Hamtaro",
+    "released_year": 2000,
+    "slug": "hamtaro"
+  },
+  {
+    "name": "Hanyou no Yashahime: Sengoku Otogizoushi",
+    "released_year": 2020,
+    "slug": "hanyou-no-yashahime-sengoku-otogizoushi"
+  },
+  {
+    "name": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
+    "released_year": 2021,
+    "slug": "hanyou-no-yashahime-sengoku-otogizoushi---ni-no-shou"
+  },
+  {
+    "name": "Hataraku Saibo",
+    "released_year": 2018,
+    "slug": "hataraku-saibo"
+  },
+  {
+    "name": "Himotou! Umaru-chan",
+    "released_year": 2015,
+    "slug": "himotou-umaru-chan"
+  },
+  {
+    "name": "Hunter X Hunter",
+    "released_year": 1999,
+    "slug": "hunter-x-hunter"
+  },
+  {
+    "name": "Idaten Jump",
+    "released_year": 2005,
+    "slug": "idaten-jump"
+  },
+  {
+    "name": "Initial-D",
+    "released_year": 1998,
+    "slug": "initial-d"
+  },
+  {
+    "name": "Inuyasha",
+    "released_year": 2000,
+    "slug": "inuyasha"
+  },
+  {
+    "name": "Inuyasha Kanketsu-hen",
+    "released_year": 2009,
+    "slug": "inuyasha-kanketsu-hen"
+  },
+  {
+    "name": "Jigoku Sensei Nube",
+    "released_year": 1996,
+    "slug": "jigoku-sensei-nube"
+  },
+  {
+    "name": "Jujutsu Kaisen",
+    "released_year": 2020,
+    "slug": "jujutsu-kaisen"
+  },
+  {
+    "name": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
+    "released_year": 2004,
+    "slug": "juubee-chan-2-siberia-yagyuu-no-gyakushuu"
+  },
+  {
+    "name": "Kamen Rider Ryuuki",
+    "released_year": 2002,
+    "slug": "kamen-rider-ryuuki"
+  },
+  {
+    "name": "Kekkaishi",
+    "released_year": 2006,
+    "slug": "kekkaishi"
+  },
+  {
+    "name": "Kenyuu Densetsu Yaiba",
+    "released_year": 1993,
+    "slug": "kenyuu-densetsu-yaiba"
+  },
+  {
+    "name": "Keroro Gunsou",
+    "released_year": 2004,
+    "slug": "keroro-gunsou"
+  },
+  {
+    "name": "Kiba",
+    "released_year": 2006,
+    "slug": "kiba"
+  },
+  {
+    "name": "Kimetsu No Yaiba",
+    "released_year": 2019,
+    "slug": "kimetsu-no-yaiba"
+  },
+  {
+    "name": "Kishin Douji Zenki",
+    "released_year": 1995,
+    "slug": "kishin-douji-zenki"
+  },
+  {
+    "name": "Komi Can't Communicate",
+    "released_year": 2021,
+    "slug": "komi-cant-communicate"
+  },
+  {
+    "name": "Kotaro Lives Alone",
+    "released_year": 2022,
+    "slug": "kotaro-lives-alone"
+  },
+  {
+    "name": "Kuroko No Basket",
+    "released_year": 2012,
+    "slug": "kuroko-no-basket"
+  },
+  {
+    "name": "Mahoujin Guru Guru",
+    "released_year": 2017,
+    "slug": "mahoujin-guru-guru"
+  },
+  {
+    "name": "Mashle: Magic and Muscle",
+    "released_year": 2023,
+    "slug": "mashle-magic-and-muscle"
+  },
+  {
+    "name": "Medabots",
+    "released_year": 1999,
+    "slug": "medabots"
+  },
+  {
+    "name": "Miss Kobayashi's Dragon Maid",
+    "released_year": 2017,
+    "slug": "miss-kobayashis-dragon-maid"
+  },
+  {
+    "name": "Mob Psycho 100",
+    "released_year": 2016,
+    "slug": "mob-psycho-100"
+  },
+  {
+    "name": "Mobile Suit Gundam",
+    "released_year": 1995,
+    "slug": "mobile-suit-gundam"
+  },
+  {
+    "name": "Mobile Suit Gundam SEED",
+    "released_year": 2002,
+    "slug": "mobile-suit-gundam-seed"
+  },
+  {
+    "name": "Mobile Suit Gundam SEED Destiny",
+    "released_year": 2004,
+    "slug": "mobile-suit-gundam-seed-destiny"
+  },
+  {
+    "name": "Monster Rancher",
+    "released_year": 1999,
+    "slug": "monster-rancher"
+  },
+  {
+    "name": "My Happy Marriage",
+    "released_year": 2023,
+    "slug": "my-happy-marriage"
+  },
+  {
+    "name": "Naruto",
+    "released_year": 2002,
+    "slug": "naruto"
+  },
+  {
+    "name": "Naruto Shippuden",
+    "released_year": 2007,
+    "slug": "naruto-shippuden"
+  },
+  {
+    "name": "Ninja Rantaro",
+    "released_year": 1993,
+    "slug": "ninja-rantaro"
+  },
+  {
+    "name": "One Piece",
+    "released_year": 1999,
+    "slug": "one-piece"
+  },
+  {
+    "name": "One Punch Man",
+    "released_year": 2015,
+    "slug": "one-punch-man"
+  },
+  {
+    "name": "Onmyoji",
+    "released_year": 2023,
+    "slug": "onmyoji"
+  },
+  {
+    "name": "Pokemon",
+    "released_year": 1997,
+    "slug": "pokemon"
+  },
+  {
+    "name": "Pokemon Best Wishes!",
+    "released_year": 2010,
+    "slug": "pokemon-best-wishes"
+  },
+  {
+    "name": "Pokemon Diamond & Pearl",
+    "released_year": 2006,
+    "slug": "pokemon-diamond-pearl"
+  },
+  {
+    "name": "Pokemon Sun & Moon",
+    "released_year": 2016,
+    "slug": "pokemon-sun-moon"
+  },
+  {
+    "name": "Pokemon XY",
+    "released_year": 2013,
+    "slug": "pokemon-xy"
+  },
+  {
+    "name": "Pokemon XY&Z",
+    "released_year": 2015,
+    "slug": "pokemon-xyz"
+  },
+  {
+    "name": "Pretty Cure",
+    "released_year": 2004,
+    "slug": "pretty-cure"
+  },
+  {
+    "name": "Ragnarok: The Animation",
+    "released_year": 2004,
+    "slug": "ragnarok-the-animation"
+  },
+  {
+    "name": "Ranma!",
+    "released_year": 1989,
+    "slug": "ranma"
+  },
+  {
+    "name": "Rave Master",
+    "released_year": 2004,
+    "slug": "rave-master"
+  },
+  {
+    "name": "Record of Ragnarok",
+    "released_year": 2021,
+    "slug": "record-of-ragnarok"
+  },
+  {
+    "name": "Saint Seiya",
+    "released_year": 1986,
+    "slug": "saint-seiya"
+  },
+  {
+    "name": "Saint Seiya: Hades Elysion",
+    "released_year": 2008,
+    "slug": "saint-seiya-hades-elysion"
+  },
+  {
+    "name": "Saint Seiya: Meiou Hades Meikai-hen",
+    "released_year": 2005,
+    "slug": "saint-seiya-meiou-hades-meikai-hen"
+  },
+  {
+    "name": "Saint Seiya: Meiou Hades Meikai-hen Juuni Kyuu-hen",
+    "released_year": 2002,
+    "slug": "saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen"
+  },
+  {
+    "name": "Saint Seiya: Omega",
+    "released_year": 2012,
+    "slug": "saint-seiya-omega"
+  },
+  {
+    "name": "Saint Seiya: Saintia Shou",
+    "released_year": 2018,
+    "slug": "saint-seiya-saintia-shou"
+  },
+  {
+    "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+    "released_year": 2009,
+    "slug": "saint-seiya-the-lost-canvas---meiou-shinwa"
+  },
+  {
+    "name": "Samurai 7",
+    "released_year": 2004,
+    "slug": "samurai-7"
+  },
+  {
+    "name": "Samurai Champloo",
+    "released_year": 2004,
+    "slug": "samurai-champloo"
+  },
+  {
+    "name": "Samurai Deeper Kyou",
+    "released_year": 2002,
+    "slug": "samurai-deeper-kyou"
+  },
+  {
+    "name": "Samurai X",
+    "released_year": 1996,
+    "slug": "samurai-x"
+  },
+  {
+    "name": "Shaman King: Reboot",
+    "released_year": 2021,
+    "slug": "shaman-king-reboot"
+  },
+  {
+    "name": "Shangri-La Frontier",
+    "released_year": 2023,
+    "slug": "shangri-la-frontier"
+  },
+  {
+    "name": "Shingeki no Kyojin",
+    "released_year": 2013,
+    "slug": "shingeki-no-kyojin"
+  },
+  {
+    "name": "Shinya! Tensai Bakabon",
+    "released_year": 2018,
+    "slug": "shinya-tensai-bakabon"
+  },
+  {
+    "name": "Shokugeki No Soma",
+    "released_year": 2015,
+    "slug": "shokugeki-no-soma"
+  },
+  {
+    "name": "Slayers Try",
+    "released_year": 1995,
+    "slug": "slayers-try"
+  },
+  {
+    "name": "Solo Leveling",
+    "released_year": 2024,
+    "slug": "solo-leveling"
+  },
+  {
+    "name": "Spy X Family",
+    "released_year": 2022,
+    "slug": "spy-x-family"
+  },
+  {
+    "name": "Super Yoyo",
+    "released_year": 1998,
+    "slug": "super-yoyo"
+  },
+  {
+    "name": "Sword Art Online",
+    "released_year": 2012,
+    "slug": "sword-art-online"
+  },
+  {
+    "name": "Sword Art Online: Alicization",
+    "released_year": 2018,
+    "slug": "sword-art-online-alicization"
+  },
+  {
+    "name": "Sword Art Online: Alicization War of Underworld",
+    "released_year": 2019,
+    "slug": "sword-art-online-alicization-war-of-underworld"
+  },
+  {
+    "name": "The Apothecary Diaries",
+    "released_year": 2023,
+    "slug": "the-apothecary-diaries"
+  },
+  {
+    "name": "The Law of Ueki",
+    "released_year": 2005,
+    "slug": "the-law-of-ueki"
+  },
+  {
+    "name": "The Way of the Househusband",
+    "released_year": 2021,
+    "slug": "the-way-of-the-househusband"
+  },
+  {
+    "name": "Tower of God (Kami no Tou)",
+    "released_year": 2020,
+    "slug": "tower-of-god-kami-no-tou"
+  },
+  {
+    "name": "Trigun Stampede",
+    "released_year": 2023,
+    "slug": "trigun-stampede"
+  },
+  {
+    "name": "Ultraman Dyna",
+    "released_year": 1997,
+    "slug": "ultraman-dyna"
+  },
+  {
+    "name": "Ultraman Gaia",
+    "released_year": 1998,
+    "slug": "ultraman-gaia"
+  },
+  {
+    "name": "Ultraman Nexus",
+    "released_year": 2004,
+    "slug": "ultraman-nexus"
+  },
+  {
+    "name": "Wind Breaker",
+    "released_year": 2024,
+    "slug": "wind-breaker"
+  },
+  {
+    "name": "Yu-Gi-Oh! 5Ds",
+    "released_year": 2008,
+    "slug": "yu-gi-oh-5ds"
+  },
+  {
+    "name": "Yu-Gi-Oh! Arc-V",
+    "released_year": 2014,
+    "slug": "yu-gi-oh-arc-v"
+  },
+  {
+    "name": "Yu-Gi-Oh! Duel Monsters",
+    "released_year": 2000,
+    "slug": "yu-gi-oh-duel-monsters"
+  },
+  {
+    "name": "Yu-Gi-Oh! GX",
+    "released_year": 2004,
+    "slug": "yu-gi-oh-gx"
+  },
+  {
+    "name": "Yu-Gi-Oh! VRAINS",
+    "released_year": 2017,
+    "slug": "yu-gi-oh-vrains"
+  },
+  {
+    "name": "Yu-Gi-Oh! Zexal",
+    "released_year": 2011,
+    "slug": "yu-gi-oh-zexal"
+  },
+  {
+    "name": "Yu-Gi-Oh! Zexal Second",
+    "released_year": 2012,
+    "slug": "yu-gi-oh-zexal-second"
+  },
+  {
+    "name": "Zoids",
+    "released_year": 1999,
+    "slug": "zoids"
+  },
+  {
+    "name": "Zoids Shinseiki",
+    "released_year": 2001,
+    "slug": "zoids-shinseiki"
+  }
+]
