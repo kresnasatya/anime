@@ -27,13 +27,17 @@
 </div>
 
 {#if data.anime?.favorite_ost}
-    <ul>
-    {#each data.anime.favorite_ost as ost}
-        <li>
-            <iframe width="640" height="320" title={ost.youtube_title} src=https://youtube.com/embed/{ost.youtube_id} frameborder="0" allowfullscreen></iframe>
-        </li>
-    {/each}
-    </ul>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <h2 style="margin-left: -320px;">Favorite Original soundtrack</h2>
+        <ul>
+        {#each data.anime.favorite_ost as ost}
+            <li>
+                <p>{ost.youtube_title}</p>
+                <iframe width="640" height="320" title={ost.youtube_title} src=https://youtube.com/embed/{ost.youtube_id} frameborder="0" allowfullscreen></iframe>
+            </li>
+        {/each}
+        </ul>
+    </div>
 {/if}
 
 <style>
