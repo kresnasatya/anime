@@ -9,7 +9,16 @@
 
 <ul>
     {#each anime as item}
-        <li><a href="/anime/{item.slug}"><span>{item.name}</span><span>{item.released_year}</span></a></li>
+        <li><a href="/anime/{item.slug}">
+            <div class="anime-card">
+                <div class="anime-thumbnail"></div>
+                <div class="anime-information">
+                    <p>{item.name}</p>
+                    <span>{item.released_year}</span>
+                </div>
+            </div>
+            </a>
+        </li>
     {/each}
 </ul>
 
@@ -21,6 +30,7 @@
         display: flex;
         flex-wrap: wrap;
         gap: 1rem;
+        justify-content: space-evenly;
     }
 
     li > a {
@@ -30,5 +40,26 @@
         text-decoration: none;
         color: black;
         font-weight: 400;
+    }
+    
+    .anime-card {
+        width: 240px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .anime-thumbnail {
+        width: 200px;
+        max-width: 200px;
+        height: 360px;
+        max-height: 360px;
+        background-color: orange;
+        align-self: center;
+    }
+
+    .anime-information {
+        width: 100%;
+        padding: 0 20px;
     }
 </style>
