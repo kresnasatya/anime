@@ -82,12 +82,14 @@
   {
     "name": "Bleach",
     "released_year": 2004,
-    "slug": "bleach"
+    "slug": "bleach",
+    "thumbnail": "/images/anime/bleach.png"
   },
   {
     "name": "Bleach: Thousand-Year Blood War",
     "released_year": 2022,
     "slug": "bleach-thousand-year-blood-war",
+    "thumbnail": "/images/anime/Bleach_Thousand-Year_Blood_War.png",
     "favorite_ost": [
       {
         "youtube_title": "Scar / Tatsuya Kitani - Music Video (“BLEACH: Thousand Year Blood War” Opening Theme) [Anime Version]",
@@ -452,6 +454,7 @@
     "name": "Kekkaishi",
     "released_year": 2006,
     "slug": "kekkaishi",
+    "thumbnail": "/images/anime/kekkaishi.jpg",
     "favorite_ost": [
       {
         "youtube_title": "Uura Saeko Sha la la la la ~Ayakashi NIGHT~",
