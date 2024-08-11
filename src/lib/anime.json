@@ -2,82 +2,98 @@
   {
     "name": "Accel World",
     "released_year": 2012,
-    "slug": "accel-world"
+    "slug": "accel-world",
+    "thumbnail": "/images/anime/accel-world.jpg"
   },
   {
     "name": "Air Gear",
     "released_year": 2006,
-    "slug": "air-gear"
+    "slug": "air-gear",
+    "thumbnail": "/images/anime/air-gear.jpg"
   },
   {
     "name": "Arslan Senki",
     "released_year": 2015,
-    "slug": "arslan-senki"
+    "slug": "arslan-senki",
+    "thumbnail": "/images/anime/arslan-senki.jpg"
   },
   {
     "name": "Arslan Senki: Fuujin Ranbu",
     "released_year": 2016,
-    "slug": "arslan-senki-fuujin-ranbu"
+    "slug": "arslan-senki-fuujin-ranbu",
+    "thumbnail": "/images/anime/arslan-senki-fuujin-ranbu.jpg"
   },
   {
     "name": "Astro Boy",
     "released_year": 2003,
-    "slug": "astro-boy"
+    "slug": "astro-boy",
+    "thumbnail": "/images/anime/astro-boy.jpg"
   },
   {
     "name": "Bakegyamon",
     "released_year": 2006,
-    "slug": "bakegyamon"
+    "slug": "bakegyamon",
+    "thumbnail": "/images/anime/bakegyamon.jpg"
   },
   {
     "name": "Bakugan Battle Brawlers",
     "released_year": 2007,
-    "slug": "bakugan-battle-brawlers"
+    "slug": "bakugan-battle-brawlers",
+    "thumbnail": "/images/anime/bakugan-battle-brawlers.jpg"
   },
   {
     "name": "Bakugan Battle Brawlers: Gundalian Invaders",
     "released_year": 2011,
-    "slug": "bakugan-battle-brawlers-gundalian-invaders"
+    "slug": "bakugan-battle-brawlers-gundalian-invaders",
+    "thumbnail": "/images/anime/bakugan-battle-brawlers-gundalian-invaders.jpg"
   },
   {
     "name": "Bakugan Battle Brawlers: New Vestroia",
     "released_year": 2010,
-    "slug": "bakugan-battle-brawlers-new-vestroia"
+    "slug": "bakugan-battle-brawlers-new-vestroia",
+    "thumbnail": "/images/anime/bakugan-battle-brawlers-new-vestroia.webp"
   },
   {
     "name": "Bakusō Kyōdai Let's & Go!!",
     "released_year": 1996,
-    "slug": "bakus-kydai-lets-go"
+    "slug": "bakuso-kyodai-lets-go",
+    "thumbnail": "/images/anime/bakuso-kyodai-lets-go.jpg"
   },
   {
     "name": "Beyblade",
     "released_year": 2001,
-    "slug": "beyblade"
+    "slug": "beyblade",
+    "thumbnail": "/images/anime/beyblade.jpg"
   },
   {
     "name": "Beyblade Metal Fury",
     "released_year": 2011,
-    "slug": "beyblade-metal-fury"
+    "slug": "beyblade-metal-fury",
+    "thumbnail": "/images/anime/beyblade-metal-fury.webp"
   },
   {
     "name": "Beyblade Metal Fusion",
     "released_year": 2009,
-    "slug": "beyblade-metal-fusion"
+    "slug": "beyblade-metal-fusion",
+    "thumbnail": "/images/anime/beyblade-metal-fusion.jpg"
   },
   {
     "name": "Beyblade Metal Masters",
     "released_year": 2010,
-    "slug": "beyblade-metal-masters"
+    "slug": "beyblade-metal-masters",
+    "thumbnail": "/images/anime/beyblade-metal-masters.webp"
   },
   {
     "name": "Beyblade V-Force",
     "released_year": 2002,
-    "slug": "beyblade-v-force"
+    "slug": "beyblade-v-force",
+    "thumbnail": "/images/anime/beyblade-v-force.jpg"
   },
   {
     "name": "Black Clover",
     "released_year": 2017,
-    "slug": "black-clover"
+    "slug": "black-clover",
+    "thumbnail": "/images/anime/black-clover.jpg"
   },
   {
     "name": "Bleach",
@@ -104,7 +120,8 @@
   {
     "name": "Bleach: Thousand-Year Blood War - The Separation",
     "released_year": 2023,
-    "slug": "bleach-thousand-year-blood-war---the-separation",
+    "slug": "bleach-thousand-year-blood-war-the-separation",
+    "thumbnail": "/images/anime/bleach-thousand-year-blood-war-the-separation.jpeg",
     "favorite_ost": [
       {
         "youtube_title": "w.o.d. - STARS [Anime Version]",
@@ -167,7 +184,8 @@
   {
     "name": "Boku No Hero Akademia",
     "released_year": 2016,
-    "slug": "boku-no-hero-akademia"
+    "slug": "boku-no-hero-akademia",
+    "thumbnail": "/images/anime/boku-no-hero-academia.jpg"
   },
   {
     "name": "Campfire Cooking in Another World with My Absurd Skill",
