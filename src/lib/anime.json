@@ -127,16 +127,40 @@
   {
     "name": "Blue Dragon",
     "released_year": 2007,
-    "slug": "blue-dragon"
+    "slug": "blue-dragon",
+    "thumbnail": "/images/anime/Blue_Dragon_TV_series.png",
+    "favorite_ost": [
+      {
+        "youtube_title": "Yamada Yu / Fly So High [Anime Version]",
+        "youtube_id": "BlOegwVv4yQ"
+      },
+      {
+        "youtube_title": "Yamada Yu / Fly So High [Full Version]",
+        "youtube_id": "MqGJlNImL0U"
+      }
+    ]
   },
   {
     "name": "Blue Dragon: Trials of the Seven Shadows",
     "released_year": 2008,
     "slug": "blue-dragon-trials-of-the-seven-shadows",
+    "thumbnail": "/images/anime/Blue_Dragon_tenkai_no_shichi_ryu.webp",
     "favorite_ost": [
       {
-        "youtube_title": "Blue Dragon Tenkai no shichi Ryuu Opening #2 second (4)",
+        "youtube_title": "JiLL-Decoy association / Hikari no Sasu Hou e [Anime Version]",
+        "youtube_id": "dS3GKBXhV84"
+      },
+      {
+        "youtube_title": "JiLL-Decoy association / Hikari no Sasu Hou e [Full Version]",
+        "youtube_id": "LQCJzjRFRW4"
+      },
+      {
+        "youtube_title": "Watarirouka Hashiri-tai / Aoi Mirai [Anime Version]",
         "youtube_id": "ZxRpLX6tAGw"
+      },
+      {
+        "youtube_title": "Watarirouka Hashiri-tai / Aoi Mirai [Full Version]",
+        "youtube_id": "9iKo2C8AX0Y"
       }
     ]
   },
