@@ -87,21 +87,39 @@
   {
     "name": "Bleach: Thousand-Year Blood War",
     "released_year": 2022,
-    "slug": "bleach-thousand-year-blood-war"
+    "slug": "bleach-thousand-year-blood-war",
+    "favorite_ost": [
+      {
+        "youtube_title": "Scar / Tatsuya Kitani - Music Video (“BLEACH: Thousand Year Blood War” Opening Theme) [Anime Version]",
+        "youtube_id": "FsKuu-0RUcM"
+      },
+      {
+        "youtube_title": "Scar / Tatsuya Kitani - Music Video (“BLEACH: Thousand Year Blood War” Opening Theme)",
+        "youtube_id": "pb_fwnVamdI"
+      }
+    ]
   },
   {
     "name": "Bleach: Thousand-Year Blood War - The Separation",
     "released_year": 2023,
     "slug": "bleach-thousand-year-blood-war---the-separation",
     "favorite_ost": [
-        {
-            "youtube_title": "w.o.d. - STARS [OFFICIAL MUSIC VIDEO]",
-            "youtube_id": "oXcnhuNIzF4"
-        },
-        {
-            "youtube_title": "Special Ending | Endroll by Yoh Kamiyama | BLEACH: Thousand-Year Blood War, Part 2 | VIZ",
-            "youtube_id": "h6jzjmUI-3k"
-        }
+      {
+        "youtube_title": "w.o.d. - STARS [Anime Version]",
+        "youtube_id": "TGTYrh-kFbA"
+      },
+      {
+        "youtube_title": "Yoh Kamiyama - Endroll [Anime Version]",
+        "youtube_id": "ieLivI1-4vc"
+      },
+      {
+        "youtube_title": "w.o.d. - STARS [OFFICIAL MUSIC VIDEO]",
+        "youtube_id": "oXcnhuNIzF4"
+      },
+      {
+        "youtube_title": "Yoh Kamiyama - Endroll [Music Video]",
+        "youtube_id": "nyFuKqOQbFo"
+      }
     ]
   },
   {
@@ -114,10 +132,10 @@
     "released_year": 2008,
     "slug": "blue-dragon-trials-of-the-seven-shadows",
     "favorite_ost": [
-        {
-            "youtube_title": "Blue Dragon Tenkai no shichi Ryuu Opening #2 second (4)",
-            "youtube_id": "ZxRpLX6tAGw"
-        }
+      {
+        "youtube_title": "Blue Dragon Tenkai no shichi Ryuu Opening #2 second (4)",
+        "youtube_id": "ZxRpLX6tAGw"
+      }
     ]
   },
   {
@@ -435,10 +453,10 @@
     "released_year": 2006,
     "slug": "kekkaishi",
     "favorite_ost": [
-        {
-            "youtube_title": "Uura Saeko Sha la la la la ~Ayakashi NIGHT~",
-            "youtube_id": "d3Uhi_YCM90"
-        }
+      {
+        "youtube_title": "Uura Saeko Sha la la la la ~Ayakashi NIGHT~",
+        "youtube_id": "d3Uhi_YCM90"
+      }
     ]
   },
   {
