@@ -1,6 +1,7 @@
 <script>
     import { page } from '$app/stores';
     import anime from '$lib/anime.json';
+	import Anime from '$lib/Anime.svelte';
 
     export let data;
 
@@ -14,17 +15,14 @@
 
 <div style="display: flex; justify-content: space-around">
     {#if prevAnime}
-        <a style="align-self: center;" href="/anime/{prevAnime.slug}">&#8249; {prevAnime.name}</a>
+        <a style="align-self: center; max-width: 120px;" href="/anime/{prevAnime.slug}">&#8249; {prevAnime.name}</a>
     {/if}
-    <div class="anime-card">
-        <div class="anime-thumbnail"></div>
-        <div class="anime-information">
-            <h1>{data.anime.name}</h1>
-            <span>{data.anime.released_year}</span>
-        </div>
-    </div>
+    <Anime anime={data.anime}>
+        <h1 style="font-size: 1rem;">{data.anime.name}</h1>
+        <span>{data.anime.released_year}</span>
+    </Anime>
     {#if nextAnime}
-        <a style="align-self: center;" href="/anime/{nextAnime.slug}">{nextAnime.name} &#8250;</a>
+        <a style="align-self: center; max-width: 120px;" href="/anime/{nextAnime.slug}">{nextAnime.name} &#8250;</a>
     {/if}
 </div>
 
@@ -39,27 +37,6 @@
 {/if}
 
 <style>
-    .anime-card {
-        width: 240px;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .anime-thumbnail {
-        width: 200px;
-        max-width: 200px;
-        height: 360px;
-        max-height: 360px;
-        background-color: orange;
-        align-self: center;
-    }
-
-    .anime-information {
-        width: 100%;
-        padding: 0 20px;
-    }
-
     ul {
         list-style-type: none;
         margin: 0;

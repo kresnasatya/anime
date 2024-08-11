@@ -1,5 +1,6 @@
 <script>
     import anime from '$lib/anime.json';
+	import Anime from '$lib/Anime.svelte';
 </script>
 
 <div style="text-align: center;">
@@ -10,13 +11,10 @@
 <ul>
     {#each anime as item}
         <li><a href="/anime/{item.slug}">
-            <div class="anime-card">
-                <div class="anime-thumbnail"></div>
-                <div class="anime-information">
-                    <p>{item.name}</p>
-                    <span>{item.released_year}</span>
-                </div>
-            </div>
+            <Anime anime={item}>
+                <p style="font-weight: bold;">{item.name}</p>
+                <span>{item.released_year}</span>
+            </Anime>
             </a>
         </li>
     {/each}
@@ -40,26 +38,5 @@
         text-decoration: none;
         color: black;
         font-weight: 400;
-    }
-    
-    .anime-card {
-        width: 240px;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .anime-thumbnail {
-        width: 200px;
-        max-width: 200px;
-        height: 360px;
-        max-height: 360px;
-        background-color: orange;
-        align-self: center;
-    }
-
-    .anime-information {
-        width: 100%;
-        padding: 0 20px;
     }
 </style>
