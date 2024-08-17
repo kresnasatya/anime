@@ -250,102 +250,122 @@
   {
     "name": "Death Note",
     "released_year": 2006,
-    "slug": "death-note"
+    "slug": "death-note",
+    "thumbnail": "/images/anime/death-note.jpg"
   },
   {
     "name": "Dennō Bōkenki Webdiver",
     "released_year": 2001,
-    "slug": "denn-bkenki-webdiver"
+    "slug": "denno-bokenki-webdiver",
+    "thumbnail": "/images/anime/denno-bokenki-webdiver.jpg"
   },
   {
     "name": "Detective Conan",
     "released_year": 1996,
-    "slug": "detective-conan"
+    "slug": "detective-conan",
+    "thumbnail": "/images/anime/detective-conan.jpg"
   },
   {
     "name": "Detective School-Q",
     "released_year": 2003,
-    "slug": "detective-school-q"
+    "slug": "detective-school-q",
+    "thumbnail": "/images/anime/detective-school-q.jpg"
   },
   {
     "name": "Digimon Adventure 1",
     "released_year": 1999,
-    "slug": "digimon-adventure-1"
+    "slug": "digimon-adventure-1",
+    "thumbnail": "/images/anime/digimon-adventure-1.jpg"
   },
   {
     "name": "Digimon Adventure 2",
     "released_year": 2000,
-    "slug": "digimon-adventure-2"
+    "slug": "digimon-adventure-2",
+    "thumbnail": "/images/anime/digimon-adventure-2.jpg"
   },
   {
     "name": "Digimon Adventure Reboot",
     "released_year": 2020,
-    "slug": "digimon-adventure-reboot"
+    "slug": "digimon-adventure-reboot",
+    "thumbnail": "/images/anime/digimon-adventure-reboot.webp"
   },
   {
     "name": "Digimon Adventure Tri",
     "released_year": 2015,
-    "slug": "digimon-adventure-tri"
+    "slug": "digimon-adventure-tri",
+    "thumbnail": "/images/anime/digimon-adventure-tri.jpg"
   },
   {
     "name": "Digimon Data Squad",
     "released_year": 2006,
-    "slug": "digimon-data-squad"
+    "slug": "digimon-data-squad",
+    "thumbnail": "/images/anime/digimon-data-squad.jpg"
   },
   {
     "name": "Digimon Frontier",
     "released_year": 2002,
-    "slug": "digimon-frontier"
+    "slug": "digimon-frontier",
+    "thumbnail": "/images/anime/digimon-frontier.jpg"
   },
   {
     "name": "Digimon Tamers",
     "released_year": 2001,
-    "slug": "digimon-tamers"
+    "slug": "digimon-tamers",
+    "thumbnail": "/images/anime/digimon-tamers.webp"
   },
   {
     "name": "Digimon Universe: App Monster",
     "released_year": 2016,
-    "slug": "digimon-universe-app-monster"
+    "slug": "digimon-universe-app-monster",
+    "thumbnail": "/images/anime/digimon-universe-app-monster.webp"
   },
   {
     "name": "Digimon Xros Wars",
     "released_year": 2010,
-    "slug": "digimon-xros-wars"
+    "slug": "digimon-xros-wars",
+    "thumbnail": "/images/anime/digimon-xros-wars.jpg"
   },
   {
     "name": "DN Angel",
     "released_year": 2003,
-    "slug": "dn-angel"
+    "slug": "dn-angel",
+    "thumbnail": "/images/anime/dn-angel.jpg"
   },
   {
     "name": "Doraemon",
     "released_year": 1973,
-    "slug": "doraemon"
+    "slug": "doraemon",
+    "thumbnail": "/images/anime/doraemon.webp"
   },
   {
     "name": "Dr. Slump",
     "released_year": 1981,
-    "slug": "dr-slump"
+    "slug": "dr-slump",
+    "thumbnail": "/images/anime/dr-slump.jpg"
   },
   {
     "name": "Dr. Stone",
     "released_year": 2019,
-    "slug": "dr-stone"
+    "slug": "dr-stone",
+    "thumbnail": "/images/anime/dr-stone.jpg"
   },
   {
     "name": "Dragon Ball",
     "released_year": 1989,
-    "slug": "dragon-ball"
+    "slug": "dragon-ball",
+    "thumbnail": "/images/anime/dragon-ball.jpg"
   },
   {
     "name": "Dragon League",
     "released_year": 1993,
-    "slug": "dragon-league"
+    "slug": "dragon-league",
+    "thumbnail": "/images/anime/dragon-league.jpg"
   },
   {
-    "name": "Duel Master",
+    "name": "Duel Masters",
     "released_year": 2002,
-    "slug": "duel-master"
+    "slug": "duel-masters",
+    "thumbnail": "/images/anime/duel-masters.jpg"
   },
   {
     "name": "Elusive Samurai",
