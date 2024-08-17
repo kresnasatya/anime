@@ -190,52 +190,62 @@
   {
     "name": "Campfire Cooking in Another World with My Absurd Skill",
     "released_year": 2023,
-    "slug": "campfire-cooking-in-another-world-with-my-absurd-skill"
+    "slug": "campfire-cooking-in-another-world-with-my-absurd-skill",
+    "thumbnail": "/images/anime/campfire-cooking-in-another-world-with-my-absurd-skill.jpg"
   },
   {
     "name": "Captain Tsubasa (2018)",
     "released_year": 2018,
-    "slug": "captain-tsubasa-2018"
+    "slug": "captain-tsubasa-2018",
+    "thumbnail": "/images/anime/captain-tsubasa-2018.jpg"
   },
   {
     "name": "Cardcaptor Sakura",
     "released_year": 1998,
-    "slug": "cardcaptor-sakura"
+    "slug": "cardcaptor-sakura",
+    "thumbnail": "/images/anime/cardcaptor-sakura.jpg"
   },
   {
     "name": "Chibi Maruko-chan",
     "released_year": 1995,
-    "slug": "chibi-maruko-chan"
+    "slug": "chibi-maruko-chan",
+    "thumbnail": "/images/anime/chibi-maruko-chan.jpeg"
   },
   {
     "name": "Chouseishin Gransazer",
     "released_year": 2003,
-    "slug": "chouseishin-gransazer"
+    "slug": "chouseishin-gransazer",
+    "thumbnail": "/images/anime/chouseishin-gransazer.jpg"
   },
   {
     "name": "Corrector Yui",
     "released_year": 1999,
-    "slug": "corrector-yui"
+    "slug": "corrector-yui",
+    "thumbnail": "/images/anime/corrector-yui.jpg"
   },
   {
-    "name": "Crayon Shincan",
+    "name": "Crayon Shin-chan",
     "released_year": 1990,
-    "slug": "crayon-shincan"
+    "slug": "crayon-shin-chan",
+    "thumbnail": "/images/anime/crayon-shin-chan.jpg"
   },
   {
     "name": "Crush Gear Nitro",
     "released_year": 2003,
-    "slug": "crush-gear-nitro"
+    "slug": "crush-gear-nitro",
+    "thumbnail": "/images/anime/crush-gear-nitro.webp"
   },
   {
     "name": "Crush Gear Turbo",
     "released_year": 2001,
-    "slug": "crush-gear-turbo"
+    "slug": "crush-gear-turbo",
+    "thumbnail": "/images/anime/crush-gear-turbo.jpg"
   },
   {
     "name": "Cyborg Kuro-chan",
     "released_year": 1999,
-    "slug": "cyborg-kuro-chan"
+    "slug": "cyborg-kuro-chan",
+    "thumbnail": "/images/anime/cyborg-kuro-chan.jpg"
   },
   {
     "name": "Death Note",
