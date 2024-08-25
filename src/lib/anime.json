@@ -508,42 +508,56 @@
   {
     "name": "Idaten Jump",
     "released_year": 2005,
-    "slug": "idaten-jump"
+    "slug": "idaten-jump",
+    "thumbnail": "/images/anime/idaten-jump.jpg"
   },
   {
     "name": "Initial-D",
     "released_year": 1998,
-    "slug": "initial-d"
+    "slug": "initial-d",
+    "thumbnail": "/images/anime/initial-d.jpg"
   },
   {
     "name": "Inuyasha",
     "released_year": 2000,
-    "slug": "inuyasha"
+    "slug": "inuyasha",
+    "thumbnail": "/images/anime/inuyasha.jpg"
   },
   {
     "name": "Inuyasha Kanketsu-hen",
     "released_year": 2009,
-    "slug": "inuyasha-kanketsu-hen"
+    "slug": "inuyasha-kanketsu-hen",
+    "thumbnail": "/images/anime/inuyasha-kanketsu-hen.jpg"
   },
   {
     "name": "Jigoku Sensei Nube",
     "released_year": 1996,
-    "slug": "jigoku-sensei-nube"
+    "slug": "jigoku-sensei-nube",
+    "thumbnail": "/images/anime/jigoku-sensei-nube.jpg"
   },
   {
     "name": "Jujutsu Kaisen",
     "released_year": 2020,
-    "slug": "jujutsu-kaisen"
+    "slug": "jujutsu-kaisen",
+    "thumbnail": "/images/anime/jujutsu-kaisen.jpg"
   },
   {
     "name": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
     "released_year": 2004,
-    "slug": "juubee-chan-2-siberia-yagyuu-no-gyakushuu"
+    "slug": "juubee-chan-2-siberia-yagyuu-no-gyakushuu",
+    "thumbnail": "/images/anime/juubee-chan-2-siberia-yagyuu-no-gyakushuu.jpg"
   },
   {
-    "name": "Kamen Rider Ryuuki",
+    "name": "Kamen Rider 555 (Faiz)",
+    "released_year": 2003,
+    "slug": "kamen-rider-555",
+    "thumbnail": "/images/anime/kamen-rider-555.webp"
+  },
+  {
+    "name": "Kamen Rider Ryuki",
     "released_year": 2002,
-    "slug": "kamen-rider-ryuuki"
+    "slug": "kamen-rider-ryuki",
+    "thumbnail": "/images/anime/kamen-rider-ryuki.webp"
   },
   {
     "name": "Kekkaishi",
@@ -560,42 +574,50 @@
   {
     "name": "Kenyuu Densetsu Yaiba",
     "released_year": 1993,
-    "slug": "kenyuu-densetsu-yaiba"
+    "slug": "kenyuu-densetsu-yaiba",
+    "thumbnail": "/images/anime/kenyuu-densetsu-yaiba.jpg"
   },
   {
     "name": "Keroro Gunsou",
     "released_year": 2004,
-    "slug": "keroro-gunsou"
+    "slug": "keroro-gunsou",
+    "thumbnail": "/images/anime/keroro-gunsou.jpg"
   },
   {
     "name": "Kiba",
     "released_year": 2006,
-    "slug": "kiba"
+    "slug": "kiba",
+    "thumbnail": "/images/anime/kiba.jpg"
   },
   {
     "name": "Kimetsu No Yaiba",
     "released_year": 2019,
-    "slug": "kimetsu-no-yaiba"
+    "slug": "kimetsu-no-yaiba",
+    "thumbnail": "/images/anime/kimetsu-no-yaiba.jpg"
   },
   {
     "name": "Kishin Douji Zenki",
     "released_year": 1995,
-    "slug": "kishin-douji-zenki"
+    "slug": "kishin-douji-zenki",
+    "thumbnail": "/images/anime/kishin-douji-zenki.jpg"
   },
   {
     "name": "Komi Can't Communicate",
     "released_year": 2021,
-    "slug": "komi-cant-communicate"
+    "slug": "komi-cant-communicate",
+    "thumbnail": "/images/anime/komi-cant-communicate.jpg"
   },
   {
     "name": "Kotaro Lives Alone",
     "released_year": 2022,
-    "slug": "kotaro-lives-alone"
+    "slug": "kotaro-lives-alone",
+    "thumbnail": "/images/anime/kotaro-lives-alone.jpg"
   },
   {
     "name": "Kuroko No Basket",
     "released_year": 2012,
-    "slug": "kuroko-no-basket"
+    "slug": "kuroko-no-basket",
+    "thumbnail": "/images/anime/kuroko-no-basket.jpg"
   },
   {
     "name": "Mahoujin Guru Guru",
