@@ -622,346 +622,409 @@
   {
     "name": "Mahoujin Guru Guru",
     "released_year": 2017,
-    "slug": "mahoujin-guru-guru"
+    "slug": "mahoujin-guru-guru",
+    "thumbnail": "/images/anime/mahoujin-guru-guru.jpg"
   },
   {
     "name": "MÄR (Märchen Awakens Romance)",
     "released_year": 2005,
-    "slug": "marchen-awakens-romance"
+    "slug": "marchen-awakens-romance",
+    "thumbnail": "/images/anime/marchen-awakens-romance.jpg"
   },
   {
     "name": "Mashle: Magic and Muscle",
     "released_year": 2023,
-    "slug": "mashle-magic-and-muscle"
+    "slug": "mashle-magic-and-muscle",
+    "thumbnail": "/images/anime/mashle-magic-and-muscle.jpg"
   },
   {
     "name": "Medabots",
     "released_year": 1999,
-    "slug": "medabots"
+    "slug": "medabots",
+    "thumbnail": "/images/anime/medabots.jpg"
   },
   {
     "name": "Miss Kobayashi's Dragon Maid",
     "released_year": 2017,
-    "slug": "miss-kobayashis-dragon-maid"
+    "slug": "miss-kobayashis-dragon-maid",
+    "thumbnail": "/images/anime/miss-kobayashis-dragon-maid.jpg"
   },
   {
     "name": "Mob Psycho 100",
     "released_year": 2016,
-    "slug": "mob-psycho-100"
+    "slug": "mob-psycho-100",
+    "thumbnail": "/images/anime/mob-psycho-100.jpg"
   },
   {
-    "name": "Mobile Suit Gundam",
+    "name": "Mobile Suit Gundam Wing",
     "released_year": 1995,
-    "slug": "mobile-suit-gundam"
+    "slug": "mobile-suit-gundam-wing",
+    "thumbnail": "/images/anime/mobile-suit-gundam-wing.jpg"
   },
   {
     "name": "Mobile Suit Gundam SEED",
     "released_year": 2002,
-    "slug": "mobile-suit-gundam-seed"
+    "slug": "mobile-suit-gundam-seed",
+    "thumbnail": "/images/anime/mobile-suit-gundam-seed.jpg"
   },
   {
     "name": "Mobile Suit Gundam SEED Destiny",
     "released_year": 2004,
-    "slug": "mobile-suit-gundam-seed-destiny"
+    "slug": "mobile-suit-gundam-seed-destiny",
+    "thumbnail": "/images/anime/mobile-suit-gundam-seed-destiny.jpg"
   },
   {
     "name": "Monster Rancher",
     "released_year": 1999,
-    "slug": "monster-rancher"
+    "slug": "monster-rancher",
+    "thumbnail": "/images/anime/monster-rancher.jpg"
   },
   {
     "name": "My Happy Marriage",
     "released_year": 2023,
-    "slug": "my-happy-marriage"
+    "slug": "my-happy-marriage",
+    "thumbnail": "/images/anime/my-happy-marriage.jpg"
   },
   {
     "name": "Naruto",
     "released_year": 2002,
-    "slug": "naruto"
+    "slug": "naruto",
+    "thumbnail": "/images/anime/naruto.jpg"
   },
   {
     "name": "Naruto Shippuden",
     "released_year": 2007,
-    "slug": "naruto-shippuden"
+    "slug": "naruto-shippuden",
+    "thumbnail": "/images/anime/naruto-shippuden.jpg"
   },
   {
     "name": "Ninja Rantaro",
     "released_year": 1993,
-    "slug": "ninja-rantaro"
+    "slug": "ninja-rantaro",
+    "thumbnail": "/images/anime/ninja-rantaro.jpg"
   },
   {
     "name": "One Piece",
     "released_year": 1999,
-    "slug": "one-piece"
+    "slug": "one-piece",
+    "thumbnail": "/images/anime/one-piece.jpg"
   },
   {
     "name": "One Punch Man",
     "released_year": 2015,
-    "slug": "one-punch-man"
+    "slug": "one-punch-man",
+    "thumbnail": "/images/anime/one-punch-man.jpg"
   },
   {
     "name": "Onmyoji",
     "released_year": 2023,
-    "slug": "onmyoji"
+    "slug": "onmyoji",
+    "thumbnail": "/images/anime/onmyoji.jpg"
   },
   {
     "name": "Pokemon",
     "released_year": 1997,
-    "slug": "pokemon"
+    "slug": "pokemon",
+    "thumbnail": "/images/anime/pokemon.jpg"
   },
   {
     "name": "Pokemon Best Wishes!",
     "released_year": 2010,
-    "slug": "pokemon-best-wishes"
+    "slug": "pokemon-best-wishes",
+    "thumbnail": "/images/anime/pokemon-best-wishes.jpg"
   },
   {
     "name": "Pokemon Diamond & Pearl",
     "released_year": 2006,
-    "slug": "pokemon-diamond-pearl"
+    "slug": "pokemon-diamond-pearl",
+    "thumbnail": "/images/anime/pokemon-diamond-pearl.jpeg"
   },
   {
     "name": "Pokemon Sun & Moon",
     "released_year": 2016,
-    "slug": "pokemon-sun-moon"
+    "slug": "pokemon-sun-moon",
+    "thumbnail": "/images/anime/pokemon-sun-moon.jpg"
   },
   {
     "name": "Pokemon XY",
     "released_year": 2013,
-    "slug": "pokemon-xy"
+    "slug": "pokemon-xy",
+    "thumbnail": "/images/anime/pokemon-xy.jpg"
   },
   {
     "name": "Pokemon XY&Z",
     "released_year": 2015,
-    "slug": "pokemon-xyz"
+    "slug": "pokemon-xyz",
+    "thumbnail": "/images/anime/pokemon-xyz.jpg"
   },
   {
     "name": "Pretty Cure",
     "released_year": 2004,
-    "slug": "pretty-cure"
+    "slug": "pretty-cure",
+    "thumbnail": "/images/anime/pretty-cure.jpg"
   },
   {
     "name": "Ragnarok: The Animation",
     "released_year": 2004,
-    "slug": "ragnarok-the-animation"
+    "slug": "ragnarok-the-animation",
+    "thumbnail": "/images/anime/ragnarok-the-animation.jpg"
   },
   {
     "name": "Ranma!",
     "released_year": 1989,
-    "slug": "ranma"
+    "slug": "ranma",
+    "thumbnail": "/images/anime/ranma.jpg"
   },
   {
     "name": "Rave Master",
     "released_year": 2004,
-    "slug": "rave-master"
+    "slug": "rave-master",
+    "thumbnail": "/images/anime/rave-master.jpg"
   },
   {
     "name": "Record of Ragnarok",
     "released_year": 2021,
-    "slug": "record-of-ragnarok"
+    "slug": "record-of-ragnarok",
+    "thumbnail": "/images/anime/record-of-ragnarok.jpg"
   },
   {
     "name": "Saint Seiya",
     "released_year": 1986,
-    "slug": "saint-seiya"
+    "slug": "saint-seiya",
+    "thumbnail": "/images/anime/saint-seiya.jpg"
   },
   {
     "name": "Saint Seiya: Hades Elysion",
     "released_year": 2008,
-    "slug": "saint-seiya-hades-elysion"
+    "slug": "saint-seiya-hades-elysion",
+    "thumbnail": "/images/anime/saint-seiya-hades-elysion.jpg"
   },
   {
     "name": "Saint Seiya: Meiou Hades Meikai-hen",
     "released_year": 2005,
-    "slug": "saint-seiya-meiou-hades-meikai-hen"
+    "slug": "saint-seiya-meiou-hades-meikai-hen",
+    "thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen.jpg"
   },
   {
     "name": "Saint Seiya: Meiou Hades Meikai-hen Juuni Kyuu-hen",
     "released_year": 2002,
-    "slug": "saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen"
+    "slug": "saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen",
+    "thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen.jpg"
   },
   {
     "name": "Saint Seiya: Omega",
     "released_year": 2012,
-    "slug": "saint-seiya-omega"
+    "slug": "saint-seiya-omega",
+    "thumbnail": "/images/anime/saint-seiya-omega.jpg"
   },
   {
     "name": "Saint Seiya: Saintia Shou",
     "released_year": 2018,
-    "slug": "saint-seiya-saintia-shou"
+    "slug": "saint-seiya-saintia-shou",
+    "thumbnail": "/images/anime/saint-seiya-saintia-shou.jpg"
   },
   {
     "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
     "released_year": 2009,
-    "slug": "saint-seiya-the-lost-canvas---meiou-shinwa"
+    "slug": "saint-seiya-the-lost-canvas-meiou-shinwa",
+    "thumbnail": "/images/anime/saint-seiya-the-lost-canvas-meiou-shinwa.jpg"
   },
   {
     "name": "Samurai 7",
     "released_year": 2004,
-    "slug": "samurai-7"
+    "slug": "samurai-7",
+    "thumbnail": "/images/anime/samurai-7.jpg"
   },
   {
     "name": "Samurai Champloo",
     "released_year": 2004,
-    "slug": "samurai-champloo"
+    "slug": "samurai-champloo",
+    "thumbnail": "/images/anime/samurai-champloo.jpg"
   },
   {
     "name": "Samurai Deeper Kyou",
     "released_year": 2002,
-    "slug": "samurai-deeper-kyou"
+    "slug": "samurai-deeper-kyou",
+    "thumbnail": "/images/anime/samurai-deeper-kyou.jpg"
   },
   {
     "name": "Samurai X",
     "released_year": 1996,
-    "slug": "samurai-x"
+    "slug": "samurai-x",
+    "thumbnail": "/images/anime/samurai-x.jpg"
   },
   {
     "name": "Shaman King: Reboot",
     "released_year": 2021,
-    "slug": "shaman-king-reboot"
+    "slug": "shaman-king-reboot",
+    "thumbnail": "/images/anime/shaman-king-reboot.jpg"
   },
   {
     "name": "Shangri-La Frontier",
     "released_year": 2023,
-    "slug": "shangri-la-frontier"
+    "slug": "shangri-la-frontier",
+    "thumbnail": "/images/anime/shangri-la-frontier.jpg"
   },
   {
     "name": "Shingeki no Kyojin",
     "released_year": 2013,
-    "slug": "shingeki-no-kyojin"
+    "slug": "shingeki-no-kyojin",
+    "thumbnail": "/images/anime/shingeki-no-kyojin.jpg"
   },
   {
     "name": "Shinya! Tensai Bakabon",
     "released_year": 2018,
-    "slug": "shinya-tensai-bakabon"
+    "slug": "shinya-tensai-bakabon",
+    "thumbnail": "/images/anime/shinya-tensai-bakabon.jpg"
   },
   {
     "name": "Shokugeki No Soma",
     "released_year": 2015,
-    "slug": "shokugeki-no-soma"
+    "slug": "shokugeki-no-soma",
+    "thumbnail": "/images/anime/shokugeki-no-soma.jpg"
   },
   {
     "name": "Slayers Try",
     "released_year": 1995,
-    "slug": "slayers-try"
+    "slug": "slayers-try",
+    "thumbnail": "/images/anime/slayers-try.jpg"
   },
   {
     "name": "Solo Leveling",
     "released_year": 2024,
-    "slug": "solo-leveling"
+    "slug": "solo-leveling",
+    "thumbnail": "/images/anime/solo-leveling.jpg"
   },
   {
     "name": "Spy X Family",
     "released_year": 2022,
-    "slug": "spy-x-family"
+    "slug": "spy-x-family",
+    "thumbnail": "/images/anime/spy-x-family.jpg"
   },
   {
     "name": "Super Yoyo",
     "released_year": 1998,
-    "slug": "super-yoyo"
+    "slug": "super-yoyo",
+    "thumbnail": "/images/anime/super-yoyo.jpg"
   },
   {
     "name": "Sword Art Online",
     "released_year": 2012,
-    "slug": "sword-art-online"
+    "slug": "sword-art-online",
+    "thumbnail": "/images/anime/sword-art-online.jpg"
   },
   {
     "name": "Sword Art Online: Alicization",
     "released_year": 2018,
-    "slug": "sword-art-online-alicization"
+    "slug": "sword-art-online-alicization",
+    "thumbnail": "/images/anime/sword-art-online-alicization.jpg"
   },
   {
     "name": "Sword Art Online: Alicization War of Underworld",
     "released_year": 2019,
-    "slug": "sword-art-online-alicization-war-of-underworld"
+    "slug": "sword-art-online-alicization-war-of-underworld",
+    "thumbnail": "/images/anime/sword-art-online-alicization-war-of-underworld.jpg"
   },
   {
     "name": "The Apothecary Diaries",
     "released_year": 2023,
-    "slug": "the-apothecary-diaries"
+    "slug": "the-apothecary-diaries",
+    "thumbnail": "/images/anime/the-apothecary-diaries.jpg"
   },
   {
     "name": "The Law of Ueki",
     "released_year": 2005,
-    "slug": "the-law-of-ueki"
+    "slug": "the-law-of-ueki",
+    "thumbnail": "/images/anime/the-law-of-ueki.jpg"
   },
   {
     "name": "The Way of the Househusband",
     "released_year": 2021,
-    "slug": "the-way-of-the-househusband"
+    "slug": "the-way-of-the-househusband",
+    "thumbnail": "/images/anime/the-way-of-the-househusband.jpg"
   },
   {
     "name": "Tower of God (Kami no Tou)",
     "released_year": 2020,
-    "slug": "tower-of-god-kami-no-tou"
+    "slug": "tower-of-god-kami-no-tou",
+    "thumbnail": "/images/anime/tower-of-god-kami-no-tou.jpg"
   },
   {
     "name": "Trigun Stampede",
     "released_year": 2023,
-    "slug": "trigun-stampede"
+    "slug": "trigun-stampede",
+    "thumbnail": "/images/anime/trigun-stampede.jpg"
   },
   {
     "name": "Ultraman Dyna",
     "released_year": 1997,
-    "slug": "ultraman-dyna"
+    "slug": "ultraman-dyna",
+    "thumbnail": "/images/anime/ultraman-dyna.jpg"
   },
   {
     "name": "Ultraman Gaia",
     "released_year": 1998,
-    "slug": "ultraman-gaia"
+    "slug": "ultraman-gaia",
+    "thumbnail": "/images/anime/ultraman-gaia.jpg"
   },
   {
     "name": "Ultraman Nexus",
     "released_year": 2004,
-    "slug": "ultraman-nexus"
+    "slug": "ultraman-nexus",
+    "thumbnail": "/images/anime/ultraman-nexus.jpg"
   },
   {
     "name": "Wind Breaker",
     "released_year": 2024,
-    "slug": "wind-breaker"
+    "slug": "wind-breaker",
+    "thumbnail": "/images/anime/wind-breaker.jpg"
   },
   {
     "name": "Yu-Gi-Oh! 5Ds",
     "released_year": 2008,
-    "slug": "yu-gi-oh-5ds"
+    "slug": "yu-gi-oh-5ds",
+    "thumbnail": "/images/anime/yu-gi-oh-5ds.jpg"
   },
   {
     "name": "Yu-Gi-Oh! Arc-V",
     "released_year": 2014,
-    "slug": "yu-gi-oh-arc-v"
+    "slug": "yu-gi-oh-arc-v",
+    "thumbnail": "/images/anime/yu-gi-oh-arc-v.jpg"
   },
   {
     "name": "Yu-Gi-Oh! Duel Monsters",
     "released_year": 2000,
-    "slug": "yu-gi-oh-duel-monsters"
+    "slug": "yu-gi-oh-duel-monsters",
+    "thumbnail": "/images/anime/yu-gi-oh-duel-monsters.jpg"
   },
   {
     "name": "Yu-Gi-Oh! GX",
     "released_year": 2004,
-    "slug": "yu-gi-oh-gx"
+    "slug": "yu-gi-oh-gx",
+    "thumbnail": "/images/anime/yu-gi-oh-gx.jpg"
   },
   {
     "name": "Yu-Gi-Oh! VRAINS",
     "released_year": 2017,
-    "slug": "yu-gi-oh-vrains"
+    "slug": "yu-gi-oh-vrains",
+    "thumbnail": "/images/anime/yu-gi-oh-vrains.jpg"
   },
   {
     "name": "Yu-Gi-Oh! Zexal",
     "released_year": 2011,
-    "slug": "yu-gi-oh-zexal"
-  },
-  {
-    "name": "Yu-Gi-Oh! Zexal Second",
-    "released_year": 2012,
-    "slug": "yu-gi-oh-zexal-second"
+    "slug": "yu-gi-oh-zexal",
+    "thumbnail": "/images/anime/yu-gi-oh-zexal.jpg"
   },
   {
     "name": "Zoids",
     "released_year": 1999,
-    "slug": "zoids"
+    "slug": "zoids",
+    "thumbnail": "/images/anime/zoids.jpg"
   },
   {
     "name": "Zoids Shinseiki",
     "released_year": 2001,
-    "slug": "zoids-shinseiki"
+    "slug": "zoids-shinseiki",
+    "thumbnail": "/images/anime/zoids-shinseiki.jpg"
   }
 ]
