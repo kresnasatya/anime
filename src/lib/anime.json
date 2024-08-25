@@ -370,32 +370,38 @@
   {
     "name": "Elusive Samurai",
     "released_year": 2024,
-    "slug": "elusive-samurai"
+    "slug": "elusive-samurai",
+    "thumbnail": "/images/anime/elusive-samurai.webp"
   },
   {
     "name": "Eureka Seven",
     "released_year": 2005,
-    "slug": "eureka-seven"
+    "slug": "eureka-seven",
+    "thumbnail": "/images/anime/eureka-seven.png"
   },
   {
-    "name": "Eyshield 21",
+    "name": "Eyeshield 21",
     "released_year": 2005,
-    "slug": "eyshield-21"
+    "slug": "eyeshield-21",
+    "thumbnail": "/images/anime/eyeshield-21.jpg"
   },
   {
     "name": "Frieren: Beyond Journey's End",
     "released_year": 2023,
-    "slug": "frieren-beyond-journeys-end"
+    "slug": "frieren-beyond-journeys-end",
+    "thumbnail": "/images/anime/frieren-beyond-journeys-end.jpg"
   },
   {
     "name": "Fullmetal Alchemist: Brotherhood",
     "released_year": 2009,
-    "slug": "fullmetal-alchemist-brotherhood"
+    "slug": "fullmetal-alchemist-brotherhood",
+    "thumbnail": "/images/anime/fullmetal-alchemist-brotherhood.jpg"
   },
   {
     "name": "Future GPX Cyber Formula (Asurada)",
     "released_year": 1991,
-    "slug": "future-gpx-cyber-formula-asurada"
+    "slug": "future-gpx-cyber-formula-asurada",
+    "thumbnail": "/images/anime/future-gpx-cyber-formula-asurada.jpg"
   },
   {
     "name": "GeGeGe No Kitaro",
