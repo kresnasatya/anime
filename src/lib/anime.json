@@ -406,87 +406,104 @@
   {
     "name": "GeGeGe No Kitaro",
     "released_year": 2018,
-    "slug": "gegege-no-kitaro"
+    "slug": "gegege-no-kitaro",
+    "thumbnail": "/images/anime/gegege-no-kitaro.jpg"
   },
   {
     "name": "Genseishin Justirisers",
     "released_year": 2004,
-    "slug": "genseishin-justirisers"
+    "slug": "genseishin-justirisers",
+    "thumbnail": "/images/anime/genseishin-justirisers.jpg"
   },
   {
     "name": "Gensomaden Saiyuki",
     "released_year": 2000,
-    "slug": "gensomaden-saiyuki"
+    "slug": "gensomaden-saiyuki",
+    "thumbnail": "/images/anime/gensomaden-saiyuki.webp"
   },
   {
     "name": "Gensomaden Saiyuki Reload Blast",
     "released_year": 2017,
-    "slug": "gensomaden-saiyuki-reload-blast"
+    "slug": "gensomaden-saiyuki-reload-blast",
+    "thumbnail": "/images/anime/gensomaden-saiyuki-reload-blast.jpg"
   },
   {
     "name": "Gensomaden Saiyuki: Gaiden",
     "released_year": 2011,
-    "slug": "gensomaden-saiyuki-gaiden"
+    "slug": "gensomaden-saiyuki-gaiden",
+    "thumbnail": "/images/anime/gensomaden-saiyuki-gaiden.jpg"
   },
   {
     "name": "Gensomaden Saiyuki: Reload",
     "released_year": 2003,
-    "slug": "gensomaden-saiyuki-reload"
+    "slug": "gensomaden-saiyuki-reload",
+    "thumbnail": "/images/anime/gensomaden-saiyuki-reload.jpg"
   },
   {
-    "name": "Gensomaden Saiyuki: Zeroin",
+    "name": "Gensomaden Saiyuki Reload: Zeroin",
     "released_year": 2022,
-    "slug": "gensomaden-saiyuki-zeroin"
+    "slug": "gensomaden-saiyuki-reload-zeroin",
+    "thumbnail": "/images/anime/gensomaden-saiyuki-reload-zeroin.jpg"
   },
   {
     "name": "Gintama",
     "released_year": 2006,
-    "slug": "gintama"
+    "slug": "gintama",
+    "thumbnail": "/images/anime/gintama.jpg"
   },
   {
     "name": "God Eater",
     "released_year": 2015,
-    "slug": "god-eater"
+    "slug": "god-eater",
+    "thumbnail": "/images/anime/god-eater.png"
   },
   {
     "name": "Hagemaru",
     "released_year": 1988,
-    "slug": "hagemaru"
+    "slug": "hagemaru",
+    "thumbnail": "/images/anime/hagemaru.jpg"
   },
   {
     "name": "Haikyuu! Fly High!! Volleyball!",
     "released_year": 2014,
-    "slug": "haikyuu-fly-high-volleyball"
+    "slug": "haikyuu-fly-high-volleyball",
+    "thumbnail": "/images/anime/haikyuu-fly-high-volleyball.jpg"
   },
   {
     "name": "Hamtaro",
     "released_year": 2000,
-    "slug": "hamtaro"
+    "slug": "hamtaro",
+    "thumbnail": "/images/anime/hamtaro.jpg"
   },
   {
     "name": "Hanyou no Yashahime: Sengoku Otogizoushi",
     "released_year": 2020,
-    "slug": "hanyou-no-yashahime-sengoku-otogizoushi"
+    "slug": "hanyou-no-yashahime-sengoku-otogizoushi",
+    "thumbnail": "/images/anime/hanyou-no-yashahime-sengoku-otogizoushi.jpg"
   },
   {
     "name": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
     "released_year": 2021,
-    "slug": "hanyou-no-yashahime-sengoku-otogizoushi---ni-no-shou"
+    "slug": "hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou",
+    "thumbnail": "/images/anime/hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou.jpg"
   },
   {
     "name": "Hataraku Saibo",
     "released_year": 2018,
-    "slug": "hataraku-saibo"
+    "slug": "hataraku-saibo",
+    "thumbnail": "/images/anime/hataraku-saibo.jpg"
   },
   {
-    "name": "Himotou! Umaru-chan",
+    "name": "Himoutou! Umaru-chan",
     "released_year": 2015,
-    "slug": "himotou-umaru-chan"
+    "slug": "himoutou-umaru-chan",
+    "thumbnail": "/images/anime/himoutou-umaru-chan.jpg"
   },
   {
     "name": "Hunter X Hunter",
-    "released_year": 1999,
-    "slug": "hunter-x-hunter"
+    "released_year": 2011,
+    "slug": "hunter-x-hunter",
+    "thumbnail": "/images/anime/hunter-x-hunter.jpg"
   },
   {
     "name": "Idaten Jump",
