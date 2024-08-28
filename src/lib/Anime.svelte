@@ -1,10 +1,39 @@
 <script>
     export let anime;
+    
+    import { onMount } from "svelte";
+    /**
+	 * @type {Element}
+	 */
+    let imgRef;
+    let loading = 'lazy';
+
+    onMount(() => {
+        const observer = new IntersectionObserver(
+            ([entry]) => {
+                if (entry.isIntersecting) {
+                    loading = 'eager';
+                    observer.disconnect(); // Stop observing once it's in the viewport
+                }
+            },
+            { threshold: 0.1 }
+        );
+
+        if (imgRef) {
+            observer.observe(imgRef);
+        }
+
+        return () => {
+            if (imgRef) {
+                observer.unobserve(imgRef);
+            }
+        }
+    })
 </script>
 
 <div class="anime-card">
     {#if anime?.thumbnail}
-        <img loading="lazy" src={anime.thumbnail} alt={`Thumbnail of ${anime.name}`}/>
+        <img bind:this={imgRef} {loading} src={anime.thumbnail} alt={`Thumbnail of ${anime.name}`}/>
     {:else}
         <div class="anime-thumbnail"></div>
     {/if}
