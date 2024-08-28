@@ -28,6 +28,10 @@
     }
 </script>
 
+<svelte:head>
+    <title>anime.kresna.me - Home</title>
+</svelte:head>
+
 <div style="text-align: center;">
     <h1>anime.kresna.me</h1>
     <p><em>List of Anime that Kresna has watched. Made with SvelteKit.</em></p>

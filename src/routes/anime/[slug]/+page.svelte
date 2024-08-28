@@ -11,6 +11,10 @@
     $: nextAnime = currentIndex < anime.length - 1 ? anime[currentIndex + 1] : null;
 </script>
 
+<svelte:head>
+    <title>anime.kresna.me - {data.anime.name}</title>
+</svelte:head>
+
 <a href="/">Back</a>
 
 <div style="display: flex; justify-content: space-around">
