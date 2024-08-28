@@ -39,7 +39,17 @@
     "name": "Bakugan Battle Brawlers",
     "released_year": 2007,
     "slug": "bakugan-battle-brawlers",
-    "thumbnail": "/images/anime/bakugan-battle-brawlers.jpg"
+    "thumbnail": "/images/anime/bakugan-battle-brawlers.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Bakugan Battle Brawlers Opening 2 - Bucchigiri Infinite Generation by Psychic Lover",
+        "youtube_id": "Y4MUelAiquM"
+      },
+      {
+        "youtube_title": "[Bucchigiri Infinite Generation by Psychic Lover] - Full Version",
+        "youtube_id": "RukDXLkBRrg"
+      }
+    ]
   },
   {
     "name": "Bakugan Battle Brawlers: Gundalian Invaders",
@@ -63,7 +73,29 @@
     "name": "Beyblade",
     "released_year": 2001,
     "slug": "beyblade",
-    "thumbnail": "/images/anime/beyblade.jpg"
+    "thumbnail": "/images/anime/beyblade.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Bakuten Shoot Beyblade - Fighting Spirits [Japanese Opening]",
+        "youtube_id": "P8gZbrDNbHM"
+      }
+    ]
+  },
+  {
+    "name": "Beyblade G Revolution",
+    "released_year": 2003,
+    "slug": "beyblade-g-revolution",
+    "thumbnail": "/images/anime/beyblade-g-revolution.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Bakuten Shoot Beyblade G-Revolution OP 1 (GO AHEAD)",
+        "youtube_id": "qoHAIlvellw"
+      },
+      {
+        "youtube_title": "Bakuten Shoot Beyblade G-Revolution OP 2 (IDENTIFIED)",
+        "youtube_id": "8HiASKWsVzw"
+      }
+    ]
   },
   {
     "name": "Beyblade Metal Fury",
@@ -72,16 +104,32 @@
     "thumbnail": "/images/anime/beyblade-metal-fury.webp"
   },
   {
-    "name": "Beyblade Metal Fusion",
+    "name": "Beyblade Metal Fusion / Beyblade Metal Fight",
     "released_year": 2009,
     "slug": "beyblade-metal-fusion",
-    "thumbnail": "/images/anime/beyblade-metal-fusion.jpg"
+    "thumbnail": "/images/anime/beyblade-metal-fusion.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Beyblade Metal Fight Opening HQ (JAPANESE)",
+        "youtube_id": "r_hV4wBIxM8"
+      }
+    ]
   },
   {
-    "name": "Beyblade Metal Masters",
+    "name": "Beyblade Metal Masters / Metal Fight Beyblade Explosion",
     "released_year": 2010,
     "slug": "beyblade-metal-masters",
-    "thumbnail": "/images/anime/beyblade-metal-masters.webp"
+    "thumbnail": "/images/anime/beyblade-metal-masters.webp",
+    "favorite_ost": [
+      {
+        "youtube_title": "Beyblade Metal Fight Explosion - [Opening HD]",
+        "youtube_id": "_uNSwrGEdKw"
+      },
+      {
+        "youtube_title": "Metal Fight Beyblade Explosion Ending",
+        "youtube_id": "cNYxyiLiflw"
+      }
+    ]
   },
   {
     "name": "Beyblade V-Force",
@@ -185,7 +233,17 @@
     "name": "Boku No Hero Akademia",
     "released_year": 2016,
     "slug": "boku-no-hero-akademia",
-    "thumbnail": "/images/anime/boku-no-hero-academia.jpg"
+    "thumbnail": "/images/anime/boku-no-hero-academia.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "[Polaris] Blue Encount - Anime Version",
+        "youtube_id": "VtNgeDxYJzE"
+      },
+      {
+        "youtube_title": "[Polaris] Blue Encount - Full Version",
+        "youtube_id": "Isb7Q4jEA04"
+      }
+    ]
   },
   {
     "name": "Campfire Cooking in Another World with My Absurd Skill",
@@ -539,7 +597,17 @@
     "name": "Jujutsu Kaisen",
     "released_year": 2020,
     "slug": "jujutsu-kaisen",
-    "thumbnail": "/images/anime/jujutsu-kaisen.jpg"
+    "thumbnail": "/images/anime/jujutsu-kaisen.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Who-ya Extended「VIVID VICE」- Anime Version",
+        "youtube_id": "8nNujr378EA"
+      },
+      {
+        "youtube_title": "Who-ya Extended 「VIVID VICE」- Full Version",
+        "youtube_id": "EU6I8TxU6Z4"
+      }
+    ]
   },
   {
     "name": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
@@ -671,7 +739,21 @@
     "name": "Mobile Suit Gundam SEED Destiny",
     "released_year": 2004,
     "slug": "mobile-suit-gundam-seed-destiny",
-    "thumbnail": "/images/anime/mobile-suit-gundam-seed-destiny.jpg"
+    "thumbnail": "/images/anime/mobile-suit-gundam-seed-destiny.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Gundam (ガンダム) Seed Destiny HD Remaster Opening 3 [Bokutachi no Yukue - Hitomi Takahashi]",
+        "youtube_id": "s5JNlYl6SWk"
+      },
+      {
+        "youtube_title": "[Bokutachi no Yukue - Hitomi Takahashi] Full Version",
+        "youtube_id": "0qO0yE_9KhQ"
+      },
+      {
+        "youtube_title": "Life Goes On",
+        "youtube_id": "9T0Kq4hFLos"
+      }
+    ]
   },
   {
     "name": "Monster Rancher",
