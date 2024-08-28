@@ -1,7 +1,7 @@
 <script>
     import { page } from '$app/stores';
     import anime from '$lib/anime.json';
-	import Anime from '$lib/Anime.svelte';
+	import AnimeCard from '$lib/AnimeCard.svelte';
 
     export let data;
 
@@ -21,10 +21,7 @@
     {#if prevAnime}
         <a style="align-self: center; max-width: 120px;" href="/anime/{prevAnime.slug}">&#8249; {prevAnime.name}</a>
     {/if}
-    <Anime anime={data.anime}>
-        <h1 style="font-size: 1rem;">{data.anime.name}</h1>
-        <span>{data.anime.released_year}</span>
-    </Anime>
+    <AnimeCard anime={data.anime}/>
     {#if nextAnime}
         <a style="align-self: center; max-width: 120px;" href="/anime/{nextAnime.slug}">{nextAnime.name} &#8250;</a>
     {/if}

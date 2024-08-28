@@ -1,6 +1,6 @@
 <script>
     import animeMap from '$lib/anime.js';
-	import Anime from '$lib/Anime.svelte';
+	import AnimeItem from '$lib/AnimeItem.svelte';
 
     const anime = Object.values(animeMap);
 
@@ -51,13 +51,7 @@
 
 <ul>
     {#each filtered as anime (anime.slug)}
-        <li><a href="/anime/{anime.slug}">
-            <Anime anime={anime}>
-                <p style="font-weight: bold;">{anime.name}</p>
-                <span>{anime.released_year}</span>
-            </Anime>
-            </a>
-        </li>
+        <AnimeItem href="/anime/{anime.slug}" anime={anime}/>
     {/each}
 </ul>
 
@@ -70,14 +64,5 @@
         flex-wrap: wrap;
         gap: 1rem;
         justify-content: space-evenly;
-    }
-
-    li > a {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-decoration: none;
-        color: black;
-        font-weight: 400;
     }
 </style>
