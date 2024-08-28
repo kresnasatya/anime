@@ -104,7 +104,8 @@
     "thumbnail": "/images/anime/beyblade-metal-fury.webp"
   },
   {
-    "name": "Beyblade Metal Fusion / Beyblade Metal Fight",
+    "name": "Beyblade Metal Fusion",
+    "alternative_name": "Beyblade Metal Fight",
     "released_year": 2009,
     "slug": "beyblade-metal-fusion",
     "thumbnail": "/images/anime/beyblade-metal-fusion.jpg",
@@ -116,7 +117,8 @@
     ]
   },
   {
-    "name": "Beyblade Metal Masters / Metal Fight Beyblade Explosion",
+    "name": "Beyblade Metal Masters",
+    "alternative_name": "Metal Fight Beyblade Explosion",
     "released_year": 2010,
     "slug": "beyblade-metal-masters",
     "thumbnail": "/images/anime/beyblade-metal-masters.webp",
