@@ -1,6 +1,14 @@
 # anime.kresna.me
-List of Anime that Kresna has been watching
+List of Anime that Kresna has watched. Made with SvelteKit. This site contains anime information like name, released year, thumbnail, favorite OST (Original Soundtrack) from YouTube Video. Also this site implement view transition API that currently support on Chrome browser. This site deploy in Netlify.
 
-## Idea
+## How to run
 
-Related with front-end and implement view transitions API.
+> This site use Sveltekit and PNPM as dependency manager.
+
+- Git clone
+- Run command below
+
+```bash
+pnpm install
+pnpm run dev
+```
