@@ -3,37 +3,101 @@
     "name": "Accel World",
     "released_year": 2012,
     "slug": "accel-world",
-    "thumbnail": "/images/anime/accel-world.jpg"
+    "thumbnail": "/images/anime/accel-world.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Accel World Opening 1 Creditless 60fps",
+        "youtube_id": "uTErr5pGmZc"
+      },
+      {
+        "youtube_title": "Accel World Opening 2 'Burst The Gravity By ALTIMA' HD descarga full",
+        "youtube_id": "IGRAfhYEYKM"
+      }
+    ]
   },
   {
     "name": "Air Gear",
     "released_year": 2006,
     "slug": "air-gear",
-    "thumbnail": "/images/anime/air-gear.jpg"
+    "thumbnail": "/images/anime/air-gear.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Air Gear Opening HD",
+        "youtube_id": "klFVxGAacz0"
+      }
+    ]
   },
   {
     "name": "Arslan Senki",
     "released_year": 2015,
     "slug": "arslan-senki",
-    "thumbnail": "/images/anime/arslan-senki.jpg"
+    "thumbnail": "/images/anime/arslan-senki.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "The Heroic Legend of Arslan – Opening Theme – These Are Not My Words, They’re Our Words",
+        "youtube_id": "PSGYL-ZD0_Q"
+      },
+      {
+        "youtube_title": "The Heroic Legend of Arslan – Opening Theme 2 – Uzu to Uzu",
+        "youtube_id": "5GC24nvBUTI"
+      },
+      {
+        "youtube_title": "The Heroic Legend of Arslan - Official Ending #2 - Kalafina - One Light",
+        "youtube_id": "LtHSlpL7lHg"
+      }
+    ]
   },
   {
     "name": "Arslan Senki: Fuujin Ranbu",
     "released_year": 2016,
     "slug": "arslan-senki-fuujin-ranbu",
-    "thumbnail": "/images/anime/arslan-senki-fuujin-ranbu.jpg"
+    "thumbnail": "/images/anime/arslan-senki-fuujin-ranbu.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Arslan Senki (TV): Fuujin Ranbu Opening - Eir Aoi - Tsubasa",
+        "youtube_id": "f0aw5pqlOWY"
+      }
+    ]
   },
   {
     "name": "Astro Boy",
     "released_year": 2003,
     "slug": "astro-boy",
-    "thumbnail": "/images/anime/astro-boy.jpg"
+    "thumbnail": "/images/anime/astro-boy.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Astro Boy Opening - True Blue by ZONE",
+        "youtube_id": "sIpSZJ0oc24"
+      },
+      {
+        "youtube_title": "ASTRO BOY・鉄腕アトム Creditless OP 2: Now or Never - CHEMISTRY meets m-flo",
+        "youtube_id": "5jMvZTfl5K0"
+      }
+    ]
   },
   {
     "name": "Bakegyamon",
     "released_year": 2006,
     "slug": "bakegyamon",
-    "thumbnail": "/images/anime/bakegyamon.jpg"
+    "thumbnail": "/images/anime/bakegyamon.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Bakegyamon Opening 1",
+        "youtube_id": "R5TZxE5ZNo4"
+      },
+      {
+        "youtube_title": "Bakegyamon Opening 2",
+        "youtube_id": "RC0uvullJNo"
+      },
+      {
+        "youtube_title": "Soramimi Bakegyamon",
+        "youtube_id": "5bCK_S415gI"
+      },
+      {
+        "youtube_title": "Bakegyamon Ending Song - Always there for you",
+        "youtube_id": "MBlfIUCcaik"
+      }
+    ]
   },
   {
     "name": "Bakugan Battle Brawlers",
@@ -68,6 +132,22 @@
     "released_year": 1996,
     "slug": "bakuso-kyodai-lets-go",
     "thumbnail": "/images/anime/bakuso-kyodai-lets-go.jpg"
+  },
+  {
+    "name": "Battle B-Daman Fire Spirits!",
+    "released_year": 2005,
+    "slug": "battle-b-daman-fire-spirits",
+    "thumbnail": "/images/anime/battle-b-daman-fire-spirits.webp",
+    "favorite_ost": [
+      {
+        "youtube_title": "Battle B-Daman Fire Spirits Opening 1",
+        "youtube_id": "ZqRKn8AU4HY"
+      },
+      {
+        "youtube_title": "Battle B-Daman Fire Spirits Opening 2",
+        "youtube_id": "yOdowkYPIII"
+      }
+    ]
   },
   {
     "name": "Beyblade",
