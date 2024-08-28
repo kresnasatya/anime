@@ -4,7 +4,7 @@
 
 <div class="anime-card">
     {#if anime?.thumbnail}
-        <img src={anime.thumbnail} alt={`Thumbnail of ${anime.name}`}/>
+        <img loading="lazy" src={anime.thumbnail} alt={`Thumbnail of ${anime.name}`}/>
     {:else}
         <div class="anime-thumbnail"></div>
     {/if}
