@@ -1,6 +1,7 @@
 <script>
-    export let anime;
-    
+    export let thumbnail;
+    export let name;
+
     import { onMount } from "svelte";
     /**
 	 * @type {Element}
@@ -31,26 +32,14 @@
     })
 </script>
 
-<div class="anime-card">
-    {#if anime?.thumbnail}
-        <img bind:this={imgRef} {loading} src={anime.thumbnail} alt={`Thumbnail of ${anime.name}`}/>
-    {:else}
-        <div class="anime-thumbnail"></div>
-    {/if}
-    <div class="anime-information">
-        <slot/>
-    </div>
-</div>
+{#if thumbnail}
+    <img bind:this={imgRef} {loading} src={thumbnail} alt={`Thumbnail of ${name}`}/>
+{:else}
+    <div class="anime-thumbnail"></div>
+{/if}
 
 <style>
-.anime-card {
-        width: 240px;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-    }
-
-    .anime-card img {
+    img {
         object-fit: cover; 
         width: 240px;
         max-width: 240px;
@@ -66,9 +55,5 @@
         max-height: 360px;
         background-color: orange;
         align-self: center;
-    }
-
-    .anime-information {
-        width: 100%;
     }
 </style>
