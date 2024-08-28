@@ -20,10 +20,14 @@
 <div style="display: flex; justify-content: space-around">
     {#if prevAnime}
         <a style="align-self: center; max-width: 120px;" href="/anime/{prevAnime.slug}">&#8249; {prevAnime.name}</a>
+    {:else}
+        <div style="align-self: center; max-width: 120px;">&nbsp;</div>
     {/if}
     <AnimeCard anime={data.anime}/>
     {#if nextAnime}
         <a style="align-self: center; max-width: 120px;" href="/anime/{nextAnime.slug}">{nextAnime.name} &#8250;</a>
+    {:else}
+        <div style="align-self: center; max-width: 120px;">&nbsp;</div>
     {/if}
 </div>
 
@@ -34,7 +38,7 @@
         {#each data.anime.favorite_ost as ost}
             <li>
                 <p>{ost.youtube_title}</p>
-                <iframe width="640" height="320" title={ost.youtube_title} src=https://youtube.com/embed/{ost.youtube_id} frameborder="0" allowfullscreen></iframe>
+                <iframe style="aspect-ratio: 16 / 9; width: 100%;" title={ost.youtube_title} src=https://youtube.com/embed/{ost.youtube_id} frameborder="0" allowfullscreen></iframe>
             </li>
         {/each}
         </ul>
