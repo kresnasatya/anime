@@ -1,6 +1,31 @@
 <script>
-    import anime from '$lib/anime.json';
+    import animeMap from '$lib/anime.js';
 	import Anime from '$lib/Anime.svelte';
+
+    const anime = Object.values(animeMap);
+
+    let sortOptions = ["name", "released_year"];
+    let sortBy = sortOptions[0];
+
+    $: sorted = sort(sortBy);
+
+    /**
+	 * @param {string} sortBy
+	 */
+    function sort(sortBy) {
+        return anime.sort((a, b) => (a[sortBy] > b[sortBy] ? 1 : -1));
+    }
+
+    let search = "";
+
+    $: filtered = sorted.filter((a) => {
+        return a.name.toLowerCase().includes(search.toLowerCase());
+    });
+
+    function reset() {
+        search = "";
+        sortBy = sortOptions[0];
+    }
 </script>
 
 <div style="text-align: center;">
@@ -8,12 +33,24 @@
     <p><em>List of Anime that Kresna has watched. Made with SvelteKit.</em></p>
 </div>
 
+<div style="text-align: center; margin-bottom: 1rem;">
+    <label for="search">Name</label>
+    <input type="search" id="search" bind:value={search} />
+    <label for="sort">Sort by</label>
+    <select id="sort" bind:value={sortBy}>
+        {#each sortOptions as opt}
+            <option value="{opt}">{opt.replace("_", " ")}</option>
+        {/each}
+    </select>
+    <button on:click={reset}>Reset</button>
+</div>
+
 <ul>
-    {#each anime as item}
-        <li><a href="/anime/{item.slug}">
-            <Anime anime={item}>
-                <p style="font-weight: bold;">{item.name}</p>
-                <span>{item.released_year}</span>
+    {#each filtered as anime (anime.slug)}
+        <li><a href="/anime/{anime.slug}">
+            <Anime anime={anime}>
+                <p style="font-weight: bold;">{anime.name}</p>
+                <span>{anime.released_year}</span>
             </Anime>
             </a>
         </li>
