@@ -701,13 +701,45 @@
     "name": "Kamen Rider 555 (Faiz)",
     "released_year": 2003,
     "slug": "kamen-rider-555",
-    "thumbnail": "/images/anime/kamen-rider-555.webp"
+    "thumbnail": "/images/anime/kamen-rider-555.webp",
+    "favorite_ost": [
+      {
+        "youtube_title": "Kamen Rider 555 (Faiz) Opening",
+        "youtube_id": "fwYCO5QI_Ts"
+      }
+    ]
+  },
+  {
+    "name": "Kamen Rider Blade",
+    "released_year": 2004,
+    "slug": "kamen-rider-blade",
+    "thumbnail": "/images/anime/kamen-rider-blade.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Kamen Rider Blade Opening 1",
+        "youtube_id": "myGlSMgAyr0"
+      },
+      {
+        "youtube_title": "Kamen Rider Blade Opening 2",
+        "youtube_id": "7fHq-lUjlEo"
+      }
+    ]
   },
   {
     "name": "Kamen Rider Ryuki",
     "released_year": 2002,
     "slug": "kamen-rider-ryuki",
-    "thumbnail": "/images/anime/kamen-rider-ryuki.webp"
+    "thumbnail": "/images/anime/kamen-rider-ryuki.webp",
+    "favorite_ost": [
+      {
+        "youtube_title": "Kamen Rider Ryuki Opening",
+        "youtube_id": "GZGVS623lFw"
+      },
+      {
+        "youtube_title": "Kamen Rider Ryuki Survive - Revolution",
+        "youtube_id": "Dih0vokuZXY"
+      }
+    ]
   },
   {
     "name": "Kekkaishi",
@@ -1123,19 +1155,41 @@
     "name": "Ultraman Dyna",
     "released_year": 1997,
     "slug": "ultraman-dyna",
-    "thumbnail": "/images/anime/ultraman-dyna.jpg"
+    "thumbnail": "/images/anime/ultraman-dyna.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Ultraman Dyna Opening Theme",
+        "youtube_id": "8LhMu4bQTQU"
+      }
+    ]
   },
   {
     "name": "Ultraman Gaia",
     "released_year": 1998,
     "slug": "ultraman-gaia",
-    "thumbnail": "/images/anime/ultraman-gaia.jpg"
+    "thumbnail": "/images/anime/ultraman-gaia.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Ultraman Gaia Opening",
+        "youtube_id": "nb4Al1ij0Xw"
+      }
+    ]
   },
   {
     "name": "Ultraman Nexus",
     "released_year": 2004,
     "slug": "ultraman-nexus",
-    "thumbnail": "/images/anime/ultraman-nexus.jpg"
+    "thumbnail": "/images/anime/ultraman-nexus.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Ultraman Nexus Opening 1",
+        "youtube_id": "vWP4chunkJU"
+      },
+      {
+        "youtube_title": "Ultraman Nexus Opening 2",
+        "youtube_id": "4TDhZVTXgY8"
+      }
+    ]
   },
   {
     "name": "Wind Breaker",
