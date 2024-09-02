@@ -36,7 +36,7 @@
         <h2 style="margin-left: -320px;">Favorite Original soundtrack</h2>
         <ul>
         {#each data.anime.favorite_ost as ost}
-            <li>
+            <li class="youtube-ost">
                 <p>{ost.youtube_title}</p>
                 <iframe style="aspect-ratio: 16 / 9; width: 100%;" title={ost.youtube_title} src=https://youtube.com/embed/{ost.youtube_id} frameborder="0" allowfullscreen></iframe>
             </li>
@@ -54,5 +54,16 @@
         flex-direction: column;
         align-items: center;
         gap: 1rem;
+    }
+
+    .youtube-ost {
+        width: 100%;
+    }
+
+    /* Medium screen */
+    @media screen and (min-width: 768px) {
+        .youtube-ost {
+            width: 640px;
+        }
     }
 </style>
