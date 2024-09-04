@@ -555,7 +555,21 @@
     "name": "Fullmetal Alchemist: Brotherhood",
     "released_year": 2009,
     "slug": "fullmetal-alchemist-brotherhood",
-    "thumbnail": "/images/anime/fullmetal-alchemist-brotherhood.jpg"
+    "thumbnail": "/images/anime/fullmetal-alchemist-brotherhood.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Fullmetal Alchemist: Brotherhood - Opening 3 [4K 60FPS | Creditless | CC]",
+        "youtube_id": "1_LJdBw4SZo"
+      },
+      {
+        "youtube_title": "Fullmetal Alchemist: Brotherhood - Opening 5 [4K 60FPS | Creditless | CC]",
+        "youtube_id": "MUlGyqi4ttk"
+      },
+      {
+        "youtube_title": "Fullmetal Alchemist: Brotherhood - Ending 4 [4K 60FPS | Creditless | CC]",
+        "youtube_id": "eAyfr25sEmo"
+      }
+    ]
   },
   {
     "name": "Future GPX Cyber Formula (Asurada)",
