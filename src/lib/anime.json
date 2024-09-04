@@ -708,6 +708,14 @@
       {
         "youtube_title": "Who-ya Extended 「VIVID VICE」- Full Version",
         "youtube_id": "EU6I8TxU6Z4"
+      },
+      {
+        "youtube_title": "King Gnu - Anime Version",
+        "youtube_id": "5yb2N3pnztU"
+      },
+      {
+        "youtube_title": "King Gnu - Full Version",
+        "youtube_id": "fhzKLBZJC3w"
       }
     ]
   },
@@ -1069,7 +1077,17 @@
     "name": "Samurai 7",
     "released_year": 2004,
     "slug": "samurai-7",
-    "thumbnail": "/images/anime/samurai-7.jpg"
+    "thumbnail": "/images/anime/samurai-7.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Samurai 7 Opening - Mangekyo Unlimited - Nanase Aikawa",
+        "youtube_id": "TrccvQSqAV8"
+      },
+      {
+        "youtube_title": "Samurai 7 Ending - Fuhen",
+        "youtube_id": "liTeuvjINXg"
+      }
+    ]
   },
   {
     "name": "Samurai Champloo",
@@ -1081,31 +1099,81 @@
     "name": "Samurai Deeper Kyou",
     "released_year": 2002,
     "slug": "samurai-deeper-kyou",
-    "thumbnail": "/images/anime/samurai-deeper-kyou.jpg"
+    "thumbnail": "/images/anime/samurai-deeper-kyou.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Samurai Deeper Kyo - Opening",
+        "youtube_id": "sKGYL6qgnks"
+      },
+      {
+        "youtube_title": "Samurai Deeper Kyo - Ending",
+        "youtube_id": "dug0nIoDjsw"
+      }
+    ]
   },
   {
     "name": "Samurai X",
     "released_year": 1996,
     "slug": "samurai-x",
-    "thumbnail": "/images/anime/samurai-x.jpg"
+    "thumbnail": "/images/anime/samurai-x.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Samurai X - Nibun no Ichi",
+        "youtube_id": "fW2REjs-zNc"
+      },
+      {
+        "youtube_title": "Samurai X - It's Gonna Rain",
+        "youtube_id": "--BE4gjwISU"
+      }
+    ]
   },
   {
     "name": "Shaman King: Reboot",
     "released_year": 2021,
     "slug": "shaman-king-reboot",
-    "thumbnail": "/images/anime/shaman-king-reboot.jpg"
+    "thumbnail": "/images/anime/shaman-king-reboot.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Shaman King Opening 1",
+        "youtube_id": "emrOpnSCYao"
+      },
+      {
+        "youtube_title": "Shaman King Opening 2",
+        "youtube_id": "4JhEIr_0bdo"
+      },
+      {
+        "youtube_title": "Shaman King Ending 3",
+        "youtube_id": "ShwGb_79yr4"
+      }
+    ]
   },
   {
     "name": "Shangri-La Frontier",
     "released_year": 2023,
     "slug": "shangri-la-frontier",
-    "thumbnail": "/images/anime/shangri-la-frontier.jpg"
+    "thumbnail": "/images/anime/shangri-la-frontier.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "FZMZ - Danger Danger - Anime Version",
+        "youtube_id": "VlcjW90l6c4"
+      },
+      {
+        "youtube_title": "FZMZ - Danger Danger - Full Version",
+        "youtube_id": "e5NIiPEQRUw"
+      }
+    ]
   },
   {
     "name": "Shingeki no Kyojin",
     "released_year": 2013,
     "slug": "shingeki-no-kyojin",
-    "thumbnail": "/images/anime/shingeki-no-kyojin.jpg"
+    "thumbnail": "/images/anime/shingeki-no-kyojin.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Red Swan (Attack on Titan anime theme) - Official Lyric Video YOSHIKI feat. HYDE",
+        "youtube_id": "r1XE8ON8fos"
+      }
+    ]
   },
   {
     "name": "Shinya! Tensai Bakabon",

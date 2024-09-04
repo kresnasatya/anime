@@ -30,11 +30,13 @@
 
 <svelte:head>
     <title>anime.kresna.me - Home</title>
+    <meta name="description" content="List of Anime that I have watched. Let's nostalgia together!">
 </svelte:head>
 
 <div style="text-align: center;">
     <h1>anime.kresna.me</h1>
-    <p><em>List of Anime that Kresna has watched. Made with SvelteKit.</em></p>
+    <p>List of Anime that I have watched.</p>
+    <p><em>Let's nostalgia together! 🤘🤘</em></p>
 </div>
 
 <div style="text-align: center; margin-bottom: 1rem;">
