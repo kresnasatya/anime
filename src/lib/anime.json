@@ -125,13 +125,33 @@
     "name": "Bakugan Battle Brawlers: New Vestroia",
     "released_year": 2010,
     "slug": "bakugan-battle-brawlers-new-vestroia",
-    "thumbnail": "/images/anime/bakugan-battle-brawlers-new-vestroia.webp"
+    "thumbnail": "/images/anime/bakugan-battle-brawlers-new-vestroia.webp",
+    "favorite_ost": [
+      {
+        "youtube_title": "Bakugan New Vestroia Japanese Opening",
+        "youtube_id": "HrK0r9yoPlk"
+      },
+      {
+        "youtube_title": "Cho! Saikyo! Warriors! by Psychic Lover",
+        "youtube_id": "0yaeiGRos2U"
+      }
+    ]
   },
   {
     "name": "Bakusō Kyōdai Let's & Go!!",
     "released_year": 1996,
     "slug": "bakuso-kyodai-lets-go",
-    "thumbnail": "/images/anime/bakuso-kyodai-lets-go.jpg"
+    "thumbnail": "/images/anime/bakuso-kyodai-lets-go.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Bakusou Kyoudai Let's & Go!! Opening 1",
+        "youtube_id": "4-BNPmTgdaY"
+      },
+      {
+        "youtube_title": "Bakusou Kyoudai Let's & Go!! Opening 1 - Bahasa Indonesia",
+        "youtube_id": "tsPoz8LbkRc"
+      }
+    ]
   },
   {
     "name": "Battle B-Daman Fire Spirits!",
@@ -695,7 +715,17 @@
     "name": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
     "released_year": 2004,
     "slug": "juubee-chan-2-siberia-yagyuu-no-gyakushuu",
-    "thumbnail": "/images/anime/juubee-chan-2-siberia-yagyuu-no-gyakushuu.jpg"
+    "thumbnail": "/images/anime/juubee-chan-2-siberia-yagyuu-no-gyakushuu.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "JUBEI CHAN SEASON 2 MAIN THEME OST",
+        "youtube_id": "RLugefwInAw"
+      },
+      {
+        "youtube_title": "Jubei Chan 2 - Jubei vs. Freesia",
+        "youtube_id": "tZWLpxTfnB8"
+      }
+    ]
   },
   {
     "name": "Kamen Rider 555 (Faiz)",
@@ -769,7 +799,17 @@
     "name": "Kiba",
     "released_year": 2006,
     "slug": "kiba",
-    "thumbnail": "/images/anime/kiba.jpg"
+    "thumbnail": "/images/anime/kiba.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Kiba Opening 1 - Sanctuary",
+        "youtube_id": "aABX7zBU17c"
+      },
+      {
+        "youtube_title": "Kiba Opening 2 - Hakanaku Tsuyoku",
+        "youtube_id": "hbiJh4aB0iE"
+      }
+    ]
   },
   {
     "name": "Kimetsu No Yaiba",
