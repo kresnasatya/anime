@@ -544,6 +544,30 @@
     ]
   },
   {
+    "name": "Darwin's Game",
+    "released_year": 2020,
+    "slug": "darwins-game",
+    "thumbnail": "/images/anime/darwins-game.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Darwin`s Game Opening HD",
+        "youtube_id": "NxZcDkYqfqM"
+      },
+      {
+        "youtube_title": "ASCA 「CHAIN」 (Anime「ダーウィンズゲーム(Darwins Game)」OP)",
+        "youtube_id": "FjdvgI_jVP8"
+      },
+      {
+        "youtube_title": "Darwin's Game Ending Song (Alive)",
+        "youtube_id": "fLM0ilwk6n8"
+      },
+      {
+        "youtube_title": "Alive - Mashiro Ayano",
+        "youtube_id": "qx0jpELS3g8"
+      }
+    ]
+  },
+  {
     "name": "Death Note",
     "released_year": 2006,
     "slug": "death-note",
@@ -992,6 +1016,10 @@
       {
         "youtube_title": "DangDang",
         "youtube_id": "4OAI7CLdn80"
+      },
+      {
+        "youtube_title": "Eyeshield 21 Opening 4 Blaze Line",
+        "youtube_id": "VoftWzc6Cto"
       }
     ]
   },
@@ -1597,13 +1625,49 @@
     "name": "Kimetsu No Yaiba",
     "released_year": 2019,
     "slug": "kimetsu-no-yaiba",
-    "thumbnail": "/images/anime/kimetsu-no-yaiba.jpg"
+    "thumbnail": "/images/anime/kimetsu-no-yaiba.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Demon Slayer | OP | Gurenge by LiSA HD",
+        "youtube_id" : "pmanD_s7G3U"
+      },
+      {
+        "youtube_title": "Gurenge - LiSA",
+        "youtube_id": "TqyfmFaZlqw"
+      },
+      {
+        "youtube_title": "TANJIRO | Demon Slayer: Kimetsu no Yaiba | Clip",
+        "youtube_id": "KkQI3ECwfG4"
+      },
+      {
+        "youtube_title": "Kamado Tanjirou no Uta (From Demon Slayer: Kimetsu no Yaiba) (Full Version)",
+        "youtube_id": "QnkqCv0dZTk"
+      },
+      {
+        "youtube_title": "Homura MUSiC CLiP (“Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train Main theme）",
+        "youtube_id": "4DxL6IKmXx4"
+      },
+      {
+        "youtube_title": "MAN WITH A MISSION x milet「Kizuna no Kiseki」Music Video",
+        "youtube_id": "Jb6Zlg30rgk"
+      },
+      {
+        "youtube_title": "milet x MAN WITH A MISSION「Koi Kogare」MUSIC VIDEO",
+        "youtube_id": "vZUyKVE9dus"
+      }
+    ]
   },
   {
     "name": "Kishin Douji Zenki",
     "released_year": 1995,
     "slug": "kishin-douji-zenki",
-    "thumbnail": "/images/anime/kishin-douji-zenki.jpg"
+    "thumbnail": "/images/anime/kishin-douji-zenki.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "鬼神童子ZENKI OP 鬼神童子ZENKI AI 4K 中日字幕 (MAD·AMV)",
+        "youtube_id": "mCHUWVkNRtE"
+      }
+    ]
   },
   {
     "name": "Komi Can't Communicate",
@@ -1627,19 +1691,37 @@
     "name": "Mahoujin Guru Guru",
     "released_year": 2017,
     "slug": "mahoujin-guru-guru",
-    "thumbnail": "/images/anime/mahoujin-guru-guru.jpg"
+    "thumbnail": "/images/anime/mahoujin-guru-guru.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Mahoujin Guru Guru (2017) NCOP 1",
+        "youtube_id": "1-edro8xY80"
+      }
+    ]
   },
   {
     "name": "MÄR (Märchen Awakens Romance)",
     "released_year": 2005,
     "slug": "marchen-awakens-romance",
-    "thumbnail": "/images/anime/marchen-awakens-romance.jpg"
+    "thumbnail": "/images/anime/marchen-awakens-romance.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "MÄR Opening 4",
+        "youtube_id": "g1dMVD0E1Ls"
+      }
+    ]
   },
   {
     "name": "Mashle: Magic and Muscle",
     "released_year": 2023,
     "slug": "mashle-magic-and-muscle",
-    "thumbnail": "/images/anime/mashle-magic-and-muscle.jpg"
+    "thumbnail": "/images/anime/mashle-magic-and-muscle.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "MASHLE: MAGIC AND MUSCLES The Divine Visionary Candidate Exam Arc | OPENING THEME",
+        "youtube_id": "9rVKos-oGnQ"
+      }
+    ]
   },
   {
     "name": "Medabots",
@@ -1651,7 +1733,17 @@
     "name": "Miss Kobayashi's Dragon Maid",
     "released_year": 2017,
     "slug": "miss-kobayashis-dragon-maid",
-    "thumbnail": "/images/anime/miss-kobayashis-dragon-maid.jpg"
+    "thumbnail": "/images/anime/miss-kobayashis-dragon-maid.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Miss Kobayashi's Dragon Maid S2 OP 4K 60FPS",
+        "youtube_id": "rBkia7akWzw"
+      },
+      {
+        "youtube_title": "fhána - 愛のシュプリーム！(TVアニメ『小林さんちのメイドラゴンS』OP主題歌) - Official Music Video",
+        "youtube_id": "XCs7FacjHQY"
+      }
+    ]
   },
   {
     "name": "Mob Psycho 100",
@@ -1663,13 +1755,25 @@
     "name": "Mobile Suit Gundam Wing",
     "released_year": 1995,
     "slug": "mobile-suit-gundam-wing",
-    "thumbnail": "/images/anime/mobile-suit-gundam-wing.jpg"
+    "thumbnail": "/images/anime/mobile-suit-gundam-wing.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Mobile Suit Gundam Wing - Opening 1 | Just Communication",
+        "youtube_id": "oNJ4aBoRipg"
+      }
+    ]
   },
   {
     "name": "Mobile Suit Gundam SEED",
     "released_year": 2002,
     "slug": "mobile-suit-gundam-seed",
-    "thumbnail": "/images/anime/mobile-suit-gundam-seed.jpg"
+    "thumbnail": "/images/anime/mobile-suit-gundam-seed.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Annani Issho Dattanoni - ReTracks See-Saw/GUNDAM SEED HD REMASTER Textless version of ED",
+        "youtube_id": "shRV-LIbsO8"
+      }
+    ]
   },
   {
     "name": "Mobile Suit Gundam SEED Destiny",
@@ -1695,7 +1799,13 @@
     "name": "Monster Rancher",
     "released_year": 1999,
     "slug": "monster-rancher",
-    "thumbnail": "/images/anime/monster-rancher.jpg"
+    "thumbnail": "/images/anime/monster-rancher.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Op2 Monster Farm/Monster Rancher|Close to Your Heart | By | Rina Aiuchi",
+        "youtube_id": "HTVQuyJfjrs"
+      }
+    ]
   },
   {
     "name": "My Happy Marriage",
@@ -1707,31 +1817,233 @@
     "name": "Naruto",
     "released_year": 2002,
     "slug": "naruto",
-    "thumbnail": "/images/anime/naruto.jpg"
+    "thumbnail": "/images/anime/naruto.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Naruto | Opening 2 - Haruka Kanata | VIZ",
+        "youtube_id": "RiQrbSuLrsU"
+      },
+      {
+        "youtube_title": "ASIAN KUNG-FU GENERATION - Haruka Kanata",
+        "youtube_id": "nJ6A6GC_ki4"
+      },
+      {
+        "youtube_title": "Naruto - Opening 3 (HD - 60 fps) - Kanashimi wo Yasashisa ni",
+        "youtube_id": "ayx9WvHMHU8"
+      },
+      {
+        "youtube_title": "Kanashimi wo Yasashisani ni - Little by Little",
+        "youtube_id": "rBnJ7KB9rPc"
+      },
+      {
+        "youtube_title": "Naruto OP 4 - Flow - Go",
+        "youtube_id": "gVbBgiLbMBk"
+      },
+      {
+        "youtube_title": "FLOW - GO!!! / THE FIRST TAKE",
+        "youtube_id": "4RXxabY7hfQ"
+      },
+      {
+        "youtube_title": "Naruto - Opening 5",
+        "youtube_id": "Kd_xbXAlURE"
+      },
+      {
+        "youtube_title": "Naruto | Ending 1 - Wind",
+        "youtube_id": "bdCzOWnEJYc"
+      },
+      {
+        "youtube_title": "Wind - Akeboshi",
+        "youtube_id": "WqGOaOHu5uY"
+      }
+    ]
   },
   {
     "name": "Naruto Shippuden",
     "released_year": 2007,
     "slug": "naruto-shippuden",
-    "thumbnail": "/images/anime/naruto-shippuden.jpg"
+    "thumbnail": "/images/anime/naruto-shippuden.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Naruto Shippuden - Opening 1 | Hero's Come Back",
+        "youtube_id": "EBNl8bwdVcA"
+      },
+      {
+        "youtube_title": "nobodyknows+ Hero's Come Back!!",
+        "youtube_id": "ipBCtl0j4O8"
+      },
+      {
+        "youtube_title": "Naruto Shippuden - Opening 2 (v2) (HD - 60 fps)",
+        "youtube_id": "WLP_G1c1hWA"
+      },
+      {
+        "youtube_title": "Distance - Long Shot Party",
+        "youtube_id": "l-PeSNvZi0E"
+      },
+      {
+        "youtube_title": "Naruto Shippuden - Opening 3 (Creditless) (HD - 60 fps)",
+        "youtube_id": "frdz6P8uwv4"
+      },
+      {
+        "youtube_title": "Ikimonogakari - Blue Bird",
+        "youtube_id": "KpsJWFuVTdI"
+      },
+      {
+        "youtube_title": "Naruto Shippuden Op/ Opening 4",
+        "youtube_id": "m6hbh5i_fg8"
+      },
+      {
+        "youtube_title": "Joe Inoue - CLOSER",
+        "youtube_id": "4Cp0WgkgDbQ"
+      },
+      {
+        "youtube_title": "Naruto Shippuden - Opening 5",
+        "youtube_id": "miFqf3Zedpw"
+      },
+      {
+        "youtube_title": "Ikimonogakari - Hotarunohikari",
+        "youtube_id": "IqKqNcW2-b4"
+      },
+      {
+        "youtube_title": "Naruto Shippuden - Opening 6 | Sign",
+        "youtube_id": "97dkzVU4p-M"
+      },
+      {
+        "youtube_title": "FLOW - Sign",
+        "youtube_id": "qpi9YXaChHI"
+      },
+      {
+        "youtube_title": "Naruto Shippuden - Opening 7 | A World That Was Transparent",
+        "youtube_id": "06EjEq_7RJY"
+      },
+      {
+        "youtube_title": "Toumeidatta Sekai - Motohiro Hata",
+        "youtube_id": "cMFrkiC8A48"
+      },
+      {
+        "youtube_title": "Naruto Shippuden - Opening 8 | Diver",
+        "youtube_id": "P1yJ51DH-18"
+      },
+      {
+        "youtube_title": "Diver - NICO Touches the Walls",
+        "youtube_id": "nuxZTnJE_OE"
+      },
+      {
+        "youtube_title": "Naruto Shippuden Opening 9 - Lovers",
+        "youtube_id": "Br3uO96lNkw"
+      },
+      {
+        "youtube_title": "seven oops - Lovers",
+        "youtube_id": "MF8kHWWFO10"
+      }
+    ]
   },
   {
     "name": "Ninja Rantaro",
     "released_year": 1993,
     "slug": "ninja-rantaro",
-    "thumbnail": "/images/anime/ninja-rantaro.jpg"
+    "thumbnail": "/images/anime/ninja-rantaro.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Yuki 100% - Hey ! Say ! JUMP",
+        "youtube_id": "0wbkqa3eQms"
+      }
+    ]
   },
   {
     "name": "One Piece",
     "released_year": 1999,
     "slug": "one-piece",
-    "thumbnail": "/images/anime/one-piece.jpg"
+    "thumbnail": "/images/anime/one-piece.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "TVアニメ「ONE PIECE」1000話記念: ウィーアー!",
+        "youtube_id": "dM7x1PNZDo0"
+      },
+      {
+        "youtube_title": "Hiroshi Kitadani - We Are! / THE FIRST TAKE",
+        "youtube_id": "HB4iNVa746E"
+      },
+      {
+        "youtube_title": "One Piece - Opening 2 【Believe】",
+        "youtube_id": "QwSkErUIF9k"
+      },
+      {
+        "youtube_title": "Folder 5 / Believe Music Video",
+        "youtube_id": "qM_FepDsJ-Q"
+      },
+      {
+        "youtube_title": "One Piece Opening 3 Hikari E RAW HD 1440p",
+        "youtube_id": "BaZXGFnGei8"
+      },
+      {
+        "youtube_title": "The Babystars HIKARIHE MUSIC VIDEO",
+        "youtube_id": "_YNtUuuBL78"
+      },
+      {
+        "youtube_title": "One Piece - Opening 9 【Jungle P】 4K 60FPS Creditless | CC",
+        "youtube_id": "0dmHjTV6fM4"
+      },
+      {
+        "youtube_title": "Jungle P · 5050",
+        "youtube_id": "mFo75lNnMAM"
+      },
+      {
+        "youtube_title": "One Piece - Opening 11 【Share the World】",
+        "youtube_id": "i4EjetJBdWE"
+      },
+      {
+        "youtube_title": "東方神起 / Share The World",
+        "youtube_id": "2AfIQX8YUVw"
+      },
+      {
+        "youtube_title": "One Piece - Opening 17 【Wake up!】",
+        "youtube_id": "OU8QssAstPA"
+      },
+      {
+        "youtube_title": "AAA / Wake up!",
+        "youtube_id": "wykx9MzjL-8"
+      },
+      {
+        "youtube_title": "One Piece - Opening 19 【We can!】 4K 60FPS Creditless",
+        "youtube_id": "tUlUWiGaEqI"
+      },
+      {
+        "youtube_title": "ウィーキャン!",
+        "youtube_id": "ofE0Jfs4J1M"
+      },
+      {
+        "youtube_title": "＜オープニング映像フル＞TVアニメ「ONE PIECE」／オープニングテーマ「あーーっす！」歌：きただにひろし",
+        "youtube_id": "YFbno_aPm0w"
+      },
+      {
+        "youtube_title": "きただにひろし「 あーーっす！」Music Video（TVアニメ『ONE PIECE』「エッグヘッド編」オープニングテーマ）",
+        "youtube_id": "uauZ91QhfQk"
+      }
+    ]
   },
   {
     "name": "One Punch Man",
     "released_year": 2015,
     "slug": "one-punch-man",
-    "thumbnail": "/images/anime/one-punch-man.jpg"
+    "thumbnail": "/images/anime/one-punch-man.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "One Punch Man - Official Opening - The Hero!! Set Fire to the Furious Fist",
+        "youtube_id": "atxYe-nOa9w"
+      },
+      {
+        "youtube_title": "[Official Video] JAM Project - THE HERO !! - One Punch Man Opening Theme ワンパンマン",
+        "youtube_id": "QImBolnTVH8"
+      },
+      {
+        "youtube_title": "「Creditless」One Punch Man OP / Opening 2「UHD 60FPS」",
+        "youtube_id": "OvgBFgLUyC8"
+      },
+      {
+        "youtube_title": "Uncrowned Greatest Hero · JAM Project",
+        "youtube_id": "5hr2eFnarak"
+      }
+    ]
   },
   {
     "name": "Onmyoji",
@@ -1743,25 +2055,93 @@
     "name": "Pokemon",
     "released_year": 1997,
     "slug": "pokemon",
-    "thumbnail": "/images/anime/pokemon.jpg"
+    "thumbnail": "/images/anime/pokemon.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Satoshi (CV:Rica Matsumoto) - Mezase Pokémon Master -with my friends- / THE FIRST TAKE",
+        "youtube_id": "hMKf5mE3sdo"
+      }
+    ]
   },
   {
     "name": "Pokemon Best Wishes!",
     "released_year": 2010,
     "slug": "pokemon-best-wishes",
-    "thumbnail": "/images/anime/pokemon-best-wishes.jpg"
+    "thumbnail": "/images/anime/pokemon-best-wishes.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Pocket Monsters: Best Wishes! - Opening",
+        "youtube_id": "80ldGt00Z18"
+      }
+    ]
   },
   {
     "name": "Pokemon Diamond & Pearl",
     "released_year": 2006,
     "slug": "pokemon-diamond-pearl",
-    "thumbnail": "/images/anime/pokemon-diamond-pearl.jpeg"
+    "thumbnail": "/images/anime/pokemon-diamond-pearl.jpeg",
+    "favorite_ost": [
+      {
+        "youtube_title": "ポケットモンスター (Pocket Monsters) (Pokemon) Diamond and Pearl - Opening 3 ",
+        "youtube_id": "pl2xynxwKpM"
+      },
+      {
+        "youtube_title": "Pokémon Anime Song - Saikou Everyday!",
+        "youtube_id": "s-JJolVoL5E"
+      },
+      {
+        "youtube_title": "Pokémon Anime Song - Together",
+        "youtube_id": "fxYjkVW-A4I"
+      },
+      {
+        "youtube_title": "Pocket Monsters Diamond & Pearl - OP2 v1 | High Touch (RAW)",
+        "youtube_id": "Ja3JgXN0Oh8"
+      },
+      {
+        "youtube_title": "Pokémon Anime Song - High Touch!",
+        "youtube_id": "VQqHx5LnfiI"
+      }
+    ]
+  },
+  {
+    "name": "Pokemon Sword & Shield",
+    "released_year": 2019,
+    "slug": "pokemon-sword-shield",
+    "thumbnail": "/images/anime/pokemon-sword-shield.png",
+    "favorite_ost": [
+      {
+        "youtube_title": "Pokemon 2022 Opening 4 Official (Versión Rika Matsumoto and Daiki Yamashita) HD",
+        "youtube_id": "LTl4VBY8iEI"
+      },
+      {
+        "youtube_title": "1・2・3 - Satoshi & Go",
+        "youtube_id": "-24DMtHQ7fU"
+      }
+    ]
   },
   {
     "name": "Pokemon Sun & Moon",
     "released_year": 2016,
     "slug": "pokemon-sun-moon",
-    "thumbnail": "/images/anime/pokemon-sun-moon.jpg"
+    "thumbnail": "/images/anime/pokemon-sun-moon.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Pocket Monsters OP24 / SM OP3 - Future Connection「未来コネクション」(Creditless) [LQ]",
+        "youtube_id": "XYIwEewsYwY"
+      },
+      {
+        "youtube_title": "Mirai Connection · ReaL",
+        "youtube_id": "HlG8PNu1ttI"
+      },
+      {
+        "youtube_title": "Pokémon Sun and Moon Opening 4 - Your Adventure (HD)",
+        "youtube_id": "Pd0YppDJc0Q"
+      },
+      {
+        "youtube_title": "Kimi no Bouken · okazakitaiiku",
+        "youtube_id": "h_5xLI7Srrc"
+      }
+    ]
   },
   {
     "name": "Pokemon XY",
@@ -1773,7 +2153,17 @@
     "name": "Pokemon XY&Z",
     "released_year": 2015,
     "slug": "pokemon-xyz",
-    "thumbnail": "/images/anime/pokemon-xyz.jpg"
+    "thumbnail": "/images/anime/pokemon-xyz.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Pocket Monsters OP21 / XY OP4 (XY&Z OP) -「XY&Z」(Creditless) [HD]",
+        "youtube_id": "rXWDOI4f4Wk"
+      },
+      {
+        "youtube_title": "XY & Z ReaL Cover Version",
+        "youtube_id": "CUl8Ciwkn4g"
+      }
+    ]
   },
   {
     "name": "Pretty Cure",
@@ -1785,7 +2175,13 @@
     "name": "Ragnarok: The Animation",
     "released_year": 2004,
     "slug": "ragnarok-the-animation",
-    "thumbnail": "/images/anime/ragnarok-the-animation.jpg"
+    "thumbnail": "/images/anime/ragnarok-the-animation.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Ragnarok the Animation OP",
+        "youtube_id": "wl_yrXC3358"
+      }
+    ]
   },
   {
     "name": "Ranma!",
