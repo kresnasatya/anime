@@ -2169,7 +2169,13 @@
     "name": "Pretty Cure",
     "released_year": 2004,
     "slug": "pretty-cure",
-    "thumbnail": "/images/anime/pretty-cure.jpg"
+    "thumbnail": "/images/anime/pretty-cure.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Pretty Cure Opening",
+        "youtube_id": "SX836fYQL4E"
+      }
+    ]
   },
   {
     "name": "Ragnarok: The Animation",
@@ -2179,7 +2185,11 @@
     "favorite_ost": [
       {
         "youtube_title": "Ragnarok the Animation OP",
-        "youtube_id": "wl_yrXC3358"
+        "youtube_id": "slnsWsMXqTE"
+      },
+      {
+        "youtube_title": "Ragnarok the Animation OP - Full Version",
+        "youtube_id": "XTg9iGUyDIg"
       }
     ]
   },
@@ -2187,31 +2197,85 @@
     "name": "Ranma!",
     "released_year": 1989,
     "slug": "ranma",
-    "thumbnail": "/images/anime/ranma.jpg"
+    "thumbnail": "/images/anime/ranma.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Ranma 1/2 OPENING HD (Japanese)",
+        "youtube_id": "QlZiGylP1M8"
+      },
+      {
+        "youtube_title": "Ranma 1/2 OPENING HD (Bahasa Indonesia)",
+        "youtube_id": "oN-Obg9Ad6A"
+      }
+    ]
   },
   {
     "name": "Rave Master",
     "released_year": 2004,
     "slug": "rave-master",
-    "thumbnail": "/images/anime/rave-master.jpg"
+    "thumbnail": "/images/anime/rave-master.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Rave Master Opening",
+        "youtube_id": "Ql2LDswySUU"
+      }
+    ]
   },
   {
     "name": "Record of Ragnarok",
     "released_year": 2021,
     "slug": "record-of-ragnarok",
-    "thumbnail": "/images/anime/record-of-ragnarok.jpg"
+    "thumbnail": "/images/anime/record-of-ragnarok.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Record of Ragnarok II OP | Rude Loose Dance - Minami | Netflix Anime",
+        "youtube_id": "m-NgCG_YIDU"
+      },
+      {
+        "youtube_title": "Minami「RUDE LOSE DANCE」(Anime「Record of RagnarokⅡ」Opening song)",
+        "youtube_id": "F86GZpO_ZeU"
+      }
+    ]
   },
   {
     "name": "Saint Seiya",
     "released_year": 1986,
     "slug": "saint-seiya",
-    "thumbnail": "/images/anime/saint-seiya.jpg"
+    "thumbnail": "/images/anime/saint-seiya.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Pegasus Fantasy - Saint Seiya",
+        "youtube_id": "Bu533OKYHyc"
+      },
+      {
+        "youtube_title": "Pegasus Fantasy - Make Up / YOYOKA's 12th Birthday Session",
+        "youtube_id": "qVM4NNkPfAU"
+      },
+      {
+        "youtube_title": "Saint Seiya Opening 2 - Soldier Dream (Asgard Arc)",
+        "youtube_id": "JUJP5eAxcIA"
+      },
+      {
+        "youtube_title": "Soldier Dream - Hironobu Kageyama",
+        "youtube_id": "3fGbMYAOCp4"
+      }
+    ]
   },
   {
     "name": "Saint Seiya: Hades Elysion",
     "released_year": 2008,
     "slug": "saint-seiya-hades-elysion",
-    "thumbnail": "/images/anime/saint-seiya-hades-elysion.jpg"
+    "thumbnail": "/images/anime/saint-seiya-hades-elysion.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Saint Seiya Hades Elysion Opening",
+        "youtube_id": "fgM1whMyww4"
+      },
+      {
+        "youtube_title": "Marina Del Ray - Megami no senshi (Pegasus Forever)",
+        "youtube_id": "MtS8WTrnYTg"
+      }
+    ]
   },
   {
     "name": "Saint Seiya: Meiou Hades Meikai-hen",
@@ -2223,25 +2287,77 @@
     "name": "Saint Seiya: Meiou Hades Meikai-hen Juuni Kyuu-hen",
     "released_year": 2002,
     "slug": "saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen",
-    "thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen.jpg"
+    "thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Saint Seiya - Hades Sanctuary Opening (Chikyuugi)",
+        "youtube_id": "Sr-arGycW7g"
+      },
+      {
+        "youtube_title": "Chikyuugi - Yumi Matsuzawa",
+        "youtube_id": "0l9tvDMYKjI"
+      }
+    ]
   },
   {
     "name": "Saint Seiya: Omega",
     "released_year": 2012,
     "slug": "saint-seiya-omega",
-    "thumbnail": "/images/anime/saint-seiya-omega.jpg"
+    "thumbnail": "/images/anime/saint-seiya-omega.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Saint Seiya Omega - Opening HD",
+        "youtube_id": "_1JvxrSlDRc"
+      },
+      {
+        "youtube_title": "Saint Seiya Omega Opening 4 - Senkou (TV Version)",
+        "youtube_id": "ZCQ1dTlIoc4"
+      },
+      {
+        "youtube_title": "Senko - Cyntia",
+        "youtube_id": "wueW30rZtPE"
+      }
+    ]
   },
   {
     "name": "Saint Seiya: Saintia Shou",
     "released_year": 2018,
     "slug": "saint-seiya-saintia-shou",
-    "thumbnail": "/images/anime/saint-seiya-saintia-shou.jpg"
+    "thumbnail": "/images/anime/saint-seiya-saintia-shou.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Saint Seiya: Saintia Sho Opening",
+        "youtube_id": "wvgh8KB8xCs"
+      },
+      {
+        "youtube_title": "The Beautiful Brave (From Saint Seiya: Saintia Sho)",
+        "youtube_id": "WQkjKqZUUwA"
+      }
+    ]
   },
   {
     "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
     "released_year": 2009,
     "slug": "saint-seiya-the-lost-canvas-meiou-shinwa",
-    "thumbnail": "/images/anime/saint-seiya-the-lost-canvas-meiou-shinwa.jpg"
+    "thumbnail": "/images/anime/saint-seiya-the-lost-canvas-meiou-shinwa.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "SAINT SEIYA: THE LOST CANVAS Season 2 OPENING",
+        "youtube_id": "9uaXyaOUm8s"
+      },
+      {
+        "youtube_title": "Saint Seiya The Lost Canvas Opening (Full Version)",
+        "youtube_id": "__QP4UjrFF0"
+      },
+      {
+        "youtube_title": "Saint Seiya The Lost Canvas Ending (TV Version)",
+        "youtube_id": "15C6V8tcs0U"
+      },
+      {
+        "youtube_title": "Maki Ikuno feat Marina Del Ray - Hana no Kusari (Romaji/English)",
+        "youtube_id": "sHJBKWj1dbc"
+      }
+    ]
   },
   {
     "name": "Samurai 7",
@@ -2254,8 +2370,16 @@
         "youtube_id": "TrccvQSqAV8"
       },
       {
+        "youtube_title": "UNLIMITED - Nanase Aikawa",
+        "youtube_id": "QwpP1op-NN4"
+      },
+      {
         "youtube_title": "Samurai 7 Ending - Fuhen",
         "youtube_id": "liTeuvjINXg"
+      },
+      {
+        "youtube_title": "Fuhen - Rin",
+        "youtube_id": "z5vXILcMzHU"
       }
     ]
   },
@@ -2263,7 +2387,25 @@
     "name": "Samurai Champloo",
     "released_year": 2004,
     "slug": "samurai-champloo",
-    "thumbnail": "/images/anime/samurai-champloo.jpg"
+    "thumbnail": "/images/anime/samurai-champloo.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Samurai Champloo - Opening | Battlecry",
+        "youtube_id": "Eq6EYcpWB_c"
+      },
+      {
+        "youtube_title": "Samurai Champloo - Opening (Full Version)",
+        "youtube_id": "GTWz7ugif-Y"
+      },
+      {
+        "youtube_title": "Samurai Champloo - Ending | Shiki No Uta",
+        "youtube_id": "mQAfG3DgG7M"
+      },
+      {
+        "youtube_title": "Shiki No Uta - Minmi",
+        "youtube_id": "UQbcyOxqDFw"
+      }
+    ]
   },
   {
     "name": "Samurai Deeper Kyou",
@@ -2292,8 +2434,20 @@
         "youtube_id": "fW2REjs-zNc"
       },
       {
+        "youtube_title": "【MV】Makoto Kawamoto Nibun no Ichi",
+        "youtube_id": "Un4DxLaADvw"
+      },
+      {
         "youtube_title": "Samurai X - It's Gonna Rain",
         "youtube_id": "--BE4gjwISU"
+      },
+      {
+        "youtube_title": "It's Gonna Rain! - Bonnie Pink",
+        "youtube_id": "0hyn4-o8_kM"
+      },
+      {
+        "youtube_title": "1/3 No Junjo Na Kanjo · Siam Shade",
+        "youtube_id": "tDs0W-wo8dI"
       }
     ]
   },
@@ -2312,8 +2466,16 @@
         "youtube_id": "4JhEIr_0bdo"
       },
       {
+        "youtube_title": "Get up! Shout!",
+        "youtube_id": "RitVvlRBEmY"
+      },
+      {
         "youtube_title": "Shaman King Ending 3",
         "youtube_id": "ShwGb_79yr4"
+      },
+      {
+        "youtube_title": "Hazuki - Saji",
+        "youtube_id": "iPzE6_aJ3p4"
       }
     ]
   },
@@ -2348,7 +2510,7 @@
         "youtube_id": "o75PUTiHEXU"
       },
       {
-        "youtube_title": "▶ Attack on Titan / Shingeki no Kyojin Season 3 OP •「Red Swan」 YOSHIKI feat. HYDE ᴴᴰ",
+        "youtube_title": "Attack on Titan / Shingeki no Kyojin Season 3 OP •「Red Swan」 YOSHIKI feat. HYDE",
         "youtube_id": "MWSR17vEVBw"
       },
       {
@@ -2373,7 +2535,17 @@
     "name": "Slayers Try",
     "released_year": 1995,
     "slug": "slayers-try",
-    "thumbnail": "/images/anime/slayers-try.jpg"
+    "thumbnail": "/images/anime/slayers-try.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Slayers Try Opening (Breeze)",
+        "youtube_id": "O5rJRlq11pc"
+      },
+      {
+        "youtube_title": "Breeze - Megumi Hayashibara",
+        "youtube_id": "RyDU38mpTgQ"
+      }
+    ]
   },
   {
     "name": "Solo Leveling",
@@ -2385,31 +2557,85 @@
     "name": "Spy X Family",
     "released_year": 2022,
     "slug": "spy-x-family",
-    "thumbnail": "/images/anime/spy-x-family.jpg"
+    "thumbnail": "/images/anime/spy-x-family.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "SPY x FAMILY Opening (TV Version)",
+        "youtube_id": "U_rWZK_8vUY" 
+      },
+      {
+        "youtube_title": "Mixed Nuts - Official dism",
+        "youtube_id": "EZy_vHyFedw"
+      }
+    ]
   },
   {
     "name": "Super Yoyo",
     "released_year": 1998,
     "slug": "super-yoyo",
-    "thumbnail": "/images/anime/super-yoyo.jpg"
+    "thumbnail": "/images/anime/super-yoyo.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Super YoYo Opening",
+        "youtube_id": "279ZbMhjFOs"
+      }
+    ]
   },
   {
     "name": "Sword Art Online",
     "released_year": 2012,
     "slug": "sword-art-online",
-    "thumbnail": "/images/anime/sword-art-online.jpg"
+    "thumbnail": "/images/anime/sword-art-online.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Sword Art Online - Opening",
+        "youtube_id": "1oOBjyOKu2o"
+      },
+      {
+        "youtube_title": "Crossing Field - LiSA",
+        "youtube_id": "KId6eunoiWk"
+      }
+    ]
   },
   {
     "name": "Sword Art Online: Alicization",
     "released_year": 2018,
     "slug": "sword-art-online-alicization",
-    "thumbnail": "/images/anime/sword-art-online-alicization.jpg"
+    "thumbnail": "/images/anime/sword-art-online-alicization.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Sword Art Online: Alicization Opening 1",
+        "youtube_id": "3hdJ8PKNXrc"
+      },
+      {
+        "youtube_title": "ADAMAS - LiSA",
+        "youtube_id": "v2tmzEuVEz8"
+      },
+      {
+        "youtube_title": "Sword Art Online: Alicization Opening 2",
+        "youtube_id": "V9QNIS4-Bsk"
+      },
+      {
+        "youtube_title": "Resister - ASCA",
+        "youtube_id": "RPZwWt6_unE"
+      }
+    ]
   },
   {
     "name": "Sword Art Online: Alicization War of Underworld",
     "released_year": 2019,
     "slug": "sword-art-online-alicization-war-of-underworld",
-    "thumbnail": "/images/anime/sword-art-online-alicization-war-of-underworld.jpg"
+    "thumbnail": "/images/anime/sword-art-online-alicization-war-of-underworld.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Sword Art Online Alicization War of Underworld Opening 2",
+        "youtube_id": "EMZ8N-NcAsY"
+      },
+      {
+        "youtube_title": "Anima - Reona",
+        "youtube_id": "Qo_4XqKwrSM"
+      }
+    ]
   },
   {
     "name": "The Apothecary Diaries",
@@ -2421,7 +2647,33 @@
     "name": "The Law of Ueki",
     "released_year": 2005,
     "slug": "the-law-of-ueki",
-    "thumbnail": "/images/anime/the-law-of-ueki.jpg"
+    "thumbnail": "/images/anime/the-law-of-ueki.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "The Law Of Ueki Opening 1",
+        "youtube_id": "Hg7a5CIDATE"
+      },
+      {
+        "youtube_title": "Falco - Hitomi Shimatani",
+        "youtube_id": "SAImzSJPTww"
+      },
+      {
+        "youtube_title": "The Law Of Ueki Ending 1",
+        "youtube_id": "cxj3-xB7bGk"
+      },
+      {
+        "youtube_title": "Little Planets - Aiko Kayo",
+        "youtube_id": "m97xMDG75-Q"
+      },
+      {
+        "youtube_title": "The Law Of Ueki Opening 2",
+        "youtube_id": "fMdODizlN64"
+      },
+      {
+        "youtube_title": "Regret - Koda Kumi",
+        "youtube_id": "B3Re_6dfdRI"
+      }
+    ]
   },
   {
     "name": "The Way of the Househusband",
@@ -2433,7 +2685,17 @@
     "name": "Tower of God (Kami no Tou)",
     "released_year": 2020,
     "slug": "tower-of-god-kami-no-tou",
-    "thumbnail": "/images/anime/tower-of-god-kami-no-tou.jpg"
+    "thumbnail": "/images/anime/tower-of-god-kami-no-tou.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Tower of God Opening 1",
+        "youtube_id": "Q8o_cn6UIZM"
+      },
+      {
+        "youtube_title": "TOP - Stray Kids",
+        "youtube_id": "o7lqCcE4Lho"
+      }
+    ]
   },
   {
     "name": "Trigun Stampede",
@@ -2491,37 +2753,153 @@
     "name": "Yu-Gi-Oh! 5Ds",
     "released_year": 2008,
     "slug": "yu-gi-oh-5ds",
-    "thumbnail": "/images/anime/yu-gi-oh-5ds.jpg"
+    "thumbnail": "/images/anime/yu-gi-oh-5ds.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Yugioh 5D's OPENING 5 Masaaki Endoh - Going my Way!",
+        "youtube_id": "idhjkQ4TwBM"
+      },
+      {
+        "youtube_title": "Going My Way - Masaaki Endoh",
+        "youtube_id": "_H_4h-ZMpKs"
+      },
+      {
+        "youtube_title": "Clear Mind - Masaaki Endoh",
+        "youtube_id": "O1Sx7B5WnDo"
+      }
+    ]
   },
   {
     "name": "Yu-Gi-Oh! Arc-V",
     "released_year": 2014,
     "slug": "yu-gi-oh-arc-v",
-    "thumbnail": "/images/anime/yu-gi-oh-arc-v.jpg"
+    "thumbnail": "/images/anime/yu-gi-oh-arc-v.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Yu Gi Oh! - ARC-V OP 4",
+        "youtube_id": "1n76WtCQ1hM"
+      },
+      {
+        "youtube_title": "Kirifuda - Cinema Staff",
+        "youtube_id": "6ABdkzf-f7o"
+      },
+      {
+        "youtube_title": "Yu-Gi-Oh! ARC-V OP 6",
+        "youtube_id": "SbnuF4qdI9w"
+      },
+      {
+        "youtube_title": "Pendulum Beat! - Super Dragon",
+        "youtube_id": "ViPq2AOPdhQ"
+      },
+      {
+        "youtube_title": "Yu-Gi-Oh! ARC-V ED 6",
+        "youtube_id": "tpFOxRpd1hg"
+      },
+      {
+        "youtube_title": "Shissou Pendulum - M!LK",
+        "youtube_id": "VFqxumPI51w"
+      }
+    ]
   },
   {
     "name": "Yu-Gi-Oh! Duel Monsters",
     "released_year": 2000,
     "slug": "yu-gi-oh-duel-monsters",
-    "thumbnail": "/images/anime/yu-gi-oh-duel-monsters.jpg"
+    "thumbnail": "/images/anime/yu-gi-oh-duel-monsters.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Yu-Gi-Oh! Duel Monsters Opening 4 - Warriors",
+        "youtube_id": "Knol1XR7ciY"
+      },
+      {
+        "youtube_title": "Warriors - Yuuichi Ikusawa",
+        "youtube_id": "JNO1_2ilRz8"
+      },
+      {
+        "youtube_title": "Yu-Gi-Oh! Duel Monsters Opening 6 - Overlap",
+        "youtube_id": "S-MboceanDM"
+      },
+      {
+        "youtube_title": "Overlap - Kimeru",
+        "youtube_id": "bk239XQ6MJQ"
+      }
+    ]
   },
   {
     "name": "Yu-Gi-Oh! GX",
     "released_year": 2004,
     "slug": "yu-gi-oh-gx",
-    "thumbnail": "/images/anime/yu-gi-oh-gx.jpg"
+    "thumbnail": "/images/anime/yu-gi-oh-gx.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Yu Gi Oh! GX Season 3 Opening - Teardrop",
+        "youtube_id": "udjujqX164o"
+      },
+      {
+        "youtube_title": "Teardrop - BOWL",
+        "youtube_id": "9boibqflDEE"
+      },
+      {
+        "youtube_title": "Yu-Gi-Oh! GX Opening 4 - Precious Time Glory Days",
+        "youtube_id": "1Amu8uyt4e4"
+      },
+      {
+        "youtube_title": "Precious Time, Glory Days 2018 - Psychic Lover",
+        "youtube_id": "XTQ_45lYKk0"
+      }
+    ]
   },
   {
     "name": "Yu-Gi-Oh! VRAINS",
     "released_year": 2017,
     "slug": "yu-gi-oh-vrains",
-    "thumbnail": "/images/anime/yu-gi-oh-vrains.jpg"
+    "thumbnail": "/images/anime/yu-gi-oh-vrains.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Yugioh VRAINS OP 3 - Calling - Kimeru",
+        "youtube_id": "qu1ZQMEydbc"
+      },
+      {
+        "youtube_title": "Calling - Kimeru",
+        "youtube_id": "FuWUfwdGL7Y"
+      },
+      {
+        "youtube_title": "Glory - Band Maid",
+        "youtube_id": "TAMiLTiXPpU"
+      }
+    ]
   },
   {
     "name": "Yu-Gi-Oh! Zexal",
     "released_year": 2011,
     "slug": "yu-gi-oh-zexal",
-    "thumbnail": "/images/anime/yu-gi-oh-zexal.jpg"
+    "thumbnail": "/images/anime/yu-gi-oh-zexal.jpg",
+    "favorite_ost": [
+      {
+        "youtube_title": "Yu Gi Oh! Zexal Opening 1",
+        "youtube_id": "8o6acABBWDk"
+      },
+      {
+        "youtube_title": "Master Piece - Mihimaru",
+        "youtube_id": "A2v-ZrEIAT4"
+      },
+      {
+        "youtube_title": "Yu-Gi-Oh! ZEXAL II Opening 5 - Dualism of Mirrors",
+        "youtube_id": "LaI0JKILGHk"
+      },
+      {
+        "youtube_title": "Dualism of Mirrors - Petit Milady",
+        "youtube_id": "S8a8T6-sJhw"
+      },
+      {
+        "youtube_title": "Yu-Gi-Oh! ZeXal Opening 6 - Wonder Wings",
+        "youtube_id": "zEUpD9Rcvr8"
+      },
+      {
+        "youtube_title": "Wonder Wings - Diamond Yukai",
+        "youtube_id": "T1G7WPuqvA0"
+      }
+    ]
   },
   {
     "name": "Zoids",
