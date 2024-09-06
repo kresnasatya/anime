@@ -34,8 +34,9 @@
 </svelte:head>
 
 <div style="text-align: center;">
-    <h1>anime.kresna.me</h1>
+    <h1><a href="/">anime.kresna.me</a></h1>
     <p>List of Anime that I have watched.</p>
+    <p>I have watched {anime.length} anime series and stil counting. How about you?</p>
     <p><em>Let's nostalgia together! 🤘🤘</em></p>
 </div>
 
