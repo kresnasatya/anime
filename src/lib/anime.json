@@ -1,2916 +1,2538 @@
 [
-  {
-    "name": "Accel World",
-    "released_year": 2012,
-    "slug": "accel-world",
-    "thumbnail": "/images/anime/accel-world.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Accel World Opening 1 Creditless 60fps",
-        "youtube_id": "uTErr5pGmZc"
-      },
-      {
-        "youtube_title": "Accel World Opening 2 'Burst The Gravity By ALTIMA' HD descarga full",
-        "youtube_id": "IGRAfhYEYKM"
-      }
-    ]
-  },
-  {
-    "name": "Air Gear",
-    "released_year": 2006,
-    "slug": "air-gear",
-    "thumbnail": "/images/anime/air-gear.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Air Gear Opening HD",
-        "youtube_id": "klFVxGAacz0"
-      }
-    ]
-  },
-  {
-    "name": "Arslan Senki",
-    "released_year": 2015,
-    "slug": "arslan-senki",
-    "thumbnail": "/images/anime/arslan-senki.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "The Heroic Legend of Arslan – Opening Theme – These Are Not My Words, They’re Our Words",
-        "youtube_id": "PSGYL-ZD0_Q"
-      },
-      {
-        "youtube_title": "The Heroic Legend of Arslan – Opening Theme 2 – Uzu to Uzu",
-        "youtube_id": "5GC24nvBUTI"
-      },
-      {
-        "youtube_title": "The Heroic Legend of Arslan - Official Ending #2 - Kalafina - One Light",
-        "youtube_id": "LtHSlpL7lHg"
-      }
-    ]
-  },
-  {
-    "name": "Arslan Senki: Fuujin Ranbu",
-    "released_year": 2016,
-    "slug": "arslan-senki-fuujin-ranbu",
-    "thumbnail": "/images/anime/arslan-senki-fuujin-ranbu.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Arslan Senki (TV): Fuujin Ranbu Opening - Eir Aoi - Tsubasa",
-        "youtube_id": "f0aw5pqlOWY"
-      }
-    ]
-  },
-  {
-    "name": "Astro Boy",
-    "released_year": 2003,
-    "slug": "astro-boy",
-    "thumbnail": "/images/anime/astro-boy.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Astro Boy Opening - True Blue by ZONE",
-        "youtube_id": "sIpSZJ0oc24"
-      },
-      {
-        "youtube_title": "ASTRO BOY・鉄腕アトム Creditless OP 2: Now or Never - CHEMISTRY meets m-flo",
-        "youtube_id": "5jMvZTfl5K0"
-      }
-    ]
-  },
-  {
-    "name": "Bakegyamon",
-    "released_year": 2006,
-    "slug": "bakegyamon",
-    "thumbnail": "/images/anime/bakegyamon.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Bakegyamon Opening 1",
-        "youtube_id": "R5TZxE5ZNo4"
-      },
-      {
-        "youtube_title": "Bakegyamon Opening 2",
-        "youtube_id": "RC0uvullJNo"
-      },
-      {
-        "youtube_title": "Soramimi Bakegyamon",
-        "youtube_id": "5bCK_S415gI"
-      },
-      {
-        "youtube_title": "Bakegyamon Ending Song - Always there for you",
-        "youtube_id": "MBlfIUCcaik"
-      }
-    ]
-  },
-  {
-    "name": "Bakugan Battle Brawlers",
-    "released_year": 2007,
-    "slug": "bakugan-battle-brawlers",
-    "thumbnail": "/images/anime/bakugan-battle-brawlers.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Bakugan Battle Brawlers Opening 2 - Bucchigiri Infinite Generation by Psychic Lover",
-        "youtube_id": "Y4MUelAiquM"
-      },
-      {
-        "youtube_title": "[Bucchigiri Infinite Generation by Psychic Lover] - Full Version",
-        "youtube_id": "RukDXLkBRrg"
-      }
-    ]
-  },
-  {
-    "name": "Bakugan Battle Brawlers: Gundalian Invaders",
-    "released_year": 2011,
-    "slug": "bakugan-battle-brawlers-gundalian-invaders",
-    "thumbnail": "/images/anime/bakugan-battle-brawlers-gundalian-invaders.jpg"
-  },
-  {
-    "name": "Bakugan Battle Brawlers: New Vestroia",
-    "released_year": 2010,
-    "slug": "bakugan-battle-brawlers-new-vestroia",
-    "thumbnail": "/images/anime/bakugan-battle-brawlers-new-vestroia.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Bakugan New Vestroia Japanese Opening",
-        "youtube_id": "HrK0r9yoPlk"
-      },
-      {
-        "youtube_title": "Cho! Saikyo! Warriors! by Psychic Lover",
-        "youtube_id": "0yaeiGRos2U"
-      }
-    ]
-  },
-  {
-    "name": "Bakusō Kyōdai Let's & Go!!",
-    "released_year": 1996,
-    "slug": "bakuso-kyodai-lets-go",
-    "thumbnail": "/images/anime/bakuso-kyodai-lets-go.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Bakusou Kyoudai Let's & Go!! Opening 1",
-        "youtube_id": "4-BNPmTgdaY"
-      },
-      {
-        "youtube_title": "Bakusou Kyoudai Let's & Go!! Opening 1 - Bahasa Indonesia",
-        "youtube_id": "tsPoz8LbkRc"
-      }
-    ]
-  },
-  {
-    "name": "Battle B-Daman Fire Spirits!",
-    "released_year": 2005,
-    "slug": "battle-b-daman-fire-spirits",
-    "thumbnail": "/images/anime/battle-b-daman-fire-spirits.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Battle B-Daman Fire Spirits Opening 1",
-        "youtube_id": "ZqRKn8AU4HY"
-      },
-      {
-        "youtube_title": "Battle B-Daman Fire Spirits Opening 2",
-        "youtube_id": "yOdowkYPIII"
-      }
-    ]
-  },
-  {
-    "name": "Beyblade",
-    "released_year": 2001,
-    "slug": "beyblade",
-    "thumbnail": "/images/anime/beyblade.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Bakuten Shoot Beyblade - Fighting Spirits [Japanese Opening]",
-        "youtube_id": "P8gZbrDNbHM"
-      }
-    ]
-  },
-  {
-    "name": "Beyblade G Revolution",
-    "released_year": 2003,
-    "slug": "beyblade-g-revolution",
-    "thumbnail": "/images/anime/beyblade-g-revolution.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Bakuten Shoot Beyblade G-Revolution OP 1 (GO AHEAD)",
-        "youtube_id": "qoHAIlvellw"
-      },
-      {
-        "youtube_title": "Bakuten Shoot Beyblade G-Revolution OP 2 (IDENTIFIED)",
-        "youtube_id": "8HiASKWsVzw"
-      }
-    ]
-  },
-  {
-    "name": "Beyblade Metal Fury",
-    "released_year": 2011,
-    "slug": "beyblade-metal-fury",
-    "thumbnail": "/images/anime/beyblade-metal-fury.webp"
-  },
-  {
-    "name": "Beyblade Metal Fusion",
-    "alternative_name": "Beyblade Metal Fight",
-    "released_year": 2009,
-    "slug": "beyblade-metal-fusion",
-    "thumbnail": "/images/anime/beyblade-metal-fusion.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Beyblade Metal Fight Opening HQ (JAPANESE)",
-        "youtube_id": "r_hV4wBIxM8"
-      }
-    ]
-  },
-  {
-    "name": "Beyblade Metal Masters",
-    "alternative_name": "Metal Fight Beyblade Explosion",
-    "released_year": 2010,
-    "slug": "beyblade-metal-masters",
-    "thumbnail": "/images/anime/beyblade-metal-masters.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Beyblade Metal Fight Explosion - [Opening HD]",
-        "youtube_id": "_uNSwrGEdKw"
-      },
-      {
-        "youtube_title": "Metal Fight Beyblade Explosion Ending",
-        "youtube_id": "cNYxyiLiflw"
-      }
-    ]
-  },
-  {
-    "name": "Beyblade V-Force",
-    "released_year": 2002,
-    "slug": "beyblade-v-force",
-    "thumbnail": "/images/anime/beyblade-v-force.jpg"
-  },
-  {
-    "name": "Black Clover",
-    "released_year": 2017,
-    "slug": "black-clover",
-    "thumbnail": "/images/anime/black-clover.jpg"
-  },
-  {
-    "name": "Bleach",
-    "released_year": 2004,
-    "slug": "bleach",
-    "thumbnail": "/images/anime/bleach.png",
-    "favorite_ost": [
-      {
-        "youtube_title": "Bleach Opening 3 [HD - Ichirin No Hana]",
-        "youtube_id": "UkdbbMMjpT8"
-      },
-      {
-        "youtube_title": "HIGH and MIGHTY COLOR 「一輪の花」",
-        "youtube_id": "WGEVZONi2EI"
-      },
-      {
-        "youtube_title": "Sakurabito | Bleach Ending 21 | Sunset Swish | Calming and Peaceful Song",
-        "youtube_id": "3j9hhMM_tnM"
-      },
-      {
-        "youtube_title": "Bleach Opening 11 - Anima Rossa",
-        "youtube_id": "FINgMTQR1Sg"
-      },
-      {
-        "youtube_title": "PORNOGRAFFITTI『Anima Rossa』MUSIC VIDEO (OP theme for “BLEACH”)",
-        "youtube_id": "8yLXZZcW-Mg"
-      },
-      {
-        "youtube_title": "Bleach Opening 12 HD - Change - Miwa",
-        "youtube_id": "pVl4czdMqP8"
-      },
-      {
-        "youtube_title": "miwa 『chAngE』Music Video",
-        "youtube_id": "99zfIoCp3nk"
-      },
-      {
-        "youtube_title": "Bleach - Opening 13 | 4K | 60FPS | Creditless | Unofficial",
-        "youtube_id": "fXuOaxrXYqw"
-      },
-      {
-        "youtube_title": "Ranbu No Melody",
-        "youtube_id": "MSG4p7rMyn4"
-      },
-      {
-        "youtube_title": "Bleach Opening 14 Creditless 60 FPS 4k",
-        "youtube_id": "dBQQeWasfdw"
-      },
-      {
-        "youtube_title": "Vivid - Blue",
-        "youtube_id": "fxxiWFpwIi0"
-      },
-      {
-        "youtube_title": "Bleach Ending 27- Aoi Tori by Fumika",
-        "youtube_id": "6uquQ161O40"
-      },
-      {
-        "youtube_title": "Aoitori - Fumika",
-        "youtube_id": "YOS1Et-SLMg"
-      }
-    ]
-  },
-  {
-    "name": "Bleach: Thousand-Year Blood War",
-    "released_year": 2022,
-    "slug": "bleach-thousand-year-blood-war",
-    "thumbnail": "/images/anime/Bleach_Thousand-Year_Blood_War.png",
-    "favorite_ost": [
-      {
-        "youtube_title": "Scar / Tatsuya Kitani - Music Video (“BLEACH: Thousand Year Blood War” Opening Theme) [Anime Version]",
-        "youtube_id": "FsKuu-0RUcM"
-      },
-      {
-        "youtube_title": "Scar / Tatsuya Kitani - Music Video (“BLEACH: Thousand Year Blood War” Opening Theme)",
-        "youtube_id": "pb_fwnVamdI"
-      }
-    ]
-  },
-  {
-    "name": "Bleach: Thousand-Year Blood War - The Separation",
-    "released_year": 2023,
-    "slug": "bleach-thousand-year-blood-war-the-separation",
-    "thumbnail": "/images/anime/bleach-thousand-year-blood-war-the-separation.jpeg",
-    "favorite_ost": [
-      {
-        "youtube_title": "w.o.d. - STARS [Anime Version]",
-        "youtube_id": "TGTYrh-kFbA"
-      },
-      {
-        "youtube_title": "Yoh Kamiyama - Endroll [Anime Version]",
-        "youtube_id": "ieLivI1-4vc"
-      },
-      {
-        "youtube_title": "w.o.d. - STARS [OFFICIAL MUSIC VIDEO]",
-        "youtube_id": "oXcnhuNIzF4"
-      },
-      {
-        "youtube_title": "Yoh Kamiyama - Endroll [Music Video]",
-        "youtube_id": "nyFuKqOQbFo"
-      }
-    ]
-  },
-  {
-    "name": "Blue Dragon",
-    "released_year": 2007,
-    "slug": "blue-dragon",
-    "thumbnail": "/images/anime/Blue_Dragon_TV_series.png",
-    "favorite_ost": [
-      {
-        "youtube_title": "Yamada Yu / Fly So High [Anime Version]",
-        "youtube_id": "BlOegwVv4yQ"
-      },
-      {
-        "youtube_title": "Yamada Yu / Fly So High [Full Version]",
-        "youtube_id": "MqGJlNImL0U"
-      }
-    ]
-  },
-  {
-    "name": "Blue Dragon: Trials of the Seven Shadows",
-    "released_year": 2008,
-    "slug": "blue-dragon-trials-of-the-seven-shadows",
-    "thumbnail": "/images/anime/Blue_Dragon_tenkai_no_shichi_ryu.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "JiLL-Decoy association / Hikari no Sasu Hou e [Anime Version]",
-        "youtube_id": "dS3GKBXhV84"
-      },
-      {
-        "youtube_title": "JiLL-Decoy association / Hikari no Sasu Hou e [Full Version]",
-        "youtube_id": "LQCJzjRFRW4"
-      },
-      {
-        "youtube_title": "Watarirouka Hashiri-tai / Aoi Mirai [Anime Version]",
-        "youtube_id": "ZxRpLX6tAGw"
-      },
-      {
-        "youtube_title": "Watarirouka Hashiri-tai / Aoi Mirai [Full Version]",
-        "youtube_id": "9iKo2C8AX0Y"
-      }
-    ]
-  },
-  {
-    "name": "Boku No Hero Akademia",
-    "released_year": 2016,
-    "slug": "boku-no-hero-akademia",
-    "thumbnail": "/images/anime/boku-no-hero-academia.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "[Polaris] Blue Encount - Anime Version",
-        "youtube_id": "VtNgeDxYJzE"
-      },
-      {
-        "youtube_title": "[Polaris] Blue Encount - Full Version",
-        "youtube_id": "Isb7Q4jEA04"
-      }
-    ]
-  },
-  {
-    "name": "Campfire Cooking in Another World with My Absurd Skill",
-    "released_year": 2023,
-    "slug": "campfire-cooking-in-another-world-with-my-absurd-skill",
-    "thumbnail": "/images/anime/campfire-cooking-in-another-world-with-my-absurd-skill.jpg"
-  },
-  {
-    "name": "Captain Tsubasa (2018)",
-    "released_year": 2018,
-    "slug": "captain-tsubasa-2018",
-    "thumbnail": "/images/anime/captain-tsubasa-2018.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Captain Tsubasa Opening Song Indonesia",
-        "youtube_id": "82W757o3WNU"
-      },
-      {
-        "youtube_title": "Captain Tsubasa Opening Indonesia",
-        "youtube_id": "PECah26yMmQ"
-      },
-      {
-        "youtube_title": "Captain Tsubasa Road to 2002 Opening Full HD Creditless [Dragon Screamer]",
-        "youtube_id": "yYV3rEY3jR4"
-      }
-    ]
-  },
-  {
-    "name": "Cardcaptor Sakura",
-    "released_year": 1998,
-    "slug": "cardcaptor-sakura",
-    "thumbnail": "/images/anime/cardcaptor-sakura.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Cardcaptor Sakura OP 1 [Creditless] [Blu-Ray]",
-        "youtube_id": "QDezQD57h-g"
-      },
-      {
-        "youtube_title": "Cardcaptor Sakura OP 2 [Creditless] [Blu-Ray]",
-        "youtube_id": "aUvpz7_8xrg"
-      },
-      {
-        "youtube_title": "Cardcaptor Sakura OP 3 [Creditless] [Blu-Ray]",
-        "youtube_id": "YcL-ymNCoZ8"
-      },
-      {
-        "youtube_title": "Purachina (Platinum) - Full Lyrics Kan/Rom/Eng || Sakura Cardcaptor Opening 3",
-        "youtube_id": "PK24vdByY34"
-      }
-    ]
-  },
-  {
-    "name": "Chibi Maruko-chan",
-    "released_year": 1995,
-    "slug": "chibi-maruko-chan",
-    "thumbnail": "/images/anime/chibi-maruko-chan.jpeg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Chibi Maruko Chan Opening Song ~ Indonesian Vers (Cover By Ananda Apriliani)",
-        "youtube_id": "mj1PN_U4-Uc"
-      }
-    ]
-  },
-  {
-    "name": "Chouseishin Gransazer",
-    "released_year": 2003,
-    "slug": "chouseishin-gransazer",
-    "thumbnail": "/images/anime/chouseishin-gransazer.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Choseishin Gransazer Opening",
-        "youtube_id": "iag2wqeaHOY"
-      }
-    ]
-  },
-  {
-    "name": "Corrector Yui",
-    "released_year": 1999,
-    "slug": "corrector-yui",
-    "thumbnail": "/images/anime/corrector-yui.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Corrector Yui - Opening",
-        "youtube_id": "jvKf8iui0SI"
-      },
-      {
-        "youtube_title": "Corrector Yui Opening 2",
-        "youtube_id": "Mizh0OCWtB4"
-      }
-    ]
-  },
-  {
-    "name": "Crayon Shin-chan",
-    "released_year": 1990,
-    "slug": "crayon-shin-chan",
-    "thumbnail": "/images/anime/crayon-shin-chan.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Lagu opening crayon shinchan versi indonesia",
-        "youtube_id": "JCZu7sYlQIA"
-      },
-      {
-        "youtube_title": "CRAYON SHINCHAN OPENING (Eclat ft Indomusikgram)",
-        "youtube_id": "Lr-HgmhdkzU"
-      }
-    ]
-  },
-  {
-    "name": "Crush Gear Nitro",
-    "released_year": 2003,
-    "slug": "crush-gear-nitro",
-    "thumbnail": "/images/anime/crush-gear-nitro.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Crush Gear Nitro Opening (4K AI Upscaled & Enhanced)",
-        "youtube_id": "x12DfWh9Iic"
-      }
-    ]
-  },
-  {
-    "name": "Crush Gear Turbo",
-    "released_year": 2001,
-    "slug": "crush-gear-turbo",
-    "thumbnail": "/images/anime/crush-gear-turbo.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Crush Gear Turbo - Opening",
-        "youtube_id": "daute5UKQ_s"
-      }
-    ]
-  },
-  {
-    "name": "Cyborg Kuro-chan",
-    "released_year": 1999,
-    "slug": "cyborg-kuro-chan",
-    "thumbnail": "/images/anime/cyborg-kuro-chan.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Opening Indonesia Cyborg Kuro Chan",
-        "youtube_id": "0i0m0vOjHto"
-      }
-    ]
-  },
-  {
-    "name": "Darwin's Game",
-    "released_year": 2020,
-    "slug": "darwins-game",
-    "thumbnail": "/images/anime/darwins-game.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Darwin`s Game Opening HD",
-        "youtube_id": "NxZcDkYqfqM"
-      },
-      {
-        "youtube_title": "ASCA 「CHAIN」 (Anime「ダーウィンズゲーム(Darwins Game)」OP)",
-        "youtube_id": "FjdvgI_jVP8"
-      },
-      {
-        "youtube_title": "Darwin's Game Ending Song (Alive)",
-        "youtube_id": "fLM0ilwk6n8"
-      },
-      {
-        "youtube_title": "Alive - Mashiro Ayano",
-        "youtube_id": "qx0jpELS3g8"
-      }
-    ]
-  },
-  {
-    "name": "Death Note",
-    "released_year": 2006,
-    "slug": "death-note",
-    "thumbnail": "/images/anime/death-note.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Death Note - Opening [4K]",
-        "youtube_id": "kNyR46eHDxE"
-      },
-      {
-        "youtube_title": "Death Note ED 1 [4K / 60FPS / Creditless]",
-        "youtube_id": "pBiFmadbQg8"
-      },
-      {
-        "youtube_title": "Death Note - Opening 2 [4K 60FPS | Creditless | CC]",
-        "youtube_id": "e6sSMIfG94k"
-      }
-    ]
-  },
-  {
-    "name": "Dennō Bōkenki Webdiver",
-    "released_year": 2001,
-    "slug": "denno-bokenki-webdiver",
-    "thumbnail": "/images/anime/denno-bokenki-webdiver.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Dennou Boukenki Webdiver OP",
-        "youtube_id": "ateuWZMF_Gk"
-      },
-      {
-        "youtube_title": "Dennou Boukenki Webdiver Ending 1 TOGETHER",
-        "youtube_id": "e6m9T6pV7KU"
-      },
-      {
-        "youtube_title": "WebDiver Opening 2",
-        "youtube_id": "LTrHr12u3mY"
-      },
-      {
-        "youtube_title": "Dennou boukenki webdiver Ending 2 (Fighter) sub Indonesia",
-        "youtube_id": "Ruh7LXXG0hc"
-      }
-    ]
-  },
-  {
-    "name": "Detective Conan",
-    "released_year": 1996,
-    "slug": "detective-conan",
-    "thumbnail": "/images/anime/detective-conan.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Opening Detective Conan Indonesia (Sound High Quality)",
-        "youtube_id": "EduzdyF08qc"
-      },
-      {
-        "youtube_title": "Detective Conan Opening 22 - ZARD -",
-        "youtube_id": "i9aJAdxCwdI"
-      },
-      {
-        "youtube_title": "ZARD/愛は暗闇の中で",
-        "youtube_id": "F4SvX22-lKA"
-      },
-      {
-        "youtube_title": "Conan Opening 23 - Ichiboyou goto Ni Love For You - Mai Kuraki",
-        "youtube_id": "fGTbed8tGso"
-      },
-      {
-        "youtube_title": "一秒ごとに love for you",
-        "youtube_id": "i5cglU7zLGs"
-      },
-      {
-        "youtube_title": "Detective Conan opening 28 - As the Dew - Garnet Crow",
-        "youtube_id": "4D1dgZDK8yM"
-      },
-      {
-        "youtube_title": "GARNET CROW「As the Dew」",
-        "youtube_id": "x4hlmtlVzAo"
-      }
-    ]
-  },
-  {
-    "name": "Detective School-Q",
-    "released_year": 2003,
-    "slug": "detective-school-q",
-    "thumbnail": "/images/anime/detective-school-q.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Detective School Q - Opening 1",
-        "youtube_id": "MNMQ075_MPg"
-      },
-      {
-        "youtube_title": "Hayami Kishimoto - MeiQ ( Make You) video",
-        "youtube_id": "73Zz4B1o2KQ"
-      },
-      {
-        "youtube_title": "Detective School Q - Opening 2",
-        "youtube_id": "KLzVRoKjwEk"
-      },
-      {
-        "youtube_title": "Luvly,Merry-Go-Round",
-        "youtube_id": "_iG6wy4orvI"
-      }
-    ]
-  },
-  {
-    "name": "Digimon Adventure 1",
-    "released_year": 1999,
-    "slug": "digimon-adventure-1",
-    "thumbnail": "/images/anime/digimon-adventure-1.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Digimon Adventure - Butter-Fly [Indonesian version]",
-        "youtube_id": "y2Ei5fvzlC0"
-      },
-      {
-        "youtube_title": "Digimon Adventure (1999) | OP Theme | Toei Animation",
-        "youtube_id": "kBV3PvdHrDw"
-      },
-      {
-        "youtube_title": "Digimon Adventure - Ending 1 Creditless [Blu-Ray BOX] 1080p",
-        "youtube_id": "zKGOu6uW5RA"
-      },
-      {
-        "youtube_title": "Digimon Adventure - Ending 2 Creditless [Blu-Ray BOX] 1080p",
-        "youtube_id": "Cd-XsbJ_njA"
-      }
-    ]
-  },
-  {
-    "name": "Digimon Adventure 2",
-    "released_year": 2000,
-    "slug": "digimon-adventure-2",
-    "thumbnail": "/images/anime/digimon-adventure-2.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "OST DIGIMON 2 ADVENTURE BAHASA INDONESIA",
-        "youtube_id": "ed_ZCzgGw-E"
-      },
-      {
-        "youtube_title": "OPENING MOVIE (DIGIMON ADVENTURE 02 - 2023)",
-        "youtube_id": "oH3WUyJ79bk"
-      }
-    ]
-  },
-  {
-    "name": "Digimon Adventure Reboot",
-    "released_year": 2020,
-    "slug": "digimon-adventure-reboot",
-    "thumbnail": "/images/anime/digimon-adventure-reboot.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Digimon Adventure 2020 OP",
-        "youtube_id": "2k7GMelJNu0"
-      },
-      {
-        "youtube_title": "Digimon Adventure 2020 - Ending - Closing Song",
-        "youtube_id": "sxX_yvBJDoQ"
-      },
-      {
-        "youtube_title": "悔しさは種／藤川千愛（アニメ『デジモンアドベンチャー：』エンディングテーマ）Music Video（”Digimon Adventure:”Ending Theme）",
-        "youtube_id": "ZLtg9XI01Hc"
-      },
-      {
-        "youtube_title": "X-treme Fight",
-        "youtube_id": "lgvm18SMZ9s"
-      },
-      {
-        "youtube_title": "TVアニメ「デジモンアドベンチャー:」挿入歌 Break the chain",
-        "youtube_id": "TJ15VZgBEUQ"
-      }
-    ]
-  },
-  {
-    "name": "Digimon Adventure Tri",
-    "released_year": 2015,
-    "slug": "digimon-adventure-tri",
-    "thumbnail": "/images/anime/digimon-adventure-tri.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Digimon Adventure Tri opening song Butterfly HD with english sub",
-        "youtube_id": "bRfk2-RwuhA"
-      },
-      {
-        "youtube_title": "Digimon Adventure tri. Ending 5 Aikotoba",
-        "youtube_id": "62ou5x_Qls4"
-      },
-      {
-        "youtube_title": "Aikotoba ~ Digimon Adventure Tri Ending 5 (Full) AiMxMiyazaki",
-        "youtube_id": "ZcyS4suKa1M"
-      }
-    ]
-  },
-  {
-    "name": "Digimon Data Squad",
-    "released_year": 2006,
-    "slug": "digimon-data-squad",
-    "thumbnail": "/images/anime/digimon-data-squad.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Digimon Savers Opening 2 |Creditless| [4K 60FPS Remastered]",
-        "youtube_id": "53eJTThlUJs"
-      },
-      {
-        "youtube_title": "Wada Kouji - Hirari",
-        "youtube_id": "nwalsbtdlmQ"
-      }
-    ]
-  },
-  {
-    "name": "Digimon Frontier",
-    "released_year": 2002,
-    "slug": "digimon-frontier",
-    "thumbnail": "/images/anime/digimon-frontier.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Digimon Frontier opening 1 japanese HD",
-        "youtube_id": "PLMJAdGEfs4"
-      },
-      {
-        "youtube_title": "Wada Kouji - FIRE!!",
-        "youtube_id": "d72xneKSB78"
-      },
-      {
-        "youtube_title": "Digimon Frontier - The Last Element",
-        "youtube_id": "Bn3ptZO3k98"
-      },
-      {
-        "youtube_title": "Digimon Frontier - Second Ending - Wada Kouji Endless Tale",
-        "youtube_id": "FGhKKKcsMfU"
-      },
-      {
-        "youtube_title": "An Endless tale live AiM & Wada Koji",
-        "youtube_id": "BFEG5hwO_zw"
-      }
-    ]
-  },
-  {
-    "name": "Digimon Tamers",
-    "released_year": 2001,
-    "slug": "digimon-tamers",
-    "thumbnail": "/images/anime/digimon-tamers.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Digimon Tamers Original Opening HD",
-        "youtube_id": "Se-2l5A2wu4"
-      },
-      {
-        "youtube_title": "Wada Kouji - The Biggest Dreamer",
-        "youtube_id": "V_SgzFm2llk"
-      },
-      {
-        "youtube_title": "Tanimoto Takayoshi - One Vision",
-        "youtube_id": "5_nXa99j9GQ"
-      }
-    ]
-  },
-  {
-    "name": "Digimon Universe: App Monster",
-    "released_year": 2016,
-    "slug": "digimon-universe-app-monster",
-    "thumbnail": "/images/anime/digimon-universe-app-monster.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Digimon Universe: Appli Monsters Opening 1",
-        "youtube_id": "k4yE2BYyx04"
-      },
-      {
-        "youtube_title": "『DiVE!!』 / 天月-あまつき- 【MUSIC VIDEO】 デジモンユニバースアプリモンスターズOP主題歌",
-        "youtube_id": "7dK-1mErg7w"
-      },
-      {
-        "youtube_title": "Digimon Universe 2nd OP",
-        "youtube_id": "qs6kY7ra_Vc"
-      },
-      {
-        "youtube_title": "Digimon Universe Appli Monsters - GATCHEN!! - SymaG",
-        "youtube_id": "viibRGc7aZw"
-      }
-    ]
-  },
-  {
-    "name": "Digimon Xros Wars",
-    "released_year": 2010,
-    "slug": "digimon-xros-wars",
-    "thumbnail": "/images/anime/digimon-xros-wars.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Digimon Xros Wars - Opening 2 - Shoutmon X7 Version [HD 1080i]",
-        "youtube_id": "NBygAnIHFU8"
-      },
-      {
-        "youtube_title": "Twill - New World (Subbed PV) [HD]",
-        "youtube_id": "4O6k4FMltmI"
-      },
-      {
-        "youtube_title": "Wada Kouji, Tanimoto Takayoshi, Miyazaki Ayumi - WE ARE XROS HEART! ver. X7",
-        "youtube_id": "esfYz1QTx2U"
-      },
-      {
-        "youtube_title": "Digimon Xros Wars OP 3 HD",
-        "youtube_id": "zay1klC1G2w"
-      },
-      {
-        "youtube_title": "Twill - STAND UP (English Subbed) [HD]",
-        "youtube_id": "7r1DZXezZIk"
-      }
-    ]
-  },
-  {
-    "name": "DN Angel",
-    "released_year": 2003,
-    "slug": "dn-angel",
-    "thumbnail": "/images/anime/dn-angel.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "D N Angel opening HD creditless",
-        "youtube_id": "aQWYLfOIlzk"
-      },
-      {
-        "youtube_title": "白夜 ～True Light～（Full Version）",
-        "youtube_id": "XIMaw2yByq0"
-      }
-    ]
-  },
-  {
-    "name": "Doraemon",
-    "released_year": 1973,
-    "slug": "doraemon",
-    "thumbnail": "/images/anime/doraemon.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Lagu Doraemon Opening Versi Indonesia",
-        "youtube_id": "LA-Fk0oYY4Q"
-      }
-    ]
-  },
-  {
-    "name": "Dr. Slump",
-    "released_year": 1981,
-    "slug": "dr-slump",
-    "thumbnail": "/images/anime/dr-slump.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Dr. Slump - Arale Opening [dub Indonesia]",
-        "youtube_id": "3yyXn--B70A"
-      }
-    ]
-  },
-  {
-    "name": "Dr. Stone",
-    "released_year": 2019,
-    "slug": "dr-stone",
-    "thumbnail": "/images/anime/dr-stone.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "ＴＶアニメ 「Ｄｒ．ＳＴＯＮＥ」 第2期ED＜声?＞ノンクレジット映像【毎週木曜日 好評放送＆配信中！】",
-        "youtube_id": "-DjXNR6oIjY"
-      },
-      {
-        "youtube_title": "はてな「声?」（こえだけが）Music Video（フル）TVアニメ「Ｄｒ．ＳＴＯＮＥ」エンディングテーマ",
-        "youtube_id": "08uZkbpF1N8"
-      },
-      {
-        "youtube_title": "TVアニメ『Dr.STONE NEW WORLD』第2クールOP＜遥か＞ノンクレジット映像",
-        "youtube_id": "TzZB-BOcpZY"
-      },
-      {
-        "youtube_title": "『Dr.STONE NEW WORLD』- Haruka Special Music Video",
-        "youtube_id": "nzMrPJbRG_M"
-      }
-    ]
-  },
-  {
-    "name": "Dragon Ball",
-    "released_year": 1989,
-    "slug": "dragon-ball",
-    "thumbnail": "/images/anime/dragon-ball.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Dragon Ball Opening - Bahasa Indonesia",
-        "youtube_id": "oU9XqvVg3Jc"
-      }
-    ]
-  },
-  {
-    "name": "Dragon League",
-    "released_year": 1993,
-    "slug": "dragon-league",
-    "thumbnail": "/images/anime/dragon-league.jpg"
-  },
-  {
-    "name": "Duel Masters",
-    "released_year": 2002,
-    "slug": "duel-masters",
-    "thumbnail": "/images/anime/duel-masters.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Duel Masters Sacred Lands Season 2 Intro 1080p HD",
-        "youtube_id": "mn-lP2DEeLc"
-      }
-    ]
-  },
-  {
-    "name": "Elusive Samurai",
-    "released_year": 2024,
-    "slug": "elusive-samurai",
-    "thumbnail": "/images/anime/elusive-samurai.webp"
-  },
-  {
-    "name": "Eureka Seven",
-    "released_year": 2005,
-    "slug": "eureka-seven",
-    "thumbnail": "/images/anime/eureka-seven.png",
-    "favorite_ost": [
-      {
-        "youtube_title": "Eureka Seven Opening 2 HD High definition",
-        "youtube_id": "i81fGPmMpj4"
-      },
-      {
-        "youtube_title": "Home Made Kazoku - Shonen Heart",
-        "youtube_id": "dgAifYag2_M"
-      },
-      {
-        "youtube_title": "[720p] Eureka seveN Creditless OP4 Sakura by NIRGILIS",
-        "youtube_id": "_B7aYtjRKZo"
-      },
-      {
-        "youtube_title": "ニルギリス– sakura 【OFFICIAL MUSIC VIDEO】",
-        "youtube_id": "-VZjNpstO1o"
-      }
-    ]
-  },
-  {
-    "name": "Eyeshield 21",
-    "released_year": 2005,
-    "slug": "eyeshield-21",
-    "thumbnail": "/images/anime/eyeshield-21.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Eyeshield 21 Opening 2 - Innocence",
-        "youtube_id": "-p1SQ6ceMfc"
-      },
-      {
-        "youtube_title": "Eyeshield 21 OP2「Innocence」(Full)",
-        "youtube_id": "x7wk-UoHJaE"
-      },
-      {
-        "youtube_title": "DangDang",
-        "youtube_id": "4OAI7CLdn80"
-      },
-      {
-        "youtube_title": "Eyeshield 21 Opening 4 Blaze Line",
-        "youtube_id": "VoftWzc6Cto"
-      }
-    ]
-  },
-  {
-    "name": "Frieren: Beyond Journey's End",
-    "released_year": 2023,
-    "slug": "frieren-beyond-journeys-end",
-    "thumbnail": "/images/anime/frieren-beyond-journeys-end.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Frieren:Beyond the Journey's End Non-telop Openning movie/OP theme: YUSHA(Brave) YOASOBI",
-        "youtube_id": "QoGM9hCxr4k"
-      },
-      {
-        "youtube_title": "YOASOBI「勇者」 Official Music Video／TVアニメ『葬送のフリーレン』オープニングテーマ",
-        "youtube_id": "OIBODIPC_8Y"
-      },
-      {
-        "youtube_title": "Frieren: Beyond Journey's End Non-telop Ending Movie/ED theme: Anytime Anywhere milet",
-        "youtube_id": "7pmd0kt3FOs"
-      },
-      {
-        "youtube_title": "milet Anytime Anywhere × Frieren:Beyond Journey's End SPECIAL MUSIC VIDEO／Frieren Ending Theme",
-        "youtube_id": "lv5R6C3hz54"
-      }
-    ]
-  },
-  {
-    "name": "Fullmetal Alchemist: Brotherhood",
-    "released_year": 2009,
-    "slug": "fullmetal-alchemist-brotherhood",
-    "thumbnail": "/images/anime/fullmetal-alchemist-brotherhood.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Fullmetal Alchemist: Brotherhood - Opening 1 [4K 60FPS | Creditless | CC]",
-        "youtube_id": "elyXcwunIYA"
-      },
-      {
-        "youtube_title": "Fullmetal Alchemist: Brotherhood - Opening 3 [4K 60FPS | Creditless | CC]",
-        "youtube_id": "1_LJdBw4SZo"
-      },
-      {
-        "youtube_title": "Fullmetal Alchemist: Brotherhood - Opening 5 [4K 60FPS | Creditless | CC]",
-        "youtube_id": "MUlGyqi4ttk"
-      },
-      {
-        "youtube_title": "Fullmetal Alchemist: Brotherhood - Ending 4 [4K 60FPS | Creditless | CC]",
-        "youtube_id": "eAyfr25sEmo"
-      },
-      {
-        "youtube_title": "Fullmetal Alchemist Brotherhood Finale Credits",
-        "youtube_id": "65I9HTauT-I"
-      }
-    ]
-  },
-  {
-    "name": "Future GPX Cyber Formula (Asurada)",
-    "released_year": 1991,
-    "slug": "future-gpx-cyber-formula-asurada",
-    "thumbnail": "/images/anime/future-gpx-cyber-formula-asurada.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Future GPX Cyber Formula | Opening [HD]",
-        "youtube_id": "dvmy-ZIsv6A"
-      }
-    ]
-  },
-  {
-    "name": "GeGeGe No Kitaro",
-    "released_year": 2018,
-    "slug": "gegege-no-kitaro",
-    "thumbnail": "/images/anime/gegege-no-kitaro.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "GeGeGe NO Kitaro (opening)",
-        "youtube_id": "6o2HeICUUeY"
-      },
-      {
-        "youtube_title": "Gegege no Kitaro (2018) OP intro",
-        "youtube_id": "vWTKaoi6UBE"
-      }
-    ]
-  },
-  {
-    "name": "Genseishin Justirisers",
-    "released_year": 2004,
-    "slug": "genseishin-justirisers",
-    "thumbnail": "/images/anime/genseishin-justirisers.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Genseishin Justirisers Opening Song",
-        "youtube_id": "7hpG6jlywKo"
-      }
-    ]
-  },
-  {
-    "name": "Gensomaden Saiyuki",
-    "released_year": 2000,
-    "slug": "gensomaden-saiyuki",
-    "thumbnail": "/images/anime/gensomaden-saiyuki.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Gensomaden Saiyuki OP",
-        "youtube_id": "VxMxA2N4cqo"
-      },
-      {
-        "youtube_title": "Gensomaden Saiyuki OP2",
-        "youtube_id": "CEziFBBp8ns"
-      }
-    ]
-  },
-  {
-    "name": "Gensomaden Saiyuki Reload Blast",
-    "released_year": 2017,
-    "slug": "gensomaden-saiyuki-reload-blast",
-    "thumbnail": "/images/anime/gensomaden-saiyuki-reload-blast.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Saiyuuki Reload Blast - Opening HD Creditless",
-        "youtube_id": "FsyyUwUPynk"
-      },
-      {
-        "youtube_title": "Saiyuuki Reload Blast - Ending HD Creditless",
-        "youtube_id": "tLbDd-F4D8k"
-      }
-    ]
-  },
-  {
-    "name": "Gensomaden Saiyuki: Gaiden",
-    "released_year": 2011,
-    "slug": "gensomaden-saiyuki-gaiden",
-    "thumbnail": "/images/anime/gensomaden-saiyuki-gaiden.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Saiyuki Gaiden OVA opening subbed",
-        "youtube_id": "OtKKA8wMovc"
-      }
-    ]
-  },
-  {
-    "name": "Gensomaden Saiyuki: Reload",
-    "released_year": 2003,
-    "slug": "gensomaden-saiyuki-reload",
-    "thumbnail": "/images/anime/gensomaden-saiyuki-reload.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Saiyuki Reload - Wild Rock",
-        "youtube_id": "cIY3kSsGsqE"
-      }
-    ]
-  },
-  {
-    "name": "Gensomaden Saiyuki Reload: Zeroin",
-    "released_year": 2022,
-    "slug": "gensomaden-saiyuki-reload-zeroin",
-    "thumbnail": "/images/anime/gensomaden-saiyuki-reload-zeroin.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Saiyuki Reload ZEROIN Opening - Kamino Hotokemo",
-        "youtube_id": "hleV9ohm544"
-      },
-      {
-        "youtube_title": "SAIYUKI RELOAD -ZEROIN- - Ending Theme - 《ruten》 (JPN / ENG Lyrics)",
-        "youtube_id": "frJGajZ_5PA"
-      }
-    ]
-  },
-  {
-    "name": "Gintama",
-    "released_year": 2006,
-    "slug": "gintama",
-    "thumbnail": "/images/anime/gintama.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Gintama Opening 18 v3",
-        "youtube_id": "b9rH0DdT_jg"
-      },
-      {
-        "youtube_title": "ЯeaL 『カゲロウ』Music Video(Short Ver.)",
-        "youtube_id": "JgpSEpAnbEM"
-      },
-      {
-        "youtube_title": "Kagerou",
-        "youtube_id": "lT-DFKqk1i4"
-      },
-      {
-        "youtube_title": "映画『銀魂 THE FINAL』90秒予告 2021年1月8日（金）公開",
-        "youtube_id": "SvRHM7AONB4"
-      },
-      {
-        "youtube_title": "SPYAIR 『轍～Wadachi～』Music Video（1/8公開映画『銀魂 THE FINAL』主題歌）",
-        "youtube_id": "03BzZld9lvE"
-      }
-    ]
-  },
-  {
-    "name": "God Eater",
-    "released_year": 2015,
-    "slug": "god-eater",
-    "thumbnail": "/images/anime/god-eater.png",
-    "favorite_ost": [
-      {
-        "youtube_title": "God Eater OP (TV-Size)",
-        "youtube_id": "CgeKdKzwSis"
-      }
-    ]
-  },
-  {
-    "name": "Hagemaru",
-    "released_year": 1988,
-    "slug": "hagemaru",
-    "thumbnail": "/images/anime/hagemaru.jpg"
-  },
-  {
-    "name": "Haikyuu! Fly High!! Volleyball!",
-    "released_year": 2014,
-    "slug": "haikyuu-fly-high-volleyball",
-    "thumbnail": "/images/anime/haikyuu-fly-high-volleyball.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "SPYAIR『イマジネーション[謎解きver.]』",
-        "youtube_id": "libAD49_XNw"
-      }
-    ]
-  },
-  {
-    "name": "Hamtaro",
-    "released_year": 2000,
-    "slug": "hamtaro",
-    "thumbnail": "/images/anime/hamtaro.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Hamtaro Japanese OP",
-        "youtube_id": "Xl4fZSY8CFI"
-      }
-    ]
-  },
-  {
-    "name": "Hanyou no Yashahime: Sengoku Otogizoushi",
-    "released_year": 2020,
-    "slug": "hanyou-no-yashahime-sengoku-otogizoushi",
-    "thumbnail": "/images/anime/hanyou-no-yashahime-sengoku-otogizoushi.jpg"
-  },
-  {
-    "name": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
-    "released_year": 2021,
-    "slug": "hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou",
-    "thumbnail": "/images/anime/hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Yashahime Season 2 Opening - Reborn",
-        "youtube_id": "XnvOYfGhshs"
-      },
-      {
-        "youtube_title": "NEWS - ReBorn [Official Music Clip]",
-        "youtube_id": "cboWaUdLzGw"
-      },
-      {
-        "youtube_title": "YashaHime: Princess Half-Demon/半妖の夜叉姫 | 4th Opening (OP) Theme Songs - Resonance 共鳴 | FHD 1080p",
-        "youtube_id": "sb2Zt6400GM"
-      },
-      {
-        "youtube_title": "SixTONES (w/English Subtitles!) Kyomei [YouTube ver.]",
-        "youtube_id": "juoM5rB0h44"
-      },
-      {
-        "youtube_title": "半妖の夜叉姫 ED 2 - 結証",
-        "youtube_id": "MZtrS5HF2OU"
-      },
-      {
-        "youtube_title": "緑黄色社会 『結証』Music Video（TVアニメ『半妖の夜叉姫』1月クールEDテーマ / Yashahime: Princess Half-Demon",
-        "youtube_id": "1422nca02G4"
-      }
-    ]
-  },
-  {
-    "name": "Hataraku Saibo",
-    "released_year": 2018,
-    "slug": "hataraku-saibo",
-    "thumbnail": "/images/anime/hataraku-saibo.jpg"
-  },
-  {
-    "name": "Himoutou! Umaru-chan",
-    "released_year": 2015,
-    "slug": "himoutou-umaru-chan",
-    "thumbnail": "/images/anime/himoutou-umaru-chan.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "TVアニメ『干物妹！うまるちゃん』ノンクレジットOP映像「かくしん的☆めたまるふぉ～ぜっ！」",
-        "youtube_id": "b6-2P8RgT0A"
-      },
-      {
-        "youtube_title": "(Sub Indo) Himouto! Umaru-chan! [Live!!]",
-        "youtube_id": "29uM_fneOOk"
-      }
-    ]
-  },
-  {
-    "name": "Hunter X Hunter",
-    "released_year": 2011,
-    "slug": "hunter-x-hunter",
-    "thumbnail": "/images/anime/hunter-x-hunter.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "HUNTER X HUNTER OPENING SONG - OHAYOU INDONESIAN VERSION [HXH Opening Song]",
-        "youtube_id": "pZXkNeGvNo0"
-      },
-      {
-        "youtube_title": "Lagu Angin - Ending Hunter X Hunter [Indonesia Version]",
-        "youtube_id": "g5oyEoDupWw"
-      },
-      {
-        "youtube_title": "Hunter x Hunter (2011) - Opening v6 【departure!】 4K 60FPS Creditless | CC",
-        "youtube_id": "-ycjmB9YgNY"
-      },
-      {
-        "youtube_title": "departure! - Masatoshi Ono Official",
-        "youtube_id": "3SqhXiimlrg"
-      }
-    ]
-  },
-  {
-    "name": "Idaten Jump",
-    "released_year": 2005,
-    "slug": "idaten-jump",
-    "thumbnail": "/images/anime/idaten-jump.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Idaten Jump Opening - Your World",
-        "youtube_id": "QLXD-yTZ_2A"
-      },
-      {
-        "youtube_title": "Your World - Ketchup Mania",
-        "youtube_id": "UU4tZqyNqaA"
-      },
-      {
-        "youtube_title": "Idaten Jump Ending 2 - Shalala",
-        "youtube_id": "zlfVjAaUzXk"
-      },
-      {
-        "youtube_title": "Shalala - Tsubamesukecchi",
-        "youtube_id": "heHIqRC0YWE"
-      }
-    ]
-  },
-  {
-    "name": "Initial-D",
-    "released_year": 1998,
-    "slug": "initial-d",
-    "thumbnail": "/images/anime/initial-d.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Initial D Fourth Stage OP 1 - Dogfight (Remastered in HD 60FPS using AI Machine Learning)",
-        "youtube_id": "ymKNoTN3kZk"
-      },
-      {
-        "youtube_title": "m.o.v.e / DOGFIGHT",
-        "youtube_id": "GKURxNMi2xA"
-      }
-    ]
-  },
-  {
-    "name": "Inuyasha",
-    "released_year": 2000,
-    "slug": "inuyasha",
-    "thumbnail": "/images/anime/inuyasha.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Inuyasha Opening 1 - Change The World",
-        "youtube_id": "KwCfHVGamn8"
-      },
-      {
-        "youtube_title": "V6 / CHANGE THE WORLD（YouTube Ver.）",
-        "youtube_id": "Hok551J0Cbc"
-      },
-      {
-        "youtube_title": "Inuyasha Ending 1 - My Will",
-        "youtube_id": "eI_el2XhI8s"
-      },
-      {
-        "youtube_title": "My Will - Dream",
-        "youtube_id": "NBfpKsOwk1c"
-      },
-      {
-        "youtube_title": "InuYasha Ending 2 - Fukaimori",
-        "youtube_id": "xKt8_o1a9Cw"
-      },
-      {
-        "youtube_title": "Do As Infinity / Fukai Mori（Deep into the Forest）",
-        "youtube_id": "qIoDWTF0qSo"
-      },
-      {
-        "youtube_title": "InuYasha - Opening 6 犬夜叉 (ANGELUS)",
-        "youtube_id": "yHb2LXedl6U"
-      },
-      {
-        "youtube_title": "島谷ひとみ / 「ANGELUS -アンジェラス-」【OFFICIAL MV FULL SIZE】",
-        "youtube_id": "RVxPNDFFc74"
-      }
-    ]
-  },
-  {
-    "name": "Inuyasha Kanketsu-hen",
-    "released_year": 2009,
-    "slug": "inuyasha-kanketsu-hen",
-    "thumbnail": "/images/anime/inuyasha-kanketsu-hen.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Inuyasha Kanketsu-hen Opening - Kimi ga Inai Mirai",
-        "youtube_id": "C1LBVfFWPXw"
-      },
-      {
-        "youtube_title": "Do As Infinity / Kimi Ga Inai Mirai (A Future without You)",
-        "youtube_id": "Leo3g_PAMCc"
-      },
-      {
-        "youtube_title": "Inuyasha Kanketsu-Hen Ending 1 - With You",
-        "youtube_id": "eIWQQ-Ziib0"
-      },
-      {
-        "youtube_title": "With you - AAA",
-        "youtube_id": "oFjwIY69JuE"
-      },
-      {
-        "youtube_title": "InuYasha Kanketsu-Hen Ending 3",
-        "youtube_id": "1gH85SYcw2k"
-      },
-      {
-        "youtube_title": "武川アイ / 遠い道の先で",
-        "youtube_id": "0yIJ0CSDbsM"
-      }
-    ]
-  },
-  {
-    "name": "Jigoku Sensei Nube",
-    "released_year": 1996,
-    "slug": "jigoku-sensei-nube",
-    "thumbnail": "/images/anime/jigoku-sensei-nube.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Jigoku Sensei Nube Opening [4K 60FPS Remastered]",
-        "youtube_id": "493DJEmz8Yc"
-      }
-    ]
-  },
-  {
-    "name": "Jujutsu Kaisen",
-    "released_year": 2020,
-    "slug": "jujutsu-kaisen",
-    "thumbnail": "/images/anime/jujutsu-kaisen.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Who-ya Extended「VIVID VICE」- Anime Version",
-        "youtube_id": "8nNujr378EA"
-      },
-      {
-        "youtube_title": "Who-ya Extended 「VIVID VICE」- Full Version",
-        "youtube_id": "EU6I8TxU6Z4"
-      },
-      {
-        "youtube_title": "King Gnu - Anime Version",
-        "youtube_id": "5yb2N3pnztU"
-      },
-      {
-        "youtube_title": "King Gnu - Full Version",
-        "youtube_id": "fhzKLBZJC3w"
-      },
-      {
-        "youtube_title": "Jujutsu Kaisen - Ending 3 【Akari】 4K 60FPS Creditless | CC", 
-        "youtube_id": "bkpX2kfHprc"
-      }
-    ]
-  },
-  {
-    "name": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
-    "released_year": 2004,
-    "slug": "juubee-chan-2-siberia-yagyuu-no-gyakushuu",
-    "thumbnail": "/images/anime/juubee-chan-2-siberia-yagyuu-no-gyakushuu.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "JUBEI CHAN SEASON 2 MAIN THEME OST",
-        "youtube_id": "RLugefwInAw"
-      },
-      {
-        "youtube_title": "Jubei Chan 2 - Jubei vs. Freesia",
-        "youtube_id": "tZWLpxTfnB8"
-      }
-    ]
-  },
-  {
-    "name": "Kamen Rider 555 (Faiz)",
-    "released_year": 2003,
-    "slug": "kamen-rider-555",
-    "thumbnail": "/images/anime/kamen-rider-555.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Kamen Rider 555 (Faiz) Opening",
-        "youtube_id": "fwYCO5QI_Ts"
-      }
-    ]
-  },
-  {
-    "name": "Kamen Rider Blade",
-    "released_year": 2004,
-    "slug": "kamen-rider-blade",
-    "thumbnail": "/images/anime/kamen-rider-blade.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Kamen Rider Blade Opening 1",
-        "youtube_id": "myGlSMgAyr0"
-      },
-      {
-        "youtube_title": "Kamen Rider Blade Opening 2",
-        "youtube_id": "7fHq-lUjlEo"
-      }
-    ]
-  },
-  {
-    "name": "Kamen Rider Ryuki",
-    "released_year": 2002,
-    "slug": "kamen-rider-ryuki",
-    "thumbnail": "/images/anime/kamen-rider-ryuki.webp",
-    "favorite_ost": [
-      {
-        "youtube_title": "Kamen Rider Ryuki Opening",
-        "youtube_id": "GZGVS623lFw"
-      },
-      {
-        "youtube_title": "Kamen Rider Ryuki Survive - Revolution",
-        "youtube_id": "Dih0vokuZXY"
-      }
-    ]
-  },
-  {
-    "name": "Kekkaishi",
-    "released_year": 2006,
-    "slug": "kekkaishi",
-    "thumbnail": "/images/anime/kekkaishi.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Kekkaishi [ Opening Ost]",
-        "youtube_id": "4eklNcYuK6g"
-      },
-      {
-        "youtube_title": "Uura Saeko Sha la la la la ~Ayakashi NIGHT~",
-        "youtube_id": "d3Uhi_YCM90"
-      },
-      {
-        "youtube_title": "Kekkaishi - ED 4 (HD)",
-        "youtube_id": "H-TCIf2FsLw"
-      },
-      {
-        "youtube_title": "Uura Saeka - Kyuukei Jikan Juppun (Kekkaishi ending 4) (Lirik Terjemahan Indonesia)",
-        "youtube_id": "HAFSZT-mh5A"
-      }
-    ]
-  },
-  {
-    "name": "Kenyuu Densetsu Yaiba",
-    "released_year": 1993,
-    "slug": "kenyuu-densetsu-yaiba",
-    "thumbnail": "/images/anime/kenyuu-densetsu-yaiba.jpg"
-  },
-  {
-    "name": "Keroro Gunsou",
-    "released_year": 2004,
-    "slug": "keroro-gunsou",
-    "thumbnail": "/images/anime/keroro-gunsou.jpg"
-  },
-  {
-    "name": "Kiba",
-    "released_year": 2006,
-    "slug": "kiba",
-    "thumbnail": "/images/anime/kiba.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Kiba Opening 1 - Sanctuary",
-        "youtube_id": "aABX7zBU17c"
-      },
-      {
-        "youtube_title": "Nami Tamaki Sanctuary Music Video",
-        "youtube_id": "3laxI5C6N2c"
-      },
-      {
-        "youtube_title": "Kiba Opening 2 - Hakanaku Tsuyoku",
-        "youtube_id": "hbiJh4aB0iE"
-      },
-      {
-        "youtube_title": "Hakanaku Tsuyoku - Younha",
-        "youtube_id": "jPp_mWFCubE"
-      },
-      {
-        "youtube_title": "KIBA - Solar Wind (Ending 2)",
-        "youtube_id": "EV2pTdopMt4"
-      },
-      {
-        "youtube_title": "Snowkel (シュノーケル) - solar wind [MV]",
-        "youtube_id": "QBXy830dv_I"
-      }
-    ]
-  },
-  {
-    "name": "Kimetsu No Yaiba",
-    "released_year": 2019,
-    "slug": "kimetsu-no-yaiba",
-    "thumbnail": "/images/anime/kimetsu-no-yaiba.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Demon Slayer | OP | Gurenge by LiSA HD",
-        "youtube_id" : "pmanD_s7G3U"
-      },
-      {
-        "youtube_title": "Gurenge - LiSA",
-        "youtube_id": "TqyfmFaZlqw"
-      },
-      {
-        "youtube_title": "TANJIRO | Demon Slayer: Kimetsu no Yaiba | Clip",
-        "youtube_id": "KkQI3ECwfG4"
-      },
-      {
-        "youtube_title": "Kamado Tanjirou no Uta (From Demon Slayer: Kimetsu no Yaiba) (Full Version)",
-        "youtube_id": "QnkqCv0dZTk"
-      },
-      {
-        "youtube_title": "Homura MUSiC CLiP (“Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train Main theme）",
-        "youtube_id": "4DxL6IKmXx4"
-      },
-      {
-        "youtube_title": "MAN WITH A MISSION x milet「Kizuna no Kiseki」Music Video",
-        "youtube_id": "Jb6Zlg30rgk"
-      },
-      {
-        "youtube_title": "milet x MAN WITH A MISSION「Koi Kogare」MUSIC VIDEO",
-        "youtube_id": "vZUyKVE9dus"
-      }
-    ]
-  },
-  {
-    "name": "Kishin Douji Zenki",
-    "released_year": 1995,
-    "slug": "kishin-douji-zenki",
-    "thumbnail": "/images/anime/kishin-douji-zenki.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "鬼神童子ZENKI OP 鬼神童子ZENKI AI 4K 中日字幕 (MAD·AMV)",
-        "youtube_id": "mCHUWVkNRtE"
-      }
-    ]
-  },
-  {
-    "name": "Komi Can't Communicate",
-    "released_year": 2021,
-    "slug": "komi-cant-communicate",
-    "thumbnail": "/images/anime/komi-cant-communicate.jpg"
-  },
-  {
-    "name": "Kotaro Lives Alone",
-    "released_year": 2022,
-    "slug": "kotaro-lives-alone",
-    "thumbnail": "/images/anime/kotaro-lives-alone.jpg"
-  },
-  {
-    "name": "Kuroko No Basket",
-    "released_year": 2012,
-    "slug": "kuroko-no-basket",
-    "thumbnail": "/images/anime/kuroko-no-basket.jpg"
-  },
-  {
-    "name": "Mahoujin Guru Guru",
-    "released_year": 2017,
-    "slug": "mahoujin-guru-guru",
-    "thumbnail": "/images/anime/mahoujin-guru-guru.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Mahoujin Guru Guru (2017) NCOP 1",
-        "youtube_id": "1-edro8xY80"
-      }
-    ]
-  },
-  {
-    "name": "MÄR (Märchen Awakens Romance)",
-    "released_year": 2005,
-    "slug": "marchen-awakens-romance",
-    "thumbnail": "/images/anime/marchen-awakens-romance.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "MÄR Opening 4",
-        "youtube_id": "g1dMVD0E1Ls"
-      }
-    ]
-  },
-  {
-    "name": "Mashle: Magic and Muscle",
-    "released_year": 2023,
-    "slug": "mashle-magic-and-muscle",
-    "thumbnail": "/images/anime/mashle-magic-and-muscle.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "MASHLE: MAGIC AND MUSCLES The Divine Visionary Candidate Exam Arc | OPENING THEME",
-        "youtube_id": "9rVKos-oGnQ"
-      }
-    ]
-  },
-  {
-    "name": "Medabots",
-    "released_year": 1999,
-    "slug": "medabots",
-    "thumbnail": "/images/anime/medabots.jpg"
-  },
-  {
-    "name": "Miss Kobayashi's Dragon Maid",
-    "released_year": 2017,
-    "slug": "miss-kobayashis-dragon-maid",
-    "thumbnail": "/images/anime/miss-kobayashis-dragon-maid.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Miss Kobayashi's Dragon Maid S2 OP 4K 60FPS",
-        "youtube_id": "rBkia7akWzw"
-      },
-      {
-        "youtube_title": "fhána - 愛のシュプリーム！(TVアニメ『小林さんちのメイドラゴンS』OP主題歌) - Official Music Video",
-        "youtube_id": "XCs7FacjHQY"
-      }
-    ]
-  },
-  {
-    "name": "Mob Psycho 100",
-    "released_year": 2016,
-    "slug": "mob-psycho-100",
-    "thumbnail": "/images/anime/mob-psycho-100.jpg"
-  },
-  {
-    "name": "Mobile Suit Gundam Wing",
-    "released_year": 1995,
-    "slug": "mobile-suit-gundam-wing",
-    "thumbnail": "/images/anime/mobile-suit-gundam-wing.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Mobile Suit Gundam Wing - Opening 1 | Just Communication",
-        "youtube_id": "oNJ4aBoRipg"
-      }
-    ]
-  },
-  {
-    "name": "Mobile Suit Gundam SEED",
-    "released_year": 2002,
-    "slug": "mobile-suit-gundam-seed",
-    "thumbnail": "/images/anime/mobile-suit-gundam-seed.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Annani Issho Dattanoni - ReTracks See-Saw/GUNDAM SEED HD REMASTER Textless version of ED",
-        "youtube_id": "shRV-LIbsO8"
-      }
-    ]
-  },
-  {
-    "name": "Mobile Suit Gundam SEED Destiny",
-    "released_year": 2004,
-    "slug": "mobile-suit-gundam-seed-destiny",
-    "thumbnail": "/images/anime/mobile-suit-gundam-seed-destiny.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Gundam (ガンダム) Seed Destiny HD Remaster Opening 3 [Bokutachi no Yukue - Hitomi Takahashi]",
-        "youtube_id": "s5JNlYl6SWk"
-      },
-      {
-        "youtube_title": "[Bokutachi no Yukue - Hitomi Takahashi] Full Version",
-        "youtube_id": "0qO0yE_9KhQ"
-      },
-      {
-        "youtube_title": "Life Goes On",
-        "youtube_id": "9T0Kq4hFLos"
-      }
-    ]
-  },
-  {
-    "name": "Monster Rancher",
-    "released_year": 1999,
-    "slug": "monster-rancher",
-    "thumbnail": "/images/anime/monster-rancher.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Op2 Monster Farm/Monster Rancher|Close to Your Heart | By | Rina Aiuchi",
-        "youtube_id": "HTVQuyJfjrs"
-      }
-    ]
-  },
-  {
-    "name": "My Happy Marriage",
-    "released_year": 2023,
-    "slug": "my-happy-marriage",
-    "thumbnail": "/images/anime/my-happy-marriage.jpg"
-  },
-  {
-    "name": "Naruto",
-    "released_year": 2002,
-    "slug": "naruto",
-    "thumbnail": "/images/anime/naruto.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Naruto | Opening 2 - Haruka Kanata | VIZ",
-        "youtube_id": "RiQrbSuLrsU"
-      },
-      {
-        "youtube_title": "ASIAN KUNG-FU GENERATION - Haruka Kanata",
-        "youtube_id": "nJ6A6GC_ki4"
-      },
-      {
-        "youtube_title": "Naruto - Opening 3 (HD - 60 fps) - Kanashimi wo Yasashisa ni",
-        "youtube_id": "ayx9WvHMHU8"
-      },
-      {
-        "youtube_title": "Kanashimi wo Yasashisani ni - Little by Little",
-        "youtube_id": "rBnJ7KB9rPc"
-      },
-      {
-        "youtube_title": "Naruto OP 4 - Flow - Go",
-        "youtube_id": "gVbBgiLbMBk"
-      },
-      {
-        "youtube_title": "FLOW - GO!!! / THE FIRST TAKE",
-        "youtube_id": "4RXxabY7hfQ"
-      },
-      {
-        "youtube_title": "Naruto - Opening 5",
-        "youtube_id": "Kd_xbXAlURE"
-      },
-      {
-        "youtube_title": "Naruto | Ending 1 - Wind",
-        "youtube_id": "bdCzOWnEJYc"
-      },
-      {
-        "youtube_title": "Wind - Akeboshi",
-        "youtube_id": "WqGOaOHu5uY"
-      }
-    ]
-  },
-  {
-    "name": "Naruto Shippuden",
-    "released_year": 2007,
-    "slug": "naruto-shippuden",
-    "thumbnail": "/images/anime/naruto-shippuden.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Naruto Shippuden - Opening 1 | Hero's Come Back",
-        "youtube_id": "EBNl8bwdVcA"
-      },
-      {
-        "youtube_title": "nobodyknows+ Hero's Come Back!!",
-        "youtube_id": "ipBCtl0j4O8"
-      },
-      {
-        "youtube_title": "Naruto Shippuden - Opening 2 (v2) (HD - 60 fps)",
-        "youtube_id": "WLP_G1c1hWA"
-      },
-      {
-        "youtube_title": "Distance - Long Shot Party",
-        "youtube_id": "l-PeSNvZi0E"
-      },
-      {
-        "youtube_title": "Naruto Shippuden - Opening 3 (Creditless) (HD - 60 fps)",
-        "youtube_id": "frdz6P8uwv4"
-      },
-      {
-        "youtube_title": "Ikimonogakari - Blue Bird",
-        "youtube_id": "KpsJWFuVTdI"
-      },
-      {
-        "youtube_title": "Naruto Shippuden Op/ Opening 4",
-        "youtube_id": "m6hbh5i_fg8"
-      },
-      {
-        "youtube_title": "Joe Inoue - CLOSER",
-        "youtube_id": "4Cp0WgkgDbQ"
-      },
-      {
-        "youtube_title": "Naruto Shippuden - Opening 5",
-        "youtube_id": "miFqf3Zedpw"
-      },
-      {
-        "youtube_title": "Ikimonogakari - Hotarunohikari",
-        "youtube_id": "IqKqNcW2-b4"
-      },
-      {
-        "youtube_title": "Naruto Shippuden - Opening 6 | Sign",
-        "youtube_id": "97dkzVU4p-M"
-      },
-      {
-        "youtube_title": "FLOW - Sign",
-        "youtube_id": "qpi9YXaChHI"
-      },
-      {
-        "youtube_title": "Naruto Shippuden - Opening 7 | A World That Was Transparent",
-        "youtube_id": "06EjEq_7RJY"
-      },
-      {
-        "youtube_title": "Toumeidatta Sekai - Motohiro Hata",
-        "youtube_id": "cMFrkiC8A48"
-      },
-      {
-        "youtube_title": "Naruto Shippuden - Opening 8 | Diver",
-        "youtube_id": "P1yJ51DH-18"
-      },
-      {
-        "youtube_title": "Diver - NICO Touches the Walls",
-        "youtube_id": "nuxZTnJE_OE"
-      },
-      {
-        "youtube_title": "Naruto Shippuden Opening 9 - Lovers",
-        "youtube_id": "Br3uO96lNkw"
-      },
-      {
-        "youtube_title": "seven oops - Lovers",
-        "youtube_id": "MF8kHWWFO10"
-      }
-    ]
-  },
-  {
-    "name": "Ninja Rantaro",
-    "released_year": 1993,
-    "slug": "ninja-rantaro",
-    "thumbnail": "/images/anime/ninja-rantaro.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Yuki 100% - Hey ! Say ! JUMP",
-        "youtube_id": "0wbkqa3eQms"
-      }
-    ]
-  },
-  {
-    "name": "One Piece",
-    "released_year": 1999,
-    "slug": "one-piece",
-    "thumbnail": "/images/anime/one-piece.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "TVアニメ「ONE PIECE」1000話記念: ウィーアー!",
-        "youtube_id": "dM7x1PNZDo0"
-      },
-      {
-        "youtube_title": "Hiroshi Kitadani - We Are! / THE FIRST TAKE",
-        "youtube_id": "HB4iNVa746E"
-      },
-      {
-        "youtube_title": "One Piece - Opening 2 【Believe】",
-        "youtube_id": "QwSkErUIF9k"
-      },
-      {
-        "youtube_title": "Folder 5 / Believe Music Video",
-        "youtube_id": "qM_FepDsJ-Q"
-      },
-      {
-        "youtube_title": "One Piece Opening 3 Hikari E RAW HD 1440p",
-        "youtube_id": "BaZXGFnGei8"
-      },
-      {
-        "youtube_title": "The Babystars HIKARIHE MUSIC VIDEO",
-        "youtube_id": "_YNtUuuBL78"
-      },
-      {
-        "youtube_title": "One Piece - Opening 9 【Jungle P】 4K 60FPS Creditless | CC",
-        "youtube_id": "0dmHjTV6fM4"
-      },
-      {
-        "youtube_title": "Jungle P · 5050",
-        "youtube_id": "mFo75lNnMAM"
-      },
-      {
-        "youtube_title": "One Piece - Opening 11 【Share the World】",
-        "youtube_id": "i4EjetJBdWE"
-      },
-      {
-        "youtube_title": "東方神起 / Share The World",
-        "youtube_id": "2AfIQX8YUVw"
-      },
-      {
-        "youtube_title": "One Piece - Opening 17 【Wake up!】",
-        "youtube_id": "OU8QssAstPA"
-      },
-      {
-        "youtube_title": "AAA / Wake up!",
-        "youtube_id": "wykx9MzjL-8"
-      },
-      {
-        "youtube_title": "One Piece - Opening 19 【We can!】 4K 60FPS Creditless",
-        "youtube_id": "tUlUWiGaEqI"
-      },
-      {
-        "youtube_title": "ウィーキャン!",
-        "youtube_id": "ofE0Jfs4J1M"
-      },
-      {
-        "youtube_title": "＜オープニング映像フル＞TVアニメ「ONE PIECE」／オープニングテーマ「あーーっす！」歌：きただにひろし",
-        "youtube_id": "YFbno_aPm0w"
-      },
-      {
-        "youtube_title": "きただにひろし「 あーーっす！」Music Video（TVアニメ『ONE PIECE』「エッグヘッド編」オープニングテーマ）",
-        "youtube_id": "uauZ91QhfQk"
-      }
-    ]
-  },
-  {
-    "name": "One Punch Man",
-    "released_year": 2015,
-    "slug": "one-punch-man",
-    "thumbnail": "/images/anime/one-punch-man.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "One Punch Man - Official Opening - The Hero!! Set Fire to the Furious Fist",
-        "youtube_id": "atxYe-nOa9w"
-      },
-      {
-        "youtube_title": "[Official Video] JAM Project - THE HERO !! - One Punch Man Opening Theme ワンパンマン",
-        "youtube_id": "QImBolnTVH8"
-      },
-      {
-        "youtube_title": "「Creditless」One Punch Man OP / Opening 2「UHD 60FPS」",
-        "youtube_id": "OvgBFgLUyC8"
-      },
-      {
-        "youtube_title": "Uncrowned Greatest Hero · JAM Project",
-        "youtube_id": "5hr2eFnarak"
-      }
-    ]
-  },
-  {
-    "name": "Onmyoji",
-    "released_year": 2023,
-    "slug": "onmyoji",
-    "thumbnail": "/images/anime/onmyoji.jpg"
-  },
-  {
-    "name": "Pokemon",
-    "released_year": 1997,
-    "slug": "pokemon",
-    "thumbnail": "/images/anime/pokemon.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Satoshi (CV:Rica Matsumoto) - Mezase Pokémon Master -with my friends- / THE FIRST TAKE",
-        "youtube_id": "hMKf5mE3sdo"
-      }
-    ]
-  },
-  {
-    "name": "Pokemon Best Wishes!",
-    "released_year": 2010,
-    "slug": "pokemon-best-wishes",
-    "thumbnail": "/images/anime/pokemon-best-wishes.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Pocket Monsters: Best Wishes! - Opening",
-        "youtube_id": "80ldGt00Z18"
-      }
-    ]
-  },
-  {
-    "name": "Pokemon Diamond & Pearl",
-    "released_year": 2006,
-    "slug": "pokemon-diamond-pearl",
-    "thumbnail": "/images/anime/pokemon-diamond-pearl.jpeg",
-    "favorite_ost": [
-      {
-        "youtube_title": "ポケットモンスター (Pocket Monsters) (Pokemon) Diamond and Pearl - Opening 3 ",
-        "youtube_id": "pl2xynxwKpM"
-      },
-      {
-        "youtube_title": "Pokémon Anime Song - Saikou Everyday!",
-        "youtube_id": "s-JJolVoL5E"
-      },
-      {
-        "youtube_title": "Pokémon Anime Song - Together",
-        "youtube_id": "fxYjkVW-A4I"
-      },
-      {
-        "youtube_title": "Pocket Monsters Diamond & Pearl - OP2 v1 | High Touch (RAW)",
-        "youtube_id": "Ja3JgXN0Oh8"
-      },
-      {
-        "youtube_title": "Pokémon Anime Song - High Touch!",
-        "youtube_id": "VQqHx5LnfiI"
-      }
-    ]
-  },
-  {
-    "name": "Pokemon Sword & Shield",
-    "released_year": 2019,
-    "slug": "pokemon-sword-shield",
-    "thumbnail": "/images/anime/pokemon-sword-shield.png",
-    "favorite_ost": [
-      {
-        "youtube_title": "Pokemon 2022 Opening 4 Official (Versión Rika Matsumoto and Daiki Yamashita) HD",
-        "youtube_id": "LTl4VBY8iEI"
-      },
-      {
-        "youtube_title": "1・2・3 - Satoshi & Go",
-        "youtube_id": "-24DMtHQ7fU"
-      }
-    ]
-  },
-  {
-    "name": "Pokemon Sun & Moon",
-    "released_year": 2016,
-    "slug": "pokemon-sun-moon",
-    "thumbnail": "/images/anime/pokemon-sun-moon.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Pocket Monsters OP24 / SM OP3 - Future Connection「未来コネクション」(Creditless) [LQ]",
-        "youtube_id": "XYIwEewsYwY"
-      },
-      {
-        "youtube_title": "Mirai Connection · ReaL",
-        "youtube_id": "HlG8PNu1ttI"
-      },
-      {
-        "youtube_title": "Pokémon Sun and Moon Opening 4 - Your Adventure (HD)",
-        "youtube_id": "Pd0YppDJc0Q"
-      },
-      {
-        "youtube_title": "Kimi no Bouken · okazakitaiiku",
-        "youtube_id": "h_5xLI7Srrc"
-      }
-    ]
-  },
-  {
-    "name": "Pokemon XY",
-    "released_year": 2013,
-    "slug": "pokemon-xy",
-    "thumbnail": "/images/anime/pokemon-xy.jpg"
-  },
-  {
-    "name": "Pokemon XY&Z",
-    "released_year": 2015,
-    "slug": "pokemon-xyz",
-    "thumbnail": "/images/anime/pokemon-xyz.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Pocket Monsters OP21 / XY OP4 (XY&Z OP) -「XY&Z」(Creditless) [HD]",
-        "youtube_id": "rXWDOI4f4Wk"
-      },
-      {
-        "youtube_title": "XY & Z ReaL Cover Version",
-        "youtube_id": "CUl8Ciwkn4g"
-      }
-    ]
-  },
-  {
-    "name": "Pretty Cure",
-    "released_year": 2004,
-    "slug": "pretty-cure",
-    "thumbnail": "/images/anime/pretty-cure.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Pretty Cure Opening",
-        "youtube_id": "SX836fYQL4E"
-      }
-    ]
-  },
-  {
-    "name": "Ragnarok: The Animation",
-    "released_year": 2004,
-    "slug": "ragnarok-the-animation",
-    "thumbnail": "/images/anime/ragnarok-the-animation.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Ragnarok the Animation OP",
-        "youtube_id": "slnsWsMXqTE"
-      },
-      {
-        "youtube_title": "Ragnarok the Animation OP - Full Version",
-        "youtube_id": "XTg9iGUyDIg"
-      }
-    ]
-  },
-  {
-    "name": "Ranma!",
-    "released_year": 1989,
-    "slug": "ranma",
-    "thumbnail": "/images/anime/ranma.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Ranma 1/2 OPENING HD (Japanese)",
-        "youtube_id": "QlZiGylP1M8"
-      },
-      {
-        "youtube_title": "Ranma 1/2 OPENING HD (Bahasa Indonesia)",
-        "youtube_id": "oN-Obg9Ad6A"
-      }
-    ]
-  },
-  {
-    "name": "Rave Master",
-    "released_year": 2004,
-    "slug": "rave-master",
-    "thumbnail": "/images/anime/rave-master.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Rave Master Opening",
-        "youtube_id": "Ql2LDswySUU"
-      }
-    ]
-  },
-  {
-    "name": "Record of Ragnarok",
-    "released_year": 2021,
-    "slug": "record-of-ragnarok",
-    "thumbnail": "/images/anime/record-of-ragnarok.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Record of Ragnarok II OP | Rude Loose Dance - Minami | Netflix Anime",
-        "youtube_id": "m-NgCG_YIDU"
-      },
-      {
-        "youtube_title": "Minami「RUDE LOSE DANCE」(Anime「Record of RagnarokⅡ」Opening song)",
-        "youtube_id": "F86GZpO_ZeU"
-      }
-    ]
-  },
-  {
-    "name": "Saint Seiya",
-    "released_year": 1986,
-    "slug": "saint-seiya",
-    "thumbnail": "/images/anime/saint-seiya.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Pegasus Fantasy - Saint Seiya",
-        "youtube_id": "Bu533OKYHyc"
-      },
-      {
-        "youtube_title": "Pegasus Fantasy - Make Up / YOYOKA's 12th Birthday Session",
-        "youtube_id": "qVM4NNkPfAU"
-      },
-      {
-        "youtube_title": "Saint Seiya Opening 2 - Soldier Dream (Asgard Arc)",
-        "youtube_id": "JUJP5eAxcIA"
-      },
-      {
-        "youtube_title": "Soldier Dream - Hironobu Kageyama",
-        "youtube_id": "3fGbMYAOCp4"
-      }
-    ]
-  },
-  {
-    "name": "Saint Seiya: Hades Elysion",
-    "released_year": 2008,
-    "slug": "saint-seiya-hades-elysion",
-    "thumbnail": "/images/anime/saint-seiya-hades-elysion.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Saint Seiya Hades Elysion Opening",
-        "youtube_id": "fgM1whMyww4"
-      },
-      {
-        "youtube_title": "Marina Del Ray - Megami no senshi (Pegasus Forever)",
-        "youtube_id": "MtS8WTrnYTg"
-      }
-    ]
-  },
-  {
-    "name": "Saint Seiya: Meiou Hades Meikai-hen",
-    "released_year": 2005,
-    "slug": "saint-seiya-meiou-hades-meikai-hen",
-    "thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen.jpg"
-  },
-  {
-    "name": "Saint Seiya: Meiou Hades Meikai-hen Juuni Kyuu-hen",
-    "released_year": 2002,
-    "slug": "saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen",
-    "thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Saint Seiya - Hades Sanctuary Opening (Chikyuugi)",
-        "youtube_id": "Sr-arGycW7g"
-      },
-      {
-        "youtube_title": "Chikyuugi - Yumi Matsuzawa",
-        "youtube_id": "0l9tvDMYKjI"
-      }
-    ]
-  },
-  {
-    "name": "Saint Seiya: Omega",
-    "released_year": 2012,
-    "slug": "saint-seiya-omega",
-    "thumbnail": "/images/anime/saint-seiya-omega.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Saint Seiya Omega - Opening HD",
-        "youtube_id": "_1JvxrSlDRc"
-      },
-      {
-        "youtube_title": "Saint Seiya Omega Opening 4 - Senkou (TV Version)",
-        "youtube_id": "ZCQ1dTlIoc4"
-      },
-      {
-        "youtube_title": "Senko - Cyntia",
-        "youtube_id": "wueW30rZtPE"
-      }
-    ]
-  },
-  {
-    "name": "Saint Seiya: Saintia Shou",
-    "released_year": 2018,
-    "slug": "saint-seiya-saintia-shou",
-    "thumbnail": "/images/anime/saint-seiya-saintia-shou.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Saint Seiya: Saintia Sho Opening",
-        "youtube_id": "wvgh8KB8xCs"
-      },
-      {
-        "youtube_title": "The Beautiful Brave (From Saint Seiya: Saintia Sho)",
-        "youtube_id": "WQkjKqZUUwA"
-      }
-    ]
-  },
-  {
-    "name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
-    "released_year": 2009,
-    "slug": "saint-seiya-the-lost-canvas-meiou-shinwa",
-    "thumbnail": "/images/anime/saint-seiya-the-lost-canvas-meiou-shinwa.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "SAINT SEIYA: THE LOST CANVAS Season 2 OPENING",
-        "youtube_id": "9uaXyaOUm8s"
-      },
-      {
-        "youtube_title": "Saint Seiya The Lost Canvas Opening (Full Version)",
-        "youtube_id": "__QP4UjrFF0"
-      },
-      {
-        "youtube_title": "Saint Seiya The Lost Canvas Ending (TV Version)",
-        "youtube_id": "15C6V8tcs0U"
-      },
-      {
-        "youtube_title": "Maki Ikuno feat Marina Del Ray - Hana no Kusari (Romaji/English)",
-        "youtube_id": "sHJBKWj1dbc"
-      }
-    ]
-  },
-  {
-    "name": "Samurai 7",
-    "released_year": 2004,
-    "slug": "samurai-7",
-    "thumbnail": "/images/anime/samurai-7.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Samurai 7 Opening - Mangekyo Unlimited - Nanase Aikawa",
-        "youtube_id": "TrccvQSqAV8"
-      },
-      {
-        "youtube_title": "UNLIMITED - Nanase Aikawa",
-        "youtube_id": "QwpP1op-NN4"
-      },
-      {
-        "youtube_title": "Samurai 7 Ending - Fuhen",
-        "youtube_id": "liTeuvjINXg"
-      },
-      {
-        "youtube_title": "Fuhen - Rin",
-        "youtube_id": "z5vXILcMzHU"
-      }
-    ]
-  },
-  {
-    "name": "Samurai Champloo",
-    "released_year": 2004,
-    "slug": "samurai-champloo",
-    "thumbnail": "/images/anime/samurai-champloo.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Samurai Champloo - Opening | Battlecry",
-        "youtube_id": "Eq6EYcpWB_c"
-      },
-      {
-        "youtube_title": "Samurai Champloo - Opening (Full Version)",
-        "youtube_id": "GTWz7ugif-Y"
-      },
-      {
-        "youtube_title": "Samurai Champloo - Ending | Shiki No Uta",
-        "youtube_id": "mQAfG3DgG7M"
-      },
-      {
-        "youtube_title": "Shiki No Uta - Minmi",
-        "youtube_id": "UQbcyOxqDFw"
-      }
-    ]
-  },
-  {
-    "name": "Samurai Deeper Kyou",
-    "released_year": 2002,
-    "slug": "samurai-deeper-kyou",
-    "thumbnail": "/images/anime/samurai-deeper-kyou.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Samurai Deeper Kyo - Opening",
-        "youtube_id": "sKGYL6qgnks"
-      },
-      {
-        "youtube_title": "Samurai Deeper Kyo - Ending",
-        "youtube_id": "dug0nIoDjsw"
-      }
-    ]
-  },
-  {
-    "name": "Samurai X",
-    "released_year": 1996,
-    "slug": "samurai-x",
-    "thumbnail": "/images/anime/samurai-x.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Samurai X - Nibun no Ichi",
-        "youtube_id": "fW2REjs-zNc"
-      },
-      {
-        "youtube_title": "【MV】Makoto Kawamoto Nibun no Ichi",
-        "youtube_id": "Un4DxLaADvw"
-      },
-      {
-        "youtube_title": "Samurai X - It's Gonna Rain",
-        "youtube_id": "--BE4gjwISU"
-      },
-      {
-        "youtube_title": "It's Gonna Rain! - Bonnie Pink",
-        "youtube_id": "0hyn4-o8_kM"
-      },
-      {
-        "youtube_title": "1/3 No Junjo Na Kanjo · Siam Shade",
-        "youtube_id": "tDs0W-wo8dI"
-      }
-    ]
-  },
-  {
-    "name": "Shaman King: Reboot",
-    "released_year": 2021,
-    "slug": "shaman-king-reboot",
-    "thumbnail": "/images/anime/shaman-king-reboot.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Shaman King Opening 1",
-        "youtube_id": "emrOpnSCYao"
-      },
-      {
-        "youtube_title": "Shaman King Opening 2",
-        "youtube_id": "4JhEIr_0bdo"
-      },
-      {
-        "youtube_title": "Get up! Shout!",
-        "youtube_id": "RitVvlRBEmY"
-      },
-      {
-        "youtube_title": "Shaman King Ending 3",
-        "youtube_id": "ShwGb_79yr4"
-      },
-      {
-        "youtube_title": "Hazuki - Saji",
-        "youtube_id": "iPzE6_aJ3p4"
-      }
-    ]
-  },
-  {
-    "name": "Shangri-La Frontier",
-    "released_year": 2023,
-    "slug": "shangri-la-frontier",
-    "thumbnail": "/images/anime/shangri-la-frontier.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "FZMZ - Danger Danger - Anime Version",
-        "youtube_id": "VlcjW90l6c4"
-      },
-      {
-        "youtube_title": "FZMZ - Danger Danger - Full Version",
-        "youtube_id": "e5NIiPEQRUw"
-      }
-    ]
-  },
-  {
-    "name": "Shingeki no Kyojin",
-    "released_year": 2013,
-    "slug": "shingeki-no-kyojin",
-    "thumbnail": "/images/anime/shingeki-no-kyojin.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Attack on Titan Season 2 - Opening | Shinzou wo Sasageyo!",
-        "youtube_id": "LKP-vZvjbh8"
-      },
-      {
-        "youtube_title": "心臓を捧げよ!",
-        "youtube_id": "o75PUTiHEXU"
-      },
-      {
-        "youtube_title": "Attack on Titan / Shingeki no Kyojin Season 3 OP •「Red Swan」 YOSHIKI feat. HYDE",
-        "youtube_id": "MWSR17vEVBw"
-      },
-      {
-        "youtube_title": "Red Swan (Attack on Titan anime theme) - Official Lyric Video YOSHIKI feat. HYDE",
-        "youtube_id": "r1XE8ON8fos"
-      }
-    ]
-  },
-  {
-    "name": "Shinya! Tensai Bakabon",
-    "released_year": 2018,
-    "slug": "shinya-tensai-bakabon",
-    "thumbnail": "/images/anime/shinya-tensai-bakabon.jpg"
-  },
-  {
-    "name": "Shokugeki No Soma",
-    "released_year": 2015,
-    "slug": "shokugeki-no-soma",
-    "thumbnail": "/images/anime/shokugeki-no-soma.jpg"
-  },
-  {
-    "name": "Slayers Try",
-    "released_year": 1995,
-    "slug": "slayers-try",
-    "thumbnail": "/images/anime/slayers-try.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Slayers Try Opening (Breeze)",
-        "youtube_id": "O5rJRlq11pc"
-      },
-      {
-        "youtube_title": "Breeze - Megumi Hayashibara",
-        "youtube_id": "RyDU38mpTgQ"
-      }
-    ]
-  },
-  {
-    "name": "Solo Leveling",
-    "released_year": 2024,
-    "slug": "solo-leveling",
-    "thumbnail": "/images/anime/solo-leveling.jpg"
-  },
-  {
-    "name": "Spy X Family",
-    "released_year": 2022,
-    "slug": "spy-x-family",
-    "thumbnail": "/images/anime/spy-x-family.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "SPY x FAMILY Opening (TV Version)",
-        "youtube_id": "U_rWZK_8vUY" 
-      },
-      {
-        "youtube_title": "Mixed Nuts - Official dism",
-        "youtube_id": "EZy_vHyFedw"
-      }
-    ]
-  },
-  {
-    "name": "Super Yoyo",
-    "released_year": 1998,
-    "slug": "super-yoyo",
-    "thumbnail": "/images/anime/super-yoyo.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Super YoYo Opening",
-        "youtube_id": "279ZbMhjFOs"
-      }
-    ]
-  },
-  {
-    "name": "Sword Art Online",
-    "released_year": 2012,
-    "slug": "sword-art-online",
-    "thumbnail": "/images/anime/sword-art-online.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Sword Art Online - Opening",
-        "youtube_id": "1oOBjyOKu2o"
-      },
-      {
-        "youtube_title": "Crossing Field - LiSA",
-        "youtube_id": "KId6eunoiWk"
-      }
-    ]
-  },
-  {
-    "name": "Sword Art Online: Alicization",
-    "released_year": 2018,
-    "slug": "sword-art-online-alicization",
-    "thumbnail": "/images/anime/sword-art-online-alicization.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Sword Art Online: Alicization Opening 1",
-        "youtube_id": "3hdJ8PKNXrc"
-      },
-      {
-        "youtube_title": "ADAMAS - LiSA",
-        "youtube_id": "v2tmzEuVEz8"
-      },
-      {
-        "youtube_title": "Sword Art Online: Alicization Opening 2",
-        "youtube_id": "V9QNIS4-Bsk"
-      },
-      {
-        "youtube_title": "Resister - ASCA",
-        "youtube_id": "RPZwWt6_unE"
-      }
-    ]
-  },
-  {
-    "name": "Sword Art Online: Alicization War of Underworld",
-    "released_year": 2019,
-    "slug": "sword-art-online-alicization-war-of-underworld",
-    "thumbnail": "/images/anime/sword-art-online-alicization-war-of-underworld.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Sword Art Online Alicization War of Underworld Opening 2",
-        "youtube_id": "EMZ8N-NcAsY"
-      },
-      {
-        "youtube_title": "Anima - Reona",
-        "youtube_id": "Qo_4XqKwrSM"
-      }
-    ]
-  },
-  {
-    "name": "The Apothecary Diaries",
-    "released_year": 2023,
-    "slug": "the-apothecary-diaries",
-    "thumbnail": "/images/anime/the-apothecary-diaries.jpg"
-  },
-  {
-    "name": "The Law of Ueki",
-    "released_year": 2005,
-    "slug": "the-law-of-ueki",
-    "thumbnail": "/images/anime/the-law-of-ueki.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "The Law Of Ueki Opening 1",
-        "youtube_id": "Hg7a5CIDATE"
-      },
-      {
-        "youtube_title": "Falco - Hitomi Shimatani",
-        "youtube_id": "SAImzSJPTww"
-      },
-      {
-        "youtube_title": "The Law Of Ueki Ending 1",
-        "youtube_id": "cxj3-xB7bGk"
-      },
-      {
-        "youtube_title": "Little Planets - Aiko Kayo",
-        "youtube_id": "m97xMDG75-Q"
-      },
-      {
-        "youtube_title": "The Law Of Ueki Opening 2",
-        "youtube_id": "fMdODizlN64"
-      },
-      {
-        "youtube_title": "Regret - Koda Kumi",
-        "youtube_id": "B3Re_6dfdRI"
-      }
-    ]
-  },
-  {
-    "name": "The Way of the Househusband",
-    "released_year": 2021,
-    "slug": "the-way-of-the-househusband",
-    "thumbnail": "/images/anime/the-way-of-the-househusband.jpg"
-  },
-  {
-    "name": "Tower of God (Kami no Tou)",
-    "released_year": 2020,
-    "slug": "tower-of-god-kami-no-tou",
-    "thumbnail": "/images/anime/tower-of-god-kami-no-tou.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Tower of God Opening 1",
-        "youtube_id": "Q8o_cn6UIZM"
-      },
-      {
-        "youtube_title": "TOP - Stray Kids",
-        "youtube_id": "o7lqCcE4Lho"
-      }
-    ]
-  },
-  {
-    "name": "Trigun Stampede",
-    "released_year": 2023,
-    "slug": "trigun-stampede",
-    "thumbnail": "/images/anime/trigun-stampede.jpg"
-  },
-  {
-    "name": "Ultraman Dyna",
-    "released_year": 1997,
-    "slug": "ultraman-dyna",
-    "thumbnail": "/images/anime/ultraman-dyna.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Ultraman Dyna Opening Theme",
-        "youtube_id": "8LhMu4bQTQU"
-      }
-    ]
-  },
-  {
-    "name": "Ultraman Gaia",
-    "released_year": 1998,
-    "slug": "ultraman-gaia",
-    "thumbnail": "/images/anime/ultraman-gaia.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Ultraman Gaia Opening",
-        "youtube_id": "nb4Al1ij0Xw"
-      }
-    ]
-  },
-  {
-    "name": "Ultraman Nexus",
-    "released_year": 2004,
-    "slug": "ultraman-nexus",
-    "thumbnail": "/images/anime/ultraman-nexus.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Ultraman Nexus Opening 1",
-        "youtube_id": "vWP4chunkJU"
-      },
-      {
-        "youtube_title": "Ultraman Nexus Opening 2",
-        "youtube_id": "4TDhZVTXgY8"
-      }
-    ]
-  },
-  {
-    "name": "Wind Breaker",
-    "released_year": 2024,
-    "slug": "wind-breaker",
-    "thumbnail": "/images/anime/wind-breaker.jpg"
-  },
-  {
-    "name": "Yu-Gi-Oh! 5Ds",
-    "released_year": 2008,
-    "slug": "yu-gi-oh-5ds",
-    "thumbnail": "/images/anime/yu-gi-oh-5ds.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Yugioh 5D's OPENING 5 Masaaki Endoh - Going my Way!",
-        "youtube_id": "idhjkQ4TwBM"
-      },
-      {
-        "youtube_title": "Going My Way - Masaaki Endoh",
-        "youtube_id": "_H_4h-ZMpKs"
-      },
-      {
-        "youtube_title": "Clear Mind - Masaaki Endoh",
-        "youtube_id": "O1Sx7B5WnDo"
-      }
-    ]
-  },
-  {
-    "name": "Yu-Gi-Oh! Arc-V",
-    "released_year": 2014,
-    "slug": "yu-gi-oh-arc-v",
-    "thumbnail": "/images/anime/yu-gi-oh-arc-v.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Yu Gi Oh! - ARC-V OP 4",
-        "youtube_id": "1n76WtCQ1hM"
-      },
-      {
-        "youtube_title": "Kirifuda - Cinema Staff",
-        "youtube_id": "6ABdkzf-f7o"
-      },
-      {
-        "youtube_title": "Yu-Gi-Oh! ARC-V OP 6",
-        "youtube_id": "SbnuF4qdI9w"
-      },
-      {
-        "youtube_title": "Pendulum Beat! - Super Dragon",
-        "youtube_id": "ViPq2AOPdhQ"
-      },
-      {
-        "youtube_title": "Yu-Gi-Oh! ARC-V ED 6",
-        "youtube_id": "tpFOxRpd1hg"
-      },
-      {
-        "youtube_title": "Shissou Pendulum - M!LK",
-        "youtube_id": "VFqxumPI51w"
-      }
-    ]
-  },
-  {
-    "name": "Yu-Gi-Oh! Duel Monsters",
-    "released_year": 2000,
-    "slug": "yu-gi-oh-duel-monsters",
-    "thumbnail": "/images/anime/yu-gi-oh-duel-monsters.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Yu-Gi-Oh! Duel Monsters Opening 4 - Warriors",
-        "youtube_id": "Knol1XR7ciY"
-      },
-      {
-        "youtube_title": "Warriors - Yuuichi Ikusawa",
-        "youtube_id": "JNO1_2ilRz8"
-      },
-      {
-        "youtube_title": "Yu-Gi-Oh! Duel Monsters Opening 6 - Overlap",
-        "youtube_id": "S-MboceanDM"
-      },
-      {
-        "youtube_title": "Overlap - Kimeru",
-        "youtube_id": "bk239XQ6MJQ"
-      }
-    ]
-  },
-  {
-    "name": "Yu-Gi-Oh! GX",
-    "released_year": 2004,
-    "slug": "yu-gi-oh-gx",
-    "thumbnail": "/images/anime/yu-gi-oh-gx.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Yu Gi Oh! GX Season 3 Opening - Teardrop",
-        "youtube_id": "udjujqX164o"
-      },
-      {
-        "youtube_title": "Teardrop - BOWL",
-        "youtube_id": "9boibqflDEE"
-      },
-      {
-        "youtube_title": "Yu-Gi-Oh! GX Opening 4 - Precious Time Glory Days",
-        "youtube_id": "1Amu8uyt4e4"
-      },
-      {
-        "youtube_title": "Precious Time, Glory Days 2018 - Psychic Lover",
-        "youtube_id": "XTQ_45lYKk0"
-      }
-    ]
-  },
-  {
-    "name": "Yu-Gi-Oh! VRAINS",
-    "released_year": 2017,
-    "slug": "yu-gi-oh-vrains",
-    "thumbnail": "/images/anime/yu-gi-oh-vrains.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Yugioh VRAINS OP 3 - Calling - Kimeru",
-        "youtube_id": "qu1ZQMEydbc"
-      },
-      {
-        "youtube_title": "Calling - Kimeru",
-        "youtube_id": "FuWUfwdGL7Y"
-      },
-      {
-        "youtube_title": "Glory - Band Maid",
-        "youtube_id": "TAMiLTiXPpU"
-      }
-    ]
-  },
-  {
-    "name": "Yu-Gi-Oh! Zexal",
-    "released_year": 2011,
-    "slug": "yu-gi-oh-zexal",
-    "thumbnail": "/images/anime/yu-gi-oh-zexal.jpg",
-    "favorite_ost": [
-      {
-        "youtube_title": "Yu Gi Oh! Zexal Opening 1",
-        "youtube_id": "8o6acABBWDk"
-      },
-      {
-        "youtube_title": "Master Piece - Mihimaru",
-        "youtube_id": "A2v-ZrEIAT4"
-      },
-      {
-        "youtube_title": "Yu-Gi-Oh! ZEXAL II Opening 5 - Dualism of Mirrors",
-        "youtube_id": "LaI0JKILGHk"
-      },
-      {
-        "youtube_title": "Dualism of Mirrors - Petit Milady",
-        "youtube_id": "S8a8T6-sJhw"
-      },
-      {
-        "youtube_title": "Yu-Gi-Oh! ZeXal Opening 6 - Wonder Wings",
-        "youtube_id": "zEUpD9Rcvr8"
-      },
-      {
-        "youtube_title": "Wonder Wings - Diamond Yukai",
-        "youtube_id": "T1G7WPuqvA0"
-      }
-    ]
-  },
-  {
-    "name": "Zoids",
-    "released_year": 1999,
-    "slug": "zoids",
-    "thumbnail": "/images/anime/zoids.jpg"
-  },
-  {
-    "name": "Zoids Shinseiki",
-    "released_year": 2001,
-    "slug": "zoids-shinseiki",
-    "thumbnail": "/images/anime/zoids-shinseiki.jpg"
-  }
+	{
+		"name": "Accel World",
+		"released_year": 2012,
+		"slug": "accel-world",
+		"thumbnail": "/images/anime/accel-world.jpg",
+		"playlist": [
+			{
+				"title": "Accel World Opening 1 Creditless 60fps",
+				"id": "uTErr5pGmZc"
+			},
+			{
+				"title": "Accel World Opening 2 'Burst The Gravity By ALTIMA' HD descarga full",
+				"id": "IGRAfhYEYKM"
+			}
+		]
+	},
+	{
+		"name": "Air Gear",
+		"released_year": 2006,
+		"slug": "air-gear",
+		"thumbnail": "/images/anime/air-gear.jpg",
+		"playlist": [
+			{
+				"title": "Air Gear Opening HD",
+				"id": "klFVxGAacz0"
+			}
+		]
+	},
+	{
+		"name": "Arslan Senki",
+		"released_year": 2015,
+		"slug": "arslan-senki",
+		"thumbnail": "/images/anime/arslan-senki.jpg",
+		"playlist": [
+			{
+				"title": "The Heroic Legend of Arslan – Opening Theme – These Are Not My Words, They’re Our Words",
+				"id": "PSGYL-ZD0_Q"
+			},
+			{
+				"title": "The Heroic Legend of Arslan – Opening Theme 2 – Uzu to Uzu",
+				"id": "5GC24nvBUTI"
+			},
+			{
+				"title": "The Heroic Legend of Arslan - Official Ending #2 - Kalafina - One Light",
+				"id": "LtHSlpL7lHg"
+			}
+		]
+	},
+	{
+		"name": "Arslan Senki: Fuujin Ranbu",
+		"released_year": 2016,
+		"slug": "arslan-senki-fuujin-ranbu",
+		"thumbnail": "/images/anime/arslan-senki-fuujin-ranbu.jpg",
+		"playlist": [
+			{
+				"title": "Arslan Senki (TV): Fuujin Ranbu Opening - Eir Aoi - Tsubasa",
+				"id": "f0aw5pqlOWY"
+			}
+		]
+	},
+	{
+		"name": "Astro Boy",
+		"released_year": 2003,
+		"slug": "astro-boy",
+		"thumbnail": "/images/anime/astro-boy.jpg",
+		"playlist": [
+			{
+				"title": "Astro Boy Opening - True Blue by ZONE",
+				"id": "sIpSZJ0oc24"
+			},
+			{
+				"title": "ASTRO BOY・鉄腕アトム Creditless OP 2: Now or Never - CHEMISTRY meets m-flo",
+				"id": "5jMvZTfl5K0"
+			}
+		]
+	},
+	{
+		"name": "Bakegyamon",
+		"released_year": 2006,
+		"slug": "bakegyamon",
+		"thumbnail": "/images/anime/bakegyamon.jpg",
+		"playlist": [
+			{
+				"title": "Bakegyamon Opening 1",
+				"id": "R5TZxE5ZNo4"
+			},
+			{
+				"title": "Bakegyamon Opening 2",
+				"id": "RC0uvullJNo"
+			},
+			{
+				"title": "Soramimi Bakegyamon",
+				"id": "5bCK_S415gI"
+			},
+			{
+				"title": "Bakegyamon Ending Song - Always there for you",
+				"id": "MBlfIUCcaik"
+			}
+		]
+	},
+	{
+		"name": "Bakugan Battle Brawlers",
+		"released_year": 2007,
+		"slug": "bakugan-battle-brawlers",
+		"thumbnail": "/images/anime/bakugan-battle-brawlers.jpg",
+		"playlist": [
+			{
+				"title": "Bakugan Battle Brawlers Opening 2 - Bucchigiri Infinite Generation by Psychic Lover",
+				"id": "Y4MUelAiquM"
+			},
+			{
+				"title": "[Bucchigiri Infinite Generation by Psychic Lover] - Full Version",
+				"id": "RukDXLkBRrg"
+			}
+		]
+	},
+	{
+		"name": "Bakugan Battle Brawlers: Gundalian Invaders",
+		"released_year": 2011,
+		"slug": "bakugan-battle-brawlers-gundalian-invaders",
+		"thumbnail": "/images/anime/bakugan-battle-brawlers-gundalian-invaders.jpg"
+	},
+	{
+		"name": "Bakugan Battle Brawlers: New Vestroia",
+		"released_year": 2010,
+		"slug": "bakugan-battle-brawlers-new-vestroia",
+		"thumbnail": "/images/anime/bakugan-battle-brawlers-new-vestroia.webp",
+		"playlist": [
+			{
+				"title": "Bakugan New Vestroia Japanese Opening",
+				"id": "HrK0r9yoPlk"
+			},
+			{
+				"title": "Cho! Saikyo! Warriors! by Psychic Lover",
+				"id": "0yaeiGRos2U"
+			}
+		]
+	},
+	{
+		"name": "Bakusō Kyōdai Let's & Go!!",
+		"released_year": 1996,
+		"slug": "bakuso-kyodai-lets-go",
+		"thumbnail": "/images/anime/bakuso-kyodai-lets-go.jpg",
+		"playlist": [
+			{
+				"title": "Bakusou Kyoudai Let's & Go!! Opening 1",
+				"id": "4-BNPmTgdaY"
+			},
+			{
+				"title": "Bakusou Kyoudai Let's & Go!! Opening 1 - Bahasa Indonesia",
+				"id": "tsPoz8LbkRc"
+			}
+		]
+	},
+	{
+		"name": "Battle B-Daman Fire Spirits!",
+		"released_year": 2005,
+		"slug": "battle-b-daman-fire-spirits",
+		"thumbnail": "/images/anime/battle-b-daman-fire-spirits.webp",
+		"playlist": [
+			{
+				"title": "Battle B-Daman Fire Spirits Opening 1",
+				"id": "ZqRKn8AU4HY"
+			},
+			{
+				"title": "Battle B-Daman Fire Spirits Opening 2",
+				"id": "yOdowkYPIII"
+			}
+		]
+	},
+	{
+		"name": "Beyblade",
+		"released_year": 2001,
+		"slug": "beyblade",
+		"thumbnail": "/images/anime/beyblade.jpg",
+		"playlist": [
+			{
+				"title": "Bakuten Shoot Beyblade - Fighting Spirits [Japanese Opening]",
+				"id": "P8gZbrDNbHM"
+			}
+		]
+	},
+	{
+		"name": "Beyblade G Revolution",
+		"released_year": 2003,
+		"slug": "beyblade-g-revolution",
+		"thumbnail": "/images/anime/beyblade-g-revolution.jpg",
+		"playlist": [
+			{
+				"title": "Bakuten Shoot Beyblade G-Revolution OP 1 (GO AHEAD)",
+				"id": "qoHAIlvellw"
+			},
+			{
+				"title": "Bakuten Shoot Beyblade G-Revolution OP 2 (IDENTIFIED)",
+				"id": "8HiASKWsVzw"
+			}
+		]
+	},
+	{
+		"name": "Beyblade Metal Fury",
+		"released_year": 2011,
+		"slug": "beyblade-metal-fury",
+		"thumbnail": "/images/anime/beyblade-metal-fury.webp"
+	},
+	{
+		"name": "Beyblade Metal Fusion",
+		"alternative_name": "Beyblade Metal Fight",
+		"released_year": 2009,
+		"slug": "beyblade-metal-fusion",
+		"thumbnail": "/images/anime/beyblade-metal-fusion.jpg",
+		"playlist": [
+			{
+				"title": "Beyblade Metal Fight Opening HQ (JAPANESE)",
+				"id": "r_hV4wBIxM8"
+			}
+		]
+	},
+	{
+		"name": "Beyblade Metal Masters",
+		"alternative_name": "Metal Fight Beyblade Explosion",
+		"released_year": 2010,
+		"slug": "beyblade-metal-masters",
+		"thumbnail": "/images/anime/beyblade-metal-masters.webp",
+		"playlist": [
+			{
+				"title": "Beyblade Metal Fight Explosion - [Opening HD]",
+				"id": "_uNSwrGEdKw"
+			},
+			{
+				"title": "Metal Fight Beyblade Explosion Ending",
+				"id": "cNYxyiLiflw"
+			}
+		]
+	},
+	{
+		"name": "Beyblade V-Force",
+		"released_year": 2002,
+		"slug": "beyblade-v-force",
+		"thumbnail": "/images/anime/beyblade-v-force.jpg"
+	},
+	{
+		"name": "Black Clover",
+		"released_year": 2017,
+		"slug": "black-clover",
+		"thumbnail": "/images/anime/black-clover.jpg"
+	},
+	{
+		"name": "Bleach",
+		"released_year": 2004,
+		"slug": "bleach",
+		"thumbnail": "/images/anime/bleach.png",
+		"playlist": [
+			{
+				"title": "Bleach Opening 3 [HD - Ichirin No Hana]",
+				"id": "UkdbbMMjpT8"
+			},
+			{
+				"title": "HIGH and MIGHTY COLOR 「一輪の花」",
+				"id": "WGEVZONi2EI"
+			},
+			{
+				"title": "Sakurabito | Bleach Ending 21 | Sunset Swish | Calming and Peaceful Song",
+				"id": "3j9hhMM_tnM"
+			},
+			{
+				"title": "Bleach Opening 11 - Anima Rossa",
+				"id": "FINgMTQR1Sg"
+			},
+			{
+				"title": "PORNOGRAFFITTI『Anima Rossa』MUSIC VIDEO (OP theme for “BLEACH”)",
+				"id": "8yLXZZcW-Mg"
+			},
+			{
+				"title": "Bleach Opening 12 HD - Change - Miwa",
+				"id": "pVl4czdMqP8"
+			},
+			{
+				"title": "miwa 『chAngE』Music Video",
+				"id": "99zfIoCp3nk"
+			},
+			{
+				"title": "Bleach - Opening 13 | 4K | 60FPS | Creditless | Unofficial",
+				"id": "fXuOaxrXYqw"
+			},
+			{
+				"title": "Ranbu No Melody",
+				"id": "MSG4p7rMyn4"
+			},
+			{
+				"title": "Bleach Opening 14 Creditless 60 FPS 4k",
+				"id": "dBQQeWasfdw"
+			},
+			{
+				"title": "Vivid - Blue",
+				"id": "fxxiWFpwIi0"
+			},
+			{
+				"title": "Bleach Ending 27- Aoi Tori by Fumika",
+				"id": "6uquQ161O40"
+			},
+			{
+				"title": "Aoitori - Fumika",
+				"id": "YOS1Et-SLMg"
+			}
+		]
+	},
+	{
+		"name": "Bleach: Thousand-Year Blood War",
+		"released_year": 2022,
+		"slug": "bleach-thousand-year-blood-war",
+		"thumbnail": "/images/anime/Bleach_Thousand-Year_Blood_War.png",
+		"playlist": [
+			{
+				"title": "Scar / Tatsuya Kitani - Music Video (“BLEACH: Thousand Year Blood War” Opening Theme) [Anime Version]",
+				"id": "FsKuu-0RUcM"
+			},
+			{
+				"title": "Scar / Tatsuya Kitani - Music Video (“BLEACH: Thousand Year Blood War” Opening Theme)",
+				"id": "pb_fwnVamdI"
+			}
+		]
+	},
+	{
+		"name": "Bleach: Thousand-Year Blood War - The Separation",
+		"released_year": 2023,
+		"slug": "bleach-thousand-year-blood-war-the-separation",
+		"thumbnail": "/images/anime/bleach-thousand-year-blood-war-the-separation.jpeg",
+		"playlist": [
+			{
+				"title": "w.o.d. - STARS [Anime Version]",
+				"id": "TGTYrh-kFbA"
+			},
+			{
+				"title": "Yoh Kamiyama - Endroll [Anime Version]",
+				"id": "ieLivI1-4vc"
+			},
+			{
+				"title": "w.o.d. - STARS [OFFICIAL MUSIC VIDEO]",
+				"id": "oXcnhuNIzF4"
+			},
+			{
+				"title": "Yoh Kamiyama - Endroll [Music Video]",
+				"id": "nyFuKqOQbFo"
+			}
+		]
+	},
+	{
+		"name": "Blue Dragon",
+		"released_year": 2007,
+		"slug": "blue-dragon",
+		"thumbnail": "/images/anime/Blue_Dragon_TV_series.png",
+		"playlist": [
+			{
+				"title": "Yamada Yu / Fly So High [Anime Version]",
+				"id": "BlOegwVv4yQ"
+			},
+			{
+				"title": "Yamada Yu / Fly So High [Full Version]",
+				"id": "MqGJlNImL0U"
+			}
+		]
+	},
+	{
+		"name": "Blue Dragon: Trials of the Seven Shadows",
+		"released_year": 2008,
+		"slug": "blue-dragon-trials-of-the-seven-shadows",
+		"thumbnail": "/images/anime/Blue_Dragon_tenkai_no_shichi_ryu.webp",
+		"playlist": [
+			{
+				"title": "JiLL-Decoy association / Hikari no Sasu Hou e [Anime Version]",
+				"id": "dS3GKBXhV84"
+			},
+			{
+				"title": "JiLL-Decoy association / Hikari no Sasu Hou e [Full Version]",
+				"id": "LQCJzjRFRW4"
+			},
+			{
+				"title": "Watarirouka Hashiri-tai / Aoi Mirai [Anime Version]",
+				"id": "ZxRpLX6tAGw"
+			},
+			{
+				"title": "Watarirouka Hashiri-tai / Aoi Mirai [Full Version]",
+				"id": "9iKo2C8AX0Y"
+			}
+		]
+	},
+	{
+		"name": "Boku No Hero Akademia",
+		"released_year": 2016,
+		"slug": "boku-no-hero-akademia",
+		"thumbnail": "/images/anime/boku-no-hero-academia.jpg",
+		"playlist": [
+			{
+				"title": "[Polaris] Blue Encount - Anime Version",
+				"id": "VtNgeDxYJzE"
+			},
+			{
+				"title": "[Polaris] Blue Encount - Full Version",
+				"id": "Isb7Q4jEA04"
+			}
+		]
+	},
+	{
+		"name": "Campfire Cooking in Another World with My Absurd Skill",
+		"released_year": 2023,
+		"slug": "campfire-cooking-in-another-world-with-my-absurd-skill",
+		"thumbnail": "/images/anime/campfire-cooking-in-another-world-with-my-absurd-skill.jpg"
+	},
+	{
+		"name": "Captain Tsubasa (2018)",
+		"released_year": 2018,
+		"slug": "captain-tsubasa-2018",
+		"thumbnail": "/images/anime/captain-tsubasa-2018.jpg",
+		"playlist": [
+			{
+				"title": "Captain Tsubasa Opening Song Indonesia",
+				"id": "82W757o3WNU"
+			},
+			{
+				"title": "Captain Tsubasa Opening Indonesia",
+				"id": "PECah26yMmQ"
+			},
+			{
+				"title": "Captain Tsubasa Road to 2002 Opening Full HD Creditless [Dragon Screamer]",
+				"id": "yYV3rEY3jR4"
+			}
+		]
+	},
+	{
+		"name": "Cardcaptor Sakura",
+		"released_year": 1998,
+		"slug": "cardcaptor-sakura",
+		"thumbnail": "/images/anime/cardcaptor-sakura.jpg",
+		"playlist": [
+			{
+				"title": "Cardcaptor Sakura OP 1 [Creditless] [Blu-Ray]",
+				"id": "QDezQD57h-g"
+			},
+			{
+				"title": "Cardcaptor Sakura OP 2 [Creditless] [Blu-Ray]",
+				"id": "aUvpz7_8xrg"
+			},
+			{
+				"title": "Cardcaptor Sakura OP 3 [Creditless] [Blu-Ray]",
+				"id": "YcL-ymNCoZ8"
+			},
+			{
+				"title": "Purachina (Platinum) - Full Lyrics Kan/Rom/Eng || Sakura Cardcaptor Opening 3",
+				"id": "PK24vdByY34"
+			}
+		]
+	},
+	{
+		"name": "Chibi Maruko-chan",
+		"released_year": 1995,
+		"slug": "chibi-maruko-chan",
+		"thumbnail": "/images/anime/chibi-maruko-chan.jpeg",
+		"playlist": [
+			{
+				"title": "Chibi Maruko Chan Opening Song ~ Indonesian Vers (Cover By Ananda Apriliani)",
+				"id": "mj1PN_U4-Uc"
+			}
+		]
+	},
+	{
+		"name": "Chouseishin Gransazer",
+		"released_year": 2003,
+		"slug": "chouseishin-gransazer",
+		"thumbnail": "/images/anime/chouseishin-gransazer.jpg",
+		"playlist": [
+			{
+				"title": "Choseishin Gransazer Opening",
+				"id": "iag2wqeaHOY"
+			}
+		]
+	},
+	{
+		"name": "Corrector Yui",
+		"released_year": 1999,
+		"slug": "corrector-yui",
+		"thumbnail": "/images/anime/corrector-yui.jpg",
+		"playlist": [
+			{
+				"title": "Corrector Yui - Opening",
+				"id": "jvKf8iui0SI"
+			},
+			{
+				"title": "Corrector Yui Opening 2",
+				"id": "Mizh0OCWtB4"
+			}
+		]
+	},
+	{
+		"name": "Crayon Shin-chan",
+		"released_year": 1990,
+		"slug": "crayon-shin-chan",
+		"thumbnail": "/images/anime/crayon-shin-chan.jpg",
+		"playlist": [
+			{
+				"title": "Lagu opening crayon shinchan versi indonesia",
+				"id": "JCZu7sYlQIA"
+			},
+			{
+				"title": "CRAYON SHINCHAN OPENING (Eclat ft Indomusikgram)",
+				"id": "Lr-HgmhdkzU"
+			}
+		]
+	},
+	{
+		"name": "Crush Gear Nitro",
+		"released_year": 2003,
+		"slug": "crush-gear-nitro",
+		"thumbnail": "/images/anime/crush-gear-nitro.webp",
+		"playlist": [
+			{
+				"title": "Crush Gear Nitro Opening (4K AI Upscaled & Enhanced)",
+				"id": "x12DfWh9Iic"
+			}
+		]
+	},
+	{
+		"name": "Crush Gear Turbo",
+		"released_year": 2001,
+		"slug": "crush-gear-turbo",
+		"thumbnail": "/images/anime/crush-gear-turbo.jpg",
+		"playlist": [
+			{
+				"title": "Crush Gear Turbo - Opening",
+				"id": "daute5UKQ_s"
+			}
+		]
+	},
+	{
+		"name": "Cyborg Kuro-chan",
+		"released_year": 1999,
+		"slug": "cyborg-kuro-chan",
+		"thumbnail": "/images/anime/cyborg-kuro-chan.jpg",
+		"playlist": [
+			{
+				"title": "Opening Indonesia Cyborg Kuro Chan",
+				"id": "0i0m0vOjHto"
+			}
+		]
+	},
+	{
+		"name": "Darwin's Game",
+		"released_year": 2020,
+		"slug": "darwins-game",
+		"thumbnail": "/images/anime/darwins-game.jpg",
+		"playlist": [
+			{
+				"title": "Darwin`s Game Opening HD",
+				"id": "NxZcDkYqfqM"
+			},
+			{
+				"title": "ASCA 「CHAIN」 (Anime「ダーウィンズゲーム(Darwins Game)」OP)",
+				"id": "FjdvgI_jVP8"
+			},
+			{
+				"title": "Darwin's Game Ending Song (Alive)",
+				"id": "fLM0ilwk6n8"
+			},
+			{
+				"title": "Alive - Mashiro Ayano",
+				"id": "qx0jpELS3g8"
+			}
+		]
+	},
+	{
+		"name": "Death Note",
+		"released_year": 2006,
+		"slug": "death-note",
+		"thumbnail": "/images/anime/death-note.jpg",
+		"playlist": [
+			{
+				"title": "Death Note - Opening [4K]",
+				"id": "kNyR46eHDxE"
+			},
+			{
+				"title": "Death Note ED 1 [4K / 60FPS / Creditless]",
+				"id": "pBiFmadbQg8"
+			},
+			{
+				"title": "Death Note - Opening 2 [4K 60FPS | Creditless | CC]",
+				"id": "e6sSMIfG94k"
+			}
+		]
+	},
+	{
+		"name": "Dennō Bōkenki Webdiver",
+		"released_year": 2001,
+		"slug": "denno-bokenki-webdiver",
+		"thumbnail": "/images/anime/denno-bokenki-webdiver.jpg",
+		"playlist": [
+			{
+				"title": "Dennou Boukenki Webdiver OP",
+				"id": "ateuWZMF_Gk"
+			},
+			{
+				"title": "Dennou Boukenki Webdiver Ending 1 TOGETHER",
+				"id": "e6m9T6pV7KU"
+			},
+			{
+				"title": "WebDiver Opening 2",
+				"id": "LTrHr12u3mY"
+			},
+			{
+				"title": "Dennou boukenki webdiver Ending 2 (Fighter) sub Indonesia",
+				"id": "Ruh7LXXG0hc"
+			}
+		]
+	},
+	{
+		"name": "Detective Conan",
+		"released_year": 1996,
+		"slug": "detective-conan",
+		"thumbnail": "/images/anime/detective-conan.jpg",
+		"playlist": [
+			{
+				"title": "Opening Detective Conan Indonesia (Sound High Quality)",
+				"id": "EduzdyF08qc"
+			},
+			{
+				"title": "Detective Conan Opening 22 - ZARD -",
+				"id": "i9aJAdxCwdI"
+			},
+			{
+				"title": "ZARD/愛は暗闇の中で",
+				"id": "F4SvX22-lKA"
+			},
+			{
+				"title": "Conan Opening 23 - Ichiboyou goto Ni Love For You - Mai Kuraki",
+				"id": "fGTbed8tGso"
+			},
+			{
+				"title": "一秒ごとに love for you",
+				"id": "i5cglU7zLGs"
+			},
+			{
+				"title": "Detective Conan opening 28 - As the Dew - Garnet Crow",
+				"id": "4D1dgZDK8yM"
+			},
+			{
+				"title": "GARNET CROW「As the Dew」",
+				"id": "x4hlmtlVzAo"
+			}
+		]
+	},
+	{
+		"name": "Detective School-Q",
+		"released_year": 2003,
+		"slug": "detective-school-q",
+		"thumbnail": "/images/anime/detective-school-q.jpg",
+		"playlist": [
+			{
+				"title": "Detective School Q - Opening 1",
+				"id": "MNMQ075_MPg"
+			},
+			{
+				"title": "Hayami Kishimoto - MeiQ ( Make You) video",
+				"id": "73Zz4B1o2KQ"
+			},
+			{
+				"title": "Detective School Q - Opening 2",
+				"id": "KLzVRoKjwEk"
+			},
+			{
+				"title": "Luvly,Merry-Go-Round",
+				"id": "_iG6wy4orvI"
+			}
+		]
+	},
+	{
+		"name": "Digimon Adventure 1",
+		"released_year": 1999,
+		"slug": "digimon-adventure-1",
+		"thumbnail": "/images/anime/digimon-adventure-1.jpg",
+		"playlist": [
+			{
+				"title": "Digimon Adventure - Butter-Fly [Indonesian version]",
+				"id": "y2Ei5fvzlC0"
+			},
+			{
+				"title": "Digimon Adventure (1999) | OP Theme | Toei Animation",
+				"id": "kBV3PvdHrDw"
+			},
+			{
+				"title": "Digimon Adventure - Ending 1 Creditless [Blu-Ray BOX] 1080p",
+				"id": "zKGOu6uW5RA"
+			},
+			{
+				"title": "Digimon Adventure - Ending 2 Creditless [Blu-Ray BOX] 1080p",
+				"id": "Cd-XsbJ_njA"
+			}
+		]
+	},
+	{
+		"name": "Digimon Adventure 2",
+		"released_year": 2000,
+		"slug": "digimon-adventure-2",
+		"thumbnail": "/images/anime/digimon-adventure-2.jpg",
+		"playlist": [
+			{
+				"title": "OST DIGIMON 2 ADVENTURE BAHASA INDONESIA",
+				"id": "ed_ZCzgGw-E"
+			},
+			{
+				"title": "OPENING MOVIE (DIGIMON ADVENTURE 02 - 2023)",
+				"id": "oH3WUyJ79bk"
+			}
+		]
+	},
+	{
+		"name": "Digimon Adventure Reboot",
+		"released_year": 2020,
+		"slug": "digimon-adventure-reboot",
+		"thumbnail": "/images/anime/digimon-adventure-reboot.webp",
+		"playlist": [
+			{
+				"title": "Digimon Adventure 2020 OP",
+				"id": "2k7GMelJNu0"
+			},
+			{
+				"title": "Digimon Adventure 2020 - Ending - Closing Song",
+				"id": "sxX_yvBJDoQ"
+			},
+			{
+				"title": "悔しさは種／藤川千愛（アニメ『デジモンアドベンチャー：』エンディングテーマ）Music Video（”Digimon Adventure:”Ending Theme）",
+				"id": "ZLtg9XI01Hc"
+			},
+			{
+				"title": "X-treme Fight",
+				"id": "lgvm18SMZ9s"
+			},
+			{
+				"title": "TVアニメ「デジモンアドベンチャー:」挿入歌 Break the chain",
+				"id": "TJ15VZgBEUQ"
+			}
+		]
+	},
+	{
+		"name": "Digimon Adventure Tri",
+		"released_year": 2015,
+		"slug": "digimon-adventure-tri",
+		"thumbnail": "/images/anime/digimon-adventure-tri.jpg",
+		"playlist": [
+			{
+				"title": "Digimon Adventure Tri opening song Butterfly HD with english sub",
+				"id": "bRfk2-RwuhA"
+			},
+			{
+				"title": "Digimon Adventure tri. Ending 5 Aikotoba",
+				"id": "62ou5x_Qls4"
+			},
+			{
+				"title": "Aikotoba ~ Digimon Adventure Tri Ending 5 (Full) AiMxMiyazaki",
+				"id": "ZcyS4suKa1M"
+			}
+		]
+	},
+	{
+		"name": "Digimon Data Squad",
+		"released_year": 2006,
+		"slug": "digimon-data-squad",
+		"thumbnail": "/images/anime/digimon-data-squad.jpg",
+		"playlist": [
+			{
+				"title": "Digimon Savers Opening 2 |Creditless| [4K 60FPS Remastered]",
+				"id": "53eJTThlUJs"
+			},
+			{
+				"title": "Wada Kouji - Hirari",
+				"id": "nwalsbtdlmQ"
+			}
+		]
+	},
+	{
+		"name": "Digimon Frontier",
+		"released_year": 2002,
+		"slug": "digimon-frontier",
+		"thumbnail": "/images/anime/digimon-frontier.jpg",
+		"playlist": [
+			{
+				"title": "Digimon Frontier opening 1 japanese HD",
+				"id": "PLMJAdGEfs4"
+			},
+			{
+				"title": "Wada Kouji - FIRE!!",
+				"id": "d72xneKSB78"
+			},
+			{
+				"title": "Digimon Frontier - The Last Element",
+				"id": "Bn3ptZO3k98"
+			},
+			{
+				"title": "Digimon Frontier - Second Ending - Wada Kouji Endless Tale",
+				"id": "FGhKKKcsMfU"
+			},
+			{
+				"title": "An Endless tale live AiM & Wada Koji",
+				"id": "BFEG5hwO_zw"
+			}
+		]
+	},
+	{
+		"name": "Digimon Tamers",
+		"released_year": 2001,
+		"slug": "digimon-tamers",
+		"thumbnail": "/images/anime/digimon-tamers.webp",
+		"playlist": [
+			{
+				"title": "Digimon Tamers Original Opening HD",
+				"id": "Se-2l5A2wu4"
+			},
+			{
+				"title": "Wada Kouji - The Biggest Dreamer",
+				"id": "V_SgzFm2llk"
+			},
+			{
+				"title": "Tanimoto Takayoshi - One Vision",
+				"id": "5_nXa99j9GQ"
+			}
+		]
+	},
+	{
+		"name": "Digimon Universe: App Monster",
+		"released_year": 2016,
+		"slug": "digimon-universe-app-monster",
+		"thumbnail": "/images/anime/digimon-universe-app-monster.webp",
+		"playlist": [
+			{
+				"title": "Digimon Universe: Appli Monsters Opening 1",
+				"id": "k4yE2BYyx04"
+			},
+			{
+				"title": "『DiVE!!』 / 天月-あまつき- 【MUSIC VIDEO】 デジモンユニバースアプリモンスターズOP主題歌",
+				"id": "7dK-1mErg7w"
+			},
+			{
+				"title": "Digimon Universe 2nd OP",
+				"id": "qs6kY7ra_Vc"
+			},
+			{
+				"title": "Digimon Universe Appli Monsters - GATCHEN!! - SymaG",
+				"id": "viibRGc7aZw"
+			}
+		]
+	},
+	{
+		"name": "Digimon Xros Wars",
+		"released_year": 2010,
+		"slug": "digimon-xros-wars",
+		"thumbnail": "/images/anime/digimon-xros-wars.jpg",
+		"playlist": [
+			{
+				"title": "Digimon Xros Wars - Opening 2 - Shoutmon X7 Version [HD 1080i]",
+				"id": "NBygAnIHFU8"
+			},
+			{
+				"title": "Twill - New World (Subbed PV) [HD]",
+				"id": "4O6k4FMltmI"
+			},
+			{
+				"title": "Wada Kouji, Tanimoto Takayoshi, Miyazaki Ayumi - WE ARE XROS HEART! ver. X7",
+				"id": "esfYz1QTx2U"
+			},
+			{
+				"title": "Digimon Xros Wars OP 3 HD",
+				"id": "zay1klC1G2w"
+			},
+			{
+				"title": "Twill - STAND UP (English Subbed) [HD]",
+				"id": "7r1DZXezZIk"
+			}
+		]
+	},
+	{
+		"name": "DN Angel",
+		"released_year": 2003,
+		"slug": "dn-angel",
+		"thumbnail": "/images/anime/dn-angel.jpg",
+		"playlist": [
+			{
+				"title": "D N Angel opening HD creditless",
+				"id": "aQWYLfOIlzk"
+			},
+			{
+				"title": "白夜 ～True Light～（Full Version）",
+				"id": "XIMaw2yByq0"
+			}
+		]
+	},
+	{
+		"name": "Doraemon",
+		"released_year": 1973,
+		"slug": "doraemon",
+		"thumbnail": "/images/anime/doraemon.webp",
+		"playlist": [
+			{
+				"title": "Lagu Doraemon Opening Versi Indonesia",
+				"id": "LA-Fk0oYY4Q"
+			}
+		]
+	},
+	{
+		"name": "Dr. Slump",
+		"released_year": 1981,
+		"slug": "dr-slump",
+		"thumbnail": "/images/anime/dr-slump.jpg",
+		"playlist": [
+			{
+				"title": "Dr. Slump - Arale Opening [dub Indonesia]",
+				"id": "3yyXn--B70A"
+			}
+		]
+	},
+	{
+		"name": "Dr. Stone",
+		"released_year": 2019,
+		"slug": "dr-stone",
+		"thumbnail": "/images/anime/dr-stone.jpg",
+		"playlist": [
+			{
+				"title": "ＴＶアニメ 「Ｄｒ．ＳＴＯＮＥ」 第2期ED＜声?＞ノンクレジット映像【毎週木曜日 好評放送＆配信中！】",
+				"id": "-DjXNR6oIjY"
+			},
+			{
+				"title": "はてな「声?」（こえだけが）Music Video（フル）TVアニメ「Ｄｒ．ＳＴＯＮＥ」エンディングテーマ",
+				"id": "08uZkbpF1N8"
+			},
+			{
+				"title": "TVアニメ『Dr.STONE NEW WORLD』第2クールOP＜遥か＞ノンクレジット映像",
+				"id": "TzZB-BOcpZY"
+			},
+			{
+				"title": "『Dr.STONE NEW WORLD』- Haruka Special Music Video",
+				"id": "nzMrPJbRG_M"
+			}
+		]
+	},
+	{
+		"name": "Dragon Ball",
+		"released_year": 1989,
+		"slug": "dragon-ball",
+		"thumbnail": "/images/anime/dragon-ball.jpg",
+		"playlist": [
+			{
+				"title": "Dragon Ball Opening - Bahasa Indonesia",
+				"id": "oU9XqvVg3Jc"
+			}
+		]
+	},
+	{
+		"name": "Dragon League",
+		"released_year": 1993,
+		"slug": "dragon-league",
+		"thumbnail": "/images/anime/dragon-league.jpg"
+	},
+	{
+		"name": "Duel Masters",
+		"released_year": 2002,
+		"slug": "duel-masters",
+		"thumbnail": "/images/anime/duel-masters.jpg",
+		"playlist": [
+			{
+				"title": "Duel Masters Sacred Lands Season 2 Intro 1080p HD",
+				"id": "mn-lP2DEeLc"
+			}
+		]
+	},
+	{
+		"name": "Elusive Samurai",
+		"released_year": 2024,
+		"slug": "elusive-samurai",
+		"thumbnail": "/images/anime/elusive-samurai.webp"
+	},
+	{
+		"name": "Eureka Seven",
+		"released_year": 2005,
+		"slug": "eureka-seven",
+		"thumbnail": "/images/anime/eureka-seven.png",
+		"playlist": [
+			{
+				"title": "Eureka Seven Opening 2 HD High definition",
+				"id": "i81fGPmMpj4"
+			},
+			{
+				"title": "Home Made Kazoku - Shonen Heart",
+				"id": "dgAifYag2_M"
+			},
+			{
+				"title": "[720p] Eureka seveN Creditless OP4 Sakura by NIRGILIS",
+				"id": "_B7aYtjRKZo"
+			},
+			{
+				"title": "ニルギリス– sakura 【OFFICIAL MUSIC VIDEO】",
+				"id": "-VZjNpstO1o"
+			}
+		]
+	},
+	{
+		"name": "Eyeshield 21",
+		"released_year": 2005,
+		"slug": "eyeshield-21",
+		"thumbnail": "/images/anime/eyeshield-21.jpg",
+		"playlist": [
+			{
+				"title": "Eyeshield 21 Opening 2 - Innocence",
+				"id": "-p1SQ6ceMfc"
+			},
+			{
+				"title": "Eyeshield 21 OP2「Innocence」(Full)",
+				"id": "x7wk-UoHJaE"
+			},
+			{
+				"title": "DangDang",
+				"id": "4OAI7CLdn80"
+			},
+			{
+				"title": "Eyeshield 21 Opening 4 Blaze Line",
+				"id": "VoftWzc6Cto"
+			}
+		]
+	},
+	{
+		"name": "Frieren: Beyond Journey's End",
+		"released_year": 2023,
+		"slug": "frieren-beyond-journeys-end",
+		"thumbnail": "/images/anime/frieren-beyond-journeys-end.jpg",
+		"playlist": [
+			{
+				"title": "Frieren:Beyond the Journey's End Non-telop Openning movie/OP theme: YUSHA(Brave) YOASOBI",
+				"id": "QoGM9hCxr4k"
+			},
+			{
+				"title": "YOASOBI「勇者」 Official Music Video／TVアニメ『葬送のフリーレン』オープニングテーマ",
+				"id": "OIBODIPC_8Y"
+			},
+			{
+				"title": "Frieren: Beyond Journey's End Non-telop Ending Movie/ED theme: Anytime Anywhere milet",
+				"id": "7pmd0kt3FOs"
+			},
+			{
+				"title": "milet Anytime Anywhere × Frieren:Beyond Journey's End SPECIAL MUSIC VIDEO／Frieren Ending Theme",
+				"id": "lv5R6C3hz54"
+			}
+		]
+	},
+	{
+		"name": "Fullmetal Alchemist: Brotherhood",
+		"released_year": 2009,
+		"slug": "fullmetal-alchemist-brotherhood",
+		"thumbnail": "/images/anime/fullmetal-alchemist-brotherhood.jpg",
+		"playlist": [
+			{
+				"title": "Fullmetal Alchemist: Brotherhood - Opening 1 [4K 60FPS | Creditless | CC]",
+				"id": "elyXcwunIYA"
+			},
+			{
+				"title": "Fullmetal Alchemist: Brotherhood - Opening 3 [4K 60FPS | Creditless | CC]",
+				"id": "1_LJdBw4SZo"
+			},
+			{
+				"title": "Fullmetal Alchemist: Brotherhood - Opening 5 [4K 60FPS | Creditless | CC]",
+				"id": "MUlGyqi4ttk"
+			},
+			{
+				"title": "Fullmetal Alchemist: Brotherhood - Ending 4 [4K 60FPS | Creditless | CC]",
+				"id": "eAyfr25sEmo"
+			},
+			{
+				"title": "Fullmetal Alchemist Brotherhood Finale Credits",
+				"id": "65I9HTauT-I"
+			}
+		]
+	},
+	{
+		"name": "Future GPX Cyber Formula (Asurada)",
+		"released_year": 1991,
+		"slug": "future-gpx-cyber-formula-asurada",
+		"thumbnail": "/images/anime/future-gpx-cyber-formula-asurada.jpg",
+		"playlist": [
+			{
+				"title": "Future GPX Cyber Formula | Opening [HD]",
+				"id": "dvmy-ZIsv6A"
+			}
+		]
+	},
+	{
+		"name": "GeGeGe No Kitaro",
+		"released_year": 2018,
+		"slug": "gegege-no-kitaro",
+		"thumbnail": "/images/anime/gegege-no-kitaro.jpg",
+		"playlist": [
+			{
+				"title": "GeGeGe NO Kitaro (opening)",
+				"id": "6o2HeICUUeY"
+			},
+			{
+				"title": "Gegege no Kitaro (2018) OP intro",
+				"id": "vWTKaoi6UBE"
+			}
+		]
+	},
+	{
+		"name": "Genseishin Justirisers",
+		"released_year": 2004,
+		"slug": "genseishin-justirisers",
+		"thumbnail": "/images/anime/genseishin-justirisers.jpg",
+		"playlist": [
+			{
+				"title": "Genseishin Justirisers Opening Song",
+				"id": "7hpG6jlywKo"
+			}
+		]
+	},
+	{
+		"name": "Gensomaden Saiyuki",
+		"released_year": 2000,
+		"slug": "gensomaden-saiyuki",
+		"thumbnail": "/images/anime/gensomaden-saiyuki.webp",
+		"playlist": [
+			{
+				"title": "Gensomaden Saiyuki OP",
+				"id": "VxMxA2N4cqo"
+			},
+			{
+				"title": "Gensomaden Saiyuki OP2",
+				"id": "CEziFBBp8ns"
+			}
+		]
+	},
+	{
+		"name": "Gensomaden Saiyuki Reload Blast",
+		"released_year": 2017,
+		"slug": "gensomaden-saiyuki-reload-blast",
+		"thumbnail": "/images/anime/gensomaden-saiyuki-reload-blast.jpg",
+		"playlist": [
+			{
+				"title": "Saiyuuki Reload Blast - Opening HD Creditless",
+				"id": "FsyyUwUPynk"
+			},
+			{
+				"title": "Saiyuuki Reload Blast - Ending HD Creditless",
+				"id": "tLbDd-F4D8k"
+			}
+		]
+	},
+	{
+		"name": "Gensomaden Saiyuki: Gaiden",
+		"released_year": 2011,
+		"slug": "gensomaden-saiyuki-gaiden",
+		"thumbnail": "/images/anime/gensomaden-saiyuki-gaiden.jpg",
+		"playlist": [
+			{
+				"title": "Saiyuki Gaiden OVA opening subbed",
+				"id": "OtKKA8wMovc"
+			}
+		]
+	},
+	{
+		"name": "Gensomaden Saiyuki: Reload",
+		"released_year": 2003,
+		"slug": "gensomaden-saiyuki-reload",
+		"thumbnail": "/images/anime/gensomaden-saiyuki-reload.jpg",
+		"playlist": [
+			{
+				"title": "Saiyuki Reload - Wild Rock",
+				"id": "cIY3kSsGsqE"
+			}
+		]
+	},
+	{
+		"name": "Gensomaden Saiyuki Reload: Zeroin",
+		"released_year": 2022,
+		"slug": "gensomaden-saiyuki-reload-zeroin",
+		"thumbnail": "/images/anime/gensomaden-saiyuki-reload-zeroin.jpg",
+		"playlist": [
+			{
+				"title": "Saiyuki Reload ZEROIN Opening - Kamino Hotokemo",
+				"id": "hleV9ohm544"
+			},
+			{
+				"title": "SAIYUKI RELOAD -ZEROIN- - Ending Theme - 《ruten》 (JPN / ENG Lyrics)",
+				"id": "frJGajZ_5PA"
+			}
+		]
+	},
+	{
+		"name": "Gintama",
+		"released_year": 2006,
+		"slug": "gintama",
+		"thumbnail": "/images/anime/gintama.jpg",
+		"playlist": [
+			{
+				"title": "Gintama Opening 18 v3",
+				"id": "b9rH0DdT_jg"
+			},
+			{
+				"title": "ЯeaL 『カゲロウ』Music Video(Short Ver.)",
+				"id": "JgpSEpAnbEM"
+			},
+			{
+				"title": "Kagerou",
+				"id": "lT-DFKqk1i4"
+			},
+			{
+				"title": "映画『銀魂 THE FINAL』90秒予告 2021年1月8日（金）公開",
+				"id": "SvRHM7AONB4"
+			},
+			{
+				"title": "SPYAIR 『轍～Wadachi～』Music Video（1/8公開映画『銀魂 THE FINAL』主題歌）",
+				"id": "03BzZld9lvE"
+			}
+		]
+	},
+	{
+		"name": "God Eater",
+		"released_year": 2015,
+		"slug": "god-eater",
+		"thumbnail": "/images/anime/god-eater.png",
+		"playlist": [
+			{
+				"title": "God Eater OP (TV-Size)",
+				"id": "CgeKdKzwSis"
+			}
+		]
+	},
+	{
+		"name": "Hagemaru",
+		"released_year": 1988,
+		"slug": "hagemaru",
+		"thumbnail": "/images/anime/hagemaru.jpg"
+	},
+	{
+		"name": "Haikyuu! Fly High!! Volleyball!",
+		"released_year": 2014,
+		"slug": "haikyuu-fly-high-volleyball",
+		"thumbnail": "/images/anime/haikyuu-fly-high-volleyball.jpg",
+		"playlist": [
+			{
+				"title": "SPYAIR『イマジネーション[謎解きver.]』",
+				"id": "libAD49_XNw"
+			}
+		]
+	},
+	{
+		"name": "Hamtaro",
+		"released_year": 2000,
+		"slug": "hamtaro",
+		"thumbnail": "/images/anime/hamtaro.jpg",
+		"playlist": [
+			{
+				"title": "Hamtaro Japanese OP",
+				"id": "Xl4fZSY8CFI"
+			}
+		]
+	},
+	{
+		"name": "Hanyou no Yashahime: Sengoku Otogizoushi",
+		"released_year": 2020,
+		"slug": "hanyou-no-yashahime-sengoku-otogizoushi",
+		"thumbnail": "/images/anime/hanyou-no-yashahime-sengoku-otogizoushi.jpg"
+	},
+	{
+		"name": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
+		"released_year": 2021,
+		"slug": "hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou",
+		"thumbnail": "/images/anime/hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou.jpg",
+		"playlist": [
+			{
+				"title": "Yashahime Season 2 Opening - Reborn",
+				"id": "XnvOYfGhshs"
+			},
+			{
+				"title": "NEWS - ReBorn [Official Music Clip]",
+				"id": "cboWaUdLzGw"
+			},
+			{
+				"title": "YashaHime: Princess Half-Demon/半妖の夜叉姫 | 4th Opening (OP) Theme Songs - Resonance 共鳴 | FHD 1080p",
+				"id": "sb2Zt6400GM"
+			},
+			{
+				"title": "SixTONES (w/English Subtitles!) Kyomei [YouTube ver.]",
+				"id": "juoM5rB0h44"
+			},
+			{
+				"title": "半妖の夜叉姫 ED 2 - 結証",
+				"id": "MZtrS5HF2OU"
+			},
+			{
+				"title": "緑黄色社会 『結証』Music Video（TVアニメ『半妖の夜叉姫』1月クールEDテーマ / Yashahime: Princess Half-Demon",
+				"id": "1422nca02G4"
+			}
+		]
+	},
+	{
+		"name": "Hataraku Saibo",
+		"released_year": 2018,
+		"slug": "hataraku-saibo",
+		"thumbnail": "/images/anime/hataraku-saibo.jpg"
+	},
+	{
+		"name": "Himoutou! Umaru-chan",
+		"released_year": 2015,
+		"slug": "himoutou-umaru-chan",
+		"thumbnail": "/images/anime/himoutou-umaru-chan.jpg",
+		"playlist": [
+			{
+				"title": "TVアニメ『干物妹！うまるちゃん』ノンクレジットOP映像「かくしん的☆めたまるふぉ～ぜっ！」",
+				"id": "b6-2P8RgT0A"
+			},
+			{
+				"title": "(Sub Indo) Himouto! Umaru-chan! [Live!!]",
+				"id": "29uM_fneOOk"
+			}
+		]
+	},
+	{
+		"name": "Hunter X Hunter",
+		"released_year": 2011,
+		"slug": "hunter-x-hunter",
+		"thumbnail": "/images/anime/hunter-x-hunter.jpg",
+		"playlist": [
+			{
+				"title": "HUNTER X HUNTER OPENING SONG - OHAYOU INDONESIAN VERSION [HXH Opening Song]",
+				"id": "pZXkNeGvNo0"
+			},
+			{
+				"title": "Lagu Angin - Ending Hunter X Hunter [Indonesia Version]",
+				"id": "g5oyEoDupWw"
+			},
+			{
+				"title": "Hunter x Hunter (2011) - Opening v6 【departure!】 4K 60FPS Creditless | CC",
+				"id": "-ycjmB9YgNY"
+			},
+			{
+				"title": "departure! - Masatoshi Ono Official",
+				"id": "3SqhXiimlrg"
+			}
+		]
+	},
+	{
+		"name": "Idaten Jump",
+		"released_year": 2005,
+		"slug": "idaten-jump",
+		"thumbnail": "/images/anime/idaten-jump.jpg",
+		"playlist": [
+			{
+				"title": "Idaten Jump Opening - Your World",
+				"id": "QLXD-yTZ_2A"
+			},
+			{
+				"title": "Your World - Ketchup Mania",
+				"id": "UU4tZqyNqaA"
+			},
+			{
+				"title": "Idaten Jump Ending 2 - Shalala",
+				"id": "zlfVjAaUzXk"
+			},
+			{
+				"title": "Shalala - Tsubamesukecchi",
+				"id": "heHIqRC0YWE"
+			}
+		]
+	},
+	{
+		"name": "Initial-D",
+		"released_year": 1998,
+		"slug": "initial-d",
+		"thumbnail": "/images/anime/initial-d.jpg",
+		"playlist": [
+			{
+				"title": "Initial D Fourth Stage OP 1 - Dogfight (Remastered in HD 60FPS using AI Machine Learning)",
+				"id": "ymKNoTN3kZk"
+			},
+			{
+				"title": "m.o.v.e / DOGFIGHT",
+				"id": "GKURxNMi2xA"
+			}
+		]
+	},
+	{
+		"name": "Inuyasha",
+		"released_year": 2000,
+		"slug": "inuyasha",
+		"thumbnail": "/images/anime/inuyasha.jpg",
+		"playlist": [
+			{
+				"title": "Inuyasha Opening 1 - Change The World",
+				"id": "KwCfHVGamn8"
+			},
+			{
+				"title": "V6 / CHANGE THE WORLD（YouTube Ver.）",
+				"id": "Hok551J0Cbc"
+			},
+			{
+				"title": "Inuyasha Ending 1 - My Will",
+				"id": "eI_el2XhI8s"
+			},
+			{
+				"title": "My Will - Dream",
+				"id": "NBfpKsOwk1c"
+			},
+			{
+				"title": "InuYasha Ending 2 - Fukaimori",
+				"id": "xKt8_o1a9Cw"
+			},
+			{
+				"title": "Do As Infinity / Fukai Mori（Deep into the Forest）",
+				"id": "qIoDWTF0qSo"
+			},
+			{
+				"title": "InuYasha - Opening 6 犬夜叉 (ANGELUS)",
+				"id": "yHb2LXedl6U"
+			},
+			{
+				"title": "島谷ひとみ / 「ANGELUS -アンジェラス-」【OFFICIAL MV FULL SIZE】",
+				"id": "RVxPNDFFc74"
+			}
+		]
+	},
+	{
+		"name": "Inuyasha Kanketsu-hen",
+		"released_year": 2009,
+		"slug": "inuyasha-kanketsu-hen",
+		"thumbnail": "/images/anime/inuyasha-kanketsu-hen.jpg",
+		"playlist": [
+			{
+				"title": "Inuyasha Kanketsu-hen Opening - Kimi ga Inai Mirai",
+				"id": "C1LBVfFWPXw"
+			},
+			{
+				"title": "Do As Infinity / Kimi Ga Inai Mirai (A Future without You)",
+				"id": "Leo3g_PAMCc"
+			},
+			{
+				"title": "Inuyasha Kanketsu-Hen Ending 1 - With You",
+				"id": "eIWQQ-Ziib0"
+			},
+			{
+				"title": "With you - AAA",
+				"id": "oFjwIY69JuE"
+			},
+			{
+				"title": "InuYasha Kanketsu-Hen Ending 3",
+				"id": "1gH85SYcw2k"
+			},
+			{
+				"title": "武川アイ / 遠い道の先で",
+				"id": "0yIJ0CSDbsM"
+			}
+		]
+	},
+	{
+		"name": "Jigoku Sensei Nube",
+		"released_year": 1996,
+		"slug": "jigoku-sensei-nube",
+		"thumbnail": "/images/anime/jigoku-sensei-nube.jpg",
+		"playlist": [
+			{
+				"title": "Jigoku Sensei Nube Opening [4K 60FPS Remastered]",
+				"id": "493DJEmz8Yc"
+			}
+		]
+	},
+	{
+		"name": "Jujutsu Kaisen",
+		"released_year": 2020,
+		"slug": "jujutsu-kaisen",
+		"thumbnail": "/images/anime/jujutsu-kaisen.jpg",
+		"playlist": [
+			{
+				"title": "Who-ya Extended「VIVID VICE」- Anime Version",
+				"id": "8nNujr378EA"
+			},
+			{
+				"title": "Who-ya Extended 「VIVID VICE」- Full Version",
+				"id": "EU6I8TxU6Z4"
+			},
+			{
+				"title": "King Gnu - Anime Version",
+				"id": "5yb2N3pnztU"
+			},
+			{
+				"title": "King Gnu - Full Version",
+				"id": "fhzKLBZJC3w"
+			},
+			{
+				"title": "Jujutsu Kaisen - Ending 3 【Akari】 4K 60FPS Creditless | CC",
+				"id": "bkpX2kfHprc"
+			}
+		]
+	},
+	{
+		"name": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
+		"released_year": 2004,
+		"slug": "juubee-chan-2-siberia-yagyuu-no-gyakushuu",
+		"thumbnail": "/images/anime/juubee-chan-2-siberia-yagyuu-no-gyakushuu.jpg",
+		"playlist": [
+			{
+				"title": "JUBEI CHAN SEASON 2 MAIN THEME OST",
+				"id": "RLugefwInAw"
+			},
+			{
+				"title": "Jubei Chan 2 - Jubei vs. Freesia",
+				"id": "tZWLpxTfnB8"
+			}
+		]
+	},
+	{
+		"name": "Kamen Rider 555 (Faiz)",
+		"released_year": 2003,
+		"slug": "kamen-rider-555",
+		"thumbnail": "/images/anime/kamen-rider-555.webp",
+		"playlist": [
+			{
+				"title": "Kamen Rider 555 (Faiz) Opening",
+				"id": "fwYCO5QI_Ts"
+			}
+		]
+	},
+	{
+		"name": "Kamen Rider Blade",
+		"released_year": 2004,
+		"slug": "kamen-rider-blade",
+		"thumbnail": "/images/anime/kamen-rider-blade.jpg",
+		"playlist": [
+			{
+				"title": "Kamen Rider Blade Opening 1",
+				"id": "myGlSMgAyr0"
+			},
+			{
+				"title": "Kamen Rider Blade Opening 2",
+				"id": "7fHq-lUjlEo"
+			}
+		]
+	},
+	{
+		"name": "Kamen Rider Ryuki",
+		"released_year": 2002,
+		"slug": "kamen-rider-ryuki",
+		"thumbnail": "/images/anime/kamen-rider-ryuki.webp",
+		"playlist": [
+			{
+				"title": "Kamen Rider Ryuki Opening",
+				"id": "GZGVS623lFw"
+			},
+			{
+				"title": "Kamen Rider Ryuki Survive - Revolution",
+				"id": "Dih0vokuZXY"
+			}
+		]
+	},
+	{
+		"name": "Kekkaishi",
+		"released_year": 2006,
+		"slug": "kekkaishi",
+		"thumbnail": "/images/anime/kekkaishi.jpg",
+		"playlist": [
+			{
+				"title": "Kekkaishi [ Opening Ost]",
+				"id": "4eklNcYuK6g"
+			},
+			{
+				"title": "Uura Saeko Sha la la la la ~Ayakashi NIGHT~",
+				"id": "d3Uhi_YCM90"
+			},
+			{
+				"title": "Kekkaishi - ED 4 (HD)",
+				"id": "H-TCIf2FsLw"
+			},
+			{
+				"title": "Uura Saeka - Kyuukei Jikan Juppun (Kekkaishi ending 4) (Lirik Terjemahan Indonesia)",
+				"id": "HAFSZT-mh5A"
+			}
+		]
+	},
+	{
+		"name": "Kenyuu Densetsu Yaiba",
+		"released_year": 1993,
+		"slug": "kenyuu-densetsu-yaiba",
+		"thumbnail": "/images/anime/kenyuu-densetsu-yaiba.jpg"
+	},
+	{
+		"name": "Keroro Gunsou",
+		"released_year": 2004,
+		"slug": "keroro-gunsou",
+		"thumbnail": "/images/anime/keroro-gunsou.jpg"
+	},
+	{
+		"name": "Kiba",
+		"released_year": 2006,
+		"slug": "kiba",
+		"thumbnail": "/images/anime/kiba.jpg",
+		"playlist": [
+			{
+				"title": "Kiba Opening 1 - Sanctuary",
+				"id": "aABX7zBU17c"
+			},
+			{
+				"title": "Nami Tamaki Sanctuary Music Video",
+				"id": "3laxI5C6N2c"
+			},
+			{
+				"title": "Kiba Opening 2 - Hakanaku Tsuyoku",
+				"id": "hbiJh4aB0iE"
+			},
+			{
+				"title": "Hakanaku Tsuyoku - Younha",
+				"id": "jPp_mWFCubE"
+			},
+			{
+				"title": "KIBA - Solar Wind (Ending 2)",
+				"id": "EV2pTdopMt4"
+			},
+			{
+				"title": "Snowkel (シュノーケル) - solar wind [MV]",
+				"id": "QBXy830dv_I"
+			}
+		]
+	},
+	{
+		"name": "Kimetsu No Yaiba",
+		"released_year": 2019,
+		"slug": "kimetsu-no-yaiba",
+		"thumbnail": "/images/anime/kimetsu-no-yaiba.jpg",
+		"playlist": [
+			{
+				"title": "Demon Slayer | OP | Gurenge by LiSA HD",
+				"id": "pmanD_s7G3U"
+			},
+			{
+				"title": "Gurenge - LiSA",
+				"id": "TqyfmFaZlqw"
+			},
+			{
+				"title": "TANJIRO | Demon Slayer: Kimetsu no Yaiba | Clip",
+				"id": "KkQI3ECwfG4"
+			},
+			{
+				"title": "Kamado Tanjirou no Uta (From Demon Slayer: Kimetsu no Yaiba) (Full Version)",
+				"id": "QnkqCv0dZTk"
+			},
+			{
+				"title": "Homura MUSiC CLiP (“Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train Main theme）",
+				"id": "4DxL6IKmXx4"
+			},
+			{
+				"title": "MAN WITH A MISSION x milet「Kizuna no Kiseki」Music Video",
+				"id": "Jb6Zlg30rgk"
+			},
+			{
+				"title": "milet x MAN WITH A MISSION「Koi Kogare」MUSIC VIDEO",
+				"id": "vZUyKVE9dus"
+			}
+		]
+	},
+	{
+		"name": "Kishin Douji Zenki",
+		"released_year": 1995,
+		"slug": "kishin-douji-zenki",
+		"thumbnail": "/images/anime/kishin-douji-zenki.jpg",
+		"playlist": [
+			{
+				"title": "鬼神童子ZENKI OP 鬼神童子ZENKI AI 4K 中日字幕 (MAD·AMV)",
+				"id": "mCHUWVkNRtE"
+			}
+		]
+	},
+	{
+		"name": "Komi Can't Communicate",
+		"released_year": 2021,
+		"slug": "komi-cant-communicate",
+		"thumbnail": "/images/anime/komi-cant-communicate.jpg"
+	},
+	{
+		"name": "Kotaro Lives Alone",
+		"released_year": 2022,
+		"slug": "kotaro-lives-alone",
+		"thumbnail": "/images/anime/kotaro-lives-alone.jpg"
+	},
+	{
+		"name": "Kuroko No Basket",
+		"released_year": 2012,
+		"slug": "kuroko-no-basket",
+		"thumbnail": "/images/anime/kuroko-no-basket.jpg"
+	},
+	{
+		"name": "Mahoujin Guru Guru",
+		"released_year": 2017,
+		"slug": "mahoujin-guru-guru",
+		"thumbnail": "/images/anime/mahoujin-guru-guru.jpg",
+		"playlist": [
+			{
+				"title": "Mahoujin Guru Guru (2017) NCOP 1",
+				"id": "1-edro8xY80"
+			}
+		]
+	},
+	{
+		"name": "MÄR (Märchen Awakens Romance)",
+		"released_year": 2005,
+		"slug": "marchen-awakens-romance",
+		"thumbnail": "/images/anime/marchen-awakens-romance.jpg",
+		"playlist": [
+			{
+				"title": "MÄR Opening 4",
+				"id": "g1dMVD0E1Ls"
+			}
+		]
+	},
+	{
+		"name": "Mashle: Magic and Muscle",
+		"released_year": 2023,
+		"slug": "mashle-magic-and-muscle",
+		"thumbnail": "/images/anime/mashle-magic-and-muscle.jpg",
+		"playlist": [
+			{
+				"title": "MASHLE: MAGIC AND MUSCLES The Divine Visionary Candidate Exam Arc | OPENING THEME",
+				"id": "9rVKos-oGnQ"
+			}
+		]
+	},
+	{
+		"name": "Medabots",
+		"released_year": 1999,
+		"slug": "medabots",
+		"thumbnail": "/images/anime/medabots.jpg"
+	},
+	{
+		"name": "Miss Kobayashi's Dragon Maid",
+		"released_year": 2017,
+		"slug": "miss-kobayashis-dragon-maid",
+		"thumbnail": "/images/anime/miss-kobayashis-dragon-maid.jpg",
+		"playlist": [
+			{
+				"title": "Miss Kobayashi's Dragon Maid S2 OP 4K 60FPS",
+				"id": "rBkia7akWzw"
+			},
+			{
+				"title": "fhána - 愛のシュプリーム！(TVアニメ『小林さんちのメイドラゴンS』OP主題歌) - Official Music Video",
+				"id": "XCs7FacjHQY"
+			}
+		]
+	},
+	{
+		"name": "Mob Psycho 100",
+		"released_year": 2016,
+		"slug": "mob-psycho-100",
+		"thumbnail": "/images/anime/mob-psycho-100.jpg"
+	},
+	{
+		"name": "Mobile Suit Gundam Wing",
+		"released_year": 1995,
+		"slug": "mobile-suit-gundam-wing",
+		"thumbnail": "/images/anime/mobile-suit-gundam-wing.jpg",
+		"playlist": [
+			{
+				"title": "Mobile Suit Gundam Wing - Opening 1 | Just Communication",
+				"id": "oNJ4aBoRipg"
+			}
+		]
+	},
+	{
+		"name": "Mobile Suit Gundam SEED",
+		"released_year": 2002,
+		"slug": "mobile-suit-gundam-seed",
+		"thumbnail": "/images/anime/mobile-suit-gundam-seed.jpg",
+		"playlist": [
+			{
+				"title": "Annani Issho Dattanoni - ReTracks See-Saw/GUNDAM SEED HD REMASTER Textless version of ED",
+				"id": "shRV-LIbsO8"
+			}
+		]
+	},
+	{
+		"name": "Mobile Suit Gundam SEED Destiny",
+		"released_year": 2004,
+		"slug": "mobile-suit-gundam-seed-destiny",
+		"thumbnail": "/images/anime/mobile-suit-gundam-seed-destiny.jpg",
+		"playlist": [
+			{
+				"title": "Gundam (ガンダム) Seed Destiny HD Remaster Opening 3 [Bokutachi no Yukue - Hitomi Takahashi]",
+				"id": "s5JNlYl6SWk"
+			},
+			{
+				"title": "[Bokutachi no Yukue - Hitomi Takahashi] Full Version",
+				"id": "0qO0yE_9KhQ"
+			},
+			{
+				"title": "Life Goes On",
+				"id": "9T0Kq4hFLos"
+			}
+		]
+	},
+	{
+		"name": "Monster Rancher",
+		"released_year": 1999,
+		"slug": "monster-rancher",
+		"thumbnail": "/images/anime/monster-rancher.jpg",
+		"playlist": [
+			{
+				"title": "Op2 Monster Farm/Monster Rancher|Close to Your Heart | By | Rina Aiuchi",
+				"id": "HTVQuyJfjrs"
+			}
+		]
+	},
+	{
+		"name": "My Happy Marriage",
+		"released_year": 2023,
+		"slug": "my-happy-marriage",
+		"thumbnail": "/images/anime/my-happy-marriage.jpg"
+	},
+	{
+		"name": "Naruto",
+		"released_year": 2002,
+		"slug": "naruto",
+		"thumbnail": "/images/anime/naruto.jpg",
+		"playlist": [
+			{
+				"title": "Naruto | Opening 2 - Haruka Kanata | VIZ",
+				"id": "RiQrbSuLrsU"
+			},
+			{
+				"title": "ASIAN KUNG-FU GENERATION - Haruka Kanata",
+				"id": "nJ6A6GC_ki4"
+			},
+			{
+				"title": "Naruto - Opening 3 (HD - 60 fps) - Kanashimi wo Yasashisa ni",
+				"id": "ayx9WvHMHU8"
+			},
+			{
+				"title": "Kanashimi wo Yasashisani ni - Little by Little",
+				"id": "rBnJ7KB9rPc"
+			},
+			{
+				"title": "Naruto OP 4 - Flow - Go",
+				"id": "gVbBgiLbMBk"
+			},
+			{
+				"title": "FLOW - GO!!! / THE FIRST TAKE",
+				"id": "4RXxabY7hfQ"
+			},
+			{
+				"title": "Naruto - Opening 5",
+				"id": "Kd_xbXAlURE"
+			},
+			{
+				"title": "Naruto | Ending 1 - Wind",
+				"id": "bdCzOWnEJYc"
+			},
+			{
+				"title": "Wind - Akeboshi",
+				"id": "WqGOaOHu5uY"
+			}
+		]
+	},
+	{
+		"name": "Naruto Shippuden",
+		"released_year": 2007,
+		"slug": "naruto-shippuden",
+		"thumbnail": "/images/anime/naruto-shippuden.jpg",
+		"playlist": [
+			{
+				"title": "Naruto Shippuden - Opening 1 | Hero's Come Back",
+				"id": "EBNl8bwdVcA"
+			},
+			{
+				"title": "nobodyknows+ Hero's Come Back!!",
+				"id": "ipBCtl0j4O8"
+			},
+			{
+				"title": "Naruto Shippuden - Opening 2 (v2) (HD - 60 fps)",
+				"id": "WLP_G1c1hWA"
+			},
+			{
+				"title": "Distance - Long Shot Party",
+				"id": "l-PeSNvZi0E"
+			},
+			{
+				"title": "Naruto Shippuden - Opening 3 (Creditless) (HD - 60 fps)",
+				"id": "frdz6P8uwv4"
+			},
+			{
+				"title": "Ikimonogakari - Blue Bird",
+				"id": "KpsJWFuVTdI"
+			},
+			{
+				"title": "Naruto Shippuden Op/ Opening 4",
+				"id": "m6hbh5i_fg8"
+			},
+			{
+				"title": "Joe Inoue - CLOSER",
+				"id": "4Cp0WgkgDbQ"
+			},
+			{
+				"title": "Naruto Shippuden - Opening 5",
+				"id": "miFqf3Zedpw"
+			},
+			{
+				"title": "Ikimonogakari - Hotarunohikari",
+				"id": "IqKqNcW2-b4"
+			},
+			{
+				"title": "Naruto Shippuden - Opening 6 | Sign",
+				"id": "97dkzVU4p-M"
+			},
+			{
+				"title": "FLOW - Sign",
+				"id": "qpi9YXaChHI"
+			},
+			{
+				"title": "Naruto Shippuden - Opening 7 | A World That Was Transparent",
+				"id": "06EjEq_7RJY"
+			},
+			{
+				"title": "Toumeidatta Sekai - Motohiro Hata",
+				"id": "cMFrkiC8A48"
+			},
+			{
+				"title": "Naruto Shippuden - Opening 8 | Diver",
+				"id": "P1yJ51DH-18"
+			},
+			{
+				"title": "Diver - NICO Touches the Walls",
+				"id": "nuxZTnJE_OE"
+			},
+			{
+				"title": "Naruto Shippuden Opening 9 - Lovers",
+				"id": "Br3uO96lNkw"
+			},
+			{
+				"title": "seven oops - Lovers",
+				"id": "MF8kHWWFO10"
+			}
+		]
+	},
+	{
+		"name": "Ninja Rantaro",
+		"released_year": 1993,
+		"slug": "ninja-rantaro",
+		"thumbnail": "/images/anime/ninja-rantaro.jpg",
+		"playlist": [
+			{
+				"title": "Yuki 100% - Hey ! Say ! JUMP",
+				"id": "0wbkqa3eQms"
+			}
+		]
+	},
+	{
+		"name": "One Piece",
+		"released_year": 1999,
+		"slug": "one-piece",
+		"thumbnail": "/images/anime/one-piece.jpg",
+		"playlist": [
+			{
+				"title": "TVアニメ「ONE PIECE」1000話記念: ウィーアー!",
+				"id": "dM7x1PNZDo0"
+			},
+			{
+				"title": "Hiroshi Kitadani - We Are! / THE FIRST TAKE",
+				"id": "HB4iNVa746E"
+			},
+			{
+				"title": "One Piece - Opening 2 【Believe】",
+				"id": "QwSkErUIF9k"
+			},
+			{
+				"title": "Folder 5 / Believe Music Video",
+				"id": "qM_FepDsJ-Q"
+			},
+			{
+				"title": "One Piece Opening 3 Hikari E RAW HD 1440p",
+				"id": "BaZXGFnGei8"
+			},
+			{
+				"title": "The Babystars HIKARIHE MUSIC VIDEO",
+				"id": "_YNtUuuBL78"
+			},
+			{
+				"title": "One Piece - Opening 9 【Jungle P】 4K 60FPS Creditless | CC",
+				"id": "0dmHjTV6fM4"
+			},
+			{
+				"title": "Jungle P · 5050",
+				"id": "mFo75lNnMAM"
+			},
+			{
+				"title": "One Piece - Opening 11 【Share the World】",
+				"id": "i4EjetJBdWE"
+			},
+			{
+				"title": "東方神起 / Share The World",
+				"id": "2AfIQX8YUVw"
+			},
+			{
+				"title": "One Piece - Opening 17 【Wake up!】",
+				"id": "OU8QssAstPA"
+			},
+			{
+				"title": "AAA / Wake up!",
+				"id": "wykx9MzjL-8"
+			},
+			{
+				"title": "One Piece - Opening 19 【We can!】 4K 60FPS Creditless",
+				"id": "tUlUWiGaEqI"
+			},
+			{
+				"title": "ウィーキャン!",
+				"id": "ofE0Jfs4J1M"
+			},
+			{
+				"title": "＜オープニング映像フル＞TVアニメ「ONE PIECE」／オープニングテーマ「あーーっす！」歌：きただにひろし",
+				"id": "YFbno_aPm0w"
+			},
+			{
+				"title": "きただにひろし「 あーーっす！」Music Video（TVアニメ『ONE PIECE』「エッグヘッド編」オープニングテーマ）",
+				"id": "uauZ91QhfQk"
+			}
+		]
+	},
+	{
+		"name": "One Punch Man",
+		"released_year": 2015,
+		"slug": "one-punch-man",
+		"thumbnail": "/images/anime/one-punch-man.jpg",
+		"playlist": [
+			{
+				"title": "One Punch Man - Official Opening - The Hero!! Set Fire to the Furious Fist",
+				"id": "atxYe-nOa9w"
+			},
+			{
+				"title": "[Official Video] JAM Project - THE HERO !! - One Punch Man Opening Theme ワンパンマン",
+				"id": "QImBolnTVH8"
+			},
+			{
+				"title": "「Creditless」One Punch Man OP / Opening 2「UHD 60FPS」",
+				"id": "OvgBFgLUyC8"
+			},
+			{
+				"title": "Uncrowned Greatest Hero · JAM Project",
+				"id": "5hr2eFnarak"
+			}
+		]
+	},
+	{
+		"name": "Onmyoji",
+		"released_year": 2023,
+		"slug": "onmyoji",
+		"thumbnail": "/images/anime/onmyoji.jpg"
+	},
+	{
+		"name": "Pokemon",
+		"released_year": 1997,
+		"slug": "pokemon",
+		"thumbnail": "/images/anime/pokemon.jpg",
+		"playlist": [
+			{
+				"title": "Satoshi (CV:Rica Matsumoto) - Mezase Pokémon Master -with my friends- / THE FIRST TAKE",
+				"id": "hMKf5mE3sdo"
+			}
+		]
+	},
+	{
+		"name": "Pokemon Best Wishes!",
+		"released_year": 2010,
+		"slug": "pokemon-best-wishes",
+		"thumbnail": "/images/anime/pokemon-best-wishes.jpg",
+		"playlist": [
+			{
+				"title": "Pocket Monsters: Best Wishes! - Opening",
+				"id": "80ldGt00Z18"
+			}
+		]
+	},
+	{
+		"name": "Pokemon Diamond & Pearl",
+		"released_year": 2006,
+		"slug": "pokemon-diamond-pearl",
+		"thumbnail": "/images/anime/pokemon-diamond-pearl.jpeg",
+		"playlist": [
+			{
+				"title": "ポケットモンスター (Pocket Monsters) (Pokemon) Diamond and Pearl - Opening 3 ",
+				"id": "pl2xynxwKpM"
+			},
+			{
+				"title": "Pokémon Anime Song - Saikou Everyday!",
+				"id": "s-JJolVoL5E"
+			},
+			{
+				"title": "Pokémon Anime Song - Together",
+				"id": "fxYjkVW-A4I"
+			},
+			{
+				"title": "Pocket Monsters Diamond & Pearl - OP2 v1 | High Touch (RAW)",
+				"id": "Ja3JgXN0Oh8"
+			},
+			{
+				"title": "Pokémon Anime Song - High Touch!",
+				"id": "VQqHx5LnfiI"
+			}
+		]
+	},
+	{
+		"name": "Pokemon Sword & Shield",
+		"released_year": 2019,
+		"slug": "pokemon-sword-shield",
+		"thumbnail": "/images/anime/pokemon-sword-shield.png",
+		"playlist": [
+			{
+				"title": "Pokemon 2022 Opening 4 Official (Versión Rika Matsumoto and Daiki Yamashita) HD",
+				"id": "LTl4VBY8iEI"
+			},
+			{
+				"title": "1・2・3 - Satoshi & Go",
+				"id": "-24DMtHQ7fU"
+			}
+		]
+	},
+	{
+		"name": "Pokemon Sun & Moon",
+		"released_year": 2016,
+		"slug": "pokemon-sun-moon",
+		"thumbnail": "/images/anime/pokemon-sun-moon.jpg",
+		"playlist": [
+			{
+				"title": "Pocket Monsters OP24 / SM OP3 - Future Connection「未来コネクション」(Creditless) [LQ]",
+				"id": "XYIwEewsYwY"
+			},
+			{
+				"title": "Mirai Connection · ReaL",
+				"id": "HlG8PNu1ttI"
+			},
+			{
+				"title": "Pokémon Sun and Moon Opening 4 - Your Adventure (HD)",
+				"id": "Pd0YppDJc0Q"
+			},
+			{
+				"title": "Kimi no Bouken · okazakitaiiku",
+				"id": "h_5xLI7Srrc"
+			}
+		]
+	},
+	{
+		"name": "Pokemon XY",
+		"released_year": 2013,
+		"slug": "pokemon-xy",
+		"thumbnail": "/images/anime/pokemon-xy.jpg"
+	},
+	{
+		"name": "Pokemon XY&Z",
+		"released_year": 2015,
+		"slug": "pokemon-xyz",
+		"thumbnail": "/images/anime/pokemon-xyz.jpg",
+		"playlist": [
+			{
+				"title": "Pocket Monsters OP21 / XY OP4 (XY&Z OP) -「XY&Z」(Creditless) [HD]",
+				"id": "rXWDOI4f4Wk"
+			},
+			{
+				"title": "XY & Z ReaL Cover Version",
+				"id": "CUl8Ciwkn4g"
+			}
+		]
+	},
+	{
+		"name": "Pretty Cure",
+		"released_year": 2004,
+		"slug": "pretty-cure",
+		"thumbnail": "/images/anime/pretty-cure.jpg"
+	},
+	{
+		"name": "Ragnarok: The Animation",
+		"released_year": 2004,
+		"slug": "ragnarok-the-animation",
+		"thumbnail": "/images/anime/ragnarok-the-animation.jpg",
+		"playlist": [
+			{
+				"title": "Ragnarok the Animation OP",
+				"id": "wl_yrXC3358"
+			}
+		]
+	},
+	{
+		"name": "Ranma!",
+		"released_year": 1989,
+		"slug": "ranma",
+		"thumbnail": "/images/anime/ranma.jpg"
+	},
+	{
+		"name": "Rave Master",
+		"released_year": 2004,
+		"slug": "rave-master",
+		"thumbnail": "/images/anime/rave-master.jpg"
+	},
+	{
+		"name": "Record of Ragnarok",
+		"released_year": 2021,
+		"slug": "record-of-ragnarok",
+		"thumbnail": "/images/anime/record-of-ragnarok.jpg"
+	},
+	{
+		"name": "Saint Seiya",
+		"released_year": 1986,
+		"slug": "saint-seiya",
+		"thumbnail": "/images/anime/saint-seiya.jpg"
+	},
+	{
+		"name": "Saint Seiya: Hades Elysion",
+		"released_year": 2008,
+		"slug": "saint-seiya-hades-elysion",
+		"thumbnail": "/images/anime/saint-seiya-hades-elysion.jpg"
+	},
+	{
+		"name": "Saint Seiya: Meiou Hades Meikai-hen",
+		"released_year": 2005,
+		"slug": "saint-seiya-meiou-hades-meikai-hen",
+		"thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen.jpg"
+	},
+	{
+		"name": "Saint Seiya: Meiou Hades Meikai-hen Juuni Kyuu-hen",
+		"released_year": 2002,
+		"slug": "saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen",
+		"thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen.jpg"
+	},
+	{
+		"name": "Saint Seiya: Omega",
+		"released_year": 2012,
+		"slug": "saint-seiya-omega",
+		"thumbnail": "/images/anime/saint-seiya-omega.jpg"
+	},
+	{
+		"name": "Saint Seiya: Saintia Shou",
+		"released_year": 2018,
+		"slug": "saint-seiya-saintia-shou",
+		"thumbnail": "/images/anime/saint-seiya-saintia-shou.jpg"
+	},
+	{
+		"name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+		"released_year": 2009,
+		"slug": "saint-seiya-the-lost-canvas-meiou-shinwa",
+		"thumbnail": "/images/anime/saint-seiya-the-lost-canvas-meiou-shinwa.jpg"
+	},
+	{
+		"name": "Samurai 7",
+		"released_year": 2004,
+		"slug": "samurai-7",
+		"thumbnail": "/images/anime/samurai-7.jpg",
+		"playlist": [
+			{
+				"title": "Samurai 7 Opening - Mangekyo Unlimited - Nanase Aikawa",
+				"id": "TrccvQSqAV8"
+			},
+			{
+				"title": "Samurai 7 Ending - Fuhen",
+				"id": "liTeuvjINXg"
+			}
+		]
+	},
+	{
+		"name": "Samurai Champloo",
+		"released_year": 2004,
+		"slug": "samurai-champloo",
+		"thumbnail": "/images/anime/samurai-champloo.jpg"
+	},
+	{
+		"name": "Samurai Deeper Kyou",
+		"released_year": 2002,
+		"slug": "samurai-deeper-kyou",
+		"thumbnail": "/images/anime/samurai-deeper-kyou.jpg",
+		"playlist": [
+			{
+				"title": "Samurai Deeper Kyo - Opening",
+				"id": "sKGYL6qgnks"
+			},
+			{
+				"title": "Samurai Deeper Kyo - Ending",
+				"id": "dug0nIoDjsw"
+			}
+		]
+	},
+	{
+		"name": "Samurai X",
+		"released_year": 1996,
+		"slug": "samurai-x",
+		"thumbnail": "/images/anime/samurai-x.jpg",
+		"playlist": [
+			{
+				"title": "Samurai X - Nibun no Ichi",
+				"id": "fW2REjs-zNc"
+			},
+			{
+				"title": "Samurai X - It's Gonna Rain",
+				"id": "--BE4gjwISU"
+			}
+		]
+	},
+	{
+		"name": "Shaman King: Reboot",
+		"released_year": 2021,
+		"slug": "shaman-king-reboot",
+		"thumbnail": "/images/anime/shaman-king-reboot.jpg",
+		"playlist": [
+			{
+				"title": "Shaman King Opening 1",
+				"id": "emrOpnSCYao"
+			},
+			{
+				"title": "Shaman King Opening 2",
+				"id": "4JhEIr_0bdo"
+			},
+			{
+				"title": "Shaman King Ending 3",
+				"id": "ShwGb_79yr4"
+			}
+		]
+	},
+	{
+		"name": "Shangri-La Frontier",
+		"released_year": 2023,
+		"slug": "shangri-la-frontier",
+		"thumbnail": "/images/anime/shangri-la-frontier.jpg",
+		"playlist": [
+			{
+				"title": "FZMZ - Danger Danger - Anime Version",
+				"id": "VlcjW90l6c4"
+			},
+			{
+				"title": "FZMZ - Danger Danger - Full Version",
+				"id": "e5NIiPEQRUw"
+			}
+		]
+	},
+	{
+		"name": "Shingeki no Kyojin",
+		"released_year": 2013,
+		"slug": "shingeki-no-kyojin",
+		"thumbnail": "/images/anime/shingeki-no-kyojin.jpg",
+		"playlist": [
+			{
+				"title": "Attack on Titan Season 2 - Opening | Shinzou wo Sasageyo!",
+				"id": "LKP-vZvjbh8"
+			},
+			{
+				"title": "心臓を捧げよ!",
+				"id": "o75PUTiHEXU"
+			},
+			{
+				"title": "▶ Attack on Titan / Shingeki no Kyojin Season 3 OP •「Red Swan」 YOSHIKI feat. HYDE ᴴᴰ",
+				"id": "MWSR17vEVBw"
+			},
+			{
+				"title": "Red Swan (Attack on Titan anime theme) - Official Lyric Video YOSHIKI feat. HYDE",
+				"id": "r1XE8ON8fos"
+			}
+		]
+	},
+	{
+		"name": "Shinya! Tensai Bakabon",
+		"released_year": 2018,
+		"slug": "shinya-tensai-bakabon",
+		"thumbnail": "/images/anime/shinya-tensai-bakabon.jpg"
+	},
+	{
+		"name": "Shokugeki No Soma",
+		"released_year": 2015,
+		"slug": "shokugeki-no-soma",
+		"thumbnail": "/images/anime/shokugeki-no-soma.jpg"
+	},
+	{
+		"name": "Slayers Try",
+		"released_year": 1995,
+		"slug": "slayers-try",
+		"thumbnail": "/images/anime/slayers-try.jpg"
+	},
+	{
+		"name": "Solo Leveling",
+		"released_year": 2024,
+		"slug": "solo-leveling",
+		"thumbnail": "/images/anime/solo-leveling.jpg"
+	},
+	{
+		"name": "Spy X Family",
+		"released_year": 2022,
+		"slug": "spy-x-family",
+		"thumbnail": "/images/anime/spy-x-family.jpg"
+	},
+	{
+		"name": "Super Yoyo",
+		"released_year": 1998,
+		"slug": "super-yoyo",
+		"thumbnail": "/images/anime/super-yoyo.jpg"
+	},
+	{
+		"name": "Sword Art Online",
+		"released_year": 2012,
+		"slug": "sword-art-online",
+		"thumbnail": "/images/anime/sword-art-online.jpg"
+	},
+	{
+		"name": "Sword Art Online: Alicization",
+		"released_year": 2018,
+		"slug": "sword-art-online-alicization",
+		"thumbnail": "/images/anime/sword-art-online-alicization.jpg"
+	},
+	{
+		"name": "Sword Art Online: Alicization War of Underworld",
+		"released_year": 2019,
+		"slug": "sword-art-online-alicization-war-of-underworld",
+		"thumbnail": "/images/anime/sword-art-online-alicization-war-of-underworld.jpg"
+	},
+	{
+		"name": "The Apothecary Diaries",
+		"released_year": 2023,
+		"slug": "the-apothecary-diaries",
+		"thumbnail": "/images/anime/the-apothecary-diaries.jpg"
+	},
+	{
+		"name": "The Law of Ueki",
+		"released_year": 2005,
+		"slug": "the-law-of-ueki",
+		"thumbnail": "/images/anime/the-law-of-ueki.jpg"
+	},
+	{
+		"name": "The Way of the Househusband",
+		"released_year": 2021,
+		"slug": "the-way-of-the-househusband",
+		"thumbnail": "/images/anime/the-way-of-the-househusband.jpg"
+	},
+	{
+		"name": "Tower of God (Kami no Tou)",
+		"released_year": 2020,
+		"slug": "tower-of-god-kami-no-tou",
+		"thumbnail": "/images/anime/tower-of-god-kami-no-tou.jpg"
+	},
+	{
+		"name": "Trigun Stampede",
+		"released_year": 2023,
+		"slug": "trigun-stampede",
+		"thumbnail": "/images/anime/trigun-stampede.jpg"
+	},
+	{
+		"name": "Ultraman Dyna",
+		"released_year": 1997,
+		"slug": "ultraman-dyna",
+		"thumbnail": "/images/anime/ultraman-dyna.jpg",
+		"playlist": [
+			{
+				"title": "Ultraman Dyna Opening Theme",
+				"id": "8LhMu4bQTQU"
+			}
+		]
+	},
+	{
+		"name": "Ultraman Gaia",
+		"released_year": 1998,
+		"slug": "ultraman-gaia",
+		"thumbnail": "/images/anime/ultraman-gaia.jpg",
+		"playlist": [
+			{
+				"title": "Ultraman Gaia Opening",
+				"id": "nb4Al1ij0Xw"
+			}
+		]
+	},
+	{
+		"name": "Ultraman Nexus",
+		"released_year": 2004,
+		"slug": "ultraman-nexus",
+		"thumbnail": "/images/anime/ultraman-nexus.jpg",
+		"playlist": [
+			{
+				"title": "Ultraman Nexus Opening 1",
+				"id": "vWP4chunkJU"
+			},
+			{
+				"title": "Ultraman Nexus Opening 2",
+				"id": "4TDhZVTXgY8"
+			}
+		]
+	},
+	{
+		"name": "Wind Breaker",
+		"released_year": 2024,
+		"slug": "wind-breaker",
+		"thumbnail": "/images/anime/wind-breaker.jpg"
+	},
+	{
+		"name": "Yu-Gi-Oh! 5Ds",
+		"released_year": 2008,
+		"slug": "yu-gi-oh-5ds",
+		"thumbnail": "/images/anime/yu-gi-oh-5ds.jpg"
+	},
+	{
+		"name": "Yu-Gi-Oh! Arc-V",
+		"released_year": 2014,
+		"slug": "yu-gi-oh-arc-v",
+		"thumbnail": "/images/anime/yu-gi-oh-arc-v.jpg"
+	},
+	{
+		"name": "Yu-Gi-Oh! Duel Monsters",
+		"released_year": 2000,
+		"slug": "yu-gi-oh-duel-monsters",
+		"thumbnail": "/images/anime/yu-gi-oh-duel-monsters.jpg"
+	},
+	{
+		"name": "Yu-Gi-Oh! GX",
+		"released_year": 2004,
+		"slug": "yu-gi-oh-gx",
+		"thumbnail": "/images/anime/yu-gi-oh-gx.jpg"
+	},
+	{
+		"name": "Yu-Gi-Oh! VRAINS",
+		"released_year": 2017,
+		"slug": "yu-gi-oh-vrains",
+		"thumbnail": "/images/anime/yu-gi-oh-vrains.jpg"
+	},
+	{
+		"name": "Yu-Gi-Oh! Zexal",
+		"released_year": 2011,
+		"slug": "yu-gi-oh-zexal",
+		"thumbnail": "/images/anime/yu-gi-oh-zexal.jpg"
+	},
+	{
+		"name": "Zoids",
+		"released_year": 1999,
+		"slug": "zoids",
+		"thumbnail": "/images/anime/zoids.jpg"
+	},
+	{
+		"name": "Zoids Shinseiki",
+		"released_year": 2001,
+		"slug": "zoids-shinseiki",
+		"thumbnail": "/images/anime/zoids-shinseiki.jpg"
+	}
 ]
