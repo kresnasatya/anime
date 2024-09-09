@@ -78,6 +78,8 @@
 				}
 			});
 		}
+
+		console.log('player already exist');
 	}
 
 	onMount(() => {
@@ -90,7 +92,9 @@
 
 	afterNavigate(() => {
 		if (playlist?.length > 0) {
-			player.cueVideoById(playlist[playlistIndex].id);
+			if (player) {
+				player.cueVideoById(playlist[0].id);
+			}
 		}
 	})
 
@@ -147,6 +151,22 @@
 		}
 	}
 
+	/**
+	 * 
+	 * @param {Event} event
+	 */
+	function goToVideo(event) {
+		playlistIndex = event.target.getAttribute('data-index');
+		if (player) {
+			if (intervalId) {
+				clearInterval(intervalId);
+			}
+			progressCurrentTime = 0;
+			videoCurrentTime = '0:00';
+			player.loadVideoById(playlist[playlistIndex].id);
+		}
+	}
+
 	function playPauseVideo() {
 		if (player && player.getPlayerState()) {
 			if (player.getPlayerState() === YT.PlayerState.PLAYING) {
@@ -177,7 +197,11 @@
 	}
 
 	function prevVideo() {
-		
+		playlistIndex = (playlistIndex - 1 + playlist?.length) % playlist?.length;
+		player.loadVideoById(playlist[playlistIndex].id);
+		clearInterval(intervalId);
+		progressCurrentTime = 0;
+		videoCurrentTime = '0:00';
 	}
 
 	function nextVideo() {
@@ -234,35 +258,15 @@
 			<button id="next" on:click={nextVideo}>Next</button>
 		</div>
 		</div>
-		<div id="playlist" class="playlist" data-sveltekit-preload-data="false">
-			{#each playlist as ost}
-				<a href={ost.id} on:click|preventDefault={() => {
-					console.log('is after update triggered?...');
-				}}>{ost.title}</a>
+		<div id="playlist" style="display: flex; flex-direction: column; gap: .5rem;" data-sveltekit-preload-data="false">
+			{#each playlist as ost, index}
+				<!-- svelte-ignore a11y-invalid-attribute -->
+				<a style="text-decoration: none;" href="#" data-id={ost.id} data-index={index} on:click|preventDefault={goToVideo}>{ost.title}</a>
 			{/each}
 		</div>
 	</div>
 {/if}
 
 <style>
-	ul {
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		gap: 1rem;
-	}
-
-	.youtube-ost {
-		width: 100%;
-	}
-
-	/* Medium screen */
-	@media screen and (min-width: 768px) {
-		.youtube-ost {
-			width: 640px;
-		}
-	}
+	
 </style>
