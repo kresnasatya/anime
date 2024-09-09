@@ -91,6 +91,7 @@
 	afterNavigate(() => {
 		if (playlist?.length > 0) {
 			if (player) {
+				videoDuration = '0:00';
 				player.cueVideoById(playlist[0].id);
 			}
 			
@@ -100,7 +101,7 @@
 				});
 			}
 		}
-	})
+	});
 
 	function onPlayerReady() {
 		if (player) {
@@ -111,7 +112,15 @@
 		}
 	}
 
+	/**
+	 * @param {{ data: any; }} event
+	 */
 	function onPlayerStateChange(event) {
+		if (event.data === YT.PlayerState.UNSTARTED) {
+			videoCurrentTime = '0:00';
+			videoDuration = formatTime(player.getDuration());
+		}
+
 		if (event.data === YT.PlayerState.PLAYING) {
 			// Clear any existing interval
 			if (intervalId) {
@@ -121,6 +130,7 @@
 			// Set new interval
 			intervalId = setInterval(updateSeekBar, 1000);
 			playPauseText = 'Pause';
+			videoDuration = formatTime(player.getDuration());
 		} else {
 			playPauseText = 'Play';
 		}
@@ -168,6 +178,8 @@
 			progressCurrentTime = 0;
 			videoCurrentTime = '0:00';
 			player.loadVideoById(playlist[playlistIndex].id);
+			console.log(player.getDuration());
+			videoDuration = formatTime(player.getDuration());
 		}
 	}
 
@@ -206,6 +218,7 @@
 		clearInterval(intervalId);
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
+		videoDuration = formatTime(player.getDuration());
 	}
 
 	function nextVideo() {
@@ -215,6 +228,7 @@
 			videoCurrentTime = '0:00';
 			playlistIndex = (playlistIndex + 1) % playlist?.length;
 			player.loadVideoById(playlist[playlistIndex].id);
+			videoDuration = formatTime(player.getDuration());
 		} else {
 			console.log('Reached the last video, no further progression in No Loop mode');
 		}
