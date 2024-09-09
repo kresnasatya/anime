@@ -78,8 +78,6 @@
 				}
 			});
 		}
-
-		console.log('player already exist');
 	}
 
 	onMount(() => {
@@ -94,6 +92,12 @@
 		if (playlist?.length > 0) {
 			if (player) {
 				player.cueVideoById(playlist[0].id);
+			}
+			
+			if (!youtubeAPIReady) {
+				loadYouTubeAPI().then(() => {
+					createPlayer();
+				});
 			}
 		}
 	})
