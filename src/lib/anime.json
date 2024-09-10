@@ -402,6 +402,30 @@
 	  ]
 	},
 	{
+		"name": "Boruto",
+		"released_year": 2017,
+		"slug": "boruto",
+		"thumbnail": "/images/anime/boruto.jpg",
+		"playlist": [
+			{
+				"title": "Boruto: Naruto Next Generations | Opening 7 - Hajimatteiku Takamatteiku",
+				"id": "ucKIcWWR7U4"
+			},
+			{
+				"title": "サンボマスター / はじまっていく たかまっていく MUSIC VIDEO",
+				"id": "ZfC9stCbkJs"
+			},
+			{
+				"title": "Boruto Naruto Next Generations Ending 2 V2",
+				"id": "nK7O4TDPCvg"
+			},
+			{
+				"title": "Scenarioart - Sayonara Moon Town",
+				"id": "5kBlfkrjGnI"
+			}
+		]
+	},
+	{
 	  "name": "Campfire Cooking in Another World with My Absurd Skill",
 	  "released_year": 2023,
 	  "slug": "campfire-cooking-in-another-world-with-my-absurd-skill",
@@ -1022,6 +1046,27 @@
 		  "id": "VoftWzc6Cto"
 		}
 	  ]
+	},
+	{
+		"name": "Fairies Albums",
+		"alternative_name": "Bai Yao Pu",
+		"released_year": 2020,
+		"slug": "fairy-albums",
+		"thumbnail": "/images/anime/fairies-albums.jpg",
+		"playlist": [
+			{
+				"title": "动画主题曲OP",
+				"id": "lG924WxYT_w"
+			},
+			{
+				"title": "不可说 (《百妖谱·京师篇》 动画主题曲)",
+				"id": "8YAoPRqJctY"
+			},
+			{
+				"title": "Fairies Album S4 OP",
+				"id": "DXy1NWUsojM"
+			}
+		]
 	},
 	{
 	  "name": "Frieren: Beyond Journey's End",
@@ -1946,6 +1991,18 @@
 	  ]
 	},
 	{
+		"name": "Ninja Hattori",
+		"released_year": 1981,
+		"slug": "ninja-hattori",
+		"thumbnail": "/images/anime/ninja-hattori.jpg",
+		"playlist": [
+			{
+				"title": "Ninja Hatori Opening Bahasa Indonesia",
+				"id": "WtM_jjKQsjc"
+			}
+		]
+	},
+	{
 	  "name": "Ninja Rantaro",
 	  "released_year": 1993,
 	  "slug": "ninja-rantaro",
@@ -2756,6 +2813,30 @@
 	  "released_year": 2024,
 	  "slug": "wind-breaker",
 	  "thumbnail": "/images/anime/wind-breaker.jpg"
+	},
+	{
+		"name": "Your Lie in April",
+		"released_year": 2014,
+		"slug": "your-lie-in-april",
+		"thumbnail": "/images/anime/your-lie-in-april.jpg",
+		"playlist": [
+			{
+				"title": "Your Lie in April OP/Opening Theme - Hikaru Nara",
+				"id": "fWRPihlt2ho"
+			},
+			{
+				"title": "Hikarunara - Goose House",
+				"id": "c6rCRy6SrtU"
+			},
+			{
+				"title": "Nanairo Symphony - Shigatsu wa Kimi no Uso [Your Lie in April] OP #2 - HQ",
+				"id": "fvxyAJSen9A"
+			},
+			{
+				"title": "COALAMODE. - Nanairo Symphony",
+				"id": "pS7Hbxv2E_E"
+			}
+		]
 	},
 	{
 	  "name": "Yu-Gi-Oh! 5Ds",
