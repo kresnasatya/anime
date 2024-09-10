@@ -28,8 +28,8 @@
 	/** @type {number | undefined } */
 	let intervalId;
 	
-	let playPauseText = 'Play';
-	let loopButtonText = 'No Looping';
+	let toggleVideoPlaybackText = 'Play';
+	let toggleLoopText = 'No Looping';
 
 	function loadYouTubeAPI() {
 		return new Promise((resolve) => {
@@ -134,30 +134,44 @@
 	 * @param {{ data: any; }} event
 	 */
 	function onPlayerStateChange(event) {
-		if (event.data === YT.PlayerState.UNSTARTED) {
-			videoCurrentTime = '0:00';
-			videoDuration = formatTime(player.getDuration());
-		}
+		switch (event.data) {
+			case YT.PlayerState.UNSTARTED:
+				videoCurrentTime = '0:00';
+				videoDuration = formatTime(player.getDuration());
+				break;
+			case YT.PlayerState.PLAYING:
+				// Clear any existing interval
+				if (intervalId) {
+					clearInterval(intervalId);
+				}
 
-		if (event.data === YT.PlayerState.PLAYING) {
-			// Clear any existing interval
-			if (intervalId) {
-				clearInterval(intervalId);
-			}
-
-			// Set new interval
-			intervalId = setInterval(updateSeekBar, 1000);
-			playPauseText = 'Pause';
-			videoDuration = formatTime(player.getDuration());
-		} else {
-			playPauseText = 'Play';
-		}
-
-		if (event.data === YT.PlayerState.ENDED) {
-			if (loopMode === 1) {
-            	// Loop the current video
-				player.playVideo();
-			}
+				// Set new interval
+				intervalId = setInterval(updateSeekBar, 1000);
+				toggleVideoPlaybackText = 'Pause';
+				videoDuration = formatTime(player.getDuration());
+				break;
+			case YT.PlayerState.PAUSED:
+				toggleVideoPlaybackText = 'Play';
+				break;
+			case YT.PlayerState.ENDED:
+				toggleVideoPlaybackText = 'Play';
+				if (loopMode === 1) {
+					// Loop the current video
+					player.playVideo();
+				} else if (loopMode === 2 && playlistIndex < playlist.length - 1) {
+					// Loop the entire playlist if not at the last video
+					nextVideo();
+				} else if (loopMode === 2 && playlistIndex === playlist.length - 1) {
+					// Loop back to the first video when the last video ends
+					playlistIndex = 0;
+					player.loadVideoById(playlist[playlistIndex].id);
+				} else if (loopMode === 0 && playlistIndex < playlist.length - 1) {
+					// No looping, but move to the next video in the playlist
+					nextVideo();
+				} else if (loopMode === 0 && playlistIndex === playlist.length - 1) {
+					console.log('Playlist ended, no looping');
+				}
+				break;
 		}
 	}
 
@@ -183,14 +197,14 @@
 		}
 	}
 
-	function playPauseVideo() {
+	function toggleVideoPlayback() {
 		if (player && player.getPlayerState()) {
 			if (player.getPlayerState() === YT.PlayerState.PLAYING) {
 				player.pauseVideo();
-				playPauseText = 'Play';
+				toggleVideoPlaybackText = 'Play';
 			} else {
 				player.playVideo();
-				playPauseText = 'Pause';
+				toggleVideoPlaybackText = 'Pause';
 			}
 		}
 	}
@@ -199,11 +213,11 @@
 		loopMode = (loopMode + 1) % 3;
 
 		if (loopMode === 0) {
-			loopButtonText = 'No Looping';	
+			toggleLoopText = 'No Looping';	
 		} else if (loopMode === 1) {
-			loopButtonText = 'Loop current video';
+			toggleLoopText = 'Loop current video';
 		} else if (loopMode === 2) {
-			loopButtonText = 'Loop playlist';
+			toggleLoopText = 'Loop playlist';
 		}
 	}
 
@@ -265,15 +279,15 @@
 		<div id="player"></div>
 		<div class="controls" style="display: flex; justify-content: space-between;">
 		<div>
-			<button id="playPause" on:click={playPauseVideo}>{playPauseText}</button>
-			<button id="loop" on:click={toggleLoop}>{loopButtonText}</button>
-			<button id="speed" on:click={changeSpeed}>Speed {currentSpeed.toString()}x</button>
+			<button on:click={toggleVideoPlayback}>{toggleVideoPlaybackText}</button>
+			<button on:click={toggleLoop}>{toggleLoopText}</button>
+			<button on:click={changeSpeed}>Speed {currentSpeed.toString()}x</button>
 			<input type="range" bind:value={progressCurrentTime} on:mouseup={seekVideo} min="0" max="100" step="1" />
-			<span class="current-time">{videoCurrentTime}</span>/<span class="total-duration">{videoDuration}</span>
+			<span>{videoCurrentTime}</span>/<span>{videoDuration}</span>
 		</div>
 		<div>
-			<button id="prev" on:click={prevVideo}>Previous</button>
-			<button id="next" on:click={nextVideo}>Next</button>
+			<button on:click={prevVideo}>Previous</button>
+			<button on:click={nextVideo}>Next</button>
 		</div>
 		</div>
 		<div id="playlist" style="display: flex; flex-direction: column; gap: .5rem;" data-sveltekit-preload-data="false">
