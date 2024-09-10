@@ -4,16 +4,25 @@
 
     const anime = Object.values(animeMap);
 
-    let sortOptions = ["name", "released_year"];
-    let sortBy = sortOptions[0];
+    let sortByOptions = ["name", "released_year"];
+    let sortBy = sortByOptions[0];
+    let sortOrderOptions = ['ASC', 'DESC'];
+    let sortOrder = sortOrderOptions[0];
 
-    $: sorted = sort(sortBy);
+    $: sorted = sort(sortBy, sortOrder);
 
     /**
 	 * @param {string} sortBy
+     * @param {string} sortOrder
 	 */
-    function sort(sortBy) {
-        return anime.sort((a, b) => (a[sortBy] > b[sortBy] ? 1 : -1));
+    function sort(sortBy, sortOrder) {
+        return anime.sort((a, b) => {
+            if (sortOrder === 'ASC') {
+                return a[sortBy] > b[sortBy] ? 1 : -1;
+            } else {
+                return a[sortBy] < b[sortBy] ? 1 : -1;
+            }
+        });
     }
 
     let search = "";
@@ -24,7 +33,8 @@
 
     function reset() {
         search = "";
-        sortBy = sortOptions[0];
+        sortBy = sortByOptions[0];
+        sortOrder = sortOrderOptions[0];
     }
 </script>
 
@@ -45,8 +55,13 @@
     <input type="search" id="search" bind:value={search} />
     <label for="sort">Sort by</label>
     <select id="sort" bind:value={sortBy}>
-        {#each sortOptions as opt}
+        {#each sortByOptions as opt}
             <option value="{opt}">{opt.replace("_", " ")}</option>
+        {/each}
+    </select>
+    <select name="" id="" bind:value={sortOrder}>
+        {#each sortOrderOptions as opt}
+            <option value="{opt}">{opt}</option>
         {/each}
     </select>
     <button on:click={reset}>Reset</button>
