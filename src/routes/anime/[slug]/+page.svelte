@@ -17,6 +17,7 @@
 	/** @type {YT.Player | undefined} */
 	let player;
 	$: playlist = data.anime.playlist;
+	/** @type {number | undefined} */
 	let playlistIndex = 0;
 	let progressCurrentTime = 0;
 	let videoCurrentTime = '0:00';
@@ -88,17 +89,33 @@
 		}
 	});
 
-	afterNavigate(() => {
-		if (playlist?.length > 0) {
-			if (player) {
-				videoDuration = '0:00';
-				player.cueVideoById(playlist[0].id);
-			}
-			
-			if (!youtubeAPIReady) {
-				loadYouTubeAPI().then(() => {
-					createPlayer();
+	afterNavigate(({ from, to }) => {
+		if (from?.url.pathname === to?.url.pathname) {
+			const searchParams = to?.url.searchParams;
+			const videoId = searchParams?.get('v');
+
+			if (videoId) {
+				playlistIndex = playlist?.findIndex(video => {
+					return video.id === videoId
 				});
+				if (intervalId) {
+					clearInterval(intervalId);
+				}
+				player.cueVideoById(playlist[playlistIndex].id);
+				window.scrollTo(0, document.documentElement.scrollHeight);
+			}
+		} else {
+			if (playlist?.length > 0) {
+				if (player) {
+					videoDuration = '0:00';
+					player.cueVideoById(playlist[0].id);
+				}
+				
+				if (!youtubeAPIReady) {
+					loadYouTubeAPI().then(() => {
+						createPlayer();
+					});
+				}
 			}
 		}
 	});
@@ -162,24 +179,6 @@
 			const seekTo = parseInt((/** @type {HTMLInputElement} */ (event.target)).value) / 100;
 			const duration = player.getDuration();
 			player.seekTo(seekTo * duration);
-		}
-	}
-
-	/**
-	 * 
-	 * @param {Event} event
-	 */
-	function goToVideo(event) {
-		playlistIndex = event.target.getAttribute('data-index');
-		if (player) {
-			if (intervalId) {
-				clearInterval(intervalId);
-			}
-			progressCurrentTime = 0;
-			videoCurrentTime = '0:00';
-			player.loadVideoById(playlist[playlistIndex].id);
-			console.log(player.getDuration());
-			videoDuration = formatTime(player.getDuration());
 		}
 	}
 
@@ -277,9 +276,9 @@
 		</div>
 		</div>
 		<div id="playlist" style="display: flex; flex-direction: column; gap: .5rem;" data-sveltekit-preload-data="false">
-			{#each playlist as ost, index}
+			{#each playlist as ost}
 				<!-- svelte-ignore a11y-invalid-attribute -->
-				<a style="text-decoration: none;" href="#" data-id={ost.id} data-index={index} on:click|preventDefault={goToVideo}>{ost.title}</a>
+				<a style="text-decoration: none;" href="?v={ost.id}">{ost.title}</a>
 			{/each}
 		</div>
 	</div>
