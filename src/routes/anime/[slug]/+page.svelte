@@ -101,6 +101,7 @@
 				if (intervalId) {
 					clearInterval(intervalId);
 				}
+				videoDuration = '0:00';
 				player.cueVideoById(playlist[playlistIndex].id);
 				window.scrollTo(0, document.documentElement.scrollHeight);
 			}
