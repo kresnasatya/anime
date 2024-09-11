@@ -912,6 +912,18 @@
 	  ]
 	},
 	{
+		"name": "Dinousaur King",
+		"released_year": 2007,
+		"slug": "dinosaur-king",
+		"thumbnail": "/images/anime/dinosaur-king.jpg",
+		"playlist": [
+			{
+				"id": "6VmWho1ioOM",
+				"title": "Dinosaur King Opening"
+			}
+		]
+	},
+	{
 	  "name": "DN Angel",
 	  "released_year": 2003,
 	  "slug": "dn-angel",
@@ -2375,6 +2387,18 @@
 		  "id": "0l9tvDMYKjI"
 		}
 	  ]
+	},
+	{
+		"name": "Saint Seiya: Soul of Gold",
+		"released_year": 2015,
+		"slug": "saint-seiya-soul-of-gold",
+		"thumbnail": "/images/anime/saint-seiya-soul-of-gold.jpg",
+		"playlist": [
+			{
+				"id": "mCJlktWUIc8",
+				"title": "Saint Seiya Soul of Gold - Opening"
+			}
+		]
 	},
 	{
 	  "name": "Saint Seiya: Omega",
