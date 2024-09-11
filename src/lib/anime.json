@@ -243,7 +243,17 @@
 		"name": "Black Clover",
 		"released_year": 2017,
 		"slug": "black-clover",
-		"thumbnail": "/images/anime/black-clover.jpg"
+		"thumbnail": "/images/anime/black-clover.jpg",
+		"playlist": [
+			{
+				"title": "Black Clover - Opening 13 4K",
+				"id": "H0ubZknSVMI"
+			},
+			{
+				"title": "Snow Man - Grandeur MV (YouTube ver.)",
+				"id": "7RyewjSWnFo"
+			}
+		]
 	},
 	{
 		"name": "Bleach",
@@ -410,6 +420,22 @@
 			{
 				"title": "[Polaris] Blue Encount - Full Version",
 				"id": "Isb7Q4jEA04"
+			},
+			{
+				"title": "My Hero Academia - Ending 6",
+				"id": "z2f3k-6X9y4"
+			},
+			{
+				"title": "Koukai No Uta - Sayuri",
+				"id": "fdo6YOigbIM"
+			},
+			{
+				"title": "Boku No Hero Academia Opening 5",
+				"id": "krFeMUJdsvU"
+			},
+			{
+				"title": "Make My Story - Lenny Code Fiction",
+				"id": "P-eNMO8L5Hs"
 			}
 		]
 	},
@@ -680,6 +706,10 @@
 			{
 				"title": "GARNET CROW「As the Dew」",
 				"id": "x4hlmtlVzAo"
+			},
+			{
+				"title": "The Scarlet Alibi - Tokyo Jihen",
+				"id": "zKBCSBfP9TI"
 			}
 		]
 	},
@@ -880,6 +910,10 @@
 			{
 				"title": "Digimon Universe Appli Monsters - GATCHEN!! - SymaG",
 				"id": "viibRGc7aZw"
+			},
+			{
+				"title": "Digimon Universe Ending 3",
+				"id": "Xl2Q793Qa4g"
 			}
 		]
 	},
@@ -2115,6 +2149,10 @@
 			{
 				"title": "きただにひろし「 あーーっす！」Music Video（TVアニメ『ONE PIECE』「エッグヘッド編」オープニングテーマ）",
 				"id": "uauZ91QhfQk"
+			},
+			{
+				"title": "【Ado】Where the Wind Blows / 風のゆくえ（UTA from ONE PIECE FILM RED）",
+				"id": "YO-rXgQKlF8"
 			}
 		]
 	},
