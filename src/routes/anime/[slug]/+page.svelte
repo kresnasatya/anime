@@ -275,20 +275,22 @@
 
 {#if playlist}
 	<div style="display: flex; flex-direction: column; align-items: center;">
-		<h2 style="margin-left: -320px;">Playlist</h2>
+		<h2>Playlist</h2>
 		<div id="player"></div>
-		<div class="controls" style="display: flex; justify-content: space-between;">
-		<div>
-			<button on:click={toggleVideoPlayback}>{toggleVideoPlaybackText}</button>
-			<button on:click={toggleLoop}>{toggleLoopText}</button>
-			<button on:click={changeSpeed}>Speed {currentSpeed.toString()}x</button>
-			<input type="range" bind:value={progressCurrentTime} on:mouseup={seekVideo} min="0" max="100" step="1" />
-			<span>{videoCurrentTime}</span>/<span>{videoDuration}</span>
-		</div>
-		<div>
-			<button on:click={prevVideo}>Previous</button>
-			<button on:click={nextVideo}>Next</button>
-		</div>
+		<div class="controls my-4">
+			<div>
+				<button on:click={toggleVideoPlayback}>{toggleVideoPlaybackText}</button>
+				<button on:click={toggleLoop}>{toggleLoopText}</button>
+				<button on:click={changeSpeed}>Speed {currentSpeed.toString()}x</button>
+			</div>
+			<div>
+				<input type="range" bind:value={progressCurrentTime} on:mouseup={seekVideo} min="0" max="100" step="1" />
+				<span>{videoCurrentTime}</span>/<span>{videoDuration}</span>
+			</div>
+			<div>
+				<button on:click={prevVideo}>Previous</button>
+				<button on:click={nextVideo}>Next</button>
+			</div>
 		</div>
 		<div id="playlist" style="display: flex; flex-direction: column; gap: .5rem;" data-sveltekit-preload-data="false">
 			{#each playlist as ost}
@@ -300,5 +302,19 @@
 {/if}
 
 <style>
-	
+	#player {
+		width: 100%;
+	}
+
+	@media screen and (min-width: 1280px) {
+		#player {
+			max-width: 640px;
+		}
+	}
+
+	.controls {
+		display: flex; 
+		justify-content: space-between;
+		gap: 1rem;
+	}
 </style>
