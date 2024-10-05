@@ -256,21 +256,7 @@
 <a href="/">Back</a>
 
 <div style="display: flex; justify-content: space-around">
-	{#if prevAnime}
-		<a style="align-self: center; max-width: 120px;" href="/anime/{prevAnime.slug}"
-			>&#8249; {prevAnime.name}</a
-		>
-	{:else}
-		<div style="align-self: center; max-width: 120px;">&nbsp;</div>
-	{/if}
 	<AnimeCard anime={data.anime} />
-	{#if nextAnime}
-		<a style="align-self: center; max-width: 120px;" href="/anime/{nextAnime.slug}"
-			>{nextAnime.name} &#8250;</a
-		>
-	{:else}
-		<div style="align-self: center; max-width: 120px;">&nbsp;</div>
-	{/if}
 </div>
 
 {#if playlist}
@@ -301,6 +287,29 @@
 	</div>
 {/if}
 
+<div class="prev-next">
+	{#if prevAnime}
+		<div class="pager">
+			<a href="/anime/{prevAnime.slug}" style="text-decoration: none;">
+				<span style="display: block; font-size: small; color: dimgray;">Previous</span>
+				<span style="display: block; color: black;">{prevAnime.name}</span>
+			</a>
+		</div>
+	{:else}
+		<div>&nbsp;</div>
+	{/if}
+	{#if nextAnime}
+		<div class="pager">
+			<a href="/anime/{nextAnime.slug}" style="text-decoration: none;">
+				<span style="display: block; font-size: small; color: dimgray; text-align: right;">Next</span>
+				<span style="display: block; color: black; text-align: right;">{nextAnime.name}</span>
+			</a>
+		</div>
+	{:else}
+		<div>&nbsp;</div>
+	{/if}
+</div>
+
 <style>
 	#player {
 		width: 100%;
@@ -316,5 +325,23 @@
 		display: flex; 
 		justify-content: space-between;
 		gap: 1rem;
+	}
+
+	.prev-next {
+		margin-top: 1rem;
+		display: grid;
+		gap: 16px;
+	}
+
+	@media screen and (min-width: 1280px) {
+		.prev-next {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+
+	.pager {
+		border: 1px solid gainsboro;
+		border-radius: 0.25rem;
+		padding: 1rem;
 	}
 </style>
