@@ -106,10 +106,11 @@
 				window.scrollTo(0, document.documentElement.scrollHeight);
 			}
 		} else {
+			playlistIndex = 0;
 			if (playlist?.length > 0) {
 				if (player) {
 					videoDuration = '0:00';
-					player.cueVideoById(playlist[0].id);
+					player.cueVideoById(playlist[playlistIndex].id);
 				}
 				
 				if (!youtubeAPIReady) {
