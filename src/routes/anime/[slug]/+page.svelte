@@ -309,6 +309,7 @@
 <style>
 	#player {
 		width: 100%;
+		height: 320px;
 	}
 
 	@media screen and (min-width: 1280px) {
