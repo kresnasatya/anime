@@ -41,19 +41,9 @@
 
 			const tag = document.createElement('script');
 			tag.src = "https://www.youtube.com/iframe_api";
-
-			// Safely insert the script tag
-			const insertScript = () => {
-				const target = document.body;
-				target.parentNode?.insertBefore(tag, target);
-			}
-
-			// If the document is still loading, wait for it to be ready
-			if (document.readyState === 'loading') {
-				document.addEventListener('DOMContentLoaded', insertScript);
-			} else {
-				insertScript();
-			}
+			
+			const target = document.body;
+			target.parentNode?.insertBefore(tag, target);
 
 			window.onYouTubeIframeAPIReady = () => {
 				youtubeAPIReady = true;
@@ -85,7 +75,8 @@
 		if (playlist?.length > 0) {
 			loadYouTubeAPI().then(() => {
 				createPlayer();
-			});	
+			});
+			youtubeAPIReady = true;
 		}
 	});
 
@@ -118,6 +109,10 @@
 						createPlayer();
 					});
 				}
+			} else {
+				player.destroy();
+				player = undefined;
+				youtubeAPIReady = false;
 			}
 		}
 	});
