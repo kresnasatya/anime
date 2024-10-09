@@ -440,6 +440,18 @@
 		]
 	},
 	{
+		"name": "Bomberman B-Daman Bakugaiden",
+		"released_year": 1998,
+		"slug": "bomberman-b-daman-bakugaiden",
+		"thumbnail": "/images/anime/bomberman-b-daman-bakugaiden.webp",
+		"playlist": [
+			{
+				"title": "Bomberman B-Daman Bakugaiden, 2nd Opening",
+				"id": "VzmhBFYrfdc"
+			}
+		]
+	},
+	{
 		"name": "Boruto",
 		"released_year": 2017,
 		"slug": "boruto",
@@ -1785,6 +1797,18 @@
 		]
 	},
 	{
+		"name": "Kirby",
+		"released_year": 2001,
+		"slug": "kirby",
+		"thumbnail": "/images/anime/kirby.jpg",
+		"playlist": [
+			{
+				"title": "Kirby",
+				"id": "oCDOF11p33w"
+			}
+		]
+	},
+	{
 		"name": "Kishin Douji Zenki",
 		"released_year": 1995,
 		"slug": "kishin-douji-zenki",
@@ -2203,6 +2227,18 @@
 		"thumbnail": "/images/anime/onmyoji.jpg"
 	},
 	{
+		"name": "P-Man",
+		"released_year": 1967,
+		"slug": "p-man",
+		"thumbnail": "/images/anime/p-man.jpg",
+		"playlist": [
+			{
+				"title": "P-Man Soundtrack (Bahasa Indonesia)",
+				"id": "lS4VEnzFFUQ"
+			}
+		]
+	},
+	{
 		"name": "Pokemon",
 		"released_year": 1997,
 		"slug": "pokemon",
@@ -2385,6 +2421,18 @@
 			{
 				"title": "Minami「RUDE LOSE DANCE」(Anime「Record of RagnarokⅡ」Opening song)",
 				"id": "F86GZpO_ZeU"
+			}
+		]
+	},
+	{
+		"name": "Rockman EXE",
+		"alternative_name": "MegaMan NT Warrior",
+		"released_year": 2002,
+		"thumbnail": "/images/anime/rockman-exe.jpeg",
+		"playlist": [
+			{
+				"title": "Rockman EXE Opening 1",
+				"id": "2m6c_ojaKlg"
 			}
 		]
 	},
@@ -2615,6 +2663,18 @@
 		]
 	},
 	{
+		"name": "SD Gundam Force",
+		"released_year": 2003,
+		"slug": "sd-gundam-force",
+		"thumbnail": "/images/anime/sd-gundam-force.jpg",
+		"playlist": [
+			{
+				"title": "SD Gundam Force Opening 3",
+				"id": "q0Udjbxavxk"
+			}
+		]
+	},
+	{
 		"name": "Shaman King: Reboot",
 		"released_year": 2021,
 		"slug": "shaman-king-reboot",
@@ -2733,6 +2793,22 @@
 		]
 	},
 	{
+		"name": "Star Ocean X",
+		"released_year": 2001,
+		"slug": "star-ocean-x",
+		"thumbnail": "/images/anime/star-ocean-x.jpg",
+		"playlist": [
+			{
+				"title": "Star Ocean X Opening",
+				"id": "xcMH7V5Yxbc"
+			},
+			{
+				"title": "Star Ocean X Ending",
+				"id": "XFMkIQSEGAk"
+			}
+		]
+	},
+	{
 		"name": "Super Yoyo",
 		"released_year": 1998,
 		"slug": "super-yoyo",
@@ -2839,10 +2915,42 @@
 		]
 	},
 	{
+		"name": "The Legend of Condor Hero",
+		"released_year": 2001,
+		"slug": "the-legend-of-condor-hero",
+		"thumbnail": "/images/anime/the-legend-of-condor-hero.jpeg",
+		"playlist": [
+			{
+				"title": "The Legend of Condor Hero Opening 1",
+				"id": "fvTjkEex0JI"
+			},
+			{
+				"title": "The Legend of Condor Hero Ending 1",
+				"id": "jseKmaMb_YA"
+			}
+		]
+	},
+	{
 		"name": "The Way of the Househusband",
 		"released_year": 2021,
 		"slug": "the-way-of-the-househusband",
 		"thumbnail": "/images/anime/the-way-of-the-househusband.jpg"
+	},
+	{
+		"name": "Transformers: Galaxy Force",
+		"released_year": 2005,
+		"slug": "transformers-galaxy-force",
+		"thumbnail": "/images/anime/transformers-galaxy-force.jpg",
+		"playlist": [
+			{
+				"title": "Transformers Galaxy Force Opening 1",
+				"id": "weog5A1kdr0"
+			},
+			{
+				"title": "Transformers Galaxy Force Ending 1",
+				"id": "uF1XqfiEKjg"
+			}
+		]
 	},
 	{
 		"name": "Tower of God (Kami no Tou)",
