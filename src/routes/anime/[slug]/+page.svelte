@@ -85,7 +85,8 @@
 		if (playlist?.length > 0) {
 			loadYouTubeAPI().then(() => {
 				createPlayer();
-			});	
+			});
+			youtubeAPIReady = true;
 		}
 	});
 
@@ -118,6 +119,10 @@
 						createPlayer();
 					});
 				}
+			} else {
+				player.destroy();
+				player = undefined;
+				youtubeAPIReady = false;
 			}
 		}
 	});
