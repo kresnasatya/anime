@@ -2777,6 +2777,22 @@
 		"thumbnail": "solo-leveling.jpg"
 	},
 	{
+		"name": "Sonic X",
+		"released_year": 2003,
+		"slug": "sonic-x",
+		"thumbnail": "sonic-x.webp",
+		"playlist": [
+			{
+				"title": "Sonic Drive - Sonic X Opening 1",
+				"id": "fk2F_iPpJsU"
+			},
+			{
+				"title": "Hikaru Michi - Sonic X Ending 1",
+				"id": "xjviPPVnmyU"
+			}
+		]
+	},
+	{
 		"name": "Spy X Family",
 		"released_year": 2022,
 		"slug": "spy-x-family",
