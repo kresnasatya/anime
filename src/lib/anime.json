@@ -3,7 +3,7 @@
 		"name": "Accel World",
 		"released_year": 2012,
 		"slug": "accel-world",
-		"thumbnail": "/images/anime/accel-world.jpg",
+		"thumbnail": "accel-world.jpg",
 		"playlist": [
 			{
 				"title": "Accel World Opening 1 Creditless 60fps",
@@ -19,7 +19,7 @@
 		"name": "Air Gear",
 		"released_year": 2006,
 		"slug": "air-gear",
-		"thumbnail": "/images/anime/air-gear.jpg",
+		"thumbnail": "air-gear.jpg",
 		"playlist": [
 			{
 				"title": "Air Gear Opening HD",
@@ -31,7 +31,7 @@
 		"name": "Arslan Senki",
 		"released_year": 2015,
 		"slug": "arslan-senki",
-		"thumbnail": "/images/anime/arslan-senki.jpg",
+		"thumbnail": "arslan-senki.jpg",
 		"playlist": [
 			{
 				"title": "The Heroic Legend of Arslan – Opening Theme – These Are Not My Words, They’re Our Words",
@@ -51,7 +51,7 @@
 		"name": "Arslan Senki: Fuujin Ranbu",
 		"released_year": 2016,
 		"slug": "arslan-senki-fuujin-ranbu",
-		"thumbnail": "/images/anime/arslan-senki-fuujin-ranbu.jpg",
+		"thumbnail": "arslan-senki-fuujin-ranbu.jpg",
 		"playlist": [
 			{
 				"title": "Arslan Senki (TV): Fuujin Ranbu Opening - Eir Aoi - Tsubasa",
@@ -63,7 +63,7 @@
 		"name": "Astro Boy",
 		"released_year": 2003,
 		"slug": "astro-boy",
-		"thumbnail": "/images/anime/astro-boy.jpg",
+		"thumbnail": "astro-boy.jpg",
 		"playlist": [
 			{
 				"title": "Astro Boy Opening - True Blue by ZONE",
@@ -79,7 +79,7 @@
 		"name": "Bakegyamon",
 		"released_year": 2006,
 		"slug": "bakegyamon",
-		"thumbnail": "/images/anime/bakegyamon.jpg",
+		"thumbnail": "bakegyamon.jpg",
 		"playlist": [
 			{
 				"title": "Bakegyamon Opening 1",
@@ -103,7 +103,7 @@
 		"name": "Bakugan Battle Brawlers",
 		"released_year": 2007,
 		"slug": "bakugan-battle-brawlers",
-		"thumbnail": "/images/anime/bakugan-battle-brawlers.jpg",
+		"thumbnail": "bakugan-battle-brawlers.jpg",
 		"playlist": [
 			{
 				"title": "Bakugan Battle Brawlers Opening 2 - Bucchigiri Infinite Generation by Psychic Lover",
@@ -119,13 +119,13 @@
 		"name": "Bakugan Battle Brawlers: Gundalian Invaders",
 		"released_year": 2011,
 		"slug": "bakugan-battle-brawlers-gundalian-invaders",
-		"thumbnail": "/images/anime/bakugan-battle-brawlers-gundalian-invaders.jpg"
+		"thumbnail": "bakugan-battle-brawlers-gundalian-invaders.jpg"
 	},
 	{
 		"name": "Bakugan Battle Brawlers: New Vestroia",
 		"released_year": 2010,
 		"slug": "bakugan-battle-brawlers-new-vestroia",
-		"thumbnail": "/images/anime/bakugan-battle-brawlers-new-vestroia.webp",
+		"thumbnail": "bakugan-battle-brawlers-new-vestroia.webp",
 		"playlist": [
 			{
 				"title": "Bakugan New Vestroia Japanese Opening",
@@ -141,7 +141,7 @@
 		"name": "Bakusō Kyōdai Let's & Go!!",
 		"released_year": 1996,
 		"slug": "bakuso-kyodai-lets-go",
-		"thumbnail": "/images/anime/bakuso-kyodai-lets-go.jpg",
+		"thumbnail": "bakuso-kyodai-lets-go.jpg",
 		"playlist": [
 			{
 				"title": "Bakusou Kyoudai Let's & Go!! Opening 1",
@@ -157,7 +157,7 @@
 		"name": "Battle B-Daman Fire Spirits!",
 		"released_year": 2005,
 		"slug": "battle-b-daman-fire-spirits",
-		"thumbnail": "/images/anime/battle-b-daman-fire-spirits.webp",
+		"thumbnail": "battle-b-daman-fire-spirits.webp",
 		"playlist": [
 			{
 				"title": "Battle B-Daman Fire Spirits Opening 1",
@@ -173,7 +173,7 @@
 		"name": "Beyblade",
 		"released_year": 2001,
 		"slug": "beyblade",
-		"thumbnail": "/images/anime/beyblade.jpg",
+		"thumbnail": "beyblade.jpg",
 		"playlist": [
 			{
 				"title": "Bakuten Shoot Beyblade - Fighting Spirits [Japanese Opening]",
@@ -185,7 +185,7 @@
 		"name": "Beyblade G Revolution",
 		"released_year": 2003,
 		"slug": "beyblade-g-revolution",
-		"thumbnail": "/images/anime/beyblade-g-revolution.jpg",
+		"thumbnail": "beyblade-g-revolution.jpg",
 		"playlist": [
 			{
 				"title": "Bakuten Shoot Beyblade G-Revolution OP 1 (GO AHEAD)",
@@ -201,14 +201,14 @@
 		"name": "Beyblade Metal Fury",
 		"released_year": 2011,
 		"slug": "beyblade-metal-fury",
-		"thumbnail": "/images/anime/beyblade-metal-fury.webp"
+		"thumbnail": "beyblade-metal-fury.webp"
 	},
 	{
 		"name": "Beyblade Metal Fusion",
 		"alternative_name": "Beyblade Metal Fight",
 		"released_year": 2009,
 		"slug": "beyblade-metal-fusion",
-		"thumbnail": "/images/anime/beyblade-metal-fusion.jpg",
+		"thumbnail": "beyblade-metal-fusion.jpg",
 		"playlist": [
 			{
 				"title": "Beyblade Metal Fight Opening HQ (JAPANESE)",
@@ -221,7 +221,7 @@
 		"alternative_name": "Metal Fight Beyblade Explosion",
 		"released_year": 2010,
 		"slug": "beyblade-metal-masters",
-		"thumbnail": "/images/anime/beyblade-metal-masters.webp",
+		"thumbnail": "beyblade-metal-masters.webp",
 		"playlist": [
 			{
 				"title": "Beyblade Metal Fight Explosion - [Opening HD]",
@@ -237,13 +237,13 @@
 		"name": "Beyblade V-Force",
 		"released_year": 2002,
 		"slug": "beyblade-v-force",
-		"thumbnail": "/images/anime/beyblade-v-force.jpg"
+		"thumbnail": "beyblade-v-force.jpg"
 	},
 	{
 		"name": "Black Clover",
 		"released_year": 2017,
 		"slug": "black-clover",
-		"thumbnail": "/images/anime/black-clover.jpg",
+		"thumbnail": "black-clover.jpg",
 		"playlist": [
 			{
 				"title": "Black Clover - Opening 13 4K",
@@ -259,7 +259,7 @@
 		"name": "Bleach",
 		"released_year": 2004,
 		"slug": "bleach",
-		"thumbnail": "/images/anime/bleach.png",
+		"thumbnail": "bleach.png",
 		"playlist": [
 			{
 				"title": "Bleach Opening 3 [HD - Ichirin No Hana]",
@@ -331,7 +331,7 @@
 		"name": "Bleach: Thousand-Year Blood War",
 		"released_year": 2022,
 		"slug": "bleach-thousand-year-blood-war",
-		"thumbnail": "/images/anime/Bleach_Thousand-Year_Blood_War.png",
+		"thumbnail": "Bleach_Thousand-Year_Blood_War.png",
 		"playlist": [
 			{
 				"title": "Scar / Tatsuya Kitani - Music Video (“BLEACH: Thousand Year Blood War” Opening Theme) [Anime Version]",
@@ -347,7 +347,7 @@
 		"name": "Bleach: Thousand-Year Blood War - The Separation",
 		"released_year": 2023,
 		"slug": "bleach-thousand-year-blood-war-the-separation",
-		"thumbnail": "/images/anime/bleach-thousand-year-blood-war-the-separation.jpeg",
+		"thumbnail": "bleach-thousand-year-blood-war-the-separation.jpeg",
 		"playlist": [
 			{
 				"title": "w.o.d. - STARS [Anime Version]",
@@ -371,7 +371,7 @@
 		"name": "Blue Dragon",
 		"released_year": 2007,
 		"slug": "blue-dragon",
-		"thumbnail": "/images/anime/Blue_Dragon_TV_series.png",
+		"thumbnail": "Blue_Dragon_TV_series.png",
 		"playlist": [
 			{
 				"title": "Yamada Yu / Fly So High [Anime Version]",
@@ -387,7 +387,7 @@
 		"name": "Blue Dragon: Trials of the Seven Shadows",
 		"released_year": 2008,
 		"slug": "blue-dragon-trials-of-the-seven-shadows",
-		"thumbnail": "/images/anime/Blue_Dragon_tenkai_no_shichi_ryu.webp",
+		"thumbnail": "Blue_Dragon_tenkai_no_shichi_ryu.webp",
 		"playlist": [
 			{
 				"title": "JiLL-Decoy association / Hikari no Sasu Hou e [Anime Version]",
@@ -411,7 +411,7 @@
 		"name": "Boku No Hero Akademia",
 		"released_year": 2016,
 		"slug": "boku-no-hero-akademia",
-		"thumbnail": "/images/anime/boku-no-hero-academia.jpg",
+		"thumbnail": "boku-no-hero-academia.jpg",
 		"playlist": [
 			{
 				"title": "[Polaris] Blue Encount - Anime Version",
@@ -443,7 +443,7 @@
 		"name": "Bomberman B-Daman Bakugaiden",
 		"released_year": 1998,
 		"slug": "bomberman-b-daman-bakugaiden",
-		"thumbnail": "/images/anime/bomberman-b-daman-bakugaiden.webp",
+		"thumbnail": "bomberman-b-daman-bakugaiden.webp",
 		"playlist": [
 			{
 				"title": "Bomberman B-Daman Bakugaiden, 2nd Opening",
@@ -455,7 +455,7 @@
 		"name": "Boruto",
 		"released_year": 2017,
 		"slug": "boruto",
-		"thumbnail": "/images/anime/boruto.jpg",
+		"thumbnail": "boruto.jpg",
 		"playlist": [
 			{
 				"title": "Boruto: Naruto Next Generations | Opening 7 - Hajimatteiku Takamatteiku",
@@ -479,13 +479,13 @@
 		"name": "Campfire Cooking in Another World with My Absurd Skill",
 		"released_year": 2023,
 		"slug": "campfire-cooking-in-another-world-with-my-absurd-skill",
-		"thumbnail": "/images/anime/campfire-cooking-in-another-world-with-my-absurd-skill.jpg"
+		"thumbnail": "campfire-cooking-in-another-world-with-my-absurd-skill.jpg"
 	},
 	{
 		"name": "Captain Tsubasa (2018)",
 		"released_year": 2018,
 		"slug": "captain-tsubasa-2018",
-		"thumbnail": "/images/anime/captain-tsubasa-2018.jpg",
+		"thumbnail": "captain-tsubasa-2018.jpg",
 		"playlist": [
 			{
 				"title": "Captain Tsubasa Opening Song Indonesia",
@@ -505,7 +505,7 @@
 		"name": "Cardcaptor Sakura",
 		"released_year": 1998,
 		"slug": "cardcaptor-sakura",
-		"thumbnail": "/images/anime/cardcaptor-sakura.jpg",
+		"thumbnail": "cardcaptor-sakura.jpg",
 		"playlist": [
 			{
 				"title": "Cardcaptor Sakura OP 1 [Creditless] [Blu-Ray]",
@@ -529,7 +529,7 @@
 		"name": "Chibi Maruko-chan",
 		"released_year": 1995,
 		"slug": "chibi-maruko-chan",
-		"thumbnail": "/images/anime/chibi-maruko-chan.jpeg",
+		"thumbnail": "chibi-maruko-chan.jpeg",
 		"playlist": [
 			{
 				"title": "Chibi Maruko Chan Opening Song ~ Indonesian Vers (Cover By Ananda Apriliani)",
@@ -541,7 +541,7 @@
 		"name": "Chouseishin Gransazer",
 		"released_year": 2003,
 		"slug": "chouseishin-gransazer",
-		"thumbnail": "/images/anime/chouseishin-gransazer.jpg",
+		"thumbnail": "chouseishin-gransazer.jpg",
 		"playlist": [
 			{
 				"title": "Choseishin Gransazer Opening",
@@ -553,7 +553,7 @@
 		"name": "Corrector Yui",
 		"released_year": 1999,
 		"slug": "corrector-yui",
-		"thumbnail": "/images/anime/corrector-yui.jpg",
+		"thumbnail": "corrector-yui.jpg",
 		"playlist": [
 			{
 				"title": "Corrector Yui - Opening",
@@ -569,7 +569,7 @@
 		"name": "Crayon Shin-chan",
 		"released_year": 1990,
 		"slug": "crayon-shin-chan",
-		"thumbnail": "/images/anime/crayon-shin-chan.jpg",
+		"thumbnail": "crayon-shin-chan.jpg",
 		"playlist": [
 			{
 				"title": "Lagu opening crayon shinchan versi indonesia",
@@ -585,7 +585,7 @@
 		"name": "Crush Gear Nitro",
 		"released_year": 2003,
 		"slug": "crush-gear-nitro",
-		"thumbnail": "/images/anime/crush-gear-nitro.webp",
+		"thumbnail": "crush-gear-nitro.webp",
 		"playlist": [
 			{
 				"title": "Crush Gear Nitro Opening (4K AI Upscaled & Enhanced)",
@@ -597,7 +597,7 @@
 		"name": "Crush Gear Turbo",
 		"released_year": 2001,
 		"slug": "crush-gear-turbo",
-		"thumbnail": "/images/anime/crush-gear-turbo.jpg",
+		"thumbnail": "crush-gear-turbo.jpg",
 		"playlist": [
 			{
 				"title": "Crush Gear Turbo - Opening",
@@ -609,7 +609,7 @@
 		"name": "Cyborg Kuro-chan",
 		"released_year": 1999,
 		"slug": "cyborg-kuro-chan",
-		"thumbnail": "/images/anime/cyborg-kuro-chan.jpg",
+		"thumbnail": "cyborg-kuro-chan.jpg",
 		"playlist": [
 			{
 				"title": "Opening Indonesia Cyborg Kuro Chan",
@@ -621,7 +621,7 @@
 		"name": "Darwin's Game",
 		"released_year": 2020,
 		"slug": "darwins-game",
-		"thumbnail": "/images/anime/darwins-game.jpg",
+		"thumbnail": "darwins-game.jpg",
 		"playlist": [
 			{
 				"title": "Darwin`s Game Opening HD",
@@ -645,7 +645,7 @@
 		"name": "Death Note",
 		"released_year": 2006,
 		"slug": "death-note",
-		"thumbnail": "/images/anime/death-note.jpg",
+		"thumbnail": "death-note.jpg",
 		"playlist": [
 			{
 				"title": "Death Note - Opening [4K]",
@@ -665,7 +665,7 @@
 		"name": "Dennō Bōkenki Webdiver",
 		"released_year": 2001,
 		"slug": "denno-bokenki-webdiver",
-		"thumbnail": "/images/anime/denno-bokenki-webdiver.jpg",
+		"thumbnail": "denno-bokenki-webdiver.jpg",
 		"playlist": [
 			{
 				"title": "Dennou Boukenki Webdiver OP",
@@ -689,7 +689,7 @@
 		"name": "Detective Conan",
 		"released_year": 1996,
 		"slug": "detective-conan",
-		"thumbnail": "/images/anime/detective-conan.jpg",
+		"thumbnail": "detective-conan.jpg",
 		"playlist": [
 			{
 				"title": "Opening Detective Conan Indonesia (Sound High Quality)",
@@ -729,7 +729,7 @@
 		"name": "Detective School-Q",
 		"released_year": 2003,
 		"slug": "detective-school-q",
-		"thumbnail": "/images/anime/detective-school-q.jpg",
+		"thumbnail": "detective-school-q.jpg",
 		"playlist": [
 			{
 				"title": "Detective School Q - Opening 1",
@@ -753,7 +753,7 @@
 		"name": "Digimon Adventure 1",
 		"released_year": 1999,
 		"slug": "digimon-adventure-1",
-		"thumbnail": "/images/anime/digimon-adventure-1.jpg",
+		"thumbnail": "digimon-adventure-1.jpg",
 		"playlist": [
 			{
 				"title": "Digimon Adventure - Butter-Fly [Indonesian version]",
@@ -777,7 +777,7 @@
 		"name": "Digimon Adventure 2",
 		"released_year": 2000,
 		"slug": "digimon-adventure-2",
-		"thumbnail": "/images/anime/digimon-adventure-2.jpg",
+		"thumbnail": "digimon-adventure-2.jpg",
 		"playlist": [
 			{
 				"title": "OST DIGIMON 2 ADVENTURE BAHASA INDONESIA",
@@ -793,7 +793,7 @@
 		"name": "Digimon Adventure Reboot",
 		"released_year": 2020,
 		"slug": "digimon-adventure-reboot",
-		"thumbnail": "/images/anime/digimon-adventure-reboot.webp",
+		"thumbnail": "digimon-adventure-reboot.webp",
 		"playlist": [
 			{
 				"title": "Digimon Adventure 2020 OP",
@@ -821,7 +821,7 @@
 		"name": "Digimon Adventure Tri",
 		"released_year": 2015,
 		"slug": "digimon-adventure-tri",
-		"thumbnail": "/images/anime/digimon-adventure-tri.jpg",
+		"thumbnail": "digimon-adventure-tri.jpg",
 		"playlist": [
 			{
 				"title": "Digimon Adventure Tri opening song Butterfly HD with english sub",
@@ -841,7 +841,7 @@
 		"name": "Digimon Data Squad",
 		"released_year": 2006,
 		"slug": "digimon-data-squad",
-		"thumbnail": "/images/anime/digimon-data-squad.jpg",
+		"thumbnail": "digimon-data-squad.jpg",
 		"playlist": [
 			{
 				"title": "Digimon Savers Opening 2 |Creditless| [4K 60FPS Remastered]",
@@ -857,7 +857,7 @@
 		"name": "Digimon Frontier",
 		"released_year": 2002,
 		"slug": "digimon-frontier",
-		"thumbnail": "/images/anime/digimon-frontier.jpg",
+		"thumbnail": "digimon-frontier.jpg",
 		"playlist": [
 			{
 				"title": "Digimon Frontier opening 1 japanese HD",
@@ -893,7 +893,7 @@
 		"name": "Digimon Tamers",
 		"released_year": 2001,
 		"slug": "digimon-tamers",
-		"thumbnail": "/images/anime/digimon-tamers.webp",
+		"thumbnail": "digimon-tamers.webp",
 		"playlist": [
 			{
 				"title": "Digimon Tamers Original Opening HD",
@@ -913,7 +913,7 @@
 		"name": "Digimon Universe: App Monster",
 		"released_year": 2016,
 		"slug": "digimon-universe-app-monster",
-		"thumbnail": "/images/anime/digimon-universe-app-monster.webp",
+		"thumbnail": "digimon-universe-app-monster.webp",
 		"playlist": [
 			{
 				"title": "Digimon Universe: Appli Monsters Opening 1",
@@ -941,7 +941,7 @@
 		"name": "Digimon Xros Wars",
 		"released_year": 2010,
 		"slug": "digimon-xros-wars",
-		"thumbnail": "/images/anime/digimon-xros-wars.jpg",
+		"thumbnail": "digimon-xros-wars.jpg",
 		"playlist": [
 			{
 				"title": "Digimon Xros Wars - Opening 2 - Shoutmon X7 Version [HD 1080i]",
@@ -969,7 +969,7 @@
 		"name": "Dinousaur King",
 		"released_year": 2007,
 		"slug": "dinosaur-king",
-		"thumbnail": "/images/anime/dinosaur-king.jpg",
+		"thumbnail": "dinosaur-king.jpg",
 		"playlist": [
 			{
 				"id": "6VmWho1ioOM",
@@ -981,7 +981,7 @@
 		"name": "DN Angel",
 		"released_year": 2003,
 		"slug": "dn-angel",
-		"thumbnail": "/images/anime/dn-angel.jpg",
+		"thumbnail": "dn-angel.jpg",
 		"playlist": [
 			{
 				"title": "D N Angel opening HD creditless",
@@ -997,7 +997,7 @@
 		"name": "Doraemon",
 		"released_year": 1973,
 		"slug": "doraemon",
-		"thumbnail": "/images/anime/doraemon.webp",
+		"thumbnail": "doraemon.webp",
 		"playlist": [
 			{
 				"title": "Lagu Doraemon Opening Versi Indonesia",
@@ -1009,7 +1009,7 @@
 		"name": "Dr. Slump",
 		"released_year": 1981,
 		"slug": "dr-slump",
-		"thumbnail": "/images/anime/dr-slump.jpg",
+		"thumbnail": "dr-slump.jpg",
 		"playlist": [
 			{
 				"title": "Dr. Slump - Arale Opening [dub Indonesia]",
@@ -1021,7 +1021,7 @@
 		"name": "Dr. Stone",
 		"released_year": 2019,
 		"slug": "dr-stone",
-		"thumbnail": "/images/anime/dr-stone.jpg",
+		"thumbnail": "dr-stone.jpg",
 		"playlist": [
 			{
 				"title": "ＴＶアニメ 「Ｄｒ．ＳＴＯＮＥ」 第2期ED＜声?＞ノンクレジット映像【毎週木曜日 好評放送＆配信中！】",
@@ -1045,7 +1045,7 @@
 		"name": "Dragon Ball",
 		"released_year": 1989,
 		"slug": "dragon-ball",
-		"thumbnail": "/images/anime/dragon-ball.jpg",
+		"thumbnail": "dragon-ball.jpg",
 		"playlist": [
 			{
 				"title": "Dragon Ball Opening - Bahasa Indonesia",
@@ -1057,13 +1057,13 @@
 		"name": "Dragon League",
 		"released_year": 1993,
 		"slug": "dragon-league",
-		"thumbnail": "/images/anime/dragon-league.jpg"
+		"thumbnail": "dragon-league.jpg"
 	},
 	{
 		"name": "Duel Masters",
 		"released_year": 2002,
 		"slug": "duel-masters",
-		"thumbnail": "/images/anime/duel-masters.jpg",
+		"thumbnail": "duel-masters.jpg",
 		"playlist": [
 			{
 				"title": "Duel Masters Sacred Lands Season 2 Intro 1080p HD",
@@ -1075,13 +1075,13 @@
 		"name": "Elusive Samurai",
 		"released_year": 2024,
 		"slug": "elusive-samurai",
-		"thumbnail": "/images/anime/elusive-samurai.webp"
+		"thumbnail": "elusive-samurai.webp"
 	},
 	{
 		"name": "Eureka Seven",
 		"released_year": 2005,
 		"slug": "eureka-seven",
-		"thumbnail": "/images/anime/eureka-seven.png",
+		"thumbnail": "eureka-seven.png",
 		"playlist": [
 			{
 				"title": "Eureka Seven Opening 2 HD High definition",
@@ -1105,7 +1105,7 @@
 		"name": "Eyeshield 21",
 		"released_year": 2005,
 		"slug": "eyeshield-21",
-		"thumbnail": "/images/anime/eyeshield-21.jpg",
+		"thumbnail": "eyeshield-21.jpg",
 		"playlist": [
 			{
 				"title": "Eyeshield 21 Opening 2 - Innocence",
@@ -1130,7 +1130,7 @@
 		"alternative_name": "Bai Yao Pu",
 		"released_year": 2020,
 		"slug": "fairy-albums",
-		"thumbnail": "/images/anime/fairies-albums.jpg",
+		"thumbnail": "fairies-albums.jpg",
 		"playlist": [
 			{
 				"title": "动画主题曲OP",
@@ -1150,7 +1150,7 @@
 		"name": "Frieren: Beyond Journey's End",
 		"released_year": 2023,
 		"slug": "frieren-beyond-journeys-end",
-		"thumbnail": "/images/anime/frieren-beyond-journeys-end.jpg",
+		"thumbnail": "frieren-beyond-journeys-end.jpg",
 		"playlist": [
 			{
 				"title": "Frieren:Beyond the Journey's End Non-telop Openning movie/OP theme: YUSHA(Brave) YOASOBI",
@@ -1174,7 +1174,7 @@
 		"name": "Fullmetal Alchemist: Brotherhood",
 		"released_year": 2009,
 		"slug": "fullmetal-alchemist-brotherhood",
-		"thumbnail": "/images/anime/fullmetal-alchemist-brotherhood.jpg",
+		"thumbnail": "fullmetal-alchemist-brotherhood.jpg",
 		"playlist": [
 			{
 				"title": "Fullmetal Alchemist: Brotherhood - Opening 1 [4K 60FPS | Creditless | CC]",
@@ -1202,7 +1202,7 @@
 		"name": "Future GPX Cyber Formula (Asurada)",
 		"released_year": 1991,
 		"slug": "future-gpx-cyber-formula-asurada",
-		"thumbnail": "/images/anime/future-gpx-cyber-formula-asurada.jpg",
+		"thumbnail": "future-gpx-cyber-formula-asurada.jpg",
 		"playlist": [
 			{
 				"title": "Future GPX Cyber Formula | Opening [HD]",
@@ -1214,7 +1214,7 @@
 		"name": "GeGeGe No Kitaro",
 		"released_year": 2018,
 		"slug": "gegege-no-kitaro",
-		"thumbnail": "/images/anime/gegege-no-kitaro.jpg",
+		"thumbnail": "gegege-no-kitaro.jpg",
 		"playlist": [
 			{
 				"title": "GeGeGe NO Kitaro (opening)",
@@ -1230,7 +1230,7 @@
 		"name": "Genseishin Justirisers",
 		"released_year": 2004,
 		"slug": "genseishin-justirisers",
-		"thumbnail": "/images/anime/genseishin-justirisers.jpg",
+		"thumbnail": "genseishin-justirisers.jpg",
 		"playlist": [
 			{
 				"title": "Genseishin Justirisers Opening Song",
@@ -1242,7 +1242,7 @@
 		"name": "Gensomaden Saiyuki",
 		"released_year": 2000,
 		"slug": "gensomaden-saiyuki",
-		"thumbnail": "/images/anime/gensomaden-saiyuki.webp",
+		"thumbnail": "gensomaden-saiyuki.webp",
 		"playlist": [
 			{
 				"title": "Gensomaden Saiyuki OP",
@@ -1258,7 +1258,7 @@
 		"name": "Gensomaden Saiyuki Reload Blast",
 		"released_year": 2017,
 		"slug": "gensomaden-saiyuki-reload-blast",
-		"thumbnail": "/images/anime/gensomaden-saiyuki-reload-blast.jpg",
+		"thumbnail": "gensomaden-saiyuki-reload-blast.jpg",
 		"playlist": [
 			{
 				"title": "Saiyuuki Reload Blast - Opening HD Creditless",
@@ -1274,7 +1274,7 @@
 		"name": "Gensomaden Saiyuki: Gaiden",
 		"released_year": 2011,
 		"slug": "gensomaden-saiyuki-gaiden",
-		"thumbnail": "/images/anime/gensomaden-saiyuki-gaiden.jpg",
+		"thumbnail": "gensomaden-saiyuki-gaiden.jpg",
 		"playlist": [
 			{
 				"title": "Saiyuki Gaiden OVA opening subbed",
@@ -1286,7 +1286,7 @@
 		"name": "Gensomaden Saiyuki: Reload",
 		"released_year": 2003,
 		"slug": "gensomaden-saiyuki-reload",
-		"thumbnail": "/images/anime/gensomaden-saiyuki-reload.jpg",
+		"thumbnail": "gensomaden-saiyuki-reload.jpg",
 		"playlist": [
 			{
 				"title": "Saiyuki Reload - Wild Rock",
@@ -1298,7 +1298,7 @@
 		"name": "Gensomaden Saiyuki Reload: Zeroin",
 		"released_year": 2022,
 		"slug": "gensomaden-saiyuki-reload-zeroin",
-		"thumbnail": "/images/anime/gensomaden-saiyuki-reload-zeroin.jpg",
+		"thumbnail": "gensomaden-saiyuki-reload-zeroin.jpg",
 		"playlist": [
 			{
 				"title": "Saiyuki Reload ZEROIN Opening - Kamino Hotokemo",
@@ -1314,7 +1314,7 @@
 		"name": "Gintama",
 		"released_year": 2006,
 		"slug": "gintama",
-		"thumbnail": "/images/anime/gintama.jpg",
+		"thumbnail": "gintama.jpg",
 		"playlist": [
 			{
 				"title": "Gintama Opening 18 v3",
@@ -1342,7 +1342,7 @@
 		"name": "God Eater",
 		"released_year": 2015,
 		"slug": "god-eater",
-		"thumbnail": "/images/anime/god-eater.png",
+		"thumbnail": "god-eater.png",
 		"playlist": [
 			{
 				"title": "God Eater OP (TV-Size)",
@@ -1354,13 +1354,13 @@
 		"name": "Hagemaru",
 		"released_year": 1988,
 		"slug": "hagemaru",
-		"thumbnail": "/images/anime/hagemaru.jpg"
+		"thumbnail": "hagemaru.jpg"
 	},
 	{
 		"name": "Haikyuu! Fly High!! Volleyball!",
 		"released_year": 2014,
 		"slug": "haikyuu-fly-high-volleyball",
-		"thumbnail": "/images/anime/haikyuu-fly-high-volleyball.jpg",
+		"thumbnail": "haikyuu-fly-high-volleyball.jpg",
 		"playlist": [
 			{
 				"title": "SPYAIR『イマジネーション[謎解きver.]』",
@@ -1372,7 +1372,7 @@
 		"name": "Hamtaro",
 		"released_year": 2000,
 		"slug": "hamtaro",
-		"thumbnail": "/images/anime/hamtaro.jpg",
+		"thumbnail": "hamtaro.jpg",
 		"playlist": [
 			{
 				"title": "Hamtaro Japanese OP",
@@ -1384,13 +1384,13 @@
 		"name": "Hanyou no Yashahime: Sengoku Otogizoushi",
 		"released_year": 2020,
 		"slug": "hanyou-no-yashahime-sengoku-otogizoushi",
-		"thumbnail": "/images/anime/hanyou-no-yashahime-sengoku-otogizoushi.jpg"
+		"thumbnail": "hanyou-no-yashahime-sengoku-otogizoushi.jpg"
 	},
 	{
 		"name": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
 		"released_year": 2021,
 		"slug": "hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou",
-		"thumbnail": "/images/anime/hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou.jpg",
+		"thumbnail": "hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou.jpg",
 		"playlist": [
 			{
 				"title": "Yashahime Season 2 Opening - Reborn",
@@ -1422,13 +1422,13 @@
 		"name": "Hataraku Saibo",
 		"released_year": 2018,
 		"slug": "hataraku-saibo",
-		"thumbnail": "/images/anime/hataraku-saibo.jpg"
+		"thumbnail": "hataraku-saibo.jpg"
 	},
 	{
 		"name": "Himoutou! Umaru-chan",
 		"released_year": 2015,
 		"slug": "himoutou-umaru-chan",
-		"thumbnail": "/images/anime/himoutou-umaru-chan.jpg",
+		"thumbnail": "himoutou-umaru-chan.jpg",
 		"playlist": [
 			{
 				"title": "TVアニメ『干物妹！うまるちゃん』ノンクレジットOP映像「かくしん的☆めたまるふぉ～ぜっ！」",
@@ -1444,7 +1444,7 @@
 		"name": "Hunter X Hunter",
 		"released_year": 2011,
 		"slug": "hunter-x-hunter",
-		"thumbnail": "/images/anime/hunter-x-hunter.jpg",
+		"thumbnail": "hunter-x-hunter.jpg",
 		"playlist": [
 			{
 				"title": "HUNTER X HUNTER OPENING SONG - OHAYOU INDONESIAN VERSION [HXH Opening Song]",
@@ -1468,7 +1468,7 @@
 		"name": "Idaten Jump",
 		"released_year": 2005,
 		"slug": "idaten-jump",
-		"thumbnail": "/images/anime/idaten-jump.jpg",
+		"thumbnail": "idaten-jump.jpg",
 		"playlist": [
 			{
 				"title": "Idaten Jump Opening - Your World",
@@ -1492,7 +1492,7 @@
 		"name": "Initial-D",
 		"released_year": 1998,
 		"slug": "initial-d",
-		"thumbnail": "/images/anime/initial-d.jpg",
+		"thumbnail": "initial-d.jpg",
 		"playlist": [
 			{
 				"title": "Initial D Fourth Stage OP 1 - Dogfight (Remastered in HD 60FPS using AI Machine Learning)",
@@ -1516,7 +1516,7 @@
 		"name": "Inuyasha",
 		"released_year": 2000,
 		"slug": "inuyasha",
-		"thumbnail": "/images/anime/inuyasha.jpg",
+		"thumbnail": "inuyasha.jpg",
 		"playlist": [
 			{
 				"title": "Inuyasha Opening 1 - Change The World",
@@ -1556,7 +1556,7 @@
 		"name": "Inuyasha Kanketsu-hen",
 		"released_year": 2009,
 		"slug": "inuyasha-kanketsu-hen",
-		"thumbnail": "/images/anime/inuyasha-kanketsu-hen.jpg",
+		"thumbnail": "inuyasha-kanketsu-hen.jpg",
 		"playlist": [
 			{
 				"title": "Inuyasha Kanketsu-hen Opening - Kimi ga Inai Mirai",
@@ -1588,7 +1588,7 @@
 		"name": "Jigoku Sensei Nube",
 		"released_year": 1996,
 		"slug": "jigoku-sensei-nube",
-		"thumbnail": "/images/anime/jigoku-sensei-nube.jpg",
+		"thumbnail": "jigoku-sensei-nube.jpg",
 		"playlist": [
 			{
 				"title": "Jigoku Sensei Nube Opening [4K 60FPS Remastered]",
@@ -1600,7 +1600,7 @@
 		"name": "Jujutsu Kaisen",
 		"released_year": 2020,
 		"slug": "jujutsu-kaisen",
-		"thumbnail": "/images/anime/jujutsu-kaisen.jpg",
+		"thumbnail": "jujutsu-kaisen.jpg",
 		"playlist": [
 			{
 				"title": "Who-ya Extended「VIVID VICE」- Anime Version",
@@ -1628,7 +1628,7 @@
 		"name": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
 		"released_year": 2004,
 		"slug": "juubee-chan-2-siberia-yagyuu-no-gyakushuu",
-		"thumbnail": "/images/anime/juubee-chan-2-siberia-yagyuu-no-gyakushuu.jpg",
+		"thumbnail": "juubee-chan-2-siberia-yagyuu-no-gyakushuu.jpg",
 		"playlist": [
 			{
 				"title": "JUBEI CHAN SEASON 2 MAIN THEME OST",
@@ -1644,7 +1644,7 @@
 		"name": "Kamen Rider 555 (Faiz)",
 		"released_year": 2003,
 		"slug": "kamen-rider-555",
-		"thumbnail": "/images/anime/kamen-rider-555.webp",
+		"thumbnail": "kamen-rider-555.webp",
 		"playlist": [
 			{
 				"title": "Kamen Rider 555 (Faiz) Opening",
@@ -1656,7 +1656,7 @@
 		"name": "Kamen Rider Blade",
 		"released_year": 2004,
 		"slug": "kamen-rider-blade",
-		"thumbnail": "/images/anime/kamen-rider-blade.jpg",
+		"thumbnail": "kamen-rider-blade.jpg",
 		"playlist": [
 			{
 				"title": "Kamen Rider Blade Opening 1",
@@ -1680,7 +1680,7 @@
 		"name": "Kamen Rider Ryuki",
 		"released_year": 2002,
 		"slug": "kamen-rider-ryuki",
-		"thumbnail": "/images/anime/kamen-rider-ryuki.webp",
+		"thumbnail": "kamen-rider-ryuki.webp",
 		"playlist": [
 			{
 				"title": "Kamen Rider Ryuki Opening",
@@ -1696,7 +1696,7 @@
 		"name": "Kekkaishi",
 		"released_year": 2006,
 		"slug": "kekkaishi",
-		"thumbnail": "/images/anime/kekkaishi.jpg",
+		"thumbnail": "kekkaishi.jpg",
 		"playlist": [
 			{
 				"title": "Kekkaishi [ Opening Ost]",
@@ -1720,19 +1720,19 @@
 		"name": "Kenyuu Densetsu Yaiba",
 		"released_year": 1993,
 		"slug": "kenyuu-densetsu-yaiba",
-		"thumbnail": "/images/anime/kenyuu-densetsu-yaiba.jpg"
+		"thumbnail": "kenyuu-densetsu-yaiba.jpg"
 	},
 	{
 		"name": "Keroro Gunsou",
 		"released_year": 2004,
 		"slug": "keroro-gunsou",
-		"thumbnail": "/images/anime/keroro-gunsou.jpg"
+		"thumbnail": "keroro-gunsou.jpg"
 	},
 	{
 		"name": "Kiba",
 		"released_year": 2006,
 		"slug": "kiba",
-		"thumbnail": "/images/anime/kiba.jpg",
+		"thumbnail": "kiba.jpg",
 		"playlist": [
 			{
 				"title": "Kiba Opening 1 - Sanctuary",
@@ -1764,7 +1764,7 @@
 		"name": "Kimetsu No Yaiba",
 		"released_year": 2019,
 		"slug": "kimetsu-no-yaiba",
-		"thumbnail": "/images/anime/kimetsu-no-yaiba.jpg",
+		"thumbnail": "kimetsu-no-yaiba.jpg",
 		"playlist": [
 			{
 				"title": "Demon Slayer | OP | Gurenge by LiSA HD",
@@ -1800,7 +1800,7 @@
 		"name": "Kirby",
 		"released_year": 2001,
 		"slug": "kirby",
-		"thumbnail": "/images/anime/kirby.jpg",
+		"thumbnail": "kirby.jpg",
 		"playlist": [
 			{
 				"title": "Kirby",
@@ -1812,7 +1812,7 @@
 		"name": "Kishin Douji Zenki",
 		"released_year": 1995,
 		"slug": "kishin-douji-zenki",
-		"thumbnail": "/images/anime/kishin-douji-zenki.jpg",
+		"thumbnail": "kishin-douji-zenki.jpg",
 		"playlist": [
 			{
 				"title": "鬼神童子ZENKI OP 鬼神童子ZENKI AI 4K 中日字幕 (MAD·AMV)",
@@ -1824,25 +1824,25 @@
 		"name": "Komi Can't Communicate",
 		"released_year": 2021,
 		"slug": "komi-cant-communicate",
-		"thumbnail": "/images/anime/komi-cant-communicate.jpg"
+		"thumbnail": "komi-cant-communicate.jpg"
 	},
 	{
 		"name": "Kotaro Lives Alone",
 		"released_year": 2022,
 		"slug": "kotaro-lives-alone",
-		"thumbnail": "/images/anime/kotaro-lives-alone.jpg"
+		"thumbnail": "kotaro-lives-alone.jpg"
 	},
 	{
 		"name": "Kuroko No Basket",
 		"released_year": 2012,
 		"slug": "kuroko-no-basket",
-		"thumbnail": "/images/anime/kuroko-no-basket.jpg"
+		"thumbnail": "kuroko-no-basket.jpg"
 	},
 	{
 		"name": "Mahoujin Guru Guru",
 		"released_year": 2017,
 		"slug": "mahoujin-guru-guru",
-		"thumbnail": "/images/anime/mahoujin-guru-guru.jpg",
+		"thumbnail": "mahoujin-guru-guru.jpg",
 		"playlist": [
 			{
 				"title": "Mahoujin Guru Guru (2017) NCOP 1",
@@ -1854,7 +1854,7 @@
 		"name": "MÄR (Märchen Awakens Romance)",
 		"released_year": 2005,
 		"slug": "marchen-awakens-romance",
-		"thumbnail": "/images/anime/marchen-awakens-romance.jpg",
+		"thumbnail": "marchen-awakens-romance.jpg",
 		"playlist": [
 			{
 				"title": "MÄR Opening 4",
@@ -1866,7 +1866,7 @@
 		"name": "Mashle: Magic and Muscle",
 		"released_year": 2023,
 		"slug": "mashle-magic-and-muscle",
-		"thumbnail": "/images/anime/mashle-magic-and-muscle.jpg",
+		"thumbnail": "mashle-magic-and-muscle.jpg",
 		"playlist": [
 			{
 				"title": "MASHLE: MAGIC AND MUSCLES The Divine Visionary Candidate Exam Arc | OPENING THEME",
@@ -1878,13 +1878,13 @@
 		"name": "Medabots",
 		"released_year": 1999,
 		"slug": "medabots",
-		"thumbnail": "/images/anime/medabots.jpg"
+		"thumbnail": "medabots.jpg"
 	},
 	{
 		"name": "Miss Kobayashi's Dragon Maid",
 		"released_year": 2017,
 		"slug": "miss-kobayashis-dragon-maid",
-		"thumbnail": "/images/anime/miss-kobayashis-dragon-maid.jpg",
+		"thumbnail": "miss-kobayashis-dragon-maid.jpg",
 		"playlist": [
 			{
 				"title": "Miss Kobayashi's Dragon Maid S2 OP 4K 60FPS",
@@ -1900,13 +1900,13 @@
 		"name": "Mob Psycho 100",
 		"released_year": 2016,
 		"slug": "mob-psycho-100",
-		"thumbnail": "/images/anime/mob-psycho-100.jpg"
+		"thumbnail": "mob-psycho-100.jpg"
 	},
 	{
 		"name": "Mobile Suit Gundam Wing",
 		"released_year": 1995,
 		"slug": "mobile-suit-gundam-wing",
-		"thumbnail": "/images/anime/mobile-suit-gundam-wing.jpg",
+		"thumbnail": "mobile-suit-gundam-wing.jpg",
 		"playlist": [
 			{
 				"title": "Mobile Suit Gundam Wing - Opening 1 | Just Communication",
@@ -1918,7 +1918,7 @@
 		"name": "Mobile Suit Gundam SEED",
 		"released_year": 2002,
 		"slug": "mobile-suit-gundam-seed",
-		"thumbnail": "/images/anime/mobile-suit-gundam-seed.jpg",
+		"thumbnail": "mobile-suit-gundam-seed.jpg",
 		"playlist": [
 			{
 				"title": "Annani Issho Dattanoni - ReTracks See-Saw/GUNDAM SEED HD REMASTER Textless version of ED",
@@ -1930,7 +1930,7 @@
 		"name": "Mobile Suit Gundam SEED Destiny",
 		"released_year": 2004,
 		"slug": "mobile-suit-gundam-seed-destiny",
-		"thumbnail": "/images/anime/mobile-suit-gundam-seed-destiny.jpg",
+		"thumbnail": "mobile-suit-gundam-seed-destiny.jpg",
 		"playlist": [
 			{
 				"title": "Reason Nami Tamaki/GUNDAM SEED DESTINY HD REMASTER Textless version of ED",
@@ -1958,7 +1958,7 @@
 		"name": "Monster Rancher",
 		"released_year": 1999,
 		"slug": "monster-rancher",
-		"thumbnail": "/images/anime/monster-rancher.jpg",
+		"thumbnail": "monster-rancher.jpg",
 		"playlist": [
 			{
 				"title": "Op2 Monster Farm/Monster Rancher|Close to Your Heart | By | Rina Aiuchi",
@@ -1970,13 +1970,13 @@
 		"name": "My Happy Marriage",
 		"released_year": 2023,
 		"slug": "my-happy-marriage",
-		"thumbnail": "/images/anime/my-happy-marriage.jpg"
+		"thumbnail": "my-happy-marriage.jpg"
 	},
 	{
 		"name": "Naruto",
 		"released_year": 2002,
 		"slug": "naruto",
-		"thumbnail": "/images/anime/naruto.jpg",
+		"thumbnail": "naruto.jpg",
 		"playlist": [
 			{
 				"title": "Naruto | Opening 2 - Haruka Kanata | VIZ",
@@ -2020,7 +2020,7 @@
 		"name": "Naruto Shippuden",
 		"released_year": 2007,
 		"slug": "naruto-shippuden",
-		"thumbnail": "/images/anime/naruto-shippuden.jpg",
+		"thumbnail": "naruto-shippuden.jpg",
 		"playlist": [
 			{
 				"title": "Naruto Shippuden - Opening 1 | Hero's Come Back",
@@ -2100,7 +2100,7 @@
 		"name": "Ninja Hattori",
 		"released_year": 1981,
 		"slug": "ninja-hattori",
-		"thumbnail": "/images/anime/ninja-hattori.jpg",
+		"thumbnail": "ninja-hattori.jpg",
 		"playlist": [
 			{
 				"title": "Ninja Hatori Opening Bahasa Indonesia",
@@ -2112,7 +2112,7 @@
 		"name": "Ninja Rantaro",
 		"released_year": 1993,
 		"slug": "ninja-rantaro",
-		"thumbnail": "/images/anime/ninja-rantaro.jpg",
+		"thumbnail": "ninja-rantaro.jpg",
 		"playlist": [
 			{
 				"title": "Yuki 100% - Hey ! Say ! JUMP",
@@ -2124,7 +2124,7 @@
 		"name": "One Piece",
 		"released_year": 1999,
 		"slug": "one-piece",
-		"thumbnail": "/images/anime/one-piece.jpg",
+		"thumbnail": "one-piece.jpg",
 		"playlist": [
 			{
 				"title": "TVアニメ「ONE PIECE」1000話記念: ウィーアー!",
@@ -2200,7 +2200,7 @@
 		"name": "One Punch Man",
 		"released_year": 2015,
 		"slug": "one-punch-man",
-		"thumbnail": "/images/anime/one-punch-man.jpg",
+		"thumbnail": "one-punch-man.jpg",
 		"playlist": [
 			{
 				"title": "One Punch Man - Official Opening - The Hero!! Set Fire to the Furious Fist",
@@ -2224,13 +2224,13 @@
 		"name": "Onmyoji",
 		"released_year": 2023,
 		"slug": "onmyoji",
-		"thumbnail": "/images/anime/onmyoji.jpg"
+		"thumbnail": "onmyoji.jpg"
 	},
 	{
 		"name": "P-Man",
 		"released_year": 1967,
 		"slug": "p-man",
-		"thumbnail": "/images/anime/p-man.jpg",
+		"thumbnail": "p-man.jpg",
 		"playlist": [
 			{
 				"title": "P-Man Soundtrack (Bahasa Indonesia)",
@@ -2242,7 +2242,7 @@
 		"name": "Pokemon",
 		"released_year": 1997,
 		"slug": "pokemon",
-		"thumbnail": "/images/anime/pokemon.jpg",
+		"thumbnail": "pokemon.jpg",
 		"playlist": [
 			{
 				"title": "Satoshi (CV:Rica Matsumoto) - Mezase Pokémon Master -with my friends- / THE FIRST TAKE",
@@ -2254,7 +2254,7 @@
 		"name": "Pokemon Best Wishes!",
 		"released_year": 2010,
 		"slug": "pokemon-best-wishes",
-		"thumbnail": "/images/anime/pokemon-best-wishes.jpg",
+		"thumbnail": "pokemon-best-wishes.jpg",
 		"playlist": [
 			{
 				"title": "Pocket Monsters: Best Wishes! - Opening",
@@ -2266,7 +2266,7 @@
 		"name": "Pokemon Diamond & Pearl",
 		"released_year": 2006,
 		"slug": "pokemon-diamond-pearl",
-		"thumbnail": "/images/anime/pokemon-diamond-pearl.jpeg",
+		"thumbnail": "pokemon-diamond-pearl.jpeg",
 		"playlist": [
 			{
 				"title": "ポケットモンスター (Pocket Monsters) (Pokemon) Diamond and Pearl - Opening 3 ",
@@ -2294,7 +2294,7 @@
 		"name": "Pokemon Sword & Shield",
 		"released_year": 2019,
 		"slug": "pokemon-sword-shield",
-		"thumbnail": "/images/anime/pokemon-sword-shield.png",
+		"thumbnail": "pokemon-sword-shield.png",
 		"playlist": [
 			{
 				"title": "Pokemon 2022 Opening 4 Official (Versión Rika Matsumoto and Daiki Yamashita) HD",
@@ -2310,7 +2310,7 @@
 		"name": "Pokemon Sun & Moon",
 		"released_year": 2016,
 		"slug": "pokemon-sun-moon",
-		"thumbnail": "/images/anime/pokemon-sun-moon.jpg",
+		"thumbnail": "pokemon-sun-moon.jpg",
 		"playlist": [
 			{
 				"title": "Pocket Monsters OP24 / SM OP3 - Future Connection「未来コネクション」(Creditless) [LQ]",
@@ -2334,13 +2334,13 @@
 		"name": "Pokemon XY",
 		"released_year": 2013,
 		"slug": "pokemon-xy",
-		"thumbnail": "/images/anime/pokemon-xy.jpg"
+		"thumbnail": "pokemon-xy.jpg"
 	},
 	{
 		"name": "Pokemon XY&Z",
 		"released_year": 2015,
 		"slug": "pokemon-xyz",
-		"thumbnail": "/images/anime/pokemon-xyz.jpg",
+		"thumbnail": "pokemon-xyz.jpg",
 		"playlist": [
 			{
 				"title": "Pocket Monsters OP21 / XY OP4 (XY&Z OP) -「XY&Z」(Creditless) [HD]",
@@ -2356,7 +2356,7 @@
 		"name": "Pretty Cure",
 		"released_year": 2004,
 		"slug": "pretty-cure",
-		"thumbnail": "/images/anime/pretty-cure.jpg",
+		"thumbnail": "pretty-cure.jpg",
 		"playlist": [
 			{
 				"title": "Pretty Cure Opening",
@@ -2368,7 +2368,7 @@
 		"name": "Ragnarok: The Animation",
 		"released_year": 2004,
 		"slug": "ragnarok-the-animation",
-		"thumbnail": "/images/anime/ragnarok-the-animation.jpg",
+		"thumbnail": "ragnarok-the-animation.jpg",
 		"playlist": [
 			{
 				"title": "Ragnarok the Animation OP",
@@ -2384,7 +2384,7 @@
 		"name": "Ranma!",
 		"released_year": 1989,
 		"slug": "ranma",
-		"thumbnail": "/images/anime/ranma.jpg",
+		"thumbnail": "ranma.jpg",
 		"playlist": [
 			{
 				"title": "Ranma 1/2 OPENING HD (Japanese)",
@@ -2400,7 +2400,7 @@
 		"name": "Rave Master",
 		"released_year": 2004,
 		"slug": "rave-master",
-		"thumbnail": "/images/anime/rave-master.jpg",
+		"thumbnail": "rave-master.jpg",
 		"playlist": [
 			{
 				"title": "Rave Master Opening",
@@ -2412,7 +2412,7 @@
 		"name": "Record of Ragnarok",
 		"released_year": 2021,
 		"slug": "record-of-ragnarok",
-		"thumbnail": "/images/anime/record-of-ragnarok.jpg",
+		"thumbnail": "record-of-ragnarok.jpg",
 		"playlist": [
 			{
 				"title": "Record of Ragnarok II OP | Rude Loose Dance - Minami | Netflix Anime",
@@ -2428,7 +2428,7 @@
 		"name": "Rockman EXE",
 		"alternative_name": "MegaMan NT Warrior",
 		"released_year": 2002,
-		"thumbnail": "/images/anime/rockman-exe.jpeg",
+		"thumbnail": "rockman-exe.jpeg",
 		"playlist": [
 			{
 				"title": "Rockman EXE Opening 1",
@@ -2440,7 +2440,7 @@
 		"name": "Saint Seiya",
 		"released_year": 1986,
 		"slug": "saint-seiya",
-		"thumbnail": "/images/anime/saint-seiya.jpg",
+		"thumbnail": "saint-seiya.jpg",
 		"playlist": [
 			{
 				"title": "Pegasus Fantasy - Saint Seiya",
@@ -2464,7 +2464,7 @@
 		"name": "Saint Seiya: Hades Elysion",
 		"released_year": 2008,
 		"slug": "saint-seiya-hades-elysion",
-		"thumbnail": "/images/anime/saint-seiya-hades-elysion.jpg",
+		"thumbnail": "saint-seiya-hades-elysion.jpg",
 		"playlist": [
 			{
 				"title": "Saint Seiya Hades Elysion Opening",
@@ -2480,13 +2480,13 @@
 		"name": "Saint Seiya: Meiou Hades Meikai-hen",
 		"released_year": 2005,
 		"slug": "saint-seiya-meiou-hades-meikai-hen",
-		"thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen.jpg"
+		"thumbnail": "saint-seiya-meiou-hades-meikai-hen.jpg"
 	},
 	{
 		"name": "Saint Seiya: Meiou Hades Meikai-hen Juuni Kyuu-hen",
 		"released_year": 2002,
 		"slug": "saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen",
-		"thumbnail": "/images/anime/saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen.jpg",
+		"thumbnail": "saint-seiya-meiou-hades-meikai-hen-juuni-kyuu-hen.jpg",
 		"playlist": [
 			{
 				"title": "Saint Seiya - Hades Sanctuary Opening (Chikyuugi)",
@@ -2502,7 +2502,7 @@
 		"name": "Saint Seiya: Soul of Gold",
 		"released_year": 2015,
 		"slug": "saint-seiya-soul-of-gold",
-		"thumbnail": "/images/anime/saint-seiya-soul-of-gold.jpg",
+		"thumbnail": "saint-seiya-soul-of-gold.jpg",
 		"playlist": [
 			{
 				"id": "mCJlktWUIc8",
@@ -2514,7 +2514,7 @@
 		"name": "Saint Seiya: Omega",
 		"released_year": 2012,
 		"slug": "saint-seiya-omega",
-		"thumbnail": "/images/anime/saint-seiya-omega.jpg",
+		"thumbnail": "saint-seiya-omega.jpg",
 		"playlist": [
 			{
 				"title": "Saint Seiya Omega - Opening HD",
@@ -2534,7 +2534,7 @@
 		"name": "Saint Seiya: Saintia Shou",
 		"released_year": 2018,
 		"slug": "saint-seiya-saintia-shou",
-		"thumbnail": "/images/anime/saint-seiya-saintia-shou.jpg",
+		"thumbnail": "saint-seiya-saintia-shou.jpg",
 		"playlist": [
 			{
 				"title": "Saint Seiya: Saintia Sho Opening",
@@ -2550,7 +2550,7 @@
 		"name": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
 		"released_year": 2009,
 		"slug": "saint-seiya-the-lost-canvas-meiou-shinwa",
-		"thumbnail": "/images/anime/saint-seiya-the-lost-canvas-meiou-shinwa.jpg",
+		"thumbnail": "saint-seiya-the-lost-canvas-meiou-shinwa.jpg",
 		"playlist": [
 			{
 				"title": "SAINT SEIYA: THE LOST CANVAS Season 2 OPENING",
@@ -2574,7 +2574,7 @@
 		"name": "Samurai 7",
 		"released_year": 2004,
 		"slug": "samurai-7",
-		"thumbnail": "/images/anime/samurai-7.jpg",
+		"thumbnail": "samurai-7.jpg",
 		"playlist": [
 			{
 				"title": "Samurai 7 Opening - Mangekyo Unlimited - Nanase Aikawa",
@@ -2598,7 +2598,7 @@
 		"name": "Samurai Champloo",
 		"released_year": 2004,
 		"slug": "samurai-champloo",
-		"thumbnail": "/images/anime/samurai-champloo.jpg",
+		"thumbnail": "samurai-champloo.jpg",
 		"playlist": [
 			{
 				"title": "Samurai Champloo - Opening | Battlecry",
@@ -2622,7 +2622,7 @@
 		"name": "Samurai Deeper Kyou",
 		"released_year": 2002,
 		"slug": "samurai-deeper-kyou",
-		"thumbnail": "/images/anime/samurai-deeper-kyou.jpg",
+		"thumbnail": "samurai-deeper-kyou.jpg",
 		"playlist": [
 			{
 				"title": "Samurai Deeper Kyo - Opening",
@@ -2638,7 +2638,7 @@
 		"name": "Samurai X",
 		"released_year": 1996,
 		"slug": "samurai-x",
-		"thumbnail": "/images/anime/samurai-x.jpg",
+		"thumbnail": "samurai-x.jpg",
 		"playlist": [
 			{
 				"title": "Samurai X - Nibun no Ichi",
@@ -2666,7 +2666,7 @@
 		"name": "SD Gundam Force",
 		"released_year": 2003,
 		"slug": "sd-gundam-force",
-		"thumbnail": "/images/anime/sd-gundam-force.jpg",
+		"thumbnail": "sd-gundam-force.jpg",
 		"playlist": [
 			{
 				"title": "SD Gundam Force Opening 3",
@@ -2678,7 +2678,7 @@
 		"name": "Shaman King: Reboot",
 		"released_year": 2021,
 		"slug": "shaman-king-reboot",
-		"thumbnail": "/images/anime/shaman-king-reboot.jpg",
+		"thumbnail": "shaman-king-reboot.jpg",
 		"playlist": [
 			{
 				"title": "Shaman King Opening 1",
@@ -2706,7 +2706,7 @@
 		"name": "Shangri-La Frontier",
 		"released_year": 2023,
 		"slug": "shangri-la-frontier",
-		"thumbnail": "/images/anime/shangri-la-frontier.jpg",
+		"thumbnail": "shangri-la-frontier.jpg",
 		"playlist": [
 			{
 				"title": "FZMZ - Danger Danger - Anime Version",
@@ -2722,7 +2722,7 @@
 		"name": "Shingeki no Kyojin",
 		"released_year": 2013,
 		"slug": "shingeki-no-kyojin",
-		"thumbnail": "/images/anime/shingeki-no-kyojin.jpg",
+		"thumbnail": "shingeki-no-kyojin.jpg",
 		"playlist": [
 			{
 				"title": "Attack on Titan Season 2 - Opening | Shinzou wo Sasageyo!",
@@ -2746,19 +2746,19 @@
 		"name": "Shinya! Tensai Bakabon",
 		"released_year": 2018,
 		"slug": "shinya-tensai-bakabon",
-		"thumbnail": "/images/anime/shinya-tensai-bakabon.jpg"
+		"thumbnail": "shinya-tensai-bakabon.jpg"
 	},
 	{
 		"name": "Shokugeki No Soma",
 		"released_year": 2015,
 		"slug": "shokugeki-no-soma",
-		"thumbnail": "/images/anime/shokugeki-no-soma.jpg"
+		"thumbnail": "shokugeki-no-soma.jpg"
 	},
 	{
 		"name": "Slayers Try",
 		"released_year": 1995,
 		"slug": "slayers-try",
-		"thumbnail": "/images/anime/slayers-try.jpg",
+		"thumbnail": "slayers-try.jpg",
 		"playlist": [
 			{
 				"title": "Slayers Try Opening (Breeze)",
@@ -2774,13 +2774,13 @@
 		"name": "Solo Leveling",
 		"released_year": 2024,
 		"slug": "solo-leveling",
-		"thumbnail": "/images/anime/solo-leveling.jpg"
+		"thumbnail": "solo-leveling.jpg"
 	},
 	{
 		"name": "Spy X Family",
 		"released_year": 2022,
 		"slug": "spy-x-family",
-		"thumbnail": "/images/anime/spy-x-family.jpg",
+		"thumbnail": "spy-x-family.jpg",
 		"playlist": [
 			{
 				"title": "SPY x FAMILY Opening (TV Version)",
@@ -2796,7 +2796,7 @@
 		"name": "Star Ocean X",
 		"released_year": 2001,
 		"slug": "star-ocean-x",
-		"thumbnail": "/images/anime/star-ocean-x.jpg",
+		"thumbnail": "star-ocean-x.jpg",
 		"playlist": [
 			{
 				"title": "Star Ocean X Opening",
@@ -2812,7 +2812,7 @@
 		"name": "Super Yoyo",
 		"released_year": 1998,
 		"slug": "super-yoyo",
-		"thumbnail": "/images/anime/super-yoyo.jpg",
+		"thumbnail": "super-yoyo.jpg",
 		"playlist": [
 			{
 				"title": "Super YoYo Opening",
@@ -2824,7 +2824,7 @@
 		"name": "Sword Art Online",
 		"released_year": 2012,
 		"slug": "sword-art-online",
-		"thumbnail": "/images/anime/sword-art-online.jpg",
+		"thumbnail": "sword-art-online.jpg",
 		"playlist": [
 			{
 				"title": "Sword Art Online - Opening",
@@ -2840,7 +2840,7 @@
 		"name": "Sword Art Online: Alicization",
 		"released_year": 2018,
 		"slug": "sword-art-online-alicization",
-		"thumbnail": "/images/anime/sword-art-online-alicization.jpg",
+		"thumbnail": "sword-art-online-alicization.jpg",
 		"playlist": [
 			{
 				"title": "Sword Art Online: Alicization Opening 1",
@@ -2864,7 +2864,7 @@
 		"name": "Sword Art Online: Alicization War of Underworld",
 		"released_year": 2019,
 		"slug": "sword-art-online-alicization-war-of-underworld",
-		"thumbnail": "/images/anime/sword-art-online-alicization-war-of-underworld.jpg",
+		"thumbnail": "sword-art-online-alicization-war-of-underworld.jpg",
 		"playlist": [
 			{
 				"title": "Sword Art Online Alicization War of Underworld Opening 2",
@@ -2880,13 +2880,13 @@
 		"name": "The Apothecary Diaries",
 		"released_year": 2023,
 		"slug": "the-apothecary-diaries",
-		"thumbnail": "/images/anime/the-apothecary-diaries.jpg"
+		"thumbnail": "the-apothecary-diaries.jpg"
 	},
 	{
 		"name": "The Law of Ueki",
 		"released_year": 2005,
 		"slug": "the-law-of-ueki",
-		"thumbnail": "/images/anime/the-law-of-ueki.jpg",
+		"thumbnail": "the-law-of-ueki.jpg",
 		"playlist": [
 			{
 				"title": "The Law Of Ueki Opening 1",
@@ -2918,7 +2918,7 @@
 		"name": "The Legend of Condor Hero",
 		"released_year": 2001,
 		"slug": "the-legend-of-condor-hero",
-		"thumbnail": "/images/anime/the-legend-of-condor-hero.jpeg",
+		"thumbnail": "the-legend-of-condor-hero.jpeg",
 		"playlist": [
 			{
 				"title": "The Legend of Condor Hero Opening 1",
@@ -2934,13 +2934,13 @@
 		"name": "The Way of the Househusband",
 		"released_year": 2021,
 		"slug": "the-way-of-the-househusband",
-		"thumbnail": "/images/anime/the-way-of-the-househusband.jpg"
+		"thumbnail": "the-way-of-the-househusband.jpg"
 	},
 	{
 		"name": "Transformers: Galaxy Force",
 		"released_year": 2005,
 		"slug": "transformers-galaxy-force",
-		"thumbnail": "/images/anime/transformers-galaxy-force.jpg",
+		"thumbnail": "transformers-galaxy-force.jpg",
 		"playlist": [
 			{
 				"title": "Transformers Galaxy Force Opening 1",
@@ -2956,7 +2956,7 @@
 		"name": "Tower of God (Kami no Tou)",
 		"released_year": 2020,
 		"slug": "tower-of-god-kami-no-tou",
-		"thumbnail": "/images/anime/tower-of-god-kami-no-tou.jpg",
+		"thumbnail": "tower-of-god-kami-no-tou.jpg",
 		"playlist": [
 			{
 				"title": "Tower of God Opening 1",
@@ -2972,13 +2972,13 @@
 		"name": "Trigun Stampede",
 		"released_year": 2023,
 		"slug": "trigun-stampede",
-		"thumbnail": "/images/anime/trigun-stampede.jpg"
+		"thumbnail": "trigun-stampede.jpg"
 	},
 	{
 		"name": "Ultraman Dyna",
 		"released_year": 1997,
 		"slug": "ultraman-dyna",
-		"thumbnail": "/images/anime/ultraman-dyna.jpg",
+		"thumbnail": "ultraman-dyna.jpg",
 		"playlist": [
 			{
 				"title": "Ultraman Dyna Opening Theme",
@@ -2990,7 +2990,7 @@
 		"name": "Ultraman Gaia",
 		"released_year": 1998,
 		"slug": "ultraman-gaia",
-		"thumbnail": "/images/anime/ultraman-gaia.jpg",
+		"thumbnail": "ultraman-gaia.jpg",
 		"playlist": [
 			{
 				"title": "Ultraman Gaia Opening",
@@ -3002,7 +3002,7 @@
 		"name": "Ultraman Nexus",
 		"released_year": 2004,
 		"slug": "ultraman-nexus",
-		"thumbnail": "/images/anime/ultraman-nexus.jpg",
+		"thumbnail": "ultraman-nexus.jpg",
 		"playlist": [
 			{
 				"title": "Ultraman Nexus Opening 1",
@@ -3018,13 +3018,13 @@
 		"name": "Wind Breaker",
 		"released_year": 2024,
 		"slug": "wind-breaker",
-		"thumbnail": "/images/anime/wind-breaker.jpg"
+		"thumbnail": "wind-breaker.jpg"
 	},
 	{
 		"name": "Your Lie in April",
 		"released_year": 2014,
 		"slug": "your-lie-in-april",
-		"thumbnail": "/images/anime/your-lie-in-april.jpg",
+		"thumbnail": "your-lie-in-april.jpg",
 		"playlist": [
 			{
 				"title": "Your Lie in April OP/Opening Theme - Hikaru Nara",
@@ -3048,7 +3048,7 @@
 		"name": "Yu-Gi-Oh! 5Ds",
 		"released_year": 2008,
 		"slug": "yu-gi-oh-5ds",
-		"thumbnail": "/images/anime/yu-gi-oh-5ds.jpg",
+		"thumbnail": "yu-gi-oh-5ds.jpg",
 		"playlist": [
 			{
 				"title": "Yugioh 5D's OPENING 5 Masaaki Endoh - Going my Way!",
@@ -3068,7 +3068,7 @@
 		"name": "Yu-Gi-Oh! Arc-V",
 		"released_year": 2014,
 		"slug": "yu-gi-oh-arc-v",
-		"thumbnail": "/images/anime/yu-gi-oh-arc-v.jpg",
+		"thumbnail": "yu-gi-oh-arc-v.jpg",
 		"playlist": [
 			{
 				"title": "Yu Gi Oh! - ARC-V OP 4",
@@ -3100,7 +3100,7 @@
 		"name": "Yu-Gi-Oh! Duel Monsters",
 		"released_year": 2000,
 		"slug": "yu-gi-oh-duel-monsters",
-		"thumbnail": "/images/anime/yu-gi-oh-duel-monsters.jpg",
+		"thumbnail": "yu-gi-oh-duel-monsters.jpg",
 		"playlist": [
 			{
 				"title": "Yu-Gi-Oh! Duel Monsters Opening 4 - Warriors",
@@ -3124,7 +3124,7 @@
 		"name": "Yu-Gi-Oh! GX",
 		"released_year": 2004,
 		"slug": "yu-gi-oh-gx",
-		"thumbnail": "/images/anime/yu-gi-oh-gx.jpg",
+		"thumbnail": "yu-gi-oh-gx.jpg",
 		"playlist": [
 			{
 				"title": "Yu Gi Oh! GX Season 3 Opening - Teardrop",
@@ -3148,7 +3148,7 @@
 		"name": "Yu-Gi-Oh! VRAINS",
 		"released_year": 2017,
 		"slug": "yu-gi-oh-vrains",
-		"thumbnail": "/images/anime/yu-gi-oh-vrains.jpg",
+		"thumbnail": "yu-gi-oh-vrains.jpg",
 		"playlist": [
 			{
 				"title": "Yugioh VRAINS OP 3 - Calling - Kimeru",
@@ -3168,7 +3168,7 @@
 		"name": "Yu-Gi-Oh! Zexal",
 		"released_year": 2011,
 		"slug": "yu-gi-oh-zexal",
-		"thumbnail": "/images/anime/yu-gi-oh-zexal.jpg",
+		"thumbnail": "yu-gi-oh-zexal.jpg",
 		"playlist": [
 			{
 				"title": "Yu Gi Oh! Zexal Opening 1",
@@ -3200,12 +3200,12 @@
 		"name": "Zoids",
 		"released_year": 1999,
 		"slug": "zoids",
-		"thumbnail": "/images/anime/zoids.jpg"
+		"thumbnail": "zoids.jpg"
 	},
 	{
 		"name": "Zoids Shinseiki",
 		"released_year": 2001,
 		"slug": "zoids-shinseiki",
-		"thumbnail": "/images/anime/zoids-shinseiki.jpg"
+		"thumbnail": "zoids-shinseiki.jpg"
 	}
 ]

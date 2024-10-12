@@ -33,7 +33,7 @@
 </script>
 
 {#if thumbnail}
-    <img bind:this={imgRef} {loading} src={thumbnail} alt={`Thumbnail of ${name}`}/>
+    <img bind:this={imgRef} {loading} src="/images/anime/{thumbnail}" alt={`Thumbnail of ${name}`}/>
 {:else}
     <div class="anime-thumbnail"></div>
 {/if}
