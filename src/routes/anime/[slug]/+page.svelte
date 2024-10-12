@@ -275,9 +275,9 @@
 			</div>
 		</div>
 		<div id="playlist" style="display: flex; flex-direction: column; gap: .5rem;" data-sveltekit-preload-data="false">
-			{#each playlist as ost}
+			{#each playlist as ost, index}
 				<!-- svelte-ignore a11y-invalid-attribute -->
-				<a style="text-decoration: none;" href="?v={ost.id}">{ost.title}</a>
+				<a class="ost-item" class:active={index === playlistIndex} href="?v={ost.id}">{ost.title}</a>
 			{/each}
 		</div>
 	</div>
@@ -316,6 +316,29 @@
 		#player {
 			max-width: 640px;
 		}
+	}
+
+	.ost-item {
+		text-decoration: none;
+		color: black;
+		padding: 1rem;
+		width: 100%;
+	}
+
+	@media screen and (min-width: 1280px) {
+		.ost-item {
+			width: 575px;
+		}
+	}
+
+	.ost-item:hover {
+		background-color: #f0f0f0;
+		color: #747bff;
+	}
+
+	.ost-item.active {
+		background-color: #e0e0e0;
+		font-weight: bold;
 	}
 
 	.controls {
