@@ -45,9 +45,13 @@
 
 <div style="text-align: center;">
     <h1><a href="/">anime.kresna.me</a></h1>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/playlist">Playlist</a>
+    </nav>
     <p>List of Anime that I have watched.</p>
     <p>I have watched {anime.length} anime series and still counting. How about you?</p>
-    <p><em>Let's nostalgia together! 🤘🤘</em></p>
+    <p>Let's nostalgia together! 📻🎼🎼</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 1rem;">
