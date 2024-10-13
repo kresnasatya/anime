@@ -1,7 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
-	import { afterNavigate } from '$app/navigation';
 	import { formatTime } from '$lib/util.js';
 	import Nav from '$lib/Nav.svelte';
 
@@ -46,7 +45,7 @@
 	}
 
 	function createPlayer(animeIndex = 0, playlistIndex = 0) {
-		if (!youtubeAPIReady || !playlist || playlist?.length === 0) return;
+		if (!youtubeAPIReady) return;
 
 		if (!player) {
 			player = new YT.Player('player', {
@@ -84,31 +83,6 @@
 			createPlayer(animeIndex, playlistIndex);
 		});
 		youtubeAPIReady = true;
-	});
-
-	afterNavigate(({ from, to }) => {
-		const searchParams = to?.url.searchParams;
-		const videoId = searchParams?.get('v');
-
-		if (videoId) {
-			for (let i = 0; i < data.anime.length; i++) {
-				const anime = data.anime[i];
-				for (let j = 0; j < anime.playlist?.length; j++) {
-					const ost = anime.playlist[j];
-					if (ost.id === videoId) {
-						playlistIndex = j;
-						animeIndex = i;
-					}
-				}
-			}
-			if (intervalId) {
-				clearInterval(intervalId);
-			}
-			videoDuration = '0:00';
-			if (player) {
-				player.cueVideoById(data.anime[animeIndex].playlist[playlistIndex].id);
-			}
-		}
 	});
 
 	function onPlayerReady() {
@@ -233,8 +207,8 @@
 		clearInterval(intervalId);
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
-		if (loopMode !== 0 || playlistIndex < playlist.length - 1) {
-			playlistIndex = (playlistIndex + 1) % playlist?.length;
+		if (loopMode !== 0 || playlistIndex < data.anime[animeIndex].playlist.length - 1) {
+			playlistIndex = (playlistIndex + 1) % data.anime[animeIndex].playlist?.length;
 			player.loadVideoById(data.anime[animeIndex].playlist[playlistIndex].id);
 			videoDuration = formatTime(player.getDuration());
 		} else {
@@ -243,6 +217,27 @@
 			player.loadVideoById(data.anime[animeIndex].playlist[playlistIndex].id);
 			videoDuration = formatTime(player.getDuration());
 		}
+	}
+
+	function playOst(event) {
+		event.preventDefault();
+		const searchParams = new URLSearchParams(event.target.getAttribute('href'));
+		const videoId = searchParams.get('v');
+		for (let i = 0; i < data.anime.length; i++) {
+			const anime = data.anime[i];
+			for (let j = 0; j < anime.playlist?.length; j++) {
+				const ost = anime.playlist[j];
+				if (ost.id === videoId) {
+					playlistIndex = j;
+					animeIndex = i;
+				}
+			}
+		}
+		if (intervalId) {
+			clearInterval(intervalId);
+		}
+		videoDuration = '0:00';
+		player.cueVideoById(data.anime[animeIndex].playlist[playlistIndex].id);
 	}
 </script>
 
@@ -278,20 +273,18 @@
 		</div>
 	</div>
 
-	<div id="playlist" style="display: flex; flex-direction: column; gap: .5rem;" data-sveltekit-preload-data="false">
-		<ul style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
-			{#each data.anime as anime, anime_index}
-				<li>
-					<span style="display: inline-block; font-size: large; margin-bottom: .5rem; font-weight: 600;">{anime.name}</span>
-					<ul style="list-style: none; margin: 0; padding: 0;">
-						{#each anime.playlist as ost, ost_index}
-							<li class="ost-item" class:active={anime_index === animeIndex && ost_index === playlistIndex}><a href="?v={ost.id}">{ost.title}</a></li>
-						{/each}
-					</ul>
-				</li>
-			{/each}
-		</ul>
-    </div>
+	<ul style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
+		{#each data.anime as anime, anime_index}
+			<li>
+				<span style="display: inline-block; font-size: large; margin-bottom: .5rem; font-weight: 600;">{anime.name}</span>
+				<ul style="list-style: none; margin: 0; padding: 0;">
+					{#each anime.playlist as ost, ost_index}
+						<li class="ost-item" class:active={anime_index === animeIndex && ost_index === playlistIndex}><a on:click={playOst} href="?v={ost.id}">{ost.title}</a></li>
+					{/each}
+				</ul>
+			</li>
+		{/each}
+	</ul>
 </div>
 
 <style>
