@@ -5,6 +5,7 @@
 	import AnimeCard from '$lib/AnimeCard.svelte';
 	import { afterNavigate } from '$app/navigation';
 	import { formatTime } from '$lib/util.js';
+	import Nav from '$lib/Nav.svelte';
 
 	export let data;
 
@@ -256,7 +257,11 @@
 	<title>anime.kresna.me - {data.anime.name}</title>
 </svelte:head>
 
-<a href="/">Back</a>
+<div style="text-align: center;">
+    <h1><a href="/">anime.kresna.me</a></h1>
+    <Nav />
+    <p>Let's nostalgia together! 📻🎼🎼</p>
+</div>
 
 <div style="display: flex; justify-content: space-around">
 	<AnimeCard anime={data.anime} />

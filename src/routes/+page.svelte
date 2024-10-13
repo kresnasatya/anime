@@ -1,6 +1,7 @@
 <script>
     import animeMap from '$lib/anime.js';
 	import AnimeItem from '$lib/AnimeItem.svelte';
+	import Nav from '$lib/Nav.svelte';
 
     const anime = Object.values(animeMap);
 
@@ -45,10 +46,7 @@
 
 <div style="text-align: center;">
     <h1><a href="/">anime.kresna.me</a></h1>
-    <nav>
-        <a href="/">Home</a>
-        <a href="/playlist">Playlist</a>
-    </nav>
+    <Nav />
     <p>List of Anime that I have watched.</p>
     <p>I have watched {anime.length} anime series and still counting. How about you?</p>
     <p>Let's nostalgia together! 📻🎼🎼</p>

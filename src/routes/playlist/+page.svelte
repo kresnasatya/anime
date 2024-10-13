@@ -3,6 +3,7 @@
 	import { page } from '$app/stores';
 	import { afterNavigate } from '$app/navigation';
 	import { formatTime } from '$lib/util.js';
+	import Nav from '$lib/Nav.svelte';
 
 	export let data;
 
@@ -247,10 +248,7 @@
 
 <div style="text-align: center;">
     <h1><a href="/">anime.kresna.me</a></h1>
-    <nav>
-        <a href="/">Home</a>
-        <a href="/playlist">Playlist</a>
-    </nav>
+    <Nav />
     <p>{data.total_ost} Original Soundtrack (OST) from {data.anime.length} anime.</p>
     <p>Let's nostalgia together! 📻🎼🎼</p>
 </div>
