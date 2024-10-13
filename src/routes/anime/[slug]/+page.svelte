@@ -59,6 +59,7 @@
 			player = new YT.Player('player', {
 				height: '320',
 				width: '640',
+				host: 'https://www.youtube-nocookie.com',
 				videoId: playlist[playlistIndex].id,
 				playerVars: {
 					controls: 0, // Hide the default YouTube player controls.

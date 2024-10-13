@@ -51,6 +51,7 @@
 				height: '320',
 				width: '640',
 				videoId: playlist[playlistIndex].id,
+				host: 'https://www.youtube-nocookie.com',
 				playerVars: {
 					controls: 0 // Hide the default YouTube player controls.
 				},
