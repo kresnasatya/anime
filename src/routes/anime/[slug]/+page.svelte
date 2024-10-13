@@ -52,7 +52,7 @@
 		})
 	}
 
-	function createPlayer() {
+	function createPlayer(playlistIndex = 0) {
 		if (!youtubeAPIReady || !playlist || playlist?.length === 0) return;
 
 		if (!player) {
@@ -75,7 +75,14 @@
 	onMount(() => {
 		if (playlist?.length > 0) {
 			loadYouTubeAPI().then(() => {
-				createPlayer();
+				if ($page.url.searchParams.get('v')) {
+					let videoId = $page.url.searchParams.get('v');
+					playlistIndex = playlist?.findIndex((video) => {
+						return videoId === video.id;
+					});
+					playlistIndex = playlistIndex == -1 ? 0 : playlistIndex;
+				}
+				createPlayer(playlistIndex);
 			});
 			youtubeAPIReady = true;
 		}
@@ -95,7 +102,6 @@
 				}
 				videoDuration = '0:00';
 				player.cueVideoById(playlist[playlistIndex].id);
-				window.scrollTo(0, document.documentElement.scrollHeight);
 			}
 		} else {
 			playlistIndex = 0;
