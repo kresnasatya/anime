@@ -2,7 +2,6 @@
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
 	import anime from '$lib/anime.json';
-	import AnimeCard from '$lib/AnimeCard.svelte';
 	import { afterNavigate } from '$app/navigation';
 	import { formatTime } from '$lib/util.js';
 	import Nav from '$lib/Nav.svelte';
@@ -89,39 +88,23 @@
 		}
 	});
 
-	afterNavigate(({ from, to }) => {
-		if (from?.url.pathname === to?.url.pathname) {
-			const searchParams = to?.url.searchParams;
-			const videoId = searchParams?.get('v');
-
-			if (videoId) {
-				playlistIndex = playlist?.findIndex(video => {
-					return video.id === videoId
-				});
-				if (intervalId) {
-					clearInterval(intervalId);
-				}
+	afterNavigate(() => {
+		playlistIndex = 0;
+		if (playlist?.length > 0) {
+			if (player) {
 				videoDuration = '0:00';
 				player.cueVideoById(playlist[playlistIndex].id);
 			}
-		} else {
-			playlistIndex = 0;
-			if (playlist?.length > 0) {
-				if (player) {
-					videoDuration = '0:00';
-					player.cueVideoById(playlist[playlistIndex].id);
-				}
-				
-				if (!youtubeAPIReady) {
-					loadYouTubeAPI().then(() => {
-						createPlayer();
-					});
-				}
-			} else {
-				player.destroy();
-				player = undefined;
-				youtubeAPIReady = false;
+			
+			if (!youtubeAPIReady) {
+				loadYouTubeAPI().then(() => {
+					createPlayer();
+				});
 			}
+		} else {
+			player.destroy();
+			player = undefined;
+			youtubeAPIReady = false;
 		}
 	});
 
@@ -251,6 +234,20 @@
 			console.log('Reached the last video, no further progression in No Loop mode');
 		}
 	}
+
+	function playOst(event) {
+		event.preventDefault();
+		const searchParams = new URLSearchParams(event.target.getAttribute('href'));
+		const videoId = searchParams.get('v');
+		playlistIndex = playlist?.findIndex(video => {
+			return video.id === videoId
+		});
+		if (intervalId) {
+			clearInterval(intervalId);
+		}
+		videoDuration = '0:00';
+		player.cueVideoById(playlist[playlistIndex].id);
+	}
 </script>
 
 <svelte:head>
@@ -284,12 +281,11 @@
 				<button on:click={nextVideo}>Next</button>
 			</div>
 		</div>
-		<div id="playlist" style="display: flex; flex-direction: column; gap: .5rem;" data-sveltekit-preload-data="false">
+		<ul id="playlist" style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
 			{#each playlist as ost, index}
-				<!-- svelte-ignore a11y-invalid-attribute -->
-				<a class="ost-item" class:active={index === playlistIndex} href="?v={ost.id}">{ost.title}</a>
+				<li class="ost-item" class:active={index === playlistIndex}><a on:click={playOst} href="?v={ost.id}">{ost.title}</a></li>
 			{/each}
-		</div>
+		</ul>
 	</div>
 {/if}
 
@@ -338,10 +334,13 @@
 	}
 
 	.ost-item {
-		text-decoration: none;
-		color: black;
 		padding: 1rem;
 		width: 100%;
+	}
+
+	.ost-item > a {
+		text-decoration: none;
+		color: black;
 	}
 
 	@media screen and (min-width: 1280px) {
@@ -352,6 +351,9 @@
 
 	.ost-item:hover {
 		background-color: #f0f0f0;
+	}
+
+	.ost-item:hover a {
 		color: #747bff;
 	}
 
