@@ -257,14 +257,12 @@
 	<title>anime.kresna.me - {data.anime.name}</title>
 </svelte:head>
 
-<div style="text-align: center;">
-    <h1><a href="/">anime.kresna.me</a></h1>
-    <Nav />
-    <p>Let's nostalgia together! 📻🎼🎼</p>
-</div>
+<Nav />
 
-<div style="display: flex; justify-content: space-around">
-	<AnimeCard anime={data.anime} />
+<div style="text-align: center;">
+    <h1>{data.anime.name}</h1>
+	<p>{data.anime.name} released on {data.anime.released_year}</p>
+	<img src="/images/anime/{data.anime.thumbnail}" alt={`Thumbnail of ${data.anime.name}`}/>
 </div>
 
 {#if playlist}
@@ -319,6 +317,15 @@
 </div>
 
 <style>
+	img {
+        object-fit: cover; 
+        width: 240px;
+        max-width: 240px;
+        height: 360px;
+        max-height: 360px; 
+        align-self: center;
+    }
+
 	#player {
 		width: 100%;
 		height: 320px;
