@@ -193,10 +193,21 @@
 	}
 
 	function prevVideo() {
-		// TODO: This will lead a bug! Solve it later.
-		playlistIndex = (playlistIndex - 1 + data.anime[animeIndex].playlist?.length) % playlist?.length;
-		console.log(playlistIndex);
-		player.loadVideoById(data.anime[animeIndex].playlist[playlistIndex].id);
+		// As long as ostIndex in certain anime more than 0 then step down
+		if (ostIndex > 0) {
+			ostIndex = ostIndex - 1;
+		} else {
+			// If not, then step down the animeIndex as long as the animeIndex > 0
+			if (animeIndex > 0) {
+				animeIndex = animeIndex - 1;
+				// Then get the ostIndex based on playlist.length - 1;
+				ostIndex = data.anime[animeIndex].playlist?.length - 1;
+			} else {
+				animeIndex = 0;
+				ostIndex = 0;
+			}
+		}
+		player.loadVideoById(data.anime[animeIndex].playlist[ostIndex].id);
 		clearInterval(intervalId);
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
