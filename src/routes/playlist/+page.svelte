@@ -10,7 +10,7 @@
 	/** @type {YT.Player | undefined} */
 	let player;
 	let animeIndex = 0;
-	let playlistIndex = 0;
+	let ostIndex = 0;
 	let progressCurrentTime = 0;
 	let videoCurrentTime = '0:00';
 	let videoDuration = '0:00';
@@ -44,14 +44,14 @@
 		});
 	}
 
-	function createPlayer(animeIndex = 0, playlistIndex = 0) {
+	function createPlayer(animeIndex = 0, ostIndex = 0) {
 		if (!youtubeAPIReady) return;
 
 		if (!player) {
 			player = new YT.Player('player', {
 				height: '320',
 				width: '640',
-				videoId: data.anime[animeIndex].playlist[playlistIndex].id,
+				videoId: data.anime[animeIndex].playlist[ostIndex].id,
 				host: 'https://www.youtube-nocookie.com',
 				playerVars: {
 					controls: 0 // Hide the default YouTube player controls.
@@ -73,14 +73,14 @@
 					for (let j = 0; j < anime.playlist?.length; j++) {
 						const ost = anime.playlist[j];
 						if (ost.id === videoId) {
-							playlistIndex = j;
+							ostIndex = j;
 							animeIndex = i;
 						}
 					}
 				}
-				playlistIndex = playlistIndex == -1 ? 0 : playlistIndex;
+				ostIndex = ostIndex == -1 ? 0 : ostIndex;
 			}
-			createPlayer(animeIndex, playlistIndex);
+			createPlayer(animeIndex, ostIndex);
 		});
 		youtubeAPIReady = true;
 	});
@@ -128,9 +128,9 @@
 				} else if (loopMode === 2 && animeIndex < data.anime.length - 1) {
 					// Loop back to the first video when the last video ends
 					animeIndex = 0;
-					playlistIndex = 0;
+					ostIndex = 0;
 					playlist = data.anime[animeIndex].playlist;
-					player.loadVideoById(playlist[playlistIndex].id);
+					player.loadVideoById(playlist[ostIndex].id);
 				} else if (loopMode === 0 && animeIndex < data.anime.length - 1) {
 					// No looping, but move to the next video in the playlist
 					nextVideo();
@@ -218,14 +218,14 @@
 		clearInterval(intervalId);
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
-		if (loopMode !== 0 || playlistIndex < data.anime[animeIndex].playlist.length - 1) {
-			playlistIndex = (playlistIndex + 1) % data.anime[animeIndex].playlist?.length;
-			player.loadVideoById(data.anime[animeIndex].playlist[playlistIndex].id);
+		if (loopMode !== 0 || ostIndex < data.anime[animeIndex].playlist.length - 1) {
+			ostIndex = (ostIndex + 1) % data.anime[animeIndex].playlist?.length;
+			player.loadVideoById(data.anime[animeIndex].playlist[ostIndex].id);
 			videoDuration = formatTime(player.getDuration());
 		} else {
 			animeIndex = (animeIndex + 1) % data.anime.length;
-			playlistIndex = 0;
-			player.loadVideoById(data.anime[animeIndex].playlist[playlistIndex].id);
+			ostIndex = 0;
+			player.loadVideoById(data.anime[animeIndex].playlist[ostIndex].id);
 			videoDuration = formatTime(player.getDuration());
 		}
 	}
@@ -239,7 +239,7 @@
 			for (let j = 0; j < anime.playlist?.length; j++) {
 				const ost = anime.playlist[j];
 				if (ost.id === videoId) {
-					playlistIndex = j;
+					ostIndex = j;
 					animeIndex = i;
 				}
 			}
@@ -248,7 +248,7 @@
 			clearInterval(intervalId);
 		}
 		videoDuration = '0:00';
-		player.cueVideoById(data.anime[animeIndex].playlist[playlistIndex].id);
+		player.cueVideoById(data.anime[animeIndex].playlist[ostIndex].id);
 	}
 </script>
 
@@ -290,7 +290,7 @@
 				<span style="display: inline-block; font-size: large; margin-bottom: .5rem; font-weight: 600;">{anime.name}</span>
 				<ul style="list-style: none; margin: 0; padding: 0;">
 					{#each anime.playlist as ost, ost_index}
-						<li class="ost-item" class:active={anime_index === animeIndex && ost_index === playlistIndex}><a on:click={playOst} href="?v={ost.id}">{ost.title}</a></li>
+						<li class="ost-item" class:active={anime_index === animeIndex && ost_index === ostIndex}><a on:click={playOst} href="?v={ost.id}">{ost.title}</a></li>
 					{/each}
 				</ul>
 			</li>

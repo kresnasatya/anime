@@ -18,7 +18,7 @@
 	let player;
 	$: playlist = data.anime.playlist;
 	/** @type {number | undefined} */
-	let playlistIndex = 0;
+	let ostIndex = 0;
 	let progressCurrentTime = 0;
 	let videoCurrentTime = '0:00';
 	let videoDuration = '0:00';
@@ -52,7 +52,7 @@
 		})
 	}
 
-	function createPlayer(playlistIndex = 0) {
+	function createPlayer(ostIndex = 0) {
 		if (!youtubeAPIReady || !playlist || playlist?.length === 0) return;
 
 		if (!player) {
@@ -60,7 +60,7 @@
 				height: '320',
 				width: '640',
 				host: 'https://www.youtube-nocookie.com',
-				videoId: playlist[playlistIndex].id,
+				videoId: playlist[ostIndex].id,
 				playerVars: {
 					controls: 0, // Hide the default YouTube player controls.
 				},
@@ -77,23 +77,23 @@
 			loadYouTubeAPI().then(() => {
 				if ($page.url.searchParams.get('v')) {
 					let videoId = $page.url.searchParams.get('v');
-					playlistIndex = playlist?.findIndex((video) => {
+					ostIndex = playlist?.findIndex((video) => {
 						return videoId === video.id;
 					});
-					playlistIndex = playlistIndex == -1 ? 0 : playlistIndex;
+					ostIndex = ostIndex == -1 ? 0 : ostIndex;
 				}
-				createPlayer(playlistIndex);
+				createPlayer(ostIndex);
 			});
 			youtubeAPIReady = true;
 		}
 	});
 
 	afterNavigate(() => {
-		playlistIndex = 0;
+		ostIndex = 0;
 		if (playlist?.length > 0) {
 			if (player) {
 				videoDuration = '0:00';
-				player.cueVideoById(playlist[playlistIndex].id);
+				player.cueVideoById(playlist[ostIndex].id);
 			}
 			
 			if (!youtubeAPIReady) {
@@ -145,17 +145,17 @@
 				if (loopMode === 1) {
 					// Loop the current video
 					player.playVideo();
-				} else if (loopMode === 2 && playlistIndex < playlist.length - 1) {
+				} else if (loopMode === 2 && ostIndex < playlist.length - 1) {
 					// Loop the entire playlist if not at the last video
 					nextVideo();
-				} else if (loopMode === 2 && playlistIndex === playlist.length - 1) {
+				} else if (loopMode === 2 && ostIndex === playlist.length - 1) {
 					// Loop back to the first video when the last video ends
-					playlistIndex = 0;
-					player.loadVideoById(playlist[playlistIndex].id);
-				} else if (loopMode === 0 && playlistIndex < playlist.length - 1) {
+					ostIndex = 0;
+					player.loadVideoById(playlist[ostIndex].id);
+				} else if (loopMode === 0 && ostIndex < playlist.length - 1) {
 					// No looping, but move to the next video in the playlist
 					nextVideo();
-				} else if (loopMode === 0 && playlistIndex === playlist.length - 1) {
+				} else if (loopMode === 0 && ostIndex === playlist.length - 1) {
 					console.log('Playlist ended, no looping');
 				}
 				break;
@@ -214,8 +214,8 @@
 	}
 
 	function prevVideo() {
-		playlistIndex = (playlistIndex - 1 + playlist?.length) % playlist?.length;
-		player.loadVideoById(playlist[playlistIndex].id);
+		ostIndex = (ostIndex - 1 + playlist?.length) % playlist?.length;
+		player.loadVideoById(playlist[ostIndex].id);
 		clearInterval(intervalId);
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
@@ -223,12 +223,12 @@
 	}
 
 	function nextVideo() {
-		if (loopMode !== 0 || playlistIndex < playlist.length  - 1) {
+		if (loopMode !== 0 || ostIndex < playlist.length  - 1) {
 			clearInterval(intervalId);
 			progressCurrentTime = 0;
 			videoCurrentTime = '0:00';
-			playlistIndex = (playlistIndex + 1) % playlist?.length;
-			player.loadVideoById(playlist[playlistIndex].id);
+			ostIndex = (ostIndex + 1) % playlist?.length;
+			player.loadVideoById(playlist[ostIndex].id);
 			videoDuration = formatTime(player.getDuration());
 		} else {
 			console.log('Reached the last video, no further progression in No Loop mode');
@@ -239,14 +239,14 @@
 		event.preventDefault();
 		const searchParams = new URLSearchParams(event.target.getAttribute('href'));
 		const videoId = searchParams.get('v');
-		playlistIndex = playlist?.findIndex(video => {
+		ostIndex = playlist?.findIndex(video => {
 			return video.id === videoId
 		});
 		if (intervalId) {
 			clearInterval(intervalId);
 		}
 		videoDuration = '0:00';
-		player.cueVideoById(playlist[playlistIndex].id);
+		player.cueVideoById(playlist[ostIndex].id);
 	}
 </script>
 
@@ -283,7 +283,7 @@
 		</div>
 		<ul id="playlist" style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
 			{#each playlist as ost, index}
-				<li class="ost-item" class:active={index === playlistIndex}><a on:click={playOst} href="?v={ost.id}">{ost.title}</a></li>
+				<li class="ost-item" class:active={index === ostIndex}><a on:click={playOst} href="?v={ost.id}">{ost.title}</a></li>
 			{/each}
 		</ul>
 	</div>
