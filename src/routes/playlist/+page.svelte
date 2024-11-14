@@ -122,20 +122,22 @@
 				if (loopMode === 1) {
 					// Loop the current video
 					player.playVideo();
-				} else if (loopMode === 2 && animeIndex < data.anime.length - 1) {
-					// Loop the entire playlist if not at the last video
-					nextVideo();
-				} else if (loopMode === 2 && animeIndex < data.anime.length - 1) {
-					// Loop back to the first video when the last video ends
-					animeIndex = 0;
-					ostIndex = 0;
-					playlist = data.anime[animeIndex].playlist;
-					player.loadVideoById(playlist[ostIndex].id);
-				} else if (loopMode === 0 && animeIndex < data.anime.length - 1) {
-					// No looping, but move to the next video in the playlist
-					nextVideo();
-				} else if (loopMode === 0 && animeIndex === data.anime.length - 1) {
-					console.log('Playlist ended, no looping');
+				} else if (loopMode === 2) {
+					if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
+						// Loop back to the first video when the last video ends
+						animeIndex = 0;
+						ostIndex = 0;
+						const playlist = data.anime[animeIndex].playlist;
+						player.loadVideoById(playlist[ostIndex].id);	
+					} else {
+						nextVideo();
+					}
+				} else if (loopMode === 0) {
+					if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
+						console.log('Playlist ended');	
+					} else {
+						nextVideo();
+					}
 				}
 				break;
 		}
