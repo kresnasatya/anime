@@ -123,20 +123,28 @@
 					// Loop the current video
 					player.playVideo();
 				} else if (loopMode === 2) {
-					if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
-						// Loop back to the first video when the last video ends
-						animeIndex = 0;
-						ostIndex = 0;
-						const playlist = data.anime[animeIndex].playlist;
-						player.loadVideoById(playlist[ostIndex].id);	
+					if (animeIndex === data.anime.length - 1) {
+						if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
+							// Loop back to the first video when the last video ends
+							animeIndex = 0;
+							ostIndex = 0;
+							const playlist = data.anime[animeIndex].playlist;
+							player.loadVideoById(playlist[ostIndex].id);	
+						} else {
+							nextVideo();
+						}
 					} else {
 						nextVideo();
 					}
 				} else if (loopMode === 0) {
-					if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
-						console.log('Playlist ended');	
+					if (animeIndex === data.anime.length - 1) {
+						if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
+							console.log('Playlist ended');	
+						} else {
+							nextVideo();
+						}	
 					} else {
-						nextVideo();
+						nextVideo();	
 					}
 				}
 				break;
@@ -220,16 +228,14 @@
 		clearInterval(intervalId);
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
-		if (loopMode !== 0 || ostIndex < data.anime[animeIndex].playlist.length - 1) {
-			ostIndex = (ostIndex + 1) % data.anime[animeIndex].playlist?.length;
-			player.loadVideoById(data.anime[animeIndex].playlist[ostIndex].id);
-			videoDuration = formatTime(player.getDuration());
+		if (ostIndex < data.anime[animeIndex].playlist.length - 1) {
+			ostIndex = (ostIndex + 1) % data.anime[animeIndex].playlist.length;
 		} else {
 			animeIndex = (animeIndex + 1) % data.anime.length;
 			ostIndex = 0;
-			player.loadVideoById(data.anime[animeIndex].playlist[ostIndex].id);
-			videoDuration = formatTime(player.getDuration());
 		}
+		player.loadVideoById(data.anime[animeIndex].playlist[ostIndex].id);
+		videoDuration = formatTime(player.getDuration());
 	}
 
 	function playOst(event) {
