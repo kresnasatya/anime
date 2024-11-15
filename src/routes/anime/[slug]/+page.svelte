@@ -225,7 +225,7 @@
 	}
 
 	function nextVideo() {
-		if (loopMode !== 0 || ostIndex < playlist.length  - 1) {
+		if (ostIndex < playlist.length  - 1) {
 			clearInterval(intervalId);
 			progressCurrentTime = 0;
 			videoCurrentTime = '0:00';
