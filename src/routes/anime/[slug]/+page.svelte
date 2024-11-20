@@ -1,5 +1,4 @@
 <script>
-	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
 	import anime from '$lib/anime.json';
 	import { afterNavigate } from '$app/navigation';
@@ -72,7 +71,7 @@
 		}
 	}
 
-	onMount(() => {
+	$effect(() => {
 		if (playlist?.length > 0) {
 			loadYouTubeAPI().then(() => {
 				if ($page.url.searchParams.get('v')) {

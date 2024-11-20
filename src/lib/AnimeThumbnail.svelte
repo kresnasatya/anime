@@ -1,7 +1,6 @@
 <script>
     let { thumbnail, name } = $props();
 
-    import { onMount } from "svelte";
     /**
 	 * @type {Element}
 	 */
@@ -12,7 +11,7 @@
 	 */
     let loading = $state('lazy');
 
-    onMount(() => {
+    $effect(() => {
         const observer = new IntersectionObserver(
             ([entry]) => {
                 if (entry.isIntersecting) {
@@ -32,7 +31,7 @@
                 observer.unobserve(imgRef);
             }
         }
-    })
+    });
 </script>
 
 {#if thumbnail}

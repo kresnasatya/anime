@@ -1,5 +1,4 @@
 <script>
-	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
 	import { formatTime } from '$lib/util.js';
 	import Nav from '$lib/Nav.svelte';
@@ -64,7 +63,7 @@
 		}
 	}
 
-	onMount(() => {
+	$effect(() => {
 		loadYouTubeAPI().then(() => {
 			if ($page.url.searchParams.get('v')) {
 				let videoId = $page.url.searchParams.get('v');
