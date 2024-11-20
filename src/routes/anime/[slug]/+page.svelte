@@ -2,7 +2,7 @@
 	import { page } from '$app/stores';
 	import anime from '$lib/anime.json';
 	import { afterNavigate } from '$app/navigation';
-	import { formatTime } from '$lib/util.js';
+	import { formatTime, LOOP_CURRENT_VIDEO, LOOP_PLAYLIST, NO_LOOP } from '$lib/util.js';
 	import Nav from '$lib/Nav.svelte';
 
 	let { data } = $props();
@@ -141,18 +141,16 @@
 				break;
 			case YT.PlayerState.ENDED:
 				toggleVideoPlaybackText = 'Play';
-				if (loopMode === 1) {
-					// Loop the current video
+				if (loopMode === LOOP_CURRENT_VIDEO) {
 					player.playVideo();
-				} else if (loopMode === 2) {
+				} else if (loopMode === LOOP_PLAYLIST) {
 					if (ostIndex === playlist.length - 1) {
-						// Loop the entire ost
 						ostIndex = 0;
 						player.loadVideoById(playlist[ostIndex].id);	
 					} else {
 						nextVideo();
 					}
-				} else if (loopMode === 0) {
+				} else if (loopMode === NO_LOOP) {
 					if (ostIndex === playlist.length - 1) {
 						console.log('Playlist ended, no looping');
 					} else {
@@ -200,11 +198,11 @@
 	function toggleLoop() {
 		loopMode = (loopMode + 1) % 3;
 
-		if (loopMode === 0) {
+		if (loopMode === NO_LOOP) {
 			toggleLoopText = 'No Looping';	
-		} else if (loopMode === 1) {
+		} else if (loopMode === LOOP_CURRENT_VIDEO) {
 			toggleLoopText = 'Loop current video';
-		} else if (loopMode === 2) {
+		} else if (loopMode === LOOP_PLAYLIST) {
 			toggleLoopText = 'Loop playlist';
 		}
 	}

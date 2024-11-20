@@ -1,6 +1,6 @@
 <script>
 	import { page } from '$app/stores';
-	import { formatTime } from '$lib/util.js';
+	import { formatTime, LOOP_CURRENT_VIDEO, LOOP_PLAYLIST, NO_LOOP } from '$lib/util.js';
 	import Nav from '$lib/Nav.svelte';
 
 	let { data } = $props();
@@ -14,7 +14,6 @@
 	let videoCurrentTime = $state('0:00');
 	let videoDuration = $state('0:00');
 	let currentSpeed = $state(1);
-	// 0: No looping, 1: loop current video, 2: loop entire playlist
 	let loopMode = $state(0);
 	let toggleVideoPlaybackText = $state('Play');
 	let toggleLoopText = $state('No Looping');
@@ -118,13 +117,11 @@
 				break;
 			case YT.PlayerState.ENDED:
 				toggleVideoPlaybackText = 'Play';
-				if (loopMode === 1) {
-					// Loop the current video
+				if (loopMode === NO_LOOP) {
 					player.playVideo();
-				} else if (loopMode === 2) {
+				} else if (loopMode === LOOP_CURRENT_VIDEO) {
 					if (animeIndex === data.anime.length - 1) {
 						if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
-							// Loop back to the first video when the last video ends
 							animeIndex = 0;
 							ostIndex = 0;
 							const playlist = data.anime[animeIndex].playlist;
@@ -135,7 +132,7 @@
 					} else {
 						nextVideo();
 					}
-				} else if (loopMode === 0) {
+				} else if (loopMode === NO_LOOP) {
 					if (animeIndex === data.anime.length - 1) {
 						if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
 							console.log('Playlist ended');	
@@ -187,11 +184,11 @@
 	function toggleLoop() {
 		loopMode = (loopMode + 1) % 3;
 
-		if (loopMode === 0) {
+		if (loopMode === NO_LOOP) {
 			toggleLoopText = 'No Looping';
-		} else if (loopMode === 1) {
+		} else if (loopMode === LOOP_CURRENT_VIDEO) {
 			toggleLoopText = 'Loop current video';
-		} else if (loopMode === 2) {
+		} else if (loopMode === LOOP_PLAYLIST) {
 			toggleLoopText = 'Loop playlist';
 		}
 	}

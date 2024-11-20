@@ -1,3 +1,7 @@
+export const NO_LOOP = 0;
+export const LOOP_CURRENT_VIDEO = 1;
+export const LOOP_PLAYLIST = 2;
+
 /**
  * @param {number} duration
  */
