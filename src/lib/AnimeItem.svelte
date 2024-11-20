@@ -1,11 +1,10 @@
 <script>
-    export let anime;
-    export let href;
+    let { anime } = $props();
 
 	import AnimeCard from "./AnimeCard.svelte";
 </script>
 
-<li><a href={href}><AnimeCard anime={anime}/></a></li>
+<li><a href="/anime/{anime.slug}"><AnimeCard anime={anime}/></a></li>
 
 <style>
     li > a {

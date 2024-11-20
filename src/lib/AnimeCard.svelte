@@ -1,5 +1,5 @@
 <script>
-    export let anime;
+    let { anime } = $props();
     import AnimeThumbnail from "./AnimeThumbnail.svelte";
 </script>
 

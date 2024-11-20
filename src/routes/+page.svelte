@@ -2,22 +2,17 @@
     import animeMap from '$lib/anime.js';
 	import AnimeItem from '$lib/AnimeItem.svelte';
 	import Nav from '$lib/Nav.svelte';
+    
+    const sortByOptions = ["name", "released_year"];
+    const sortOrderOptions = ['ASC', 'DESC'];
+    
+    let anime = $state(Object.values(animeMap));
+    let sortBy = $state(sortByOptions[0]);
+    let sortOrder = $state(sortOrderOptions[0]);
+    let search = $state('');
 
-    const anime = Object.values(animeMap);
-
-    let sortByOptions = ["name", "released_year"];
-    let sortBy = sortByOptions[0];
-    let sortOrderOptions = ['ASC', 'DESC'];
-    let sortOrder = sortOrderOptions[0];
-
-    $: sorted = sort(sortBy, sortOrder);
-
-    /**
-	 * @param {string} sortBy
-     * @param {string} sortOrder
-	 */
-    function sort(sortBy, sortOrder) {
-        return anime.sort((a, b) => {
+    function handleSort() {
+        anime.sort((a, b) => {
             if (sortOrder === 'ASC') {
                 return a[sortBy] > b[sortBy] ? 1 : -1;
             } else {
@@ -26,21 +21,20 @@
         });
     }
 
-    let search = "";
-
-    $: filtered = sorted.filter((a) => {
-        return a.name.toLowerCase().includes(search.toLowerCase());
-    });
+    let filtered = $derived(anime.filter((item) => {
+        return item.name.toLowerCase().includes(search.toLowerCase()); 
+    }))
 
     function reset() {
-        search = "";
+        search = '';
         sortBy = sortByOptions[0];
         sortOrder = sortOrderOptions[0];
+        handleSort();
     }
 </script>
 
 <svelte:head>
-    <title>anime.kresna.me - Home</title>
+    <title>Home - anime.kresna.me</title>
     <meta name="description" content="List of Anime that I have watched. Let's nostalgia together!">
 </svelte:head>
 
@@ -56,22 +50,22 @@
     <label for="search">Name</label>
     <input type="search" id="search" bind:value={search} />
     <label for="sort">Sort by</label>
-    <select id="sort" bind:value={sortBy}>
+    <select id="sort" bind:value={sortBy} onchange={handleSort}>
         {#each sortByOptions as opt}
             <option value="{opt}">{opt.replace("_", " ")}</option>
         {/each}
     </select>
-    <select name="" id="" bind:value={sortOrder}>
+    <select name="" id="" bind:value={sortOrder} onchange={handleSort}>
         {#each sortOrderOptions as opt}
             <option value="{opt}">{opt}</option>
         {/each}
     </select>
-    <button on:click={reset}>Reset</button>
+    <button onclick={reset}>Reset</button>
 </div>
 
 <ul>
     {#each filtered as anime (anime.slug)}
-        <AnimeItem href="/anime/{anime.slug}" anime={anime}/>
+        <AnimeItem anime={anime} />
     {/each}
 </ul>
 

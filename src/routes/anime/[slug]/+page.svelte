@@ -6,30 +6,30 @@
 	import { formatTime } from '$lib/util.js';
 	import Nav from '$lib/Nav.svelte';
 
-	export let data;
+	let { data } = $props();
 
-	$: currentSlug = $page.params.slug;
-	$: currentIndex = anime.findIndex((item) => item.slug === currentSlug);
-	$: prevAnime = currentIndex > 0 ? anime[currentIndex - 1] : null;
-	$: nextAnime = currentIndex < anime.length - 1 ? anime[currentIndex + 1] : null;
+	let currentSlug = $derived($page.params.slug);
+	let currentIndex = $derived(anime.findIndex((item) => item.slug === currentSlug));
+	let prevAnime = $derived(currentIndex > 0 ? anime[currentIndex - 1] : null);
+	let nextAnime = $derived(currentIndex < anime.length - 1 ? anime[currentIndex + 1] : null);
+	let playlist = $derived(data.anime.playlist);
 
-	let youtubeAPIReady = false;
+	let youtubeAPIReady = $state(false);
 	/** @type {YT.Player | undefined} */
-	let player;
-	$: playlist = data.anime.playlist;
+	let player = $state();
 	/** @type {number | undefined} */
-	let ostIndex = 0;
-	let progressCurrentTime = 0;
-	let videoCurrentTime = '0:00';
-	let videoDuration = '0:00';
-	let currentSpeed = 1;
+	let ostIndex = $state(0);
+	let progressCurrentTime = $state(0);
+	let videoCurrentTime = $state('0:00');
+	let videoDuration = $state('0:00');
+	let currentSpeed = $state(1);
 	// 0: No looping, 1: loop current video, 2: loop entire playlist
-	let loopMode = 0;
+	let loopMode = $state(0);
 	/** @type {number | undefined } */
 	let intervalId;
 	
-	let toggleVideoPlaybackText = 'Play';
-	let toggleLoopText = 'No Looping';
+	let toggleVideoPlaybackText = $state('Play');
+	let toggleLoopText = $state('No Looping');
 
 	function loadYouTubeAPI() {
 		return new Promise((resolve) => {
@@ -253,7 +253,7 @@
 </script>
 
 <svelte:head>
-	<title>anime.kresna.me - {data.anime.name}</title>
+	<title>{data.anime.name} - anime.kresna.me</title>
 </svelte:head>
 
 <Nav />
@@ -270,22 +270,22 @@
 		<div id="player"></div>
 		<div class="controls my-4">
 			<div>
-				<button on:click={toggleVideoPlayback}>{toggleVideoPlaybackText}</button>
-				<button on:click={toggleLoop}>{toggleLoopText}</button>
-				<button on:click={changeSpeed}>Speed {currentSpeed.toString()}x</button>
+				<button onclick={toggleVideoPlayback}>{toggleVideoPlaybackText}</button>
+				<button onclick={toggleLoop}>{toggleLoopText}</button>
+				<button onclick={changeSpeed}>Speed {currentSpeed.toString()}x</button>
 			</div>
 			<div>
-				<input type="range" bind:value={progressCurrentTime} on:mouseup={seekVideo} min="0" max="100" step="1" />
+				<input type="range" bind:value={progressCurrentTime} onmouseup={seekVideo} min="0" max="100" step="1" />
 				<span>{videoCurrentTime}</span>/<span>{videoDuration}</span>
 			</div>
 			<div>
-				<button on:click={prevVideo}>Previous</button>
-				<button on:click={nextVideo}>Next</button>
+				<button onclick={prevVideo}>Previous</button>
+				<button onclick={nextVideo}>Next</button>
 			</div>
 		</div>
 		<ul id="playlist" style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
 			{#each playlist as ost, index}
-				<li class="ost-item" class:active={index === ostIndex}><a on:click={playOst} href="?v={ost.id}">{ost.title}</a></li>
+				<li class="ost-item" class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
 			{/each}
 		</ul>
 	</div>

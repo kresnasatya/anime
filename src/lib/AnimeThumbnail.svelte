@@ -1,13 +1,16 @@
 <script>
-    export let thumbnail;
-    export let name;
+    let { thumbnail, name } = $props();
 
     import { onMount } from "svelte";
     /**
 	 * @type {Element}
 	 */
+    // svelte-ignore non_reactive_update
     let imgRef;
-    let loading = 'lazy';
+    /**
+	 * @type {('eager' | 'lazy')}
+	 */
+    let loading = $state('lazy');
 
     onMount(() => {
         const observer = new IntersectionObserver(

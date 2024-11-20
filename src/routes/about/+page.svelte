@@ -1,14 +1,14 @@
 <script>
 	import Nav from "$lib/Nav.svelte";
 
-    export let data;
+    let { data } = $props();
 
     let content = data.content;
     let metadata = data.metadata;
 </script>
 
 <svelte:head>
-    <title>anime.kresna.me - About</title>
+    <title>About - anime.kresna.me</title>
     <meta name="description" content="About this site.">
 </svelte:head>
 
