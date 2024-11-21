@@ -622,6 +622,22 @@
 		]
 	},
 	{
+		"name": "Dandadan",
+		"released_year": 2024,
+		"slug": "dandadan",
+		"thumbnail": "dandadan.jpg",
+		"playlist": [
+			{
+				"title": "Otonoke - Creepy Nuts [TV Size]",
+				"id": "a4na2opArGY"
+			},
+			{
+				"title": "Otonoke - Creepy Nuts [Full Version]",
+				"id": "tRwHpyOq4P4"
+			}
+		]
+	},
+	{
 		"name": "Darwin's Game",
 		"released_year": 2020,
 		"slug": "darwins-game",
@@ -1532,7 +1548,7 @@
 			},
 			{
 				"title": "My Will - Dream [TV Size]",
-				"id": "eI_el2XhI8s"
+				"id": "Dlslf5qkvC0"
 			},
 			{
 				"title": "My Will - Dream [Full Version]",
@@ -1540,7 +1556,7 @@
 			},
 			{
 				"title": "Fukai Mori - Do As Infinity [TV Size]",
-				"id": "xKt8_o1a9Cw"
+				"id": "x0PDL2egjOY"
 			},
 			{
 				"title": "Fukai Mori - Do As Infinity [Full Version]",
@@ -1844,13 +1860,17 @@
 	},
 	{
 		"name": "Mahoujin Guru Guru",
-		"released_year": 2017,
+		"released_year": 1994,
 		"slug": "mahoujin-guru-guru",
 		"thumbnail": "mahoujin-guru-guru.jpg",
 		"playlist": [
 			{
 				"title": "Trip Trip Trip - ORESAMA",
 				"id": "1-edro8xY80"
+			},
+			{
+				"title": "Enjoy the party - R'OSE [Full Version]",
+				"id": "qxgvHgLsJKU"
 			}
 		]
 	},
@@ -1929,8 +1949,20 @@
 		"thumbnail": "mobile-suit-gundam-seed.jpg",
 		"playlist": [
 			{
+				"title": "INVOKE - T.M.Revolution [TV Size]",
+				"id": "CnUIs6aLjic"
+			},
+			{
+				"title": "INVOKE - T.M.Revolution [Full Version]",
+				"id": "rkcaLGdwXcs"
+			},
+			{
 				"title": "Annani Issho Dattanoni - ReTracks See-Saw [TV Size]",
 				"id": "shRV-LIbsO8"
+			},
+			{
+				"title": "Annani Issho Dattanoni - ReTracks See-Saw [Full Version]",
+				"id": "Wqsoiun3pnY"
 			}
 		]
 	},
@@ -2143,12 +2175,40 @@
 				"id": "HB4iNVa746E"
 			},
 			{
+				"title": "Memories - Maki Otsuki [TV Size]",
+				"id": "rJll18-dnz8"
+			},
+			{
 				"title": "Believe - Folder 5 [TV Size]",
 				"id": "QwSkErUIF9k"
 			},
 			{
 				"title": "Believe - Folder 5 [Full Version]",
 				"id": "qM_FepDsJ-Q"
+			},
+			{
+				"title": "Run! Run! Run! - Maki Otsuki [TV Size]",
+				"id": "mnaMwvNKd0g"
+			},
+			{
+				"title": "Watashi ga Iru Yo - Tomato Cube [TV Size]",
+				"id": "aectW46-Ph0"
+			},
+			{
+				"title": "Shouchi no Suke - Suitei-Shoujo [TV Size]",
+				"id": "R05QUl1ntuE"
+			},
+			{
+				"title": "The Kaleidoscope - fish [TV Size]",
+				"id": "jGUPiVqWYms"
+			},
+			{
+				"title": "Free Will - Ruppina [TV Size]",
+				"id": "GS3VJHPKzTA"
+			},
+			{
+				"title": "Faith - Ruppina [TV Size]",
+				"id": "nY4C-Q6oVIk"
 			},
 			{
 				"title": "HIKARIHE - The Babystars [TV Size]",
@@ -2253,8 +2313,16 @@
 		"thumbnail": "pokemon.jpg",
 		"playlist": [
 			{
+				"title": "Aim to Be a Pokémon Master - Rica Matsumoto [TV Size]",
+				"id": "TZMoQjvoICE"
+			},
+			{
 				"title": "Mezase Pokémon Master -with my friends- - Rica Matsumoto [Full Version]",
 				"id": "hMKf5mE3sdo"
+			},
+			{
+				"title": "Ready Go! - Naomi Tamura",
+				"id": "Iegk-ZqU3U4"
 			}
 		]
 	},
