@@ -117,9 +117,9 @@
 				break;
 			case YT.PlayerState.ENDED:
 				toggleVideoPlaybackText = 'Play';
-				if (loopMode === NO_LOOP) {
+				if (loopMode === LOOP_CURRENT_VIDEO) {
 					player.playVideo();
-				} else if (loopMode === LOOP_CURRENT_VIDEO) {
+				} else if (loopMode === LOOP_PLAYLIST) {
 					if (animeIndex === data.anime.length - 1) {
 						if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
 							animeIndex = 0;
