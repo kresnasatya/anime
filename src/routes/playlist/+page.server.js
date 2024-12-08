@@ -1,21 +1,26 @@
 import data from '$lib/anime.json';
 
 export function load() {
-    const anime = [];
-    let total_ost = 0;
-    for (let index = 0; index < data.length; index++) {
-        if (data[index].hasOwnProperty('playlist')) {
-            anime?.push(data[index]);
+    const playlist = [];
+    let total_anime = 0;
+    for (const item of data) {
+        if (item.hasOwnProperty('playlist')) {
+            total_anime += 1;
+            let anime_name = item.name;
+            let anime_playlist = item.playlist;
+            // @ts-ignore
+            for (const ost of anime_playlist) {
+                let ost_title = `${anime_name}: ${ost.title}`;
+                playlist.push({
+                    title: ost_title,
+                    id: ost.id
+                });
+            }
         }
     }
 
-    for (let index = 0; index < anime.length; index++) {
-        const element = anime[index];
-        total_ost += element.playlist?.length;
-    }
-
     return {
-        anime,
-        total_ost
+        playlist,
+        total_anime
     }
 }

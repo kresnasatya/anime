@@ -8,7 +8,6 @@
 	let youtubeAPIReady = $state(false);
 	/** @type {YT.Player | undefined} */
 	let player = $state();
-	let animeIndex = $state(0);
 	let ostIndex = $state(0);
 	let progressCurrentTime = $state(0);
 	let videoCurrentTime = $state('0:00');
@@ -42,14 +41,14 @@
 		});
 	}
 
-	function createPlayer(animeIndex = 0, ostIndex = 0) {
+	function createPlayer(ostIndex = 0) {
 		if (!youtubeAPIReady) return;
 
 		if (!player) {
 			player = new YT.Player('player', {
 				height: '320',
 				width: '640',
-				videoId: data.anime[animeIndex].playlist[ostIndex].id,
+				videoId: data.playlist[ostIndex].id,
 				host: 'https://www.youtube-nocookie.com',
 				playerVars: {
 					controls: 0 // Hide the default YouTube player controls.
@@ -66,19 +65,15 @@
 		loadYouTubeAPI().then(() => {
 			if ($page.url.searchParams.get('v')) {
 				let videoId = $page.url.searchParams.get('v');
-				for (let i = 0; i < data.anime.length; i++) {
-					const anime = data.anime[i];
-					for (let j = 0; j < anime.playlist?.length; j++) {
-						const ost = anime.playlist[j];
-						if (ost.id === videoId) {
-							ostIndex = j;
-							animeIndex = i;
-						}
+				for (let i = 0; i < data.playlist.length; i++) {
+					const ost = data.playlist[i];
+					if (ost.id === videoId) {
+						ostIndex = i;
 					}
 				}
 				ostIndex = ostIndex == -1 ? 0 : ostIndex;
 			}
-			createPlayer(animeIndex, ostIndex);
+			createPlayer(ostIndex);
 		});
 		youtubeAPIReady = true;
 	});
@@ -120,27 +115,18 @@
 				if (loopMode === LOOP_CURRENT_VIDEO) {
 					player.playVideo();
 				} else if (loopMode === LOOP_PLAYLIST) {
-					if (animeIndex === data.anime.length - 1) {
-						if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
-							animeIndex = 0;
-							ostIndex = 0;
-							const playlist = data.anime[animeIndex].playlist;
-							player.loadVideoById(playlist[ostIndex].id);	
-						} else {
-							nextVideo();
-						}
+					console.log(ostIndex, data.playlist.length - 1);
+					if (ostIndex === data.playlist.length - 1) {
+						ostIndex = 0;
+						player.loadVideoById(data.playlist[ostIndex].id);
 					} else {
 						nextVideo();
 					}
 				} else if (loopMode === NO_LOOP) {
-					if (animeIndex === data.anime.length - 1) {
-						if (ostIndex === data.anime[animeIndex].playlist.length - 1) {
-							console.log('Playlist ended');	
-						} else {
-							nextVideo();
-						}	
+					if (ostIndex === data.playlist.length - 1) {
+						console.log('Playlist ended');	
 					} else {
-						nextVideo();	
+						nextVideo();
 					}
 				}
 				break;
@@ -199,21 +185,8 @@
 	}
 
 	function prevVideo() {
-		// As long as ostIndex in certain anime more than 0 then step down
-		if (ostIndex > 0) {
-			ostIndex = ostIndex - 1;
-		} else {
-			// If not, then step down the animeIndex as long as the animeIndex > 0
-			if (animeIndex > 0) {
-				animeIndex = animeIndex - 1;
-				// Then get the ostIndex based on playlist.length - 1;
-				ostIndex = data.anime[animeIndex].playlist?.length - 1;
-			} else {
-				animeIndex = 0;
-				ostIndex = 0;
-			}
-		}
-		player.loadVideoById(data.anime[animeIndex].playlist[ostIndex].id);
+		ostIndex = (ostIndex - 1 + data.playlist?.length) % data.playlist?.length;
+		player.loadVideoById(data.playlist[ostIndex].id);
 		clearInterval(intervalId);
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
@@ -221,38 +194,31 @@
 	}
 
 	function nextVideo() {
-		clearInterval(intervalId);
-		progressCurrentTime = 0;
-		videoCurrentTime = '0:00';
-		if (ostIndex < data.anime[animeIndex].playlist.length - 1) {
-			ostIndex = (ostIndex + 1) % data.anime[animeIndex].playlist.length;
+		if (ostIndex < data.playlist.length  - 1) {
+			clearInterval(intervalId);
+			progressCurrentTime = 0;
+			videoCurrentTime = '0:00';
+			ostIndex = (ostIndex + 1) % data.playlist?.length;
+			player.loadVideoById(data.playlist[ostIndex].id);
+			videoDuration = formatTime(player.getDuration());
 		} else {
-			animeIndex = (animeIndex + 1) % data.anime.length;
-			ostIndex = 0;
+			// TODO: If user enabled loop playlist mode then reach to the first ost index.
+			console.log('Reached the last video, no further progression in No Loop mode');
 		}
-		player.loadVideoById(data.anime[animeIndex].playlist[ostIndex].id);
-		videoDuration = formatTime(player.getDuration());
 	}
 
 	function playOst(event) {
 		event.preventDefault();
 		const searchParams = new URLSearchParams(event.target.getAttribute('href'));
 		const videoId = searchParams.get('v');
-		for (let i = 0; i < data.anime.length; i++) {
-			const anime = data.anime[i];
-			for (let j = 0; j < anime.playlist?.length; j++) {
-				const ost = anime.playlist[j];
-				if (ost.id === videoId) {
-					ostIndex = j;
-					animeIndex = i;
-				}
-			}
-		}
+		ostIndex = data.playlist?.findIndex(video => {
+			return video.id === videoId
+		});
 		if (intervalId) {
 			clearInterval(intervalId);
 		}
 		videoDuration = '0:00';
-		player.cueVideoById(data.anime[animeIndex].playlist[ostIndex].id);
+		player.cueVideoById(data.playlist[ostIndex].id);
 	}
 </script>
 
@@ -263,7 +229,7 @@
 <div style="text-align: center;">
     <h1><a href="/">anime.kresna.me</a></h1>
     <Nav />
-    <p>{data.total_ost} Original Soundtrack (OST) from {data.anime.length} anime.</p>
+    <p>{data.playlist.length} Original Soundtrack (OST) from {data.total_anime} anime.</p>
     <p>Let's nostalgia together! 📻🎼🎼</p>
 </div>
 
@@ -293,15 +259,8 @@
 	</div>
 
 	<ul style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
-		{#each data.anime as anime, anime_index}
-			<li>
-				<span style="display: inline-block; font-size: large; margin-bottom: .5rem; font-weight: 600;">{anime.name}</span>
-				<ul style="list-style: none; margin: 0; padding: 0;">
-					{#each anime.playlist as ost, ost_index}
-						<li class="ost-item" class:active={anime_index === animeIndex && ost_index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
-					{/each}
-				</ul>
-			</li>
+		{#each data.playlist as ost, index}
+			<li class="ost-item" class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
 		{/each}
 	</ul>
 </div>
