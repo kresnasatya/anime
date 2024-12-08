@@ -30,6 +30,11 @@
 	let toggleVideoPlaybackText = $state('Play');
 	let toggleLoopText = $state('No Looping');
 
+	/**
+	 * @type {HTMLLIElement[]}
+	 */
+	let ostRefs = $state([]);
+
 	function loadYouTubeAPI() {
 		return new Promise((resolve) => {
 			if (window.YT && window.YT.Player) {
@@ -219,6 +224,10 @@
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
 		videoDuration = formatTime(player.getDuration());
+		ostRefs[ostIndex]?.scrollIntoView({
+			behavior: 'smooth',
+			block: 'center'
+		});
 	}
 
 	function nextVideo() {
@@ -229,6 +238,10 @@
 			ostIndex = (ostIndex + 1) % playlist?.length;
 			player.loadVideoById(playlist[ostIndex].id);
 			videoDuration = formatTime(player.getDuration());
+			ostRefs[ostIndex]?.scrollIntoView({
+				behavior: 'smooth',
+				block: 'center'
+			});
 		} else {
 			console.log('Reached the last video, no further progression in No Loop mode');
 		}
@@ -282,7 +295,7 @@
 		</div>
 		<ul id="playlist" style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
 			{#each playlist as ost, index}
-				<li class="ost-item" class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
+				<li class="ost-item" bind:this={ostRefs[index]} class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
 			{/each}
 		</ul>
 	</div>
