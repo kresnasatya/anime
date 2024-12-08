@@ -20,6 +20,14 @@
 	/** @type {number | undefined } */
 	let intervalId;
 
+	/**
+	 * @type {HTMLLIElement[]}
+	 */
+	// TODO: I think we need to improve this approach because if we use this way, it will lead to increase memory in array.
+	// Let's say the total ost is 1000, then it means the array needs to reserve a certain amount of
+	// memory to store 1000 ost which is quite a big.
+	let ostRefs = $state([]);
+
 	function loadYouTubeAPI() {
 		return new Promise((resolve) => {
 			if (window.YT && window.YT.Player) {
@@ -191,6 +199,10 @@
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
 		videoDuration = formatTime(player.getDuration());
+		ostRefs[ostIndex]?.scrollIntoView({
+			behavior: 'smooth',
+			block: 'center'
+		});
 	}
 
 	function nextVideo() {
@@ -201,6 +213,10 @@
 			ostIndex = (ostIndex + 1) % data.playlist?.length;
 			player.loadVideoById(data.playlist[ostIndex].id);
 			videoDuration = formatTime(player.getDuration());
+			ostRefs[ostIndex]?.scrollIntoView({
+				behavior: 'smooth',
+				block: 'center'
+			});
 		} else {
 			// TODO: If user enabled loop playlist mode then reach to the first ost index.
 			console.log('Reached the last video, no further progression in No Loop mode');
@@ -260,7 +276,7 @@
 
 	<ul style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
 		{#each data.playlist as ost, index}
-			<li class="ost-item" class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
+			<li class="ost-item" bind:this={ostRefs[index]} class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
 		{/each}
 	</ul>
 </div>
