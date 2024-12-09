@@ -21,6 +21,11 @@
 	let intervalId;
 
 	/**
+	 * @type {HTMLUListElement}
+	 */
+	let playlistContainer;
+
+	/**
 	 * @type {HTMLLIElement[]}
 	 */
 	// TODO: I think we need to improve this approach because if we use this way, it will lead to increase memory in array.
@@ -199,10 +204,7 @@
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
 		videoDuration = formatTime(player.getDuration());
-		ostRefs[ostIndex]?.scrollIntoView({
-			behavior: 'smooth',
-			block: 'center'
-		});
+		scrollToCurrentOst();
 	}
 
 	function nextVideo() {
@@ -213,10 +215,7 @@
 			ostIndex = (ostIndex + 1) % data.playlist?.length;
 			player.loadVideoById(data.playlist[ostIndex].id);
 			videoDuration = formatTime(player.getDuration());
-			ostRefs[ostIndex]?.scrollIntoView({
-				behavior: 'smooth',
-				block: 'center'
-			});
+			scrollToCurrentOst();
 		} else {
 			// TODO: If user enabled loop playlist mode then reach to the first ost index.
 			console.log('Reached the last video, no further progression in No Loop mode');
@@ -235,6 +234,28 @@
 		}
 		videoDuration = '0:00';
 		player.cueVideoById(data.playlist[ostIndex].id);
+	}
+
+	function scrollToCurrentOst() {
+		if (!playlistContainer || !ostRefs[ostIndex]) return;
+
+		const container = playlistContainer;
+		const element = ostRefs[ostIndex];
+
+		const containerRect = container.getBoundingClientRect();
+		const elementRect = element.getBoundingClientRect();
+
+		// Calculate the scroll position to center the element
+		const scrollTop = 
+			element.offsetTop - 
+			container.offsetTop -
+			(containerRect.height - elementRect.height) / 2;
+		
+		// Smooth scroll to position
+		container.scrollTo({
+			top: scrollTop,
+			behavior: 'smooth'
+		});
 	}
 </script>
 
@@ -274,7 +295,7 @@
 		</div>
 	</div>
 
-	<ul style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
+	<ul bind:this={playlistContainer} style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
 		{#each data.playlist as ost, index}
 			<li class="ost-item" bind:this={ostRefs[index]} class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
 		{/each}

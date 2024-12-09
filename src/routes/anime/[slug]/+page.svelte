@@ -16,7 +16,7 @@
 	let youtubeAPIReady = $state(false);
 	/** @type {YT.Player | undefined} */
 	let player = $state();
-	/** @type {number | undefined} */
+	/** @type {number} */
 	let ostIndex = $state(0);
 	let progressCurrentTime = $state(0);
 	let videoCurrentTime = $state('0:00');
@@ -29,6 +29,11 @@
 	
 	let toggleVideoPlaybackText = $state('Play');
 	let toggleLoopText = $state('No Looping');
+
+	/**
+	 * @type {HTMLUListElement}
+	 */
+	let playlistContainer;
 
 	/**
 	 * @type {HTMLLIElement[]}
@@ -224,10 +229,7 @@
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
 		videoDuration = formatTime(player.getDuration());
-		ostRefs[ostIndex]?.scrollIntoView({
-			behavior: 'smooth',
-			block: 'center'
-		});
+		scrollToCurrentOst();
 	}
 
 	function nextVideo() {
@@ -238,10 +240,7 @@
 			ostIndex = (ostIndex + 1) % playlist?.length;
 			player.loadVideoById(playlist[ostIndex].id);
 			videoDuration = formatTime(player.getDuration());
-			ostRefs[ostIndex]?.scrollIntoView({
-				behavior: 'smooth',
-				block: 'center'
-			});
+			scrollToCurrentOst();
 		} else {
 			console.log('Reached the last video, no further progression in No Loop mode');
 		}
@@ -259,6 +258,28 @@
 		}
 		videoDuration = '0:00';
 		player.cueVideoById(playlist[ostIndex].id);
+	}
+
+	function scrollToCurrentOst() {
+		if (!playlistContainer || !ostRefs[ostIndex]) return;
+
+		const container = playlistContainer;
+		const element = ostRefs[ostIndex];
+
+		const containerRect = container.getBoundingClientRect();
+		const elementRect = element.getBoundingClientRect();
+
+		// Calculate the scroll position to center the element
+		const scrollTop = 
+			element.offsetTop -
+			container.offsetTop -
+			(containerRect.height - elementRect.height) / 2;
+
+		// Smooth scroll to position
+		container.scrollTo({
+			top: scrollTop,
+			behavior: 'smooth'
+		});
 	}
 </script>
 
@@ -293,7 +314,7 @@
 				<button onclick={nextVideo}>Next</button>
 			</div>
 		</div>
-		<ul id="playlist" style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
+		<ul id="playlist" bind:this={playlistContainer} style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
 			{#each playlist as ost, index}
 				<li class="ost-item" bind:this={ostRefs[index]} class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
 			{/each}
