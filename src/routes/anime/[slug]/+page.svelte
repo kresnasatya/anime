@@ -11,7 +11,11 @@
 	let currentIndex = $derived(anime.findIndex((item) => item.slug === currentSlug));
 	let prevAnime = $derived(currentIndex > 0 ? anime[currentIndex - 1] : null);
 	let nextAnime = $derived(currentIndex < anime.length - 1 ? anime[currentIndex + 1] : null);
-	let playlist = $derived(data.anime.playlist);
+	/** @type {Array<{title: string, id: string}>} */
+	let playlist = $derived(data.anime.playlist ?? []);
+	let filteredPlaylist = $derived(playlist?.filter(ost => {
+		return ost.title.toLowerCase().includes(searchTerm.toLowerCase());
+	}));
 
 	let youtubeAPIReady = $state(false);
 	/** @type {YT.Player | undefined} */
@@ -30,9 +34,13 @@
 	let toggleVideoPlaybackText = $state('Play');
 	let toggleLoopText = $state('No Looping');
 
+	let searchMode = $state('jump'); // jump or filter
+	let searchTerm = $state(''); // for filter mode
+
 	/**
 	 * @type {HTMLUListElement}
 	 */
+	// svelte-ignore non_reactive_update
 	let playlistContainer;
 
 	/**
@@ -281,6 +289,47 @@
 			behavior: 'smooth'
 		});
 	}
+
+	const highlightSearchTerm = (/** @type {string} */ text) => {
+		if (!searchTerm) return text;
+		const parts = text.split(new RegExp(`(${searchTerm})`, 'gi'));
+		return parts.map((part) => {
+			return part.toLowerCase() === searchTerm.toLowerCase()
+				? `<span style="background-color: rgb(254 240 138);">${part}</span>`
+				: part;
+		}).join('');
+	}
+
+	$effect(() => {
+		if (searchMode === 'jump' && searchTerm) {
+			/**
+			 * @type {number | undefined}
+			 */
+			const firstMatch = playlist?.findIndex(ost => {
+				return ost.title.toLowerCase().includes(searchTerm.toLowerCase());
+			});
+
+			if (firstMatch !== 1) {
+				const container = playlistContainer;
+				const element = ostRefs[firstMatch];
+
+				const containerRect = container.getBoundingClientRect();
+				const elementRect = element.getBoundingClientRect();
+
+				// Calculate the scroll position to center the element
+				const scrollTop = 
+					element.offsetTop -
+					container.offsetTop -
+					(containerRect.height - elementRect.height) / 2;
+
+				// Smooth scroll to position
+				container.scrollTo({
+					top: scrollTop,
+					behavior: 'smooth'
+				});
+			}
+		}
+	});
 </script>
 
 <svelte:head>
@@ -314,9 +363,18 @@
 				<button onclick={nextVideo}>Next</button>
 			</div>
 		</div>
+		<div style="margin-bottom: 1rem;">
+			<div style="display: flex; align-items: center; gap: .5rem; margin-bottom: .5rem;">
+				<input type="text" bind:value={searchTerm} placeholder="Search ost..." style="width: 100%; padding-left: 2.5rem; padding-right: 1rem; padding-top: .5rem; padding-bottom: .5rem; border-width: 1px; border-radius: .25rem;">
+				<select bind:value={searchMode} style="border-width: 1px; border-radius: .25rem; padding: .5rem .75rem;">
+					<option value="jump">Jump</option>
+					<option value="filter">Filter</option>
+				</select>
+			</div>
+		</div>
 		<ul id="playlist" bind:this={playlistContainer} style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
-			{#each playlist as ost, index}
-				<li class="ost-item" bind:this={ostRefs[index]} class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
+			{#each (searchMode === 'filter' ? filteredPlaylist : playlist) as ost, index}
+				<li class="ost-item" bind:this={ostRefs[index]} class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{@html highlightSearchTerm(ost.title)}</a></li>
 			{/each}
 		</ul>
 	</div>

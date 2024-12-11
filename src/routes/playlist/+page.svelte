@@ -17,6 +17,15 @@
 	let toggleVideoPlaybackText = $state('Play');
 	let toggleLoopText = $state('No Looping');
 
+	let searchMode = $state('jump'); // jump or filter
+	let searchTerm = $state(''); // for filter
+
+	/** @type {Array<{title: string, id: string}>} */
+	let playlist = $derived(data.playlist ?? []);
+	let filteredPlaylist = $derived(playlist?.filter(ost => {
+		return ost.title.toLowerCase().includes(searchTerm.toLowerCase());
+	}));
+
 	/** @type {number | undefined } */
 	let intervalId;
 
@@ -61,7 +70,7 @@
 			player = new YT.Player('player', {
 				height: '320',
 				width: '640',
-				videoId: data.playlist[ostIndex].id,
+				videoId: playlist[ostIndex].id,
 				host: 'https://www.youtube-nocookie.com',
 				playerVars: {
 					controls: 0 // Hide the default YouTube player controls.
@@ -78,8 +87,8 @@
 		loadYouTubeAPI().then(() => {
 			if ($page.url.searchParams.get('v')) {
 				let videoId = $page.url.searchParams.get('v');
-				for (let i = 0; i < data.playlist.length; i++) {
-					const ost = data.playlist[i];
+				for (let i = 0; i < playlist.length; i++) {
+					const ost = playlist[i];
 					if (ost.id === videoId) {
 						ostIndex = i;
 					}
@@ -128,15 +137,15 @@
 				if (loopMode === LOOP_CURRENT_VIDEO) {
 					player.playVideo();
 				} else if (loopMode === LOOP_PLAYLIST) {
-					console.log(ostIndex, data.playlist.length - 1);
-					if (ostIndex === data.playlist.length - 1) {
+					console.log(ostIndex, playlist.length - 1);
+					if (ostIndex === playlist.length - 1) {
 						ostIndex = 0;
-						player.loadVideoById(data.playlist[ostIndex].id);
+						player.loadVideoById(playlist[ostIndex].id);
 					} else {
 						nextVideo();
 					}
 				} else if (loopMode === NO_LOOP) {
-					if (ostIndex === data.playlist.length - 1) {
+					if (ostIndex === playlist.length - 1) {
 						console.log('Playlist ended');	
 					} else {
 						nextVideo();
@@ -198,8 +207,8 @@
 	}
 
 	function prevVideo() {
-		ostIndex = (ostIndex - 1 + data.playlist?.length) % data.playlist?.length;
-		player.loadVideoById(data.playlist[ostIndex].id);
+		ostIndex = (ostIndex - 1 + playlist?.length) % playlist?.length;
+		player.loadVideoById(playlist[ostIndex].id);
 		clearInterval(intervalId);
 		progressCurrentTime = 0;
 		videoCurrentTime = '0:00';
@@ -208,12 +217,12 @@
 	}
 
 	function nextVideo() {
-		if (ostIndex < data.playlist.length  - 1) {
+		if (ostIndex < playlist.length  - 1) {
 			clearInterval(intervalId);
 			progressCurrentTime = 0;
 			videoCurrentTime = '0:00';
-			ostIndex = (ostIndex + 1) % data.playlist?.length;
-			player.loadVideoById(data.playlist[ostIndex].id);
+			ostIndex = (ostIndex + 1) % playlist?.length;
+			player.loadVideoById(playlist[ostIndex].id);
 			videoDuration = formatTime(player.getDuration());
 			scrollToCurrentOst();
 		} else {
@@ -226,14 +235,14 @@
 		event.preventDefault();
 		const searchParams = new URLSearchParams(event.target.getAttribute('href'));
 		const videoId = searchParams.get('v');
-		ostIndex = data.playlist?.findIndex(video => {
+		ostIndex = playlist?.findIndex(video => {
 			return video.id === videoId
 		});
 		if (intervalId) {
 			clearInterval(intervalId);
 		}
 		videoDuration = '0:00';
-		player.cueVideoById(data.playlist[ostIndex].id);
+		player.cueVideoById(playlist[ostIndex].id);
 	}
 
 	function scrollToCurrentOst() {
@@ -257,6 +266,47 @@
 			behavior: 'smooth'
 		});
 	}
+
+	const highlightSearchTerm = (/** @type {string} */ text) => {
+		if (!searchTerm) return text;
+		const parts = text.split(new RegExp(`(${searchTerm})`, 'gi'));
+		return parts.map((part) => {
+			return part.toLowerCase() === searchTerm.toLowerCase()
+				? `<span style="background-color: rgb(254 240 138);">${part}</span>`
+				: part;
+		}).join('');
+	}
+
+	$effect(() => {
+		if (searchMode === 'jump' && searchTerm) {
+			/**
+			 * @type {number | undefined}
+			 */
+			const firstMatch = playlist?.findIndex(ost => {
+				return ost.title.toLowerCase().includes(searchTerm.toLowerCase());
+			});
+
+			if (firstMatch !== 1) {
+				const container = playlistContainer;
+				const element = ostRefs[firstMatch];
+
+				const containerRect = container.getBoundingClientRect();
+				const elementRect = element.getBoundingClientRect();
+
+				// Calculate the scroll position to center the element
+				const scrollTop = 
+					element.offsetTop -
+					container.offsetTop -
+					(containerRect.height - elementRect.height) / 2;
+
+				// Smooth scroll to position
+				container.scrollTo({
+					top: scrollTop,
+					behavior: 'smooth'
+				});
+			}
+		}
+	});
 </script>
 
 <svelte:head>
@@ -266,7 +316,7 @@
 <div style="text-align: center;">
     <h1><a href="/">anime.kresna.me</a></h1>
     <Nav />
-    <p>{data.playlist.length} Original Soundtrack (OST) from {data.total_anime} anime.</p>
+    <p>{playlist.length} Original Soundtrack (OST) from {data.total_anime} anime.</p>
     <p>Let's nostalgia together! 📻🎼🎼</p>
 </div>
 
@@ -294,10 +344,18 @@
 			<button onclick={nextVideo}>Next</button>
 		</div>
 	</div>
-
+	<div style="margin-bottom: 1rem;">
+		<div style="display: flex; align-items: center; gap: .5rem; margin-bottom: .5rem;">
+			<input type="text" bind:value={searchTerm} placeholder="Search ost..." style="width: 100%; padding-left: 2.5rem; padding-right: 1rem; padding-top: .5rem; padding-bottom: .5rem; border-width: 1px; border-radius: .25rem;">
+			<select bind:value={searchMode} style="border-width: 1px; border-radius: .25rem; padding: .5rem .75rem;">
+				<option value="jump">Jump</option>
+				<option value="filter">Filter</option>
+			</select>
+		</div>
+	</div>
 	<ul bind:this={playlistContainer} style="list-style-type: none; margin: 0; padding: 0; height: 360px; overflow: hidden; overflow-y: scroll;">
-		{#each data.playlist as ost, index}
-			<li class="ost-item" bind:this={ostRefs[index]} class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{ost.title}</a></li>
+		{#each (searchMode === 'filter' ? filteredPlaylist : playlist) as ost, index}
+			<li class="ost-item" bind:this={ostRefs[index]} class:active={index === ostIndex}><a onclick={playOst} href="?v={ost.id}">{@html highlightSearchTerm(ost.title)}</a></li>
 		{/each}
 	</ul>
 </div>
