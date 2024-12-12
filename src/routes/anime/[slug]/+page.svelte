@@ -122,6 +122,7 @@
 			player.destroy();
 			player = undefined;
 			youtubeAPIReady = false;
+			videoDuration = '0:00';
 		}
 	});
 
@@ -344,7 +345,7 @@
 	<img src="/images/anime/{data.anime.thumbnail}" alt={`Thumbnail of ${data.anime.name}`}/>
 </div>
 
-{#if playlist}
+{#if playlist.length > 0}
 	<div style="display: flex; flex-direction: column; align-items: center;">
 		<h2>Playlist</h2>
 		<div id="player"></div>
