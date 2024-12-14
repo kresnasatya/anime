@@ -11,11 +11,6 @@
 	let currentIndex = $derived(anime.findIndex((item) => item.slug === currentSlug));
 	let prevAnime = $derived(currentIndex > 0 ? anime[currentIndex - 1] : null);
 	let nextAnime = $derived(currentIndex < anime.length - 1 ? anime[currentIndex + 1] : null);
-	/** @type {Array<{title: string, id: string}>} */
-	let playlist = $derived(data.anime.playlist ?? []);
-	let filteredPlaylist = $derived(playlist?.filter(ost => {
-		return ost.title.toLowerCase().includes(searchTerm.toLowerCase());
-	}));
 
 	let youtubeAPIReady = $state(false);
 	/** @type {YT.Player | undefined} */
@@ -36,6 +31,12 @@
 
 	let searchMode = $state('jump'); // jump or filter
 	let searchTerm = $state(''); // for filter mode
+
+	/** @type {Array<{title: string, id: string}>} */
+	let playlist = $derived(data.anime.playlist ?? []);
+	let filteredPlaylist = $derived(playlist?.filter(ost => {
+		return ost.title.toLowerCase().includes(searchTerm.toLowerCase());
+	}));
 
 	/**
 	 * @type {HTMLUListElement}
