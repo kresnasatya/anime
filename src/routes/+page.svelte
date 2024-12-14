@@ -35,7 +35,14 @@
 
 <svelte:head>
     <title>Home - anime.kresna.me</title>
+    <meta name="title" content="anime.kresna.me">
     <meta name="description" content="List of Anime that I have watched. Let's nostalgia together!">
+    <meta name="og:type" content="website">
+    <meta name="og:title" content="anime.kresna.me">
+    <meta name="og:description" content="List of Anime that I have watched. Let's nostalgia together!">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="anime.kresna.me">
+    <meta name="twitter:description" content="List of Anime that I have watched. Let's nostalgia together!">
 </svelte:head>
 
 <div style="text-align: center;">

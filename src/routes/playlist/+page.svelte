@@ -311,6 +311,14 @@
 
 <svelte:head>
 	<title>Playlist - anime.kresna.me</title>
+	<meta name="title" content="Playlist - anime.kresna.me">
+    <meta name="description" content="Playlist of anime.kresna.me.">
+    <meta name="og:type" content="website">
+    <meta name="og:title" content="Playlist - anime.kresna.me">
+    <meta name="og:description" content="Playlist of anime.kresna.me.">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Playlist - anime.kresna.me">
+    <meta name="twitter:description" content="Playlist of anime.kresna.me.">
 </svelte:head>
 
 <div style="text-align: center;">

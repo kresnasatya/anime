@@ -9,7 +9,14 @@
 
 <svelte:head>
     <title>About - anime.kresna.me</title>
-    <meta name="description" content="About this site.">
+    <meta name="title" content="About - anime.kresna.me">
+    <meta name="description" content="About anime.kresna.me.">
+    <meta name="og:type" content="website">
+    <meta name="og:title" content="About - anime.kresna.me">
+    <meta name="og:description" content="About anime.kresna.me.">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="About - anime.kresna.me">
+    <meta name="twitter:description" content="About anime.kresna.me.">
 </svelte:head>
 
 <div style="text-align: center;">
