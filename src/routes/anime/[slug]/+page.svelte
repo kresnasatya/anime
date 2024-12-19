@@ -341,9 +341,11 @@
     <meta name="og:type" content="website">
     <meta name="og:title" content="{data.anime.name} - anime.kresna.me">
     <meta name="og:description" content="{data.anime.name} released on {data.anime.released_year}.">
+	<meta name="og:image" content="https://anime.kresna.me/images/anime/{data.anime.thumbnail}">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{data.anime.name} - anime.kresna.me">
     <meta name="twitter:description" content="{data.anime.name} released on {data.anime.released_year}.">
+	<meta name="twitter:image" content="https://anime.kresna.me/images/anime/{data.anime.thumbnail}">
 </svelte:head>
 
 <Nav />
