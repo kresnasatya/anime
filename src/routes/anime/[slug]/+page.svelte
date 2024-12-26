@@ -1,5 +1,5 @@
 <script>
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 	import anime from '$lib/anime.json';
 	import { afterNavigate } from '$app/navigation';
 	import { formatTime, LOOP_CURRENT_VIDEO, LOOP_PLAYLIST, NO_LOOP } from '$lib/util.js';
@@ -7,7 +7,7 @@
 
 	let { data } = $props();
 
-	let currentSlug = $derived($page.params.slug);
+	let currentSlug = $derived(page.params.slug);
 	let currentIndex = $derived(anime.findIndex((item) => item.slug === currentSlug));
 	let prevAnime = $derived(currentIndex > 0 ? anime[currentIndex - 1] : null);
 	let nextAnime = $derived(currentIndex < anime.length - 1 ? anime[currentIndex + 1] : null);
@@ -93,8 +93,8 @@
 	$effect(() => {
 		if (playlist?.length > 0) {
 			loadYouTubeAPI().then(() => {
-				if ($page.url.searchParams.get('v')) {
-					let videoId = $page.url.searchParams.get('v');
+				if (page.url.searchParams.get('v')) {
+					let videoId = page.url.searchParams.get('v');
 					ostIndex = playlist?.findIndex((video) => {
 						return videoId === video.id;
 					});

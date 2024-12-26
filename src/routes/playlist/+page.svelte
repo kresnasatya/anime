@@ -1,5 +1,5 @@
 <script>
-	import { page } from '$app/stores';
+	import { page } from '$app/state';
 	import { formatTime, LOOP_CURRENT_VIDEO, LOOP_PLAYLIST, NO_LOOP } from '$lib/util.js';
 	import Nav from '$lib/Nav.svelte';
 
@@ -85,8 +85,8 @@
 
 	$effect(() => {
 		loadYouTubeAPI().then(() => {
-			if ($page.url.searchParams.get('v')) {
-				let videoId = $page.url.searchParams.get('v');
+			if (page.url.searchParams.get('v')) {
+				let videoId = page.url.searchParams.get('v');
 				for (let i = 0; i < playlist.length; i++) {
 					const ost = playlist[i];
 					if (ost.id === videoId) {
