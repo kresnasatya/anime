@@ -375,9 +375,9 @@
 				<button onclick={nextVideo}>Next</button>
 			</div>
 		</div>
-		<div style="margin-bottom: 1rem;">
+		<div style="margin-bottom: 1rem; width: 50%;">
 			<div style="display: flex; align-items: center; gap: .5rem; margin-bottom: .5rem;">
-				<input type="text" bind:value={searchTerm} placeholder="Search ost..." style="width: 100%; padding-left: 2.5rem; padding-right: 1rem; padding-top: .5rem; padding-bottom: .5rem; border-width: 1px; border-radius: .25rem;">
+				<input type="text" bind:value={searchTerm} placeholder="Search ost..." style="width: 100%; padding: .5rem; border-width: 1px; border-radius: .25rem;">
 				<select bind:value={searchMode} style="border-width: 1px; border-radius: .25rem; padding: .5rem .75rem;">
 					<option value="jump">Jump</option>
 					<option value="filter">Filter</option>
