@@ -2888,7 +2888,25 @@
 		"name": "Solo Leveling",
 		"released_year": 2024,
 		"slug": "solo-leveling",
-		"thumbnail": "solo-leveling.jpg"
+		"thumbnail": "solo-leveling.jpg",
+		"playlist": [
+			{
+				"title": "ReawakeR - LiSA (feat Felix of STRAY KIDS) [TV Size]",
+				"id": "sgnYEfM7U2U"
+			},
+			{
+				"title": "ReawakeR - LiSA (feat Felix of STRAY KIDS) [Full Version]",
+				"id": "oe4XJ851oOk"
+			},
+			{
+				"title": "Un-Apex - by TK from Ling Tosite Sigure [TV Size]",
+				"id": "KxeHOxO3A3I"
+			},
+			{
+				"title": "Un-Apex - by TK from Ling Tosite Sigure [Full Version]",
+				"id": "LXHA0Sv-qHM"
+			}
+		]
 	},
 	{
 		"name": "Sonic X",
